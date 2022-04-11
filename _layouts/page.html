@@ -30,9 +30,9 @@ format: post
 
 
 			{% if page.teaser %}
-			<p class="teaser" itemprop="description">
+			<!--<p class="teaser" itemprop="description">
 				{{ page.teaser }}
-			</p>
+			</p>-->
 			{% endif %}
 
 			<div itemprop="articleSection">
@@ -46,9 +46,12 @@ format: post
 			{% if page.comments == true %}
 			{% include _comments.html %}
 			{% endif %}
+			{% include accordion.html %}
+			{% include people_margins.html %}
+			{% include tab.html %}
+			{% include grid.html %}
 		</article>
 	</div><!-- /.medium-8.columns -->
-
 
 	{% if page.sidebar == "left" %}
 	<div class="medium-4 columns medium-pull-8">

@@ -2,8 +2,15 @@
 layout              : page
 title               : "Contact"
 meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+teaser              : "Address: CNI Office, Department of Electrical Communication Engineering, Devasandra Layout, Bengaluru, Karnataka 560012"
+header:
+ title: "CENTRE FOR NETWORKED INTELLIGENCE<br><p><big>Indian Institute of Science, Bangalore</big></p>"
+ background-color: "#334d5c"
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+### Address:
+CNI Office,<br>
+Department of Electrical Communication Engineering,<br>
+Devasandra Layout,<br>
+Bengaluru,<br>
+Karnataka 560012<br>

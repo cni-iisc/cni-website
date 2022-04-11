@@ -5,13 +5,26 @@ layout: compress
 <html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
 <head>
 	{% include _head.html %}
+<style>
+/* Fade in tabs */
+@-webkit-keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+</style>
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_boilerplate %}
 	{% include _navigation.html %}
 	{% endunless %}
-
+	{% if layout.format!="frontpage" %}	
 	{% include _masthead.html %}
+	{% endif %}
 	{{ content }}
 
 	{% unless page.skip_boilerplate %}

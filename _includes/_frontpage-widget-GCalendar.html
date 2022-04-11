@@ -1,0 +1,20 @@
+{% comment %}
+*
+*   First the include captures the url and image in a
+*   separate variable to make the code better readable.
+*
+*   These variables are widget_url and widget_image
+*
+{% endcomment %}
+
+{% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
+
+{% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
+
+
+<div class="responsive-iframe-container big-container">
+	<iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border:solid 1px #777" width="250" height="250" frameborder="0" scrolling="no"></iframe>
+	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
+	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
+	<!--{% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}">{{ site.data.language.more }}</a></p>{% endif %}-->
+</div>
