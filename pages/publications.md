@@ -17,45 +17,28 @@ header:
 <div markdown="1" id="journal" class="tabcontent">
 <ul class="jekyllcodex_accordion">
   <li><input id="j2020" type="checkbox" /><label for="j2020">{{ "# 2020" |  markdownify }}</label>
-<div markdown="1">1. ####  [1. A Stochastic Game Framework for Efficient Energy Management in Microgrid Networks](/assets/publications/A-Stochastic-Game-Framework-for-Efficient-Energy-Management-in-Microgrid-Networks-2.pdf){:target="_blank" rel="noopener noreferrer"}
-*Shravan Nayak; Chanakya Ajit Ekbote; Annanya Pratap Singh Chauhan; Raghuram Bharadwaj Diddig; Prishita Ray; Abhinava Sikdar; Sai Koti Reddy Danda; Shalabh, Bhatnagar*<br>
-arXiv:2002.02084 , 2020.
-
-2. #### [2. Coverage Estimation in Outdoor Heterogeneous Propagation Environments](/assets/publications/Coverage-Estimation-in-Outdoor-Heterogeneous-Propagation-Environments-1.pdf){:target="_blank" rel="noopener noreferrer"}
-*Rajesh;Sundaresan, Nihesh Rathod; Renu Subramanian*<br>
+<div markdown="1">
+1. #### [1. Coverage Estimation in Outdoor Heterogeneous Propagation Environments](/assets/publications/Coverage-Estimation-in-Outdoor-Heterogeneous-Propagation-Environments-1.pdf){:target="_blank" rel="noopener noreferrer"}
+*Rajesh Sundaresan, Nihesh Rathod, Renu Subramanian*<br>
 IEEE Access, 8 , pp. 31660 – 31673, 2020.
 
-3. #### [3. Detecting an Odd Restless Markov Arm with a Trembling Hand](/assets/publications/Detecting-an-Odd-Restless-Markov-Arm-with-a-Trembling-Hand-1.pdf){:target="_blank" rel="noopener noreferrer"}
-*P. N. Karthik, Rajesh Sundaresan*<br>
-arXiv:2005.06255, 2020.
 
-4. #### [4. Large deviations of mean-field interacting particle systems in a fast varying environment](/assets/publications/Large-deviations-of-mean-field-interacting-particle-systems-in-a-fast-varying-environment.pdf){:target="_blank" rel="noopener noreferrer"}
-*Sarath Yasodharan, Rajesh Sundaresan*<br>
-arXiv:2008.06855, 2020.
-
-5. #### [5. Large Time Behaviour and the Second Eigenvalue Problem for Finite State Mean-Field Interacting Particle Systems](/assets/publications/Large-Time-Behaviour-and-the-Second-Eigenvalue-Problem-for-Finite-State-Mean-Field-Interacting-Particle-Systems.pdf){:target="_blank" rel="noopener noreferrer"}
-*Sarath Yasodharan, Rajesh Sundaresan*<br> 
-arXiv:1909.03805, 2020.
-
-6. #### [6. Minimizing Latency for Secure Coded Computing Using Secret Sharing via Staircase Codes](/assets/publications/Minimizing-Latency-for-Secure-Coded-Computing........pdf){:target="_blank" rel="noopener noreferrer"}
+2. #### [2. Minimizing Latency for Secure Coded Computing Using Secret Sharing via Staircase Codes](/assets/publications/Minimizing-Latency-for-Secure-Coded-Computing........pdf){:target="_blank" rel="noopener noreferrer"}
 *Rawad Bitar, Parimal Parag ; Rouayheb, Salim El*<br>
 IEEE Transactions on Communications, pp. 1, 2020.
 
-7. #### [7. Optimal Server Selection for Straggler Mitigation](/assets/publications/Optimal-Server-Selection-for-Straggler-Mitigation.pdf){:target="_blank" rel="noopener noreferrer"}
+3. #### [3. Optimal Server Selection for Straggler Mitigation](/assets/publications/Optimal-Server-Selection-for-Straggler-Mitigation.pdf){:target="_blank" rel="noopener noreferrer"}
 *Ajay Badita; Parimal Parag; Vaneet, Aggarwal*<br>
 IEEE/ACM Transactions on Networking, 28 , pp. 709-721, 2020.
 
-8. #### [8. Probabilistic forwarding of coded packets on networks](/assets/publications/Probabilistic-Forwarding-of-Coded-Packets-on-Networks.pdf){:target="_blank" rel="noopener noreferrer"}
+4. #### [4. Probabilistic forwarding of coded packets on networks](/assets/publications/Probabilistic-Forwarding-of-Coded-Packets-on-Networks.pdf){:target="_blank" rel="noopener noreferrer"}
 *B. R. Vinay Kumar; N, Kashyap*<br>
 IEEE/ACM Transactions on Networking, 2020.
 
-9. #### [9. Real-Time Status Updates with Perfect Feedback over Erasure Channels](/assets/publications/Real-Time-Status-Updates-with-Perfect-Feedback.pdf){:target="_blank" rel="noopener noreferrer"}
+5. #### [5. Real-Time Status Updates with Perfect Feedback over Erasure Channels](/assets/publications/Real-Time-Status-Updates-with-Perfect-Feedback.pdf){:target="_blank" rel="noopener noreferrer"}
 *Sarat Chandra Bobbili; Parimal Parag; Jean-Francois, Chamberland*<br>
 IEEE Transactions on Communications , pp. 1-1, 2020.
 
-10. #### [10. Tracking an Auto-Regressive Process with Limited Communication](/assets/publications/Tracking-an-Auto-Regressive-Process-with-Limited-Communication.pdf){:target="_blank" rel="noopener noreferrer"}
-*Rooji Jinan; Parimal Parag; Himanshu, Tyagi*<br>
-2020 IEEE International Symposium on Information Theory, 2020.
 </div>
 </li>
 </ul>        
@@ -111,6 +94,9 @@ Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2020.
 7. #### [7. Optimal Pricing in Finite Server Systems](/assets/publications/Optimal-Pricing-in-Finite-Server-Systems.pdf){:target="_blank" rel="noopener noreferrer"}
 *Ashok Krishnan KS; Chandramani Singh; Siva Theja Maguluri; Parimal, Parag*<br>
 The 18th International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks (WiOpt 2020), 2020.
+8. #### [8. Tracking an Auto-Regressive Process with Limited Communication](/assets/publications/Tracking-an-Auto-Regressive-Process-with-Limited-Communication.pdf){:target="_blank" rel="noopener noreferrer"}
+*Rooji Jinan; Parimal Parag; Himanshu, Tyagi*<br>
+2020 IEEE International Symposium on Information Theory, 2020.
 </div>
 </li>
 </ul>        
@@ -172,10 +158,24 @@ arXiv:2108.08199.
 </ul>        
 <ul class="jekyllcodex_accordion">
         <li><input id="p2020" type="checkbox" /><label for="p2020">{{ "# 2020" |  markdownify }}</label>
-<div markdown="1">1. #### [1. Latency optimal storage and scheduling of replicated fragments for memory-constrained servers](){:target="_blank" rel="noopener noreferrer"}
+<div markdown="1">1. ####  [1. A Stochastic Game Framework for Efficient Energy Management in Microgrid Networks](/assets/publications/A-Stochastic-Game-Framework-for-Efficient-Energy-Management-in-Microgrid-Networks-2.pdf){:target="_blank" rel="noopener noreferrer"}
+*Shravan Nayak; Chanakya Ajit Ekbote; Annanya Pratap Singh Chauhan; Raghuram Bharadwaj Diddig; Prishita Ray; Abhinava Sikdar; Sai Koti Reddy Danda; Shalabh, Bhatnagar*<br>
+arXiv:2002.02084 , 2020.
+2. #### [2. Detecting an Odd Restless Markov Arm with a Trembling Hand](/assets/publications/Detecting-an-Odd-Restless-Markov-Arm-with-a-Trembling-Hand-1.pdf){:target="_blank" rel="noopener noreferrer"}
+*P. N. Karthik, Rajesh Sundaresan*<br>
+arXiv:2005.06255, 2020.
+
+3. #### [3. Large deviations of mean-field interacting particle systems in a fast varying environment](/assets/publications/Large-deviations-of-mean-field-interacting-particle-systems-in-a-fast-varying-environment.pdf){:target="_blank" rel="noopener noreferrer"}
+*Sarath Yasodharan, Rajesh Sundaresan*<br>
+arXiv:2008.06855, 2020.
+
+4. #### [4. Large Time Behaviour and the Second Eigenvalue Problem for Finite State Mean-Field Interacting Particle Systems](/assets/publications/Large-Time-Behaviour-and-the-Second-Eigenvalue-Problem-for-Finite-State-Mean-Field-Interacting-Particle-Systems.pdf){:target="_blank" rel="noopener noreferrer"}
+*Sarath Yasodharan, Rajesh Sundaresan*<br> 
+arXiv:1909.03805, 2020.
+5. #### [5. Latency optimal storage and scheduling of replicated fragments for memory-constrained servers](){:target="_blank" rel="noopener noreferrer"}
 *Rooji Jinan, Ajay Badita, Pradeep Sarvepalli, Parimal Parag*<br>
 arXiv:2010.01589.
-2. #### [2. Tracking an Auto-Regressive Process with Limited Communication per Unit Time](/assets/publications/Tracking-an-Auto-Regressive-Process-with-Limited-Communication-per-Unit-Time.pdf){:target="_blank" rel="noopener noreferrer"}
+6. #### [6. Tracking an Auto-Regressive Process with Limited Communication per Unit Time](/assets/publications/Tracking-an-Auto-Regressive-Process-with-Limited-Communication-per-Unit-Time.pdf){:target="_blank" rel="noopener noreferrer"}
 *Rooji Jinan Parimal Parag, Himanshu Tyagi*<br>
 arXiv:2003.09808, 2020.
 </div>
