@@ -398,12 +398,11 @@
 
 			<div itemprop="articleSection">
 			<div class="tab">
+  <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpen">Upcoming Events</button>
   <button class="tablinks" onclick="clickTab(event, 'nss')" id="defaultOpen">Network Seminar Series</button>
-  <button class="tablinks" onclick="clickTab(event, 'talks')">Talks &amp; Seminars</button>
   <button class="tablinks" onclick="clickTab(event, 'past')">Past Events</button>
 </div>
 <div id="nss" class="tabcontent">
-
   <h1 id="network-seminar-series">Network Seminar Series</h1>
   <h5 id="cni-hosts-a-weekly-network-seminar-series-on-different-topics-of-communication-and-networking-know-more-here">CNI hosts a weekly network seminar series on different topics of communication and networking. Know more <a href="https://cni.iisc.ac.in/nss/">here!</a></h5>
   <div class="row t60 b60">
@@ -414,7 +413,11 @@
 </div>
   <!-- /.row -->
 </div>
-<div id="talks" class="tabcontent">
+<div id="talks" class="tabcontent"></div>
+<div id="upcoming" class="tabcontent">
+  <h1 id="upcoming-events">Upcoming Events</h1>
+</div>
+<div id="past" class="tabcontent">
   <h1 id="talks-and-seminars">Talks and Seminars</h1>
   <ul class="jekyllcodex_accordion">
         <li><input id="talk1" type="checkbox" /><label for="talk1"><h3 id="general-lower-bounds-for-estimation-under-information-constraints---prof-himanshu-tyagi">General lower bounds for estimation under information constraints - Prof. Himanshu Tyagi</h3>
@@ -436,8 +439,6 @@
 </ul>
   <script>document.getElementById("talk1").click();</script>
 
-</div>
-<div id="past" class="tabcontent">
   <h1 id="aadhar-hackathon-2021">AADHAR Hackathon, 2021</h1>
   <p>We are excited to announce the Aadhaar Hackathon 2021, in partnership with the Unique Identification Authority of India (UIDAI).</p>
 
@@ -472,11 +473,11 @@
                         
                         
                         
-
+<dd class="accordion-navigation"><a href="#panel6"><span class="iconfont"></span> <strong>CNI Summer School 2021</strong></a><div id="panel6" class="content">The Centre for Networked Intelligence at Indian Institute of Science (IISc) is organizing its inaugural three-day CNI Summer School on 5-6-7th August 2021.<a href="http://10.32.199.46:4003/summerschool21/" title="Read CNI Summer School 2021"><strong>Read More&nbsp;›</strong></a><br /><br /></div></dd>
                         
                         
                         
-
+<dd class="accordion-navigation"><a href="#panel7"><span class="iconfont"></span> <strong>CNI Workshop 2021</strong></a><div id="panel7" class="content">The Centre for Networked Intelligence at Indian Institute of Science (IISc), is organizing its inaugural one-day workshop titled: WiFi QoS: Evolution of Standards and Performance Modelling on 25 February 2021 from 9:00 am – 5:00 pm IST.<a href="http://10.32.199.46:4003/cni-workshop-2021/" title="Read CNI Workshop 2021"><strong>Read More&nbsp;›</strong></a><br /><br /></div></dd>
                         
                         
                         
@@ -588,7 +589,7 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
 /* Style the tab */
 .tab {
   overflow: hidden;
-  background-color: white;
+  background-color: #fdfdfd;
 }
 
 /* Style the buttons inside the tab */
@@ -670,6 +671,26 @@ document.getElementById("defaultOpen").click();
 }
 </style>
 
+			<style>
+.buttonAbsBib {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 7px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+.buttonhover:hover {background-color: #e7e7e7;color: black;}
+</style>
+
 		</article>
 	</div><!-- /.medium-8.columns -->
 
@@ -689,7 +710,8 @@ document.getElementById("defaultOpen").click();
 
 
     <footer id="footer-content" class="bg-grau">
-      <div id="footer">
+      <div id="footer" style="
+font-family: serif;font-size: max(0.9em,12px);bottom: 0px;border-top: 0px solid #eceefb;box-shadow: 2px -5px10px #999;position: sticky;position: -webkit-sticky;z-index: 10;">
         <div class="row">
           <div class="small-6 medium-6 large-5 columns">
             <div class="shadow-black">About CNI</div>

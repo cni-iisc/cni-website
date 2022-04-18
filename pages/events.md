@@ -8,12 +8,11 @@ header:
 permalink: /events
 ---
 <div class="tab">
+  <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpen">Upcoming Events</button>
   <button class="tablinks" onclick="clickTab(event, 'nss')" id="defaultOpen">Network Seminar Series</button>
-  <button class="tablinks" onclick="clickTab(event, 'talks')">Talks & Seminars</button>
   <button class="tablinks" onclick="clickTab(event, 'past')">Past Events</button>
 </div>
 <div markdown="1" id="nss" class="tabcontent">
-
 # Network Seminar Series
 ##### CNI hosts a weekly network seminar series on different topics of communication and networking. Know more [here!](https://cni.iisc.ac.in/nss/)
 <div class="row t60 b60">
@@ -24,6 +23,11 @@ permalink: /events
 </div><!-- /.row -->
 </div>
 <div markdown="1" id="talks" class="tabcontent">
+</div>
+<div markdown="1" id="upcoming" class="tabcontent">
+# Upcoming Events
+</div>
+<div markdown="1" id="past" class="tabcontent">
 # Talks and Seminars
 <ul class="jekyllcodex_accordion">
         <li><input id="talk1" type="checkbox" /><label for="talk1">{{"### General lower bounds for estimation under information constraints - Prof. Himanshu Tyagi" |  markdownify }}</label>
@@ -36,8 +40,6 @@ permalink: /events
         <li><input id="talk4" type="checkbox" /><label for="talk4">{{"### A city-scale epidemic simulator and its use in unlocking the lockdown" |  markdownify }}</label><div>{{ "Webinar by Prof. Rajesh Sundaresan on 19/05/2020 hosted by IISER Mohali on &quot;A city-scale epidemic simulator and its use in unlocking the lockdown&quot;" | markdownify }}<iframe width="544" height="315" src="https://www.youtube.com/embed/wyItaV2K8oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></li>
 </ul>
 <script>document.getElementById("talk1").click();</script>
-</div>
-<div markdown="1" id="past" class="tabcontent">
 # AADHAR Hackathon, 2021
 We are excited to announce the Aadhaar Hackathon 2021, in partnership with the Unique Identification Authority of India (UIDAI).
 
@@ -50,7 +52,7 @@ Please head over to [https://hackathon.uidai.gov.in](https://hackathon.uidai.gov
  <div class="row t10">
   <dl class="accordion" data-accordion>
                         {% assign counter = 1 %}
-                        {% for post in site.posts limit:100 %}
+                        {% for post in site.posts %}
                         
 {% if post.categories contains 'event' %}<dd class="accordion-navigation"><a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a><div id="panel{{ counter }}" class="content">{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br></div></dd>{% endif %}
                         {% assign counter=counter | plus:1 %}

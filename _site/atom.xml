@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://10.32.199.46:4003/</id>
 	<title>Centre for Networked Intelligence</title>
-	<updated>2022-04-11T04:24:03+00:00</updated>
+	<updated>2022-04-18T11:39:03+00:00</updated>
 
 	<subtitle>The Centre for Networked Intelligence, under the division of EECS and RBCCPS, IISc, aims to develop next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future.</subtitle>
 
@@ -350,7 +350,7 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 </content>
 
 			
-				<category term="design" />
+				<category term="event" />
 			
 			
 
@@ -499,7 +499,9 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 </content>
 
 			
-				<category term="design" />
+				<category term="event" />
+			
+				<category term="announcement" />
 			
 			
 
@@ -638,7 +640,7 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 </content>
 
 			
-				<category term="design" />
+				<category term="announcement" />
 			
 			
 

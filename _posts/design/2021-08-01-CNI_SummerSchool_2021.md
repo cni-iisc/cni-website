@@ -3,7 +3,7 @@ layout: page
 title:  "CNI Summer School 2021"
 teaser: "The Centre for Networked Intelligence at Indian Institute of Science (IISc) is organizing its inaugural three-day CNI Summer School on 5-6-7th August 2021."
 categories:
-    - design
+    - event
 permalink: /summerschool21/
 header:
  title: "CNI Summer School 2021"
