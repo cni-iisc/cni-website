@@ -5,7 +5,7 @@ header:
  title: "News"
  background-color: "#334d5c"
 
-permalink: /news
+permalink: /news/
 ---
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'announcements')" id="defaultOpen">Announcements</button>

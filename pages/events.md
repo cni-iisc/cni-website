@@ -5,7 +5,7 @@ header:
  title: "Events"
  background-color: "#334d5c"
 
-permalink: /events
+permalink: /events/
 ---
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpen">Upcoming Events</button>
