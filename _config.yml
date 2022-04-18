@@ -26,7 +26,7 @@ author: CNI
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://cni-iisc.github.io'
-baseurl: ''
+baseurl: '/cni-website'
 
 host: 10.32.199.46
 port: 4003

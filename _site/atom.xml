@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/cni-website/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/cni-website/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://10.32.199.46:4003/</id>
+	<id>http://10.32.199.46:4003/cni-website/</id>
 	<title>Centre for Networked Intelligence</title>
-	<updated>2022-04-18T12:33:07+00:00</updated>
+	<updated>2022-04-18T12:43:33+00:00</updated>
 
 	<subtitle>The Centre for Networked Intelligence, under the division of EECS and RBCCPS, IISc, aims to develop next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future.</subtitle>
 
@@ -19,16 +19,16 @@
 		</author>
 	
 
-	<link href="http://10.32.199.46:4003/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://10.32.199.46:4003/" rel="alternate" type="text/html" />
+	<link href="http://10.32.199.46:4003/cni-website/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://10.32.199.46:4003/cni-website/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://10.32.199.46:4003/CNI-COVID/</id>
+			<id>http://10.32.199.46:4003/cni-website/CNI-COVID/</id>
 			<title>CNI joins hands with IIT Madras, Indian Statistical Institute, and Semantic Web India to continue COVID-19 Data Website Operations</title>
-			<link href="http://10.32.199.46:4003/CNI-COVID/" rel="alternate" type="text/html" title="CNI joins hands with IIT Madras, Indian Statistical Institute, and Semantic Web India to continue COVID-19 Data Website Operations" />
+			<link href="http://10.32.199.46:4003/cni-website/CNI-COVID/" rel="alternate" type="text/html" title="CNI joins hands with IIT Madras, Indian Statistical Institute, and Semantic Web India to continue COVID-19 Data Website Operations" />
 			<updated>2021-10-31T00:00:00+00:00</updated>
 
 			
@@ -44,7 +44,7 @@
 				</author>
 			
 			<summary>Among the latest in CNI’s contributions towards COVID-19 response, Indian Institute of Technology Madras, the Centre for Networked Intelligence at the Indian Institute of Science (IISc) and the Indian Statistical Institute (ISI) are collaborating with Semantic Web India, a private technology firm based in Bangalore, to continue the efforts of a critical COVID-19 Data Website.</summary>
-			<content type="html" xml:base="http://10.32.199.46:4003/CNI-COVID/">&lt;p&gt;&lt;em&gt;Among the latest in &lt;a href=&quot;https://cni.iisc.ac.in/covid-19-response/&quot;&gt;CNI’s contributions towards COVID-19 response&lt;/a&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.iitm.ac.in/&quot;&gt;Indian Institute of Technology Madras&lt;/a&gt;, the &lt;a href=&quot;https://www.iitm.ac.in/&quot;&gt;Centre for Networked Intelligence&lt;/a&gt; at the &lt;a href=&quot;https://iisc.ac.in/&quot;&gt;Indian Institute of Science (IISc)&lt;/a&gt; and the &lt;a href=&quot;https://www.isical.ac.in/&quot;&gt;Indian Statistical Institute&lt;/a&gt; (ISI) are collaborating with &lt;a href=&quot;http://www.semanticwebindia.com/index.html#extHeader5-6i&quot;&gt;Semantic Web&lt;/a&gt; India, a private technology firm based in Bangalore, to continue the efforts of a critical COVID-19 Data Website. 
+			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/CNI-COVID/">&lt;p&gt;&lt;em&gt;Among the latest in &lt;a href=&quot;https://cni.iisc.ac.in/covid-19-response/&quot;&gt;CNI’s contributions towards COVID-19 response&lt;/a&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.iitm.ac.in/&quot;&gt;Indian Institute of Technology Madras&lt;/a&gt;, the &lt;a href=&quot;https://www.iitm.ac.in/&quot;&gt;Centre for Networked Intelligence&lt;/a&gt; at the &lt;a href=&quot;https://iisc.ac.in/&quot;&gt;Indian Institute of Science (IISc)&lt;/a&gt; and the &lt;a href=&quot;https://www.isical.ac.in/&quot;&gt;Indian Statistical Institute&lt;/a&gt; (ISI) are collaborating with &lt;a href=&quot;http://www.semanticwebindia.com/index.html#extHeader5-6i&quot;&gt;Semantic Web&lt;/a&gt; India, a private technology firm based in Bangalore, to continue the efforts of a critical COVID-19 Data Website. 
 &lt;img src=&quot;/images/posts/screenshot-2021-11-24-213945-1536x768.png&quot; alt=&quot;&quot; /&gt; 
 &lt;a href=&quot;www.covid19india.org&quot;&gt;www.covid19india.org&lt;/a&gt;  offered a comprehensive view on the pandemic across India by providing data on confirmed cases, active and recovered cases, tests and fatalities. The portal also recently started showing vaccination administration status for single-dose and fully vaccinated.&lt;/p&gt;
 
@@ -64,9 +64,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://10.32.199.46:4003/announcing-hackathon-2021/</id>
+			<id>http://10.32.199.46:4003/cni-website/announcing-hackathon-2021/</id>
 			<title>AADHAAR Hackathon 2021</title>
-			<link href="http://10.32.199.46:4003/announcing-hackathon-2021/" rel="alternate" type="text/html" title="AADHAAR Hackathon 2021" />
+			<link href="http://10.32.199.46:4003/cni-website/announcing-hackathon-2021/" rel="alternate" type="text/html" title="AADHAAR Hackathon 2021" />
 			<updated>2021-10-30T00:00:00+00:00</updated>
 
 			
@@ -82,7 +82,7 @@
 				</author>
 			
 			<summary>We are excited to announce the Aadhaar Hackathon 2021, in partnership with the Unique Identification Authority of India (UIDAI).</summary>
-			<content type="html" xml:base="http://10.32.199.46:4003/announcing-hackathon-2021/">&lt;p&gt;We are excited to announce the Aadhaar Hackathon 2021, in partnership with the Unique Identification Authority of India (UIDAI).&lt;/p&gt;
+			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/announcing-hackathon-2021/">&lt;p&gt;We are excited to announce the Aadhaar Hackathon 2021, in partnership with the Unique Identification Authority of India (UIDAI).&lt;/p&gt;
 
 &lt;p&gt;The hackathon, featuring unique challenges to solve regarding authentication and data registry update, is open to all engineering students in India. There are bountiful prizes to be won, too!&lt;/p&gt;
 
@@ -99,9 +99,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://10.32.199.46:4003/cloud-based-hands-on-lab-for-communication-networks/</id>
+			<id>http://10.32.199.46:4003/cni-website/cloud-based-hands-on-lab-for-communication-networks/</id>
 			<title>Cloud-based hands-on lab for Communication Networks</title>
-			<link href="http://10.32.199.46:4003/cloud-based-hands-on-lab-for-communication-networks/" rel="alternate" type="text/html" title="Cloud-based hands-on lab for Communication Networks" />
+			<link href="http://10.32.199.46:4003/cni-website/cloud-based-hands-on-lab-for-communication-networks/" rel="alternate" type="text/html" title="Cloud-based hands-on lab for Communication Networks" />
 			<updated>2021-10-29T00:00:00+00:00</updated>
 
 			
@@ -117,7 +117,7 @@
 				</author>
 			
 			<summary>On this Teachers’ day, we are delighted to announce the release of our cloud-based hands-on lab for Communication Networks.</summary>
-			<content type="html" xml:base="http://10.32.199.46:4003/cloud-based-hands-on-lab-for-communication-networks/">&lt;p&gt;&lt;em&gt;Ut est rerum omnium magister usus.&lt;/em&gt;&lt;/p&gt;
+			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/cloud-based-hands-on-lab-for-communication-networks/">&lt;p&gt;&lt;em&gt;Ut est rerum omnium magister usus.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;“Experience is the teacher of all things.”&lt;/p&gt;
 
@@ -139,9 +139,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://10.32.199.46:4003/masters-fellowship-2021-22/</id>
+			<id>http://10.32.199.46:4003/cni-website/masters-fellowship-2021-22/</id>
 			<title>Masters Fellowship (2021-22)</title>
-			<link href="http://10.32.199.46:4003/masters-fellowship-2021-22/" rel="alternate" type="text/html" title="Masters Fellowship (2021-22)" />
+			<link href="http://10.32.199.46:4003/cni-website/masters-fellowship-2021-22/" rel="alternate" type="text/html" title="Masters Fellowship (2021-22)" />
 			<updated>2021-10-27T00:00:00+00:00</updated>
 
 			
@@ -157,7 +157,7 @@
 				</author>
 			
 			<summary>Applications are invited from second year Masters students (all course and research streams) in the Division of EECS and the RBCCPS for a Scholarship Programme under the Centre for Networked Intelligence (a Cisco CSR Initiative).  Six scholarship awards are available under this programme for 2021-2022.</summary>
-			<content type="html" xml:base="http://10.32.199.46:4003/masters-fellowship-2021-22/">&lt;p&gt;Applications are invited from second year Masters students (all course and research streams) in the Division of EECS and the RBCCPS for a Scholarship Programme under the Centre for Networked Intelligence (a Cisco CSR Initiative).  Six scholarship awards are available under this programme for 2021-2022.&lt;/p&gt;
+			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/masters-fellowship-2021-22/">&lt;p&gt;Applications are invited from second year Masters students (all course and research streams) in the Division of EECS and the RBCCPS for a Scholarship Programme under the Centre for Networked Intelligence (a Cisco CSR Initiative).  Six scholarship awards are available under this programme for 2021-2022.&lt;/p&gt;
 
 &lt;p&gt;Full-time EECS second year masters students (one year completed in programme), not already sponsored and not already having another similar named scholarship, are eligible to apply.&lt;/p&gt;
 
@@ -181,9 +181,9 @@ The application &lt;strong&gt;email&lt;/strong&gt; with a single PDF document as
 		</entry>
 	
 		<entry>
-			<id>http://10.32.199.46:4003/phd-fellowship-2021-22/</id>
+			<id>http://10.32.199.46:4003/cni-website/phd-fellowship-2021-22/</id>
 			<title>Ph.D. Fellowship (2021-22)</title>
-			<link href="http://10.32.199.46:4003/phd-fellowship-2021-22/" rel="alternate" type="text/html" title="Ph.D. Fellowship (2021-22)" />
+			<link href="http://10.32.199.46:4003/cni-website/phd-fellowship-2021-22/" rel="alternate" type="text/html" title="Ph.D. Fellowship (2021-22)" />
 			<updated>2021-10-26T00:00:00+00:00</updated>
 
 			
@@ -199,7 +199,7 @@ The application &lt;strong&gt;email&lt;/strong&gt; with a single PDF document as
 				</author>
 			
 			<summary>Applications are invited from the PhD students in the Division of EECS and the RBCCPS at IISc who have passed their comprehensive examinations (or will pass by 13-Aug-2021) for a Research Scholarship Programme under the Centre for Networked Intelligence (a Cisco CSR Initiative).  Six scholarship awards are available under this programme for 2021-2022.</summary>
-			<content type="html" xml:base="http://10.32.199.46:4003/phd-fellowship-2021-22/">&lt;p&gt;Applications are invited from the PhD students in the Division of EECS and the RBCCPS at IISc who have passed their comprehensive examinations (or will pass by 13-Aug-2021) for a Research Scholarship Programme under the Centre for Networked Intelligence (a Cisco CSR Initiative).  Six scholarship awards are available under this programme for 2021-2022.&lt;/p&gt;
+			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/phd-fellowship-2021-22/">&lt;p&gt;Applications are invited from the PhD students in the Division of EECS and the RBCCPS at IISc who have passed their comprehensive examinations (or will pass by 13-Aug-2021) for a Research Scholarship Programme under the Centre for Networked Intelligence (a Cisco CSR Initiative).  Six scholarship awards are available under this programme for 2021-2022.&lt;/p&gt;
 
 &lt;p&gt;Full-time EECS and RBCCPS students (admitted through the regular interview process), not granted another externally sponsored fellowship (e.g.,TCS, Qualcomm, TI, Intel, Visvesvaraya, WIRIN, etc.), are eligible to apply. The broad areas of PhD research of interest to the centre include technologies for networked intelligence such as control over networks, network slicing, data center networks, wireless networks, networks for smart cities, networks for CPS, and other related topics. The scholarship will be for the duration 01 August 2021 to 31 July 2022 or completion of PhD, whichever is earlier. The evaluation committee will look at the quality of the application, proposed contributions to CNI activities, and the relevance of the proposed research to the centre’s objective of showcasing innovative applications or theories of networked intelligence. The scholarship may be renewed subject to availability of funds and satisfactory progress towards meeting the Centre’s objectives. The stipend will be Rs 50,000 per month and will be in lieu of the MHRD stipend. Some financial support for travel (upto Rs 1 lakh of which 60% can be used for partial funding of international travel) and a contingency grant (upto Rs 40,000) are available. Exact amounts will be indicated at the time of award of fellowship to the selected candidates.&lt;/p&gt;
 
@@ -222,9 +222,9 @@ The application &lt;strong&gt;email&lt;/strong&gt; with a single PDF document as
 		</entry>
 	
 		<entry>
-			<id>http://10.32.199.46:4003/summerschool21/</id>
+			<id>http://10.32.199.46:4003/cni-website/summerschool21/</id>
 			<title>CNI Summer School 2021</title>
-			<link href="http://10.32.199.46:4003/summerschool21/" rel="alternate" type="text/html" title="CNI Summer School 2021" />
+			<link href="http://10.32.199.46:4003/cni-website/summerschool21/" rel="alternate" type="text/html" title="CNI Summer School 2021" />
 			<updated>2021-08-01T00:00:00+00:00</updated>
 
 			
@@ -240,7 +240,7 @@ The application &lt;strong&gt;email&lt;/strong&gt; with a single PDF document as
 				</author>
 			
 			<summary>The Centre for Networked Intelligence at Indian Institute of Science (IISc) is organizing its inaugural three-day CNI Summer School on 5-6-7th August 2021.</summary>
-			<content type="html" xml:base="http://10.32.199.46:4003/summerschool21/">&lt;div class=&quot;row&quot;&gt;
+			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/summerschool21/">&lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;column left&quot;&gt;
     &lt;p&gt;The &lt;a href=&quot;https://cni.iisc.ac.in/&quot;&gt;Centre for Networked Intelligence&lt;/a&gt; at &lt;a href=&quot;https://www.iisc.ac.in/&quot;&gt;Indian Institute of Science (IISc)&lt;/a&gt; is organizing its inaugural three-day CNI Summer School on &lt;strong&gt;5-6-7th August 2021.&lt;/strong&gt;&lt;/p&gt;
 
@@ -358,9 +358,9 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 		</entry>
 	
 		<entry>
-			<id>http://10.32.199.46:4003/cni-workshop-2021/</id>
+			<id>http://10.32.199.46:4003/cni-website/cni-workshop-2021/</id>
 			<title>CNI Workshop 2021</title>
-			<link href="http://10.32.199.46:4003/cni-workshop-2021/" rel="alternate" type="text/html" title="CNI Workshop 2021" />
+			<link href="http://10.32.199.46:4003/cni-website/cni-workshop-2021/" rel="alternate" type="text/html" title="CNI Workshop 2021" />
 			<updated>2021-07-31T00:00:00+00:00</updated>
 
 			
@@ -376,7 +376,7 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 				</author>
 			
 			<summary>The Centre for Networked Intelligence at Indian Institute of Science (IISc), is organizing its inaugural one-day workshop titled: WiFi QoS: Evolution of Standards and Performance Modelling on 25 February 2021 from 9:00 am – 5:00 pm IST.</summary>
-			<content type="html" xml:base="http://10.32.199.46:4003/cni-workshop-2021/">&lt;h2 id=&quot;wifi-qos-evolution-of-standards-and-performance-modelling&quot;&gt;WiFi QoS: Evolution of Standards and Performance Modelling&lt;/h2&gt;
+			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/cni-workshop-2021/">&lt;h2 id=&quot;wifi-qos-evolution-of-standards-and-performance-modelling&quot;&gt;WiFi QoS: Evolution of Standards and Performance Modelling&lt;/h2&gt;
 &lt;p&gt;The &lt;a href=&quot;https://cni.iisc.ac.in/&quot;&gt;Centre for Networked Intelligence&lt;/a&gt; at &lt;a href=&quot;https://www.iisc.ac.in/&quot;&gt;Indian Institute of Science (IISc)&lt;/a&gt;, is organizing its inaugural one-day workshop titled: &lt;strong&gt;WiFi QoS: Evolution of Standards and Performance Modelling&lt;/strong&gt; on &lt;strong&gt;25 February 2021&lt;/strong&gt; from 9:00 am – 5:00 pm IST.&lt;/p&gt;
 
 &lt;p&gt;The workshop will have two sessions. The morning session, by distinguished speakers from industry, will be an overview of the developments in the WiFi standards. The afternoon session will consists of a tutorial-style session by Prof. Anurag Kumar on modelling and analysis of WiFi networks. The session is titled: &lt;strong&gt;Understanding WiFi Networks Performance.&lt;/strong&gt;&lt;/p&gt;
@@ -509,9 +509,9 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 		</entry>
 	
 		<entry>
-			<id>http://10.32.199.46:4003/cni-lab-inauguration-and-seminar/</id>
+			<id>http://10.32.199.46:4003/cni-website/cni-lab-inauguration-and-seminar/</id>
 			<title>CNI Lab Inauguration and Seminar Series</title>
-			<link href="http://10.32.199.46:4003/cni-lab-inauguration-and-seminar/" rel="alternate" type="text/html" title="CNI Lab Inauguration and Seminar Series" />
+			<link href="http://10.32.199.46:4003/cni-website/cni-lab-inauguration-and-seminar/" rel="alternate" type="text/html" title="CNI Lab Inauguration and Seminar Series" />
 			<updated>2021-01-18T00:00:00+00:00</updated>
 
 			
@@ -527,7 +527,7 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 				</author>
 			
 			<summary>The Centre for Networked Intelligence, IISc inaugurated its state-of-the-art networking lab on 18 January 2021. The lab, developed in collaboration with Cisco India, has a network testbed which will enable researchers and students to develop applications, algorithms and experiments in emerging areas in communication and computer networking such as software-defined networking, network function virtualisation, and network slicing. The testbed is equipped with network control, management, and analytics platforms (Cisco DNAC centre), wireless controller, enterprise switches and routers, WiFi-6 access points, and an identity management suite.</summary>
-			<content type="html" xml:base="http://10.32.199.46:4003/cni-lab-inauguration-and-seminar/">&lt;p&gt;The Centre for Networked Intelligence, IISc inaugurated its state-of-the-art networking lab on 18 January 2021. The lab, developed in collaboration with Cisco India, has a network testbed which will enable researchers and students to develop applications, algorithms and experiments in emerging areas in communication and computer networking such as software-defined networking, network function virtualisation, and network slicing. The testbed is equipped with network control, management, and analytics platforms (Cisco DNAC centre), wireless controller, enterprise switches and routers, WiFi-6 access points, and an identity management suite.&lt;/p&gt;
+			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/cni-lab-inauguration-and-seminar/">&lt;p&gt;The Centre for Networked Intelligence, IISc inaugurated its state-of-the-art networking lab on 18 January 2021. The lab, developed in collaboration with Cisco India, has a network testbed which will enable researchers and students to develop applications, algorithms and experiments in emerging areas in communication and computer networking such as software-defined networking, network function virtualisation, and network slicing. The testbed is equipped with network control, management, and analytics platforms (Cisco DNAC centre), wireless controller, enterprise switches and routers, WiFi-6 access points, and an identity management suite.&lt;/p&gt;
 &lt;iframe width=&quot;1084&quot; height=&quot;610&quot; src=&quot;https://www.youtube.com/embed/z8i-XVRvEhE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;  &lt;img src=&quot;/images/posts/DSC05396-199x300.jpg&quot; style=&quot;width:250px&quot; /&gt;  
 &lt;img src=&quot;/images/posts/DSC05402-199x300.jpg&quot; style=&quot;width:250px&quot; /&gt;  
@@ -648,9 +648,9 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 		</entry>
 	
 		<entry>
-			<id>http://10.32.199.46:4003/cni-hackathon-2020/</id>
+			<id>http://10.32.199.46:4003/cni-website/cni-hackathon-2020/</id>
 			<title>CNI Hackathon 2020</title>
-			<link href="http://10.32.199.46:4003/cni-hackathon-2020/" rel="alternate" type="text/html" title="CNI Hackathon 2020" />
+			<link href="http://10.32.199.46:4003/cni-website/cni-hackathon-2020/" rel="alternate" type="text/html" title="CNI Hackathon 2020" />
 			<updated>2020-12-31T00:00:00+00:00</updated>
 
 			
@@ -666,7 +666,7 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 				</author>
 			
 			<summary>After 3 exciting weeks, we are proud to announce the winners for Swabs2Labs Hackathon 2020, hosted by the Centre for Networked Intelligence at the Indian Institute of Science, in collaboration with Cisco CSR.</summary>
-			<content type="html" xml:base="http://10.32.199.46:4003/cni-hackathon-2020/">&lt;p&gt;After 3 exciting weeks, we are proud to announce the winners for Swabs2Labs Hackathon 2020, hosted by the Centre for Networked Intelligence at the Indian Institute of Science, in collaboration with Cisco CSR.&lt;/p&gt;
+			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/cni-hackathon-2020/">&lt;p&gt;After 3 exciting weeks, we are proud to announce the winners for Swabs2Labs Hackathon 2020, hosted by the Centre for Networked Intelligence at the Indian Institute of Science, in collaboration with Cisco CSR.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Allocation Track:&lt;/strong&gt;&lt;/p&gt;
 
@@ -698,9 +698,9 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 		</entry>
 	
 		<entry>
-			<id>http://10.32.199.46:4003/ph-d-and-m-tech-scholarship-awardees/</id>
+			<id>http://10.32.199.46:4003/cni-website/ph-d-and-m-tech-scholarship-awardees/</id>
 			<title>Cisco Scholarship awardees 2020-21</title>
-			<link href="http://10.32.199.46:4003/ph-d-and-m-tech-scholarship-awardees/" rel="alternate" type="text/html" title="Cisco Scholarship awardees 2020-21" />
+			<link href="http://10.32.199.46:4003/cni-website/ph-d-and-m-tech-scholarship-awardees/" rel="alternate" type="text/html" title="Cisco Scholarship awardees 2020-21" />
 			<updated>2020-11-17T00:00:00+00:00</updated>
 
 			
@@ -716,7 +716,7 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 				</author>
 			
 			<summary>The following students were awarded the Ph.D &amp; M.Tech fellowship for the year 2020-21</summary>
-			<content type="html" xml:base="http://10.32.199.46:4003/ph-d-and-m-tech-scholarship-awardees/">&lt;p&gt;Published on : 17/11/2020&lt;/p&gt;
+			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/ph-d-and-m-tech-scholarship-awardees/">&lt;p&gt;Published on : 17/11/2020&lt;/p&gt;
 
 &lt;p&gt;The following students were awarded the Ph.D &amp;amp; M.Tech fellowship for the year 2020-21&lt;/p&gt;
 
