@@ -36,7 +36,7 @@ layout: frontpage
 #  style: alert
 permalink: /index.html
 header:
- title: "CENTRE FOR NETWORKED INTELLIGENCE<br><p><big>Indian Institute of Science, Bangalore</big></p>"
+ title: "CENTRE FOR NETWORKED INTELLIGENCE<br><p><big>Indian Institute of Science, Bangalore</big></p><br>"
  background-color: "#334d5c"
 #
 # This is a nasty hack to make the navigation highlight
