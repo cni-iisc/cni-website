@@ -59,3 +59,4 @@ Please fill in the form to apply.
 <div markdown="1" id="intern" class="tabcontent">
 We are not accepting any applications for internships currently. Please check later for announcements on internships.
 </div>
+<script>document.getElementById("defaultOpen").click();</script>
