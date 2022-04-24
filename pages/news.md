@@ -29,7 +29,7 @@ permalink: /news/
 <ul class="jekyllcodex_accordion">
    <li><input id="news1" type="checkbox" /><label for="news1">{{ "### Curbs delay, but don’t prevent Omicron spread: Study
 The Deccan Herald, 30 January 2022" |  markdownify }}</label>
-<div>{{ "Link to news article: [https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html](https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html)" | markdownify }}<img src="{{ site.url }}{{ site.baseurl }}/images/news/church-street.jpeg"></div></li>
+<div>{{ "Link to news article: [https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html](https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html)" | markdownify }}</div></li>
    <li><input id="news2" type="checkbox" /><label for="news2">{{ "### India may see 10 lakh Covid cases a day by Jan-end: IISc-ISI model
 The Economic Times, 07 January 2022" |  markdownify }}</label>
 <div>{{ "Link to news article: [https://economictimes.indiatimes.com/news/india/india-may-see-10-lakh-covid-cases-a-day-by-jan-end-iisc-isi-model/articleshow/88763235.cms](https://economictimes.indiatimes.com/news/india/india-may-see-10-lakh-covid-cases-a-day-by-jan-end-iisc-isi-model/articleshow/88763235.cms)" | markdownify }}<img src="{{ site.url }}{{ site.baseurl }}/images/news/coronavirus-indias-weekly-cases-up-nearly-3-fold-in-highest-ever-surge.jpg"></div></li>
