@@ -27,13 +27,13 @@ permalink: /news/
 </div>
 <div markdown="1" id="news" class="tabcontent">
 <ul class="jekyllcodex_accordion">
-        <li><input id="news1" type="checkbox" /><label for="news1">{{ "### Curbs delay, but don’t prevent Omicron spread: Study
+   <li><input id="news1" type="checkbox" /><label for="news1">{{ "### Curbs delay, but don’t prevent Omicron spread: Study
 The Deccan Herald, 30 January 2022" |  markdownify }}</label>
 <div>{{ "Link to news article: [https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html](https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html)" | markdownify }}<img src="{{ site.url }}{{ site.baseurl }}/images/news/church-street.jpeg"></div></li>
-        <li><input id="news2" type="checkbox" /><label for="news2">{{ "### India may see 10 lakh Covid cases a day by Jan-end: IISc-ISI model
+   <li><input id="news2" type="checkbox" /><label for="news2">{{ "### India may see 10 lakh Covid cases a day by Jan-end: IISc-ISI model
 The Economic Times, 07 January 2022" |  markdownify }}</label>
 <div>{{ "Link to news article: [https://economictimes.indiatimes.com/news/india/india-may-see-10-lakh-covid-cases-a-day-by-jan-end-iisc-isi-model/articleshow/88763235.cms](https://economictimes.indiatimes.com/news/india/india-may-see-10-lakh-covid-cases-a-day-by-jan-end-iisc-isi-model/articleshow/88763235.cms)" | markdownify }}<img src="{{ site.url }}{{ site.baseurl }}/images/news/coronavirus-indias-weekly-cases-up-nearly-3-fold-in-highest-ever-surge.jpg"></div></li>
-        <li><input id="news3" type="checkbox" /><label for="news3">{{ "### Karnataka to see 1.2 lakh Covid cases daily from February 1, claim experts
+   <li><input id="news3" type="checkbox" /><label for="news3">{{ "### Karnataka to see 1.2 lakh Covid cases daily from February 1, claim experts
 The Deccan Herald, 06 January 2022" |  markdownify }}</label>
 <div>{{ "Link to news article: [https://www.deccanherald.com/state/top-karnataka-stories/karnataka-to-see-12-lakh-covid-cases-daily-from-february-1-claim-experts-1068423.html](https://www.deccanherald.com/state/top-karnataka-stories/karnataka-to-see-12-lakh-covid-cases-daily-from-february-1-claim-experts-1068423.html)" | markdownify }}<img src="{{ site.url }}{{ site.baseurl }}/images/news/1.2_Lakh_Covid_Cases.jpeg"></div></li>
         <li><input id="news4" type="checkbox" /><label for="news4">{{ "### New state-of-the-art networking lab inaugurated at Indian Institute of Science
