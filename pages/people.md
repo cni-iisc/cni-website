@@ -11,8 +11,8 @@ permalink: /people/
 ---
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'faculty')" id="defaultOpen">Faculty</button>
-  <button class="tablinks" onclick="clickTab(event, 'phd')">Ph.D. Fellows and Scholars</button>
-  <button class="tablinks" onclick="clickTab(event, 'mtech')">M.Tech. Fellows and Scholars</button>
+  <button class="tablinks" onclick="clickTab(event, 'phd')">Ph.D. Fellows & Scholars</button>
+  <button class="tablinks" onclick="clickTab(event, 'mtech')">M.Tech. Fellows & Scholars</button>
   <button class="tablinks" onclick="clickTab(event, 'staff')">Centre Staff</button>
 </div>
 <div markdown="1" id="faculty" class="tabcontent">
@@ -134,9 +134,9 @@ permalink: /people/
 </div>
 <div id="phd" markdown="1" class="tabcontent">
 <img style="float:left" width=150px src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Rooji.jpg">
-<div class="people_margin" markdown="1">
+<div class="people_margin" markdown="1" style="margin-top:-20px">
 ### Rooji Jinan
-#### Advisor: Parimal Parag
+#### Advisor: Parimal Parag (ECE)
 
 Rooji is a PhD student at Robert Bosch Centre for Cyber Physical Systems, IISc, working under the guidance of Dr. Parimal Parag, Department of Electrical Communication Engineering, IISc. Rooji received her B.Tech. degree in Electronics and Communication and her M.Tech. in Communication Engineering and Signal Processing from Calicut University, Kerala. Prior to joining IISc, she worked as an Assistant Professor at Christ College of Engineering (affiliated to Kalam Technological University), Kerala during 2016-17. Her broad research interests are in applied probability and her current project focuses on design and analysis of efficient distributed storage and computation systems with the goal of achieving low latency.
 </div>
@@ -168,24 +168,17 @@ Krishna Chaythanya is a fifth-year PhD student at the ECE Department. He obtaine
 
 Sheela C S (Student Member, IEEE) is a Ph.D. student in the Department of Electronic Systems Engineering, Indian Institute of Science, Bangalore. She received the M. Tech. degree in Electronics and Electrical Communication Engineering from Indian Institute of Technology Kharagpur, Kharagpur, in 2012. Before joining IISc for the Ph.D. program, she worked as an Assistant Professor at R. V. College of Engineering, Bangalore during 2012-18. Her research interests include PHY Layer signal processing, array processing, channel modeling, and wireless systems building using MATLAB toolboxes. She is currently working on rate adaptation and multi-user scheduling for the next-generation IEEE 802.11ax WLAN standard, also known as Wi-Fi 6. 
 </div>
-<img style="float:left" width=150px src="{{ site.url }}{{ site.baseurl }}/images/people/phd/krishnachaythanyakv.jpg">
-<div class="people_margin" markdown="1">
-### Ravi Raj Saxena
-#### Advisor: T V Prabhakar & Joy Kuri (DESE)
-
-Krishna Chaythanya is a fifth-year PhD student at the ECE Department. He obtained his M.Sc(Engg) in ECE from the Indian Institute of Science in 2011 and a B.E. degree in ECE from PES Institute of Technology, Bangalore, in 2008. Before joining IISc for the PhD program, he designed IoT Networks for Home Automation at a startup. Earlier, he worked at Imagination Technologies and CSR Technologies, developing algorithms for wireless baseband transceivers. His research interests are broadly in inference, and control over networks. He is currently working on applying sequential hypothesis testing and learning techniques for inference over networks with applications in Industrial Automation.
-</div>
 <img style="float:left" width=150px src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Ravi-raj-Saxena-2.jpg">
 <div class="people_margin" markdown="1">
-### Krishna Chaythanya K V
-#### Advisor: Anurag Kumar (ECE) and Rajesh Sundaresan (ECE/RBCCPS)
+### Ravi Raj Saxena
+#### Advisor: T. V. Prabhakar (DESE) & Joy Kuri (DESE)
 
 Ravi Raj Saxena is a PhD student in the Department of Electronic System Engineering (DESE) at the Indian Institute of Science. He obtained his bachelors from Delhi Technological University(DTU) in 2015. He has worked as a DSP firmware engineer for three years in a Telecom Software firm. His research interests are in IoT data Management and Digital Twin. Currently, he is developing Digital Twins using bond graphs and compression techniques for Time Series Data.
 </div>
 <img style="float:left" width=150px src="{{ site.url }}{{ site.baseurl }}/images/people/phd/IMG_20181121_233602_028.jpg">
 <div class="people_margin" markdown="1">
 ### Joydeep Pal
-#### Advisor: T. V. Prabhakar & Chandramani Singh (DESE)
+#### Advisor: T. V. Prabhakar (DESE) & Chandramani Singh (DESE)
 
 Joydeep is a PhD student at Department of Electronic Systems Engineering, Indian Institute of Science. My research interests are in Tactile Internet, Time-Sensitive Networking and control over networks. He has worked on Energy modelling in Intelligent Drones. He is currently working on the implementation of an intelligent Tactile CPS. He obtained his BTech degree in Electronics and Communications Engineering from Delhi Technological University.
 </div> 
@@ -228,7 +221,7 @@ Ajay Badita is a PhD student in the department of Electrical Communication Engin
 <img style="float:left" width=150px src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/krishnachaythanyakv.jpg">
 <div class="people_margin" markdown="1">
 ### Krishna Chaythanya K V
-#### Advisor: Anurag Kumar (ECE) and Rajesh Sundaresan (ECE/RBCCPS)
+#### Advisor: Anurag Kumar (ECE) & Rajesh Sundaresan (ECE/RBCCPS)
 
 Krishna Chaythanya is a PhD student at the ECE Department. He obtained his M.Sc(Engg) in ECE from the Indian Institute of Science in 2011 and B.E. degree in ECE from PES Institute of Technology, Bangalore in 2008. Prior to joining IISc for the PhD program, he worked on designing IoT Networks for Home Automation at a startup. Earlier, he worked at Imagination Technologies and CSR Technologies developing algorithms for wireless baseband transceivers. His research interests are broadly in sensing, inference, and control over networks. He is currently working on the application of sequential hypothesis testing and learning techniques for inference over networks with applications to Industrial Automation.
 </div>
@@ -263,7 +256,7 @@ Stanly is a Ph.D. student in the Department of Computer Science and Automation a
 </div>
 <div id="mtech" markdown="1" class="tabcontent">
 <img style="float:left" width=150px src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Somya-Sangal.jpg">
-<div class="people_margin" markdown="1">
+<div class="people_margin" markdown="1" style="margin-top:-20px">
 ### Somya Sangal
 #### Advisor: Arpita Patra (CSA)
 Somya is a second-year M. Tech student at IISc, Bangalore, working under the guidance of Dr. Arpita Patra, in Cryptography and Information Security Lab. Before joining IISc, she obtained her bachelor’s in computer science from Netaji Subhas Institute of Technology, Delhi. Her primary field of research is Secure Multiparty Computation, a standard-bearer problem in the broad area of Cryptography. She plans to focus on determining the feasibility of MPC protocols using cryptographic primitives as underlying assumptions and coming up with reasonable lower bounds on the complexity of computation, communication, and rounds. 
@@ -374,7 +367,7 @@ Sujata is an Mtech (research) student in ECE department. She is currently workin
 </div>
 <div id="staff" markdown="1" class="tabcontent">
 <img style="float:left" width=150px src="{{ site.url }}{{ site.baseurl }}/images/people/staff/preetam.jpg">
-<div class="people_margin" markdown="1">
+<div class="people_margin" markdown="1" style="margin-top:-20px">
 ### Preetam Patil
 #### Consultant Technologist
 Preetam Patil holds a PhD in Computer Science (2010) and M.Tech-IT (2002) from IIT-Bombay, a post-graduate diploma in Software Technology (1998) from CDAC-Mumbai, and Bachelor of Engineering in Electrical Engineering (1996) from NIT-Jaipur. He was part of the Advanced Technology Group at NetApp India between 2010 and 2013, working on projects related to Big-Data and SDN. He has also worked at CDAC-Mumbai (formerly NCST) for ERNET operations, and at the School of Technology and Computer Science of TIFR Mumbai.
