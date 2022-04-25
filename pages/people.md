@@ -13,7 +13,7 @@ permalink: /people/
   <button class="tablinks" onclick="clickTab(event, 'faculty')" id="defaultOpen">Faculty</button>
   <button class="tablinks" onclick="clickTab(event, 'phd')">Ph.D. Fellows/Scholars</button>
   <button class="tablinks" onclick="clickTab(event, 'mtech')">M.Tech. Fellows/Scholars</button>
-  <button class="tablinks" onclick="clickTab(event, 'staff')">Centre Staff</button>
+  <button class="tablinks" onclick="clickTab(event, 'staff')">Staff</button>
 </div>
 <div markdown="1" id="faculty" class="tabcontent">
 
