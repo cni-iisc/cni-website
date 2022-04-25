@@ -15,4 +15,4 @@ We are excited to announce the Aadhaar Hackathon 2021, in partnership with the U
 The hackathon, featuring unique challenges to solve regarding authentication and data registry update, is open to all engineering students in India. There are bountiful prizes to be won, too!
 
 Please head over to [https://hackathon.uidai.gov.in](https://hackathon.uidai.gov.in/) for more details.
-![](/images/posts/aadhar_hackathon.jpeg)
+![]({{ site.url }}{{ site.baseurl }}/images/posts/aadhar_hackathon.jpeg)

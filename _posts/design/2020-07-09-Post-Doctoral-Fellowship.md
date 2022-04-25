@@ -10,7 +10,7 @@ header:
  title: "Post-doctoral Fellowship"
  background-color: "#334d5c"
 ---
-![](/images/posts/20210126_post-doc-flyer.jpg)
+![]({{ site.url }}{{ site.baseurl }}/images/posts/20210126_post-doc-flyer.jpg)
 
 The Centre for Networked Intelligence (a Cisco CSR Initiative) is a newly established centre at IISc Bangalore promoting research in intelligent networks of the future. The centre is looking for a highly motivated post-doctoral researcher interested in pursuing independent research in the broad area of intelligent networks. We seek exceptional candidates with strong fundamentals and interest in applying theory to practical, large-scale networked systems. Broadly, candidates with research interests in cyber physical systems, IoT, programmable networks, 5G networks, smart cities, data exchanges, networked autonomous vehicles, and theoretical underpinnings of these applications will align well with centre’s research objective. The candidate will get an opportunity to work with other researchers and faculty members at the centre, spanning multiple departments in the Electrical, Electronics, and Computer Sciences (EECS) division. The candidate will also get opportunities to organise workshops and symposia on topics relevant to the centre.
 Further, the centre will provide support for publishing and participating in conferences. In short, we strive to provide a launchpad for ambitious candidates to participate in and setup an interdisciplinary research program, grounded in best practices from theory and engineering practice.

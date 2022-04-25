@@ -13,10 +13,10 @@ header:
 ---
 The Centre for Networked Intelligence, IISc inaugurated its state-of-the-art networking lab on 18 January 2021. The lab, developed in collaboration with Cisco India, has a network testbed which will enable researchers and students to develop applications, algorithms and experiments in emerging areas in communication and computer networking such as software-defined networking, network function virtualisation, and network slicing. The testbed is equipped with network control, management, and analytics platforms (Cisco DNAC centre), wireless controller, enterprise switches and routers, WiFi-6 access points, and an identity management suite.
 <iframe width="1084" height="610" src="https://www.youtube.com/embed/z8i-XVRvEhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-&nbsp;&nbsp;<img src="/images/posts/DSC05396-199x300.jpg" style="width:250px">&emsp;&nbsp;
-<img src="/images/posts/DSC05402-199x300.jpg" style="width:250px">&emsp;&nbsp;
-<img src="/images/posts/DSC05413-199x300.jpg" style="width:250px">&emsp;&nbsp;
-<img src="/images/posts/DSC05426-199x300.jpg" style="width:250px">
+&nbsp;&nbsp;<img src="{{ site.url }}{{ site.baseurl }}/images/posts/DSC05396-199x300.jpg" style="width:250px">&emsp;&nbsp;
+<img src="{{ site.url }}{{ site.baseurl }}/images/posts/DSC05402-199x300.jpg" style="width:250px">&emsp;&nbsp;
+<img src="{{ site.url }}{{ site.baseurl }}/images/posts/DSC05413-199x300.jpg" style="width:250px">&emsp;&nbsp;
+<img src="{{ site.url }}{{ site.baseurl }}/images/posts/DSC05426-199x300.jpg" style="width:250px">
 
 CNI Networking Lab, developed in collaboration with [Cisco](https://www.linkedin.com/company/cisco/) was inaugurated by Krishna Sundaresan, VP Engineering, Cisco India and SAARC. The centre’s logo was unveiled by Prof. Yadati Narahari, Chair, Division of EECS, IISc.
 

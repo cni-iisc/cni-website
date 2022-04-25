@@ -13,7 +13,7 @@ header:
  title: "Modeling of epidemic spread in Indian urban conditions"
  background-color: "#334d5c"
 ---
-<img src="/images/posts/bangalore-wards_v2-267x300.png" style="width:300px;height:250px"><img src="/images/posts/mumbai-wards_v2-1-268x300.png" style="width:300px;height:250px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/posts/bangalore-wards_v2-267x300.png" style="width:300px;height:250px"><img src="{{ site.url }}{{ site.baseurl }}/images/posts/mumbai-wards_v2-1-268x300.png" style="width:300px;height:250px">
 
 CNI faculty, students, and staff, along with researcher from TIFR Mumbai, have developed a city-scale agent-based simulator to study the spread of epidemic diseases such as COVID-19. [This project](https://covid19.iisc.ac.in/modeling-of-epidemic-spread-in-indian-urban-conditions/) aims to model the epidemic spread taking a city’s demographics and interaction spaces into consideration. The goal is to provide a simulation tool and analysis for epidemiologists and decision makers to assess:
 

@@ -29,7 +29,7 @@ Mornings 9:30am to 12:30pm
 Afternoons 2:00pm to 5:00pm
   </div>
   <div class="column right" markdown="1">
-   <img src="/images/posts/CNI_Summer_School_Networking_v2_small.png" style="height:640px">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/posts/CNI_Summer_School_Networking_v2_small.png" style="height:640px">
   </div>
 </div>
 <br>
