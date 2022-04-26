@@ -10,7 +10,7 @@ permalink: /news/
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'announcements')" id="defaultOpen">Announcements</button>
   <button class="tablinks" onclick="clickTab(event, 'work')">CNI in the News</button>
-  <button class="tablinks" onclick="clickTab(event, 'past1')">past</button>
+  <button class="tablinks" onclick="clickTab(event, 'past')">past1</button>
 </div>
 <div markdown="1" id="announcements" class="tabcontent">
 
