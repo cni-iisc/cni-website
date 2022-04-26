@@ -1,6 +1,6 @@
 ---
 layout: page
-teaser: "While CNI does not offer any academic programs of its own, we have been developing online course/lab modules as well as contributing towards making some of IISc courses available online for the benefit of the larger student community. <br><br>The online course content is listed below:"
+teaser: ""
 categories:
     - design
 permalink: /courses/
@@ -8,8 +8,10 @@ header:
  title: "COURSES"
  background-color: "#334d5c"
 ---
+##### While CNI does not offer any academic programs of its own, we have been developing online course/lab modules as well as contributing towards making some of IISc courses available online for the benefit of the larger student community.
+###### The online course content is listed below:
 <ul class="jekyllcodex_accordion">
-        <li><input id="accordion1" type="checkbox" /><label for="accordion1">{{ "# Communication Networks
+   <li><input id="accordion1" type="checkbox" /><label for="accordion1">{{ "# Communication Networks
 This is an intermediate level course on communication networks with emphasis on hands-on experimentation. A unique feature of this course is the integration of the course instructions with a sand-box lab environment where participants can try out the exercises through the browser interface itself, without installing any special software." |  markdownify }}</label>
 <div>{{ "The course currently includes six modules (approx. 4 hours/module):
 * Module 1: Introduction to networking and end-to-end walk-through
@@ -20,8 +22,8 @@ This is an intermediate level course on communication networks with emphasis on 
 * Module 6: Software Defined Networking.
 
 <br>
-The course content and the sandbox lab environment can be accessed by registering at [https://netlab.cnihackathon.in](https://netlab.cnihackathon.in)." | markdownify }}<img src="/assets/img/CN_course.png"></div></li>
-        <li><input id="accordion2" type="checkbox" /><label for="accordion2">{{ "# Information Theory
+The course content and the sandbox lab environment can be accessed by registering at [https://netlab.cnihackathon.in](https://netlab.cnihackathon.in)." | markdownify }}<img src="{{ site.url }}{{ site.baseurl }}/assets/img/CN_course.png"></div></li>
+   <li><input id="accordion2" type="checkbox" /><label for="accordion2">{{ "# Information Theory
 This is an intermediate level course on communication networks with emphasis on hands-on experimentation. A unique feature of this course is the integration of the course instructions with a sand-box lab environment where participants can try out the exercises through the browser interface itself, without installing any special software." |  markdownify }}</label>
 <div>{{ "The course currently includes six modules (approx. 4 hours/module):
 
@@ -30,7 +32,7 @@ Prof. Himanshu Tyagi from CNI offered this instructor-led course on [NPTEL porta
 
 Additionally, we have developed [supplementary lectures](https://cni.iisc.ac.in/courses/information-theory-lectures/) to explain some of the key concepts in Information Theory in simpler terms." | markdownify }}</div></li>
 
-        <li><input id="accordion3" type="checkbox" /><label for="accordion3">{{ "# Design for Internet of Things (IoT)
+   <li><input id="accordion3" type="checkbox" /><label for="accordion3">{{ "# Design for Internet of Things (IoT)
 This 8-week online course was offered by Dr. T V Prabhakar as an instructor-led course on NPTEL portal: [https://nptel.ac.in/courses/108/108/108108179/](https://cni.iisc.ac.in/courses/information-theory-lectures/) from July 26, 2021, after which the course videos have been made available for self-study." |  markdownify }}</label>
 <div>{{ "Under this course, an overview of IOTs and design of smart objects that provide collaboration and ubiquitous services are explored. Design for longevity/energy efficiency are highlighted and step-by-step system design is introduced. Small video chips that allow students to prototype are displayed. At the end of the course, the student is expected to make the right choice of hardware, software and protocols for the proposed application." | markdownify }}</div></li>
         <li><input id="accordion4" type="checkbox" /><label for="accordion4">{{ "# Data Analytics 
