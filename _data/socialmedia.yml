@@ -24,12 +24,12 @@
   title: "Facebook"
 
 - name: RSS
-  url: /feed.xml
+  url: /cni-website/feed.xml
   class: icon-rss
   title: "RSS"
 
 - name: Sitemap
-  url: /sitemap.xml
+  url: /cni-website/sitemap.xml
   class: icon-network
   title: "Sitemap"
 # - name: Soundcloud
