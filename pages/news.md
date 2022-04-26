@@ -9,8 +9,8 @@ permalink: /news/
 ---
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'announcements')" id="defaultOpen">Announcements</button>
-  <button class="tablinks" onclick="clickTab(event, 'news')">CNI in the News</button>
-  <button class="tablinks" onclick="clickTab(event, 'past')">past</button>
+  <button class="tablinks" onclick="clickTab(event, 'work')">CNI in the News</button>
+  <button class="tablinks" onclick="clickTab(event, 'past1')">past</button>
 </div>
 <div markdown="1" id="announcements" class="tabcontent">
 
@@ -62,7 +62,7 @@ Please head over to [https://hackathon.uidai.gov.in](https://hackathon.uidai.gov
 
 </div>
 
-<div markdown="1" id="news" class="tabcontent">
+<div markdown="1" id="work" class="tabcontent">
 # News
 <ul class="jekyllcodex_accordion">
    <li><input id="news1" type="checkbox" /><label for="news1">{{"### Curbs delay, but don’t prevent Omicron spread: Study
