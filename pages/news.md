@@ -9,7 +9,7 @@ permalink: /news/
 ---
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'announcements')" id="defaultOpen">Announcements</button>
-  <button class="tablinks" onclick="clickTab(event, 'past')">past5</button>
+  <button class="tablinks" onclick="clickTab(event, 'past')">Past</button>
 </div>
 <div markdown="1" id="announcements" class="tabcontent">
 
@@ -28,10 +28,8 @@ permalink: /news/
 <div markdown="1" id="past" class="tabcontent">
 # Talks and Seminars
 <ul class="jekyllcodex_accordion">
-        <li><input id="talk0" type="checkbox" /><label for="talk0">{{"### Curbs delay, but don’t prevent Omicron spread: Study The Deccan Herald, 30 January 2022" |  markdownify }}</label>
-<div>aa{{ "Link to news article: [https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html](https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html)" | markdownify }}</div></li>
-        <li><input id="talk1" type="checkbox" /><label for="talk1">{{"### General lower bounds for estimation under information constraints - Prof. Himanshu Tyagi" |  markdownify }}</label>
-<div>{{ "Talk by Prof. Himanshu Tyagi on 20/11/2020 hosted by [Foundation of Data Science](https://dstheory.wordpress.com/2020/11/11/friday-nov-20-himanshu-tyagi-for-the-indian-institute-of-science-iisc/) on &quot;General lower bounds for estimation under information constraints&quot;" | markdownify }}<br><iframe width="560" height="315" src="https://www.youtube.com/embed/gcannMB6Ivg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></li>
+        <li><input id="talk1" type="checkbox" /><label for="talk1">{{"### Curbs delay, but don’t prevent Omicron spread: Study The Deccan Herald, 30 January 2022" |  markdownify }}</label>
+<div>{{ "Link to news article: [https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html](https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html)" | markdownify }}</div></li>
         <li><input id="talk2" type="checkbox" /><label for="talk2">{{"### Agent-based simulators for the study of COVID-19 spread (USC) - Prof. Rajesh Sundaresan" |  markdownify }}</label>
 <div>{{ "Talk by Prof. Rajesh Sundaresan on 11/06/2020 hosted by USC Viterbi School of Engineering on &quot;Agent-based simulators for the study of COVID-19 spread&quot;" | markdownify }}<br><iframe width="544" height="315" src="https://www.youtube.com/embed/n8sI6TujqLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></li>
 
