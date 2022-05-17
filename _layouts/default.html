@@ -32,9 +32,8 @@ layout: compress
 	{% endunless %}
 
 	{% include _footer_scripts.html %}
-	<script>document.getElementById("defaultOpen").click();</script>
-	<script>
-function clickTab(evt, tabName) {
+	<script>document.getElementById("defaultOpen").click();
+	function clickTab(evt, tabName) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
   for (i = 0; i < tabcontent.length; i++) {
@@ -91,7 +90,6 @@ function BibTeXToggle(divID) {
     x.style.display = "none";
   }
 }
-</script>
-
+	</script>
 </body>
 </html>
