@@ -18,7 +18,7 @@ header:
 <ul class="jekyllcodex_accordion">
   <li><input id="j2020" type="checkbox" /><label for="j2020">{{ "# 2020" |  markdownify }}</label>
 <div markdown="1">
-1. #### [1. Coverage Estimation in Outdoor Heterogeneous Propagation Environments](/assets/publications/Coverage-Estimation-in-Outdoor-Heterogeneous-Propagation-Environments-1.pdf){:target="_blank" rel="noopener noreferrer"}
+1. #### [1. Coverage Estimation in Outdoor Heterogeneous Propagation Environments]({{ site.url }}{{ site.baseurl }}/assets/publications/Coverage-Estimation-in-Outdoor-Heterogeneous-Propagation-Environments-1.pdf){:target="_blank" rel="noopener noreferrer"}
 *Rajesh Sundaresan, Nihesh Rathod, Renu Subramanian*<br>
 IEEE Access, 8 , pp. 31660 – 31673, 2020.<br>
 <button id="buttona1" onclick="AbstractToggle(1)" class="buttonAbsBib buttonhover">Abstract</button>
@@ -747,45 +747,5 @@ function clickTab(evt, tabName) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 
-function AbstractToggle(divID) {
-  var x = document.getElementById("Abstract"+divID);
-  var y = document.getElementById("BibTeX"+divID);
-  var m = document.getElementById("buttona"+divID);
-  var n = document.getElementById("buttonb"+divID);
-  if (x.style.display === "none") {
-    x.style.display = "block";
-    m.style.backgroundColor = "#293e4a";
-    m.style.color = "white";
-    n.style.backgroundColor = "white";
-    n.style.color = "black";
-  } else {
-    x.style.display = "none";
-    m.style.backgroundColor = "white";
-    m.style.color = "black";
-  }
-  if (y.style.display === "block") {
-    y.style.display = "none";
-  }
-}
-function BibTeXToggle(divID) {
-  var x = document.getElementById("Abstract"+divID);
-  var y = document.getElementById("BibTeX"+divID);
-  var m = document.getElementById("buttona"+divID);
-  var n = document.getElementById("buttonb"+divID);
-  if (y.style.display === "none") {
-    y.style.display = "block";
-    n.style.backgroundColor = "#293e4a";
-    n.style.color = "white";
-    m.style.backgroundColor = "white";
-    m.style.color = "black";
-  } else {
-    y.style.display = "none";
-    n.style.backgroundColor = "white";
-    n.style.color = "black";
-  }
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  }
-}
 </script>
 

@@ -17,3 +17,45 @@
 }
 .buttonhover:hover {background-color: #e7e7e7;color: black;}
 </style>
+<script>
+ function AbstractToggle(divID) {
+  var x = document.getElementById("Abstract"+divID);
+  var y = document.getElementById("BibTeX"+divID);
+  var m = document.getElementById("buttona"+divID);
+  var n = document.getElementById("buttonb"+divID);
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    m.style.backgroundColor = "#293e4a";
+    m.style.color = "white";
+    n.style.backgroundColor = "white";
+    n.style.color = "black";
+  } else {
+    x.style.display = "none";
+    m.style.backgroundColor = "white";
+    m.style.color = "black";
+  }
+  if (y.style.display === "block") {
+    y.style.display = "none";
+  }
+}
+function BibTeXToggle(divID) {
+  var x = document.getElementById("Abstract"+divID);
+  var y = document.getElementById("BibTeX"+divID);
+  var m = document.getElementById("buttona"+divID);
+  var n = document.getElementById("buttonb"+divID);
+  if (y.style.display === "none") {
+    y.style.display = "block";
+    n.style.backgroundColor = "#293e4a";
+    n.style.color = "white";
+    m.style.backgroundColor = "white";
+    m.style.color = "black";
+  } else {
+    y.style.display = "none";
+    n.style.backgroundColor = "white";
+    n.style.color = "black";
+  }
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  }
+} 
+</script>
