@@ -46,5 +46,18 @@ homepage: true
 ---
 <br>
 # Upcoming Events
-
-<iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="show-for-xxlarge-only">
+  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="1200" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="show-for-xlarge-only">
+  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="show-for-large-only">
+  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="show-for-medium-only">
+  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="500" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="show-for-small-only">
+  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="460" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
