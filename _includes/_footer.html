@@ -7,6 +7,7 @@
 
     <footer id="footer-content" class="bg-grau">
       <div id="footer">
+	      <div class="show-for-xxlarge-only">
         <div class="row">
           <div class="small-6 medium-6 large-5 columns">
             <div class="shadow-black">{{ site.data.language.info_website }}</div>
@@ -27,7 +28,96 @@
             </ul>
           </div><!-- /.large-3.columns -->
         </div><!-- /.row -->
+	      </div><!-- show for only -->
 
+	      <div class="show-for-xlarge-only">
+        <div class="row">
+          <div class="small-6 medium-6 large-5 columns">
+            <div class="shadow-black">{{ site.data.language.info_website }}</div>
+
+            <p>
+	    {{ site.description }}<br>
+	    <a href="{{ site.url }}{{ site.baseurl }}/about/">{{ site.data.language.more }}</a><br>
+	    <big><a href="mailto:contact.cni@iisc.ac.in">contact.cni@iisc.ac.in</a></big>
+            </p>
+          </div><!-- /.large-6.columns -->
+          
+	  <div class="small-6 medium-6 large-6 columns">
+            <ul class="inline-list">
+		    <li><a href="https://iisc.ac.in" target="_blank" title="IISc"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/IISc_logo.png" style="width:auto;height:70px"></a></li>
+	      <li><a href="https://eecs.iisc.ac.in" target="_blank" title="EECS"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/ece_logo.jpg" style="width:auto;height:70px"></a></li>
+              <li><a href="https://cps.iisc.ac.in" target="_blank" title="RBCCPS"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/cropped-BCCPS-Logo.png" style="width:auto;height:70px"></a></li>
+              <li><a href="https://www.cisco.com/c/en_in/about/csr.html" title="Cisco CSR" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/Cisco-CSR-Logos-horiz-300x78.jpg" style="width:auto;height:70px"></a></li>
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+	      </div><!-- show for only -->
+
+	      <div class="show-for-large-only">
+        <div class="row">
+          <div class="small-6 medium-6 large-5 columns">
+            <div class="shadow-black">{{ site.data.language.info_website }}</div>
+
+            <p>
+	    {{ site.description }}<br>
+	    <a href="{{ site.url }}{{ site.baseurl }}/about/">{{ site.data.language.more }}</a><br>
+	    <big><a href="mailto:contact.cni@iisc.ac.in">contact.cni@iisc.ac.in</a></big>
+            </p>
+          </div><!-- /.large-6.columns -->
+          
+	  <div class="small-6 medium-6 large-6 columns">
+            <ul class="inline-list">
+		    <li><a href="https://iisc.ac.in" target="_blank" title="IISc"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/IISc_logo.png" style="width:auto;height:70px"></a></li>
+	      <li><a href="https://eecs.iisc.ac.in" target="_blank" title="EECS"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/ece_logo.jpg" style="width:auto;height:70px"></a></li>
+	    </ul>
+
+            <ul class="inline-list">
+              <li><a href="https://cps.iisc.ac.in" target="_blank" title="RBCCPS"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/cropped-BCCPS-Logo.png" style="width:auto;height:70px"></a></li>
+              <li><a href="https://www.cisco.com/c/en_in/about/csr.html" title="Cisco CSR" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/Cisco-CSR-Logos-horiz-300x78.jpg" style="width:auto;height:70px"></a></li>
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+	      </div><!-- show for only -->
+	      <div class="show-for-medium-only">
+
+        <div class="row">
+            <div class="shadow-black" style="text-align:center">{{ site.data.language.info_website }}</div>
+
+            <p style="text-align:center">
+	    {{ site.description }}<br>
+	    <a href="{{ site.url }}{{ site.baseurl }}/about/">{{ site.data.language.more }}</a><br>
+	    <big><a href="mailto:contact.cni@iisc.ac.in">contact.cni@iisc.ac.in</a></big>
+            </p>
+            <ul class="inline-list" style="width:fit-content;margin:0 auto">
+		    <li><a href="https://iisc.ac.in" target="_blank" title="IISc"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/IISc_logo.png" style="width:auto;height:70px"></a></li>
+		    <li><a href="https://eecs.iisc.ac.in" target="_blank" title="EECS"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/ece_logo.jpg" style="width:auto;height:70px"></a></li>
+	    </ul><br>
+	    <ul class="inline-list" style="width:fit-content;margin:0 auto">
+              <li><a href="https://cps.iisc.ac.in" target="_blank" title="RBCCPS"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/cropped-BCCPS-Logo.png" style="width:auto;height:70px"></a></li>
+              <li><a href="https://www.cisco.com/c/en_in/about/csr.html" title="Cisco CSR" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/Cisco-CSR-Logos-horiz-300x78.jpg" style="width:auto;height:70px"></a></li>
+            </ul>
+        </div><!-- /.row -->
+	      </div>
+	      <div class="show-for-small-only">
+
+        <div class="row">
+            <div class="shadow-black" style="text-align:center">{{ site.data.language.info_website }}</div>
+
+            <p style="text-align:center">
+	    {{ site.description }}<br>
+	    <a href="{{ site.url }}{{ site.baseurl }}/about/">{{ site.data.language.more }}</a><br>
+	    <big><a href="mailto:contact.cni@iisc.ac.in">contact.cni@iisc.ac.in</a></big>
+            </p>
+            <ul class="inline-list" style="width:fit-content;margin:0 auto">
+		    <li><a href="https://iisc.ac.in" target="_blank" title="IISc"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/IISc_logo.png" style="width:auto;height:70px"></a></li>
+		    <li><a href="https://eecs.iisc.ac.in" target="_blank" title="EECS"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/ece_logo.jpg" style="width:auto;height:70px"></a></li>
+	    </ul><br>
+	    <ul class="inline-list" style="width:fit-content;margin:0 auto">
+              <li><a href="https://cps.iisc.ac.in" target="_blank" title="RBCCPS"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/cropped-BCCPS-Logo.png" style="width:auto;height:70px"></a></li>
+              <li><a href="https://www.cisco.com/c/en_in/about/csr.html" title="Cisco CSR" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/Cisco-CSR-Logos-horiz-300x78.jpg" style="width:auto;height:70px"></a></li>
+            </ul>
+        </div><!-- /.row -->
+	      </div>
       </div><!-- /#footer -->
 
 
@@ -38,7 +128,7 @@
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
-            <ul class="inline-list social-icons">
+            <ul class="inline-list social-icons" style="width:fit-content;margin:0 auto">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
             {% endfor %}

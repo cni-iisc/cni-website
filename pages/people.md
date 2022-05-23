@@ -25,7 +25,7 @@ permalink: /people/
 **Research interests:** Network theory, Applied probability, Optimization methods, and their applications to distributed systems.<br> 
 <span class="icon-mail"> <a href="mailto:parimal@iisc.ac.in">parimal (at) iisc.ac.in</a></span>
 </div>
-<img style="float:left;width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Rajesh.jpeg">
+<img style="float:left;width:150px;height:160px" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Rajesh.jpeg">
 <div class="people_margin" markdown="1">
 ### [Rajesh Sundaresan](https://ece.iisc.ac.in/~rajeshs/) (Co-Convener)
 ##### Professor, Department of Electrical Communication Engineering (ECE)
@@ -50,7 +50,7 @@ permalink: /people/
 <span class="icon-mail"> <a href="mailto:amrutur@iisc.ac.in">amrutur (at) iisc.ac.in</a></span>
 </div>
 
-<img style="float:left;width:150px;height:150px" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/neeleshbmehta-1.png">
+<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/neeleshbmehta-1.png">
 <div class="people_margin" markdown="1">
 ### [Neelesh B Mehta](https://ece.iisc.ac.in/~nextgenwrl/)
 #### Professor, Department of Electrical Communication Engineering (ECE)
@@ -90,7 +90,7 @@ permalink: /people/
 **Research interests:** Communication Networks, Cyber Physical Systems, Distributed Systems: Stochastic modelling, Analysis, Inference, Optimisation, and Control problems arising in such systems.<br>
 <span class="icon-mail"> <a href="mailto:anurag@iisc.ac.in">anurag (at) iisc.ac.in</a></span>
 </div>
-<img style="float:left;width:150px;height:150px" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/joy.jpg">
+<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/joy.jpg">
 <div class="people_margin" markdown="1">
 ### [Joy Kuri](http://kuri.dese.iisc.ac.in/)
 #### Professor, Department of Electronic Systems Engineering (DESE)
@@ -384,13 +384,13 @@ Vishal Sevani received his B.E in Electronics Engineering and M.E in Electronics
 #### Post-Doctoral
 Nurzaman Ahmed is a Post-Doctoral Fellow at the Centre for Networked Intelligence from September 2021. Before joining IISc, Dr. Ahmed was a Post-doctoral Research Associate in the Department of Computer Science & Engineering, Indian Institute of Technology, Kharagpur, India. He received his Ph.D. degree from North-Eastern Hill University, Shillong, in 2020. He received B. Tech. and M.Tech. Degrees in Information Technology from North-Eastern Hill University, Shillong, India, in 2013 and 2016, respectively. He has published several research papers in reputed international journals, conferences and has patents. He has more than six years of research experience in Govt. of India-sponsored projects. His current research interests include Intent-Based Networking (IBN), Software-Defined Network (SDN), Internet of Things (IoT), and WiFi-based long-distance networks. He is a member of IEEE, ACM, and a graduate member of IEEE ComSoc. 
 </div>
-<img style="float:left;width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Gaurav-1024x1200.jpg">
+<img style="float:left;width:150px;height:160px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Gaurav-1024x1200.jpg">
 <div class="people_margin" markdown="1">
 ### Gaurav Gautam
 #### Technical Associate
 Gaurav Gautam holds a B.Tech degree in Electronics and Communication engineering from the Dronacharya College of Engineering Gurugram in 2015 and completed his M.Tech degree in Communication and Networks from the Indian Institute of Science, Bangalore in 2019.
 </div>
-<img style="float:left;width:150px;height:150px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Aniruddha-Iyer.jpg">
+<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Aniruddha-Iyer.jpg">
 <div class="people_margin" markdown="1">
 ### Aniruddha Iyer 
 #### Technical Associate
@@ -414,19 +414,19 @@ Sandhya Rathee, holds a B.Tech degree in Computer Science from Maharshi Dayanand
 #### Administrative Manager
 Thejashwini, holds a Bachelor’s degree in Commerce from Bangalore University (BU), Bangalore, India in 2010. She received her Master’s in business Administration (MBA) degree in Finance & Marketing from Bangalore University (BU), Bangalore, Karnataka in 2012. She has eight plus years of experience, and she has been associated with CNI, IISC since 2021.
 </div>
-<img style="float:left;width:150px;height:150px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture2.jpg">
+<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture2.jpg">
 <div class="people_margin" markdown="1">
 ### Ashwin Gerard Colaço
 #### Technical Associate
 Ashwin Gerard Colaco holds a Bachelor’s in Technology in Computer Science and Engineering from Nitte Meenakshi Institute of Technology (2020). He previously interned at Lehigh University, Pennsylvania under Prof Hank Korth.
 </div>
-<img style="float:left;width:150px;height:150px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture3-1.png">
+<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture3-1.png">
 <div class="people_margin" markdown="1">
 ### Aswin Prasad
 #### Technical Associate
 Aswin Prasad holds a Bachelor’s in Technology in computer Science and Engineering from Nitte Meenakshi Institute of Technology (2020). He previously interned at nuclei (CDNA Technologies Pvt. Ltd.) 
 </div>
-<img style="float:left;width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture4.jpg">
+<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture4.jpg">
 <div class="people_margin" markdown="1">
 ### Purushothaman Saravanan
 #### Technical Associate
