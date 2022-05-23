@@ -90,7 +90,7 @@ format: frontpage
             {% endfor %}
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
-    <div class="row t10">
+    <div class="row t10" style="margin:20px 20px">
             {% for post in site.posts %}
 	    {% if post.categories contains 'pin' %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
