@@ -59,5 +59,5 @@ homepage: true
   <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="500" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 <div class="show-for-small-only">
-  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="460" height="600" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="400" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
