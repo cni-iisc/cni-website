@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://10.32.199.46:4003/cni-website/</id>
 	<title>Centre for Networked Intelligence</title>
-	<updated>2022-04-18T13:04:26+00:00</updated>
+	<updated>2022-05-23T11:13:28+00:00</updated>
 
 	<subtitle>The Centre for Networked Intelligence, under the division of EECS and RBCCPS, IISc, aims to develop next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future.</subtitle>
 
@@ -45,12 +45,12 @@
 			
 			<summary>Among the latest in CNI’s contributions towards COVID-19 response, Indian Institute of Technology Madras, the Centre for Networked Intelligence at the Indian Institute of Science (IISc) and the Indian Statistical Institute (ISI) are collaborating with Semantic Web India, a private technology firm based in Bangalore, to continue the efforts of a critical COVID-19 Data Website.</summary>
 			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/CNI-COVID/">&lt;p&gt;&lt;em&gt;Among the latest in &lt;a href=&quot;https://cni.iisc.ac.in/covid-19-response/&quot;&gt;CNI’s contributions towards COVID-19 response&lt;/a&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.iitm.ac.in/&quot;&gt;Indian Institute of Technology Madras&lt;/a&gt;, the &lt;a href=&quot;https://www.iitm.ac.in/&quot;&gt;Centre for Networked Intelligence&lt;/a&gt; at the &lt;a href=&quot;https://iisc.ac.in/&quot;&gt;Indian Institute of Science (IISc)&lt;/a&gt; and the &lt;a href=&quot;https://www.isical.ac.in/&quot;&gt;Indian Statistical Institute&lt;/a&gt; (ISI) are collaborating with &lt;a href=&quot;http://www.semanticwebindia.com/index.html#extHeader5-6i&quot;&gt;Semantic Web&lt;/a&gt; India, a private technology firm based in Bangalore, to continue the efforts of a critical COVID-19 Data Website. 
-&lt;img src=&quot;/images/posts/screenshot-2021-11-24-213945-1536x768.png&quot; alt=&quot;&quot; /&gt; 
+&lt;img src=&quot;http://10.32.199.46:4003/cni-website/images/posts/screenshot-2021-11-24-213945-1536x768.png&quot; alt=&quot;&quot; /&gt; 
 &lt;a href=&quot;www.covid19india.org&quot;&gt;www.covid19india.org&lt;/a&gt;  offered a comprehensive view on the pandemic across India by providing data on confirmed cases, active and recovered cases, tests and fatalities. The portal also recently started showing vaccination administration status for single-dose and fully vaccinated.&lt;/p&gt;
 
 &lt;p&gt;The website, which till now was run by volunteers based on a crowd-sourcing model, provided valuable data to the public as well as researchers studying the pandemic. &lt;strong&gt;The organisers  recently announced that they would stop their operations beyond 31st October 2021.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/screenshot-2021-11-24-214123.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://10.32.199.46:4003/cni-website/images/posts/screenshot-2021-11-24-214123.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;This new initiative of these Academic Institutions and Semantic Web India will now continue updating the data from 1st November 2021 and make it available at &lt;a href=&quot;www.incovid19.org&quot;&gt;www.incovid19.org&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 </content>
@@ -87,7 +87,7 @@
 &lt;p&gt;The hackathon, featuring unique challenges to solve regarding authentication and data registry update, is open to all engineering students in India. There are bountiful prizes to be won, too!&lt;/p&gt;
 
 &lt;p&gt;Please head over to &lt;a href=&quot;https://hackathon.uidai.gov.in/&quot;&gt;https://hackathon.uidai.gov.in&lt;/a&gt; for more details.
-&lt;img src=&quot;/images/posts/aadhar_hackathon.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://10.32.199.46:4003/cni-website/images/posts/aadhar_hackathon.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
 
 			
@@ -124,8 +124,8 @@
 &lt;p&gt;Hands-on learning—learning by experimentation—is a great way to learn systems and networks. However, not everyone has access to a well-equipped lab (and COVID-19 has further restricted physical access to labs). Cloud computing and virtualisation has eased some of hardware resource requirements, but setting up a virtual lab environment takes significant effort and expertise.&lt;/p&gt;
 
 &lt;p&gt;On this Teachers’ day, we are delighted to announce the release of our &lt;a href=&quot;https://netlab.cnihackathon.in/&quot;&gt;cloud-based hands-on lab for Communication Networks&lt;/a&gt;. The software runs entirely on cloud, doing away with requirements to set up any software on a user’s computer. In addition to the lab environment, we have also put together self-learning course modules to recall key concepts (with links to Internet resources for learning the concepts), exercises, and code snippets to get started on complex exercises. The self-taught workflow is such that the learner is able to read the instructions as well as try out the examples in the lab console from the same browser window. Each user, after registration, is allocated a dedicated system resource to try out the exercises/experiments. The course content follows &lt;em&gt;executable book&lt;/em&gt; format (built using the excellent Jupyter-book project) to embed executable Python code within instructions. In addition, we’ve added system shell as well as a graphical desktop to access the system utilities needed for building, configuring, and programming networks.
-&lt;img src=&quot;/images/posts/frontend.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/images/posts/Screenshot_20210905_185747.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://10.32.199.46:4003/cni-website/images/posts/frontend.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://10.32.199.46:4003/cni-website/images/posts/Screenshot_20210905_185747.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The lab platform is accessible at &lt;a href=&quot;https://netlab.cnihackathon.in/&quot;&gt;https://netlab.cnihackathon.in&lt;/a&gt;. We intend to keep updating/improving the lab based on your feedback. So, please give it a spin and let us know your feedback at &lt;a href=&quot;cni.iisc.netlab@gmail.com&quot;&gt;cni.iisc.netlab@gmail.com&lt;/a&gt;!&lt;/p&gt;
 </content>
@@ -259,7 +259,7 @@ Mornings 9:30am to 12:30pm
 Afternoons 2:00pm to 5:00pm&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;column right&quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/posts/CNI_Summer_School_Networking_v2_small.png&quot; style=&quot;height:640px&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;http://10.32.199.46:4003/cni-website/images/posts/CNI_Summer_School_Networking_v2_small.png&quot; style=&quot;height:640px&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -529,10 +529,10 @@ Afternoons 2:00pm to 5:00pm&lt;/p&gt;
 			<summary>The Centre for Networked Intelligence, IISc inaugurated its state-of-the-art networking lab on 18 January 2021. The lab, developed in collaboration with Cisco India, has a network testbed which will enable researchers and students to develop applications, algorithms and experiments in emerging areas in communication and computer networking such as software-defined networking, network function virtualisation, and network slicing. The testbed is equipped with network control, management, and analytics platforms (Cisco DNAC centre), wireless controller, enterprise switches and routers, WiFi-6 access points, and an identity management suite.</summary>
 			<content type="html" xml:base="http://10.32.199.46:4003/cni-website/cni-lab-inauguration-and-seminar/">&lt;p&gt;The Centre for Networked Intelligence, IISc inaugurated its state-of-the-art networking lab on 18 January 2021. The lab, developed in collaboration with Cisco India, has a network testbed which will enable researchers and students to develop applications, algorithms and experiments in emerging areas in communication and computer networking such as software-defined networking, network function virtualisation, and network slicing. The testbed is equipped with network control, management, and analytics platforms (Cisco DNAC centre), wireless controller, enterprise switches and routers, WiFi-6 access points, and an identity management suite.&lt;/p&gt;
 &lt;iframe width=&quot;1084&quot; height=&quot;610&quot; src=&quot;https://www.youtube.com/embed/z8i-XVRvEhE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;  &lt;img src=&quot;/images/posts/DSC05396-199x300.jpg&quot; style=&quot;width:250px&quot; /&gt;  
-&lt;img src=&quot;/images/posts/DSC05402-199x300.jpg&quot; style=&quot;width:250px&quot; /&gt;  
-&lt;img src=&quot;/images/posts/DSC05413-199x300.jpg&quot; style=&quot;width:250px&quot; /&gt;  
-&lt;img src=&quot;/images/posts/DSC05426-199x300.jpg&quot; style=&quot;width:250px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;  &lt;img src=&quot;http://10.32.199.46:4003/cni-website/images/posts/DSC05396-199x300.jpg&quot; style=&quot;width:250px&quot; /&gt;  
+&lt;img src=&quot;http://10.32.199.46:4003/cni-website/images/posts/DSC05402-199x300.jpg&quot; style=&quot;width:250px&quot; /&gt;  
+&lt;img src=&quot;http://10.32.199.46:4003/cni-website/images/posts/DSC05413-199x300.jpg&quot; style=&quot;width:250px&quot; /&gt;  
+&lt;img src=&quot;http://10.32.199.46:4003/cni-website/images/posts/DSC05426-199x300.jpg&quot; style=&quot;width:250px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;CNI Networking Lab, developed in collaboration with &lt;a href=&quot;https://www.linkedin.com/company/cisco/&quot;&gt;Cisco&lt;/a&gt; was inaugurated by Krishna Sundaresan, VP Engineering, Cisco India and SAARC. The centre’s logo was unveiled by Prof. Yadati Narahari, Chair, Division of EECS, IISc.&lt;/p&gt;
 
