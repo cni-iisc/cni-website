@@ -15,7 +15,7 @@ permalink: /news/
 </div>
 <div class="show-for-small-only">
 <div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'announcements')" id="defaultOpen">Announcements</button>
+  <button class="tablinks" onclick="clickTab(event, 'announcements')" id="defaultOpenSmall">Announcements</button>
 </div>
 <div class="tab" style="display:flex;justify-content:center;align-items:center;">
   <button class="tablinks" onclick="clickTab(event, 'past')">Past</button>

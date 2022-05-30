@@ -10,16 +10,16 @@ permalink: /events/
 <div class="hide-for-small">
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpen">Upcoming Events</button>
-  <button class="tablinks" onclick="clickTab(event, 'nss')" id="defaultOpen">Network Seminar Series</button>
+  <button class="tablinks" onclick="clickTab(event, 'nss')">Network Seminar Series</button>
   <button class="tablinks" onclick="clickTab(event, 'past')">Past Events</button>
 </div>
 </div>
 <div class="show-for-small-only">
 <div class="tab" style="display:flex;justify-content:center;align-items:center">
-  <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpen">Upcoming Events</button>
+  <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpenSmall">Upcoming Events</button>
 </div>
 <div class="tab" style="display:flex;justify-content:center;align-items:center">
-  <button class="tablinks" onclick="clickTab(event, 'nss')" id="defaultOpen">Network Seminar Series</button>
+  <button class="tablinks" onclick="clickTab(event, 'nss')">Network Seminar Series</button>
 </div>
 <div class="tab" style="display:flex;justify-content:center;align-items:center">
   <button class="tablinks" onclick="clickTab(event, 'past')">Past Events</button>

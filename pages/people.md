@@ -19,7 +19,7 @@ permalink: /people/
 </div>
 <div class="show-for-small-only">
 <div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'faculty')" id="defaultOpen">Faculty</button>
+  <button class="tablinks" onclick="clickTab(event, 'faculty')" id="defaultOpenSmall">Faculty</button>
 </div>
 <div class="tab" style="display:flex;justify-content:center;align-items:center;">
   <button class="tablinks" onclick="clickTab(event, 'phd')">Ph.D. Fellows/Scholars</button>

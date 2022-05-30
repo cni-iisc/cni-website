@@ -17,7 +17,7 @@ header:
 </div>
 <div class="show-for-small-only">
 <div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'res-phd')" id="defaultOpen">Research by Ph.D. Fellows </button>
+  <button class="tablinks" onclick="clickTab(event, 'res-phd')" id="defaultOpenSmall">Research by Ph.D. Fellows </button>
 </div>
 <div class="tab" style="display:flex;justify-content:center;align-items:center;">
   <button class="tablinks" onclick="clickTab(event, 'res-mtech')">Research by M.Tech. Fellows</button>
