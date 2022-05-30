@@ -7,10 +7,23 @@ header:
 
 permalink: /events/
 ---
+<div class="hide-for-small">
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpen">Upcoming Events</button>
   <button class="tablinks" onclick="clickTab(event, 'nss')" id="defaultOpen">Network Seminar Series</button>
   <button class="tablinks" onclick="clickTab(event, 'past')">Past Events</button>
+</div>
+</div>
+<div class="show-for-small-only">
+<div class="tab" style="display:flex;justify-content:center;align-items:center">
+  <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpen">Upcoming Events</button>
+</div>
+<div class="tab" style="display:flex;justify-content:center;align-items:center">
+  <button class="tablinks" onclick="clickTab(event, 'nss')" id="defaultOpen">Network Seminar Series</button>
+</div>
+<div class="tab" style="display:flex;justify-content:center;align-items:center">
+  <button class="tablinks" onclick="clickTab(event, 'past')">Past Events</button>
+</div>
 </div>
 <div markdown="1" id="nss" class="tabcontent">
 # Network Seminar Series
@@ -19,7 +32,21 @@ permalink: /events/
     <div class="small-12 text-center columns">
         <a class="button large radius alert" href="https://groups.google.com/g/cni-seminar-series" target="_blank"> Subscribe to Network Seminar Series!</a>
     </div><!-- /.small-12.columns -->
-<iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="show-for-xxlarge-only">
+  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="1200" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="show-for-xlarge-only">
+  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="show-for-large-only">
+  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="show-for-medium-only">
+  <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="500" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="show-for-small-only">
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FKolkata&mode=AGENDA&title=CNI%20Network%20Seminar%20Series&src=dmFya2V5bWpvaG5AZ21haWwuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=djlmaHRhYWU2MmZlbnRlNnYyMmYzNmh0OGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4uaW5kaWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb20wMGE5Zjc2Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=azhvcDJzOTh2cDQ3dHZqY2E0cXZyZjZra3Q2aWc4YjlAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237986CB&color=%237986CB&color=%238E24AA&color=%23D50000&color=%23137333&color=%23E67C73" style="border:solid 1px #777" width="320" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
 </div><!-- /.row -->
 </div>
 <div markdown="1" id="talks" class="tabcontent">
