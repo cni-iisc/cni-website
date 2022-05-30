@@ -32,6 +32,15 @@ layout: compress
 	{% endunless %}
 
 	{% include _footer_scripts.html %}
-	<script>document.getElementById("defaultOpen").click();document.getElementById("defaultOpenSmall").click();</script>
+	<script>
+		if ($(window).width() > 769) 
+		{
+			document.getElementById("defaultOpen").click();
+		}
+		else
+		{
+			document.getElementById("defaultOpenSmall").click();
+		}
+	</script>
 </body>
 </html>
