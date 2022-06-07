@@ -25,6 +25,7 @@
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
+<!-- Script for size of top banner based on word count -->
 <script>
 function getWordCount(str) {
      return str.split(' ')
@@ -46,7 +47,7 @@ else if (window.innerWidth > 700)
 	size = words*5+100;
 	}
 else   { 
-	size = words*20+100;
+	size = words*25+100;
 	}
 document.getElementById("masthead-with-text").style.height = size + "px";
 </script>
