@@ -451,7 +451,7 @@ Stanly is a Ph.D. student in the Department of Computer Science and Automation a
 </div>
 <div class="show-for-small-only" markdown="1">
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Rooji.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Rooji.jpg">
 <div markdown="1" style="text-align:center">
 ### Rooji Jinan
 #### Advisor: Parimal Parag (ECE)
@@ -460,7 +460,7 @@ Rooji is a PhD student at Robert Bosch Centre for Cyber Physical Systems, IISc, 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Nishat-Koti-scaled-e1638604236142-1024x1284.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Nishat-Koti-scaled-e1638604236142-1024x1284.jpg">
 <div markdown="1" style="text-align:center">
 ### Koti Nishat Saipanmuluk
 #### Advisor: Arpita Patra (CSA)
@@ -469,7 +469,7 @@ Nishat is a PhD student in the Department of Computer Science and Automation at 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Anusree-Rajan.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Anusree-Rajan.jpg">
 <div markdown="1" style="text-align:center">
 ### Anusree Rajan
 #### Advisor: Dr. Pavankumar Tallapragada (EE)
@@ -478,7 +478,7 @@ Anusree is a Ph.D student in the department of Electrical Engineering at Indian 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/krishnachaythanyakv.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/krishnachaythanyakv.jpg">
 <div markdown="1" style="text-align:center">
 ### Krishna Chaythanya K V
 #### Advisor: Anurag Kumar (ECE) and Rajesh Sundaresan (ECE/RBCCPS)
@@ -487,7 +487,7 @@ Krishna Chaythanya is a fifth-year PhD student at the ECE Department. He obtaine
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Sheela_CS-1.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Sheela_CS-1.jpg">
 <div markdown="1" style="text-align:center">
 ### Sheela C S
 #### Advisor: Prof. Joy Kuri (DESE)
@@ -496,7 +496,7 @@ Sheela C S (Student Member, IEEE) is a Ph.D. student in the Department of Electr
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Ravi-raj-Saxena-2.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Ravi-raj-Saxena-2.jpg">
 <div markdown="1" style="text-align:center">
 ### Ravi Raj Saxena
 #### Advisor: T. V. Prabhakar (DESE) & Joy Kuri (DESE)
@@ -505,7 +505,7 @@ Ravi Raj Saxena is a PhD student in the Department of Electronic System Engineer
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/IMG_20181121_233602_028.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/IMG_20181121_233602_028.jpg">
 <div markdown="1" style="text-align:center">
 ### Joydeep Pal
 #### Advisor: T. V. Prabhakar (DESE) & Chandramani Singh (DESE)
@@ -517,7 +517,7 @@ Joydeep is a PhD student at Department of Electronic Systems Engineering, Indian
 # Past Scholars
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/NiheshRathod.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/NiheshRathod.jpg">
 <div markdown="1" style="text-align:center">
 ### Niheskumar Sumanbhai Rathod
 #### Advisor: Rajesh Sundaresan (ECE/RBCCPS) and Bharadwaj Amrutur (ECE/RBCCPS)
@@ -526,7 +526,7 @@ Nihesh received the B.E. degree in Electronics and Communications from Dharmsinh
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/VinayKumar.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/VinayKumar.jpg">
 <div markdown="1" style="text-align:center">
 ### Vinay Kumar Bindiganavile Ramadas
 #### Advisor: Navin Kashyap (ECE)
@@ -535,7 +535,7 @@ Vinay Kumar B.R. is a Ph.D. student in the ECE Department at the Indian Institut
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/Akshatha.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/Akshatha.jpg">
 <div markdown="1" style="text-align:center">
 ### Akshatha Jagadish
 #### Advisor: Manoj Varma (CeNSE)
@@ -544,7 +544,7 @@ Akshatha received her B.Tech. degree in Electronics and Communication from PES I
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" rc="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/Rooji.jpg">
+<img class="image_center"  src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/Rooji.jpg">
 <div markdown="1" style="text-align:center">
 ### Rooji Jinan
 #### Advisor: Parimal Parag (ECE)
@@ -553,7 +553,7 @@ Rooji received her B.Tech. degree in Electronics and Communication  and her M.Te
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/AjayBadita.jpeg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/AjayBadita.jpeg">
 <div markdown="1" style="text-align:center">
 ### Ajay Kumar Badita
 #### Advisor: Parimal Parag (ECE)
@@ -562,7 +562,7 @@ Ajay Badita is a PhD student in the department of Electrical Communication Engin
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/krishnachaythanyakv.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/krishnachaythanyakv.jpg">
 <div markdown="1" style="text-align:center">
 ### Krishna Chaythanya K V
 #### Advisor: Anurag Kumar (ECE) & Rajesh Sundaresan (ECE/RBCCPS)
@@ -571,7 +571,7 @@ Krishna Chaythanya is a PhD student at the ECE Department. He obtained his M.Sc(
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/nishat_koti-1440x1080-1.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/nishat_koti-1440x1080-1.jpg">
 <div markdown="1" style="text-align:center">
 ### Nishat Koti
 #### Advisor: Arpita Patra (CSA)
@@ -580,7 +580,7 @@ Nishat is a PhD student in the Department of Computer Science and Automation at 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/raghuram.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/raghuram.jpg">
 <div markdown="1" style="text-align:center">
 ### Raghuram Bharadwaj Diddigi
 #### Advisor: Shalabh Bhatnagar (CSA)
@@ -589,7 +589,7 @@ Raghuram is a Ph.D. student in the department of CSA at the Indian Institute of 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/Sarath-A-Y.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/Sarath-A-Y.jpg">
 <div markdown="1" style="text-align:center">
 ## Sarath Ampadi Yasodharan
 #### Advisor: Rajesh Sundaresan (ECE/RBCCPS)
@@ -598,7 +598,7 @@ Sarath is a PhD student in ECE Department working with Prof. Rajesh Sundaresan. 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/Stanly.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/phd/past/Stanly.jpg">
 <div markdown="1" style="text-align:center">
 ### Stanly Samuel
 #### Advisor: K.V. Raghavan & Deepak D’Souza(CSA)
@@ -760,7 +760,7 @@ Sujata is an Mtech (research) student in ECE department. She is currently workin
 </div>
 <div class="show-for-small-only">
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Somya-Sangal.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Somya-Sangal.jpg">
 <div markdown="1" style="text-align:center">
 ### Somya Sangal
 #### Advisor: Arpita Patra (CSA)
@@ -768,7 +768,7 @@ Somya is a second-year M. Tech student at IISc, Bangalore, working under the gui
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Photo-CNI_Varkey-M-John-1024x1167.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Photo-CNI_Varkey-M-John-1024x1167.jpg">
 <div markdown="1" style="text-align:center">
 ### Varkey M. John
 #### Advisor: Vaibhav Katewa (ECE)
@@ -776,7 +776,7 @@ Varkey is currently an M.Tech. (Research) student under Dr. Vaibhav Katewa in th
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img  class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Vishnu-Tej-Kunde.jpg">
+<img  class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Vishnu-Tej-Kunde.jpg">
 <div markdown="1" style="text-align:center">
 ### Vishnu Teja Kunde
 #### Advisor: Parimal Parag (ECE)
@@ -784,7 +784,7 @@ Vishnu is an MTech (Signal Processing) student in the Department of Electrical C
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img  class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Akshay-Ramappa-Shetty.jpg">
+<img  class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Akshay-Ramappa-Shetty.jpg">
 <div markdown="1" style="text-align:center">
 ### Akshay Ramappa Shetty
 #### Advisor: Neelesh B. Mehta (ECE)
@@ -792,7 +792,7 @@ Akshay is an M.Tech (Communication and Networks) student in the ECE department a
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Amrit-Priydarshi-1024x1104.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Amrit-Priydarshi-1024x1104.jpg">
 <div markdown="1" style="text-align:center">
 ### Amrit Priyadarshi
 #### Advisor: Himanshu Tyagi, Anurag Kumar (ECE)
@@ -800,7 +800,7 @@ Amrit is an M.Tech Student at ECE Department, he has completed B.tech From the N
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Saurabh-Kumar-Verma-1024x1114.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/Saurabh-Kumar-Verma-1024x1114.jpg">
 <div markdown="1" style="text-align:center">
 ### Saurabh Kumar Verma
 #### Advisor: Chandramani Singh (AI)
@@ -811,7 +811,7 @@ Saurabh Kumar Verma is an M.Tech Student in the Department of Computer Science a
 # Past Scholars
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Gururaj.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Gururaj.jpg">
 <div markdown="1" style="text-align:center">
 ### Gururaj. K
 #### Advisor: Ambedkar Dukkipati (CSA)
@@ -819,7 +819,7 @@ Gururaj is an MTech Student in EE Department. He did his BTech from NITK Surathk
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Mahak.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Mahak.jpg">
 <div markdown="1" style="text-align:center">
 ### Mahak Pancholi
 #### Advisor: Arpita Patra (CSA)
@@ -827,7 +827,7 @@ Mahak is a second year M. Tech student at IISc, Bangalore, working under the gui
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Nirabhra.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Nirabhra.jpg">
 <div markdown="1" style="text-align:center">
 ### Nirabhra Mandal
 #### Advisor: Pavankumar Tallapragada (EE)
@@ -835,7 +835,7 @@ Nirabhra Mandal is an MTech(Res) student in the Department of Electrical Enginee
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Prasanna.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Prasanna.jpg">
 <div markdown="1" style="text-align:center">
 ### Prasanna Patil
 #### Advisor: M. Narsimha Murty (CSA)
@@ -843,7 +843,7 @@ Mahak is a second year M. Tech student at IISc, Bangalore, working under the gui
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150"  src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Mahak.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Mahak.jpg">
 <div markdown="1" style="text-align:center">
 ### Mahak Pancholi
 #### Advisor: Arpita Patra (CSA)
@@ -851,7 +851,7 @@ Prasanna received his B.E. degree in Computer Engineering from L. D. College of 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150"  src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Saraswathy.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Saraswathy.jpg">
 <div markdown="1" style="text-align:center">
 ### Saraswathy Ramanathan
 #### Advisor: Parimal Parag (ECE)
@@ -859,7 +859,7 @@ Saraswathy RM is an M.Tech(Res) student at the ECE department working under the 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150"  src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/himani-1080x1080-2.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/himani-1080x1080-2.jpg">
 <div markdown="1" style="text-align:center">
 ### Himani Kamboj
 #### Advisor: Arpita Patra (CSA)
@@ -867,7 +867,7 @@ Himani is an M.Tech (Communication and Networks) student in the ECE department. 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150"  src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Rajat-Chopra-1.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Rajat-Chopra-1.jpg">
 <div markdown="1" style="text-align:center">
 ### Rajat Chopra
 #### Advisor: Aditya Gopalan (ECE)
@@ -875,7 +875,7 @@ Rajat is an M.Tech (Communication and Networks) student in ECE department. He is
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Robin-Francis.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Robin-Francis.jpg">
 <div markdown="1" style="text-align:center">
 ### Robin Francis
 #### Advisor: Sundeep Prabhakar Chepuri (ECE)
@@ -883,7 +883,7 @@ Robin is an M.Tech student in ECE department. His areas of research are distribu
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Sangisetty-Usha-Sree.jpeg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Sangisetty-Usha-Sree.jpeg">
 <div markdown="1" style="text-align:center">
 ### Sangisetty Usha Sree
 #### Advisor: Anurag Kumar (ECE)
@@ -891,7 +891,7 @@ Usha Sree is a second year M.Tech (Communication and Networks) student in ECE de
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150"  src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Sanjhi-Gupta.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Sanjhi-Gupta.jpg">
 <div markdown="1" style="text-align:center">
 ### Sanjhi Gupta
 #### Advisor: Chandra R. Murthy (ECE)
@@ -899,7 +899,7 @@ Sanjhi is an M.Tech (Communication and Networks) student in ECE department. Her 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150"  src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Sujata-Sinha.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/mtech/past/Sujata-Sinha.jpg">
 <div markdown="1" style="text-align:center">
 ### Sujata Sinha
 #### Advisor: A. Chockalingam (ECE)
@@ -1002,7 +1002,7 @@ Purushothaman Saravanan completed his Bachelor’s in Technology in Electronics 
 </div>
 <div class="show-for-small-only" markdown="1">
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/preetam.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/preetam.jpg">
 <div markdown="1" style="text-align:center">
 ### Preetam Patil
 #### Consultant Technologist
@@ -1010,7 +1010,7 @@ Preetam Patil holds a PhD in Computer Science (2010) and M.Tech-IT (2002) from I
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/pic-1024x1235.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/pic-1024x1235.jpg">
 <div markdown="1" style="text-align:center">
 ### Vishal Sevani
 #### Consultant Technologist
@@ -1018,7 +1018,7 @@ Vishal Sevani received his B.E in Electronics Engineering and M.E in Electronics
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/ppnurzaman-1.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/ppnurzaman-1.jpg">
 <div markdown="1" style="text-align:center">
 ### Nurzaman Ahmed  
 #### Post-Doctoral
@@ -1026,7 +1026,7 @@ Nurzaman Ahmed is a Post-Doctoral Fellow at the Centre for Networked Intelligenc
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Gaurav-1024x1200.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Gaurav-1024x1200.jpg">
 <div markdown="1" style="text-align:center">
 ### Gaurav Gautam
 #### Technical Associate
@@ -1034,14 +1034,14 @@ Gaurav Gautam holds a B.Tech degree in Electronics and Communication engineering
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Aniruddha-Iyer.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Aniruddha-Iyer.jpg">
 <div markdown="1" style="text-align:center">
 ### Aniruddha Iyer 
 #### Technical Associate
 Aniruddha Iyer holds a Bachelor’s in Technology in Computer Science from Shiv Nadar University with Minor in Mathematics (2020).
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/f.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/f.jpg">
 <div markdown="1" style="text-align:center">
 ### Prashanth S 
 #### Technical Associate
@@ -1049,7 +1049,7 @@ Prashanth S holds a Bachelor’s in Technology in Computer Science and Engineeri
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Sandhya_s-2.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Sandhya_s-2.jpg">
 <div markdown="1" style="text-align:center">
 ### Sandhya Rathee
 #### Technical Associate
@@ -1057,7 +1057,7 @@ Sandhya Rathee, holds a B.Tech degree in Computer Science from Maharshi Dayanand
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture1.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture1.jpg">
 <div markdown="1" style="text-align:center">
 ### Thejashwini G 
 #### Administrative Manager
@@ -1065,7 +1065,7 @@ Thejashwini, holds a Bachelor’s degree in Commerce from Bangalore University (
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture2.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture2.jpg">
 <div markdown="1" style="text-align:center">
 ### Ashwin Gerard Colaço
 #### Technical Associate
@@ -1073,7 +1073,7 @@ Ashwin Gerard Colaco holds a Bachelor’s in Technology in Computer Science and 
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture3-1.png">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture3-1.png">
 <div markdown="1" style="text-align:center">
 ### Aswin Prasad
 #### Technical Associate
@@ -1081,7 +1081,7 @@ Aswin Prasad holds a Bachelor’s in Technology in computer Science and Engineer
 </div>
 </div>
 <div style="clear:left;padding-top:20px">
-<img class="image_center" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture4.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture4.jpg">
 <div markdown="1" style="text-align:center">
 ### Purushothaman Saravanan
 #### Technical Associate
