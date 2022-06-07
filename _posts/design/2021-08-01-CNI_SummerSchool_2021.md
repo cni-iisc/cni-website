@@ -10,8 +10,13 @@ header:
  background-color: "#334d5c"
 
 ---
-<div class="row">
-  <div class="column left" markdown="1">
+<div class="show-for-small-only">
+   <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/posts/CNI_Summer_School_Networking_v2_small.png" >
+</div>
+<div class="hide-for-small">
+   <img style="float:right" width="400" src="{{ site.url }}{{ site.baseurl }}/images/posts/CNI_Summer_School_Networking_v2_small.png">
+</div>
+<div markdown="1">
    The [Centre for Networked Intelligence](https://cni.iisc.ac.in/) at [Indian Institute of Science (IISc)](https://www.iisc.ac.in/) is organizing its inaugural three-day CNI Summer School on **5-6-7th August 2021.**
 
 The fully online Summer School will include lectures by IISc faculty members as well as hands-on lab sessions on computer networks. The lecture sessions will consist of four lectures on advanced topics in Networks and Wireless Communications and one session on IoT MAC/chip design (along with a demo). Hands-on lab sessions will be conducted using a CNI’s cloud-based online lab platform.
@@ -27,26 +32,6 @@ The Summer School is targeted at 4th Year Bachelors’/dual-degree students or M
 **Timings:**
 Mornings 9:30am to 12:30pm
 Afternoons 2:00pm to 5:00pm
-  </div>
-  <div class="column right" markdown="1">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/posts/CNI_Summer_School_Networking_v2_small.png" style="height:640px">
-  </div>
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 #### Lecture Topics schedule
 <table>
   <tr>
@@ -117,3 +102,4 @@ Afternoons 2:00pm to 5:00pm
     <td>Hands-on lab, session-3</td>
   </tr>
 </table>
+</div>
