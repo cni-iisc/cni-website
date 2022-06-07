@@ -934,7 +934,7 @@ Nurzaman Ahmed is a Post-Doctoral Fellow at the Centre for Networked Intelligenc
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img style="float:left;width:150px;height:160px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Gaurav-1024x1200.jpg">
+<img style="float:left;width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Gaurav-1024x1200.jpg">
 <div class="people_margin" markdown="1">
 ### Gaurav Gautam
 #### Technical Associate
@@ -942,7 +942,7 @@ Gaurav Gautam holds a B.Tech degree in Electronics and Communication engineering
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Aniruddha-Iyer.jpg">
+<img style="float:left;width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Aniruddha-Iyer.jpg">
 <div class="people_margin" markdown="1">
 ### Aniruddha Iyer 
 #### Technical Associate
@@ -950,7 +950,7 @@ Aniruddha Iyer holds a Bachelor’s in Technology in Computer Science from Shiv 
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/f.jpg">
+<img style="float:left;width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/f.jpg">
 <div class="people_margin" markdown="1">
 ### Prashanth S 
 #### Technical Associate
@@ -974,7 +974,7 @@ Thejashwini, holds a Bachelor’s degree in Commerce from Bangalore University (
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture2.jpg">
+<img style="float:left;width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture2.jpg">
 <div class="people_margin" markdown="1">
 ### Ashwin Gerard Colaço
 #### Technical Associate
@@ -982,7 +982,7 @@ Ashwin Gerard Colaco holds a Bachelor’s in Technology in Computer Science and 
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture3-1.png">
+<img style="float:left;width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture3-1.png">
 <div class="people_margin" markdown="1">
 ### Aswin Prasad
 #### Technical Associate
@@ -990,7 +990,7 @@ Aswin Prasad holds a Bachelor’s in Technology in computer Science and Engineer
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img style="float:left;width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture4.jpg">
+<img style="float:left;width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture4.jpg">
 <div class="people_margin" markdown="1">
 ### Purushothaman Saravanan
 #### Technical Associate
@@ -1024,7 +1024,7 @@ Nurzaman Ahmed is a Post-Doctoral Fellow at the Centre for Networked Intelligenc
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img class="image_center" style="width:150px;height:160px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Gaurav-1024x1200.jpg">
+<img class="image_center" style="width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Gaurav-1024x1200.jpg">
 <div markdown="1" style="text-align:center">
 ### Gaurav Gautam
 #### Technical Associate
@@ -1032,14 +1032,14 @@ Gaurav Gautam holds a B.Tech degree in Electronics and Communication engineering
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img class="image_center" style="width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Aniruddha-Iyer.jpg">
+<img class="image_center" style="width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Aniruddha-Iyer.jpg">
 <div markdown="1" style="text-align:center">
 ### Aniruddha Iyer 
 #### Technical Associate
 Aniruddha Iyer holds a Bachelor’s in Technology in Computer Science from Shiv Nadar University with Minor in Mathematics (2020).
 </div>
 <div style="clear:left;margin-top:50px">
-<img class="image_center" style="width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/f.jpg">
+<img class="image_center" style="width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/f.jpg">
 <div markdown="1" style="text-align:center">
 ### Prashanth S 
 #### Technical Associate
@@ -1063,7 +1063,7 @@ Thejashwini, holds a Bachelor’s degree in Commerce from Bangalore University (
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img class="image_center" style="width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture2.jpg">
+<img class="image_center" style="width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture2.jpg">
 <div markdown="1" style="text-align:center">
 ### Ashwin Gerard Colaço
 #### Technical Associate
@@ -1071,7 +1071,7 @@ Ashwin Gerard Colaco holds a Bachelor’s in Technology in Computer Science and 
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img class="image_center" style="width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture3-1.png">
+<img class="image_center" style="width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture3-1.png">
 <div markdown="1" style="text-align:center">
 ### Aswin Prasad
 #### Technical Associate
@@ -1079,7 +1079,7 @@ Aswin Prasad holds a Bachelor’s in Technology in computer Science and Engineer
 </div>
 </div>
 <div style="clear:left;margin-top:50px">
-<img class="image_center" style="width:150px;height:140px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture4.jpg">
+<img class="image_center" style="width:150px;height:170px" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture4.jpg">
 <div markdown="1" style="text-align:center">
 ### Purushothaman Saravanan
 #### Technical Associate
