@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://10.32.199.46:4003/cni-website/sitemap.xml
