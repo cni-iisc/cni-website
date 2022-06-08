@@ -10,7 +10,7 @@ permalink: /news/
 <div class="hide-for-small">
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'announcements')" id="defaultOpen">Announcements</button>
-  <button class="tablinks" onclick="clickTab(event, 'past')">Past</button>
+  <button class="tablinks" onclick="clickTab(event, 'past')">CNI in the news</button>
 </div>
 </div>
 <div class="show-for-small-only">
@@ -37,7 +37,6 @@ permalink: /news/
 </div>
 
 <div markdown="1" id="past" class="tabcontent">
-# News
 <ul class="jekyllcodex_accordion">
    <li><input id="news1" type="checkbox" /><label for="news1">{{"### Curbs delay, but don’t prevent Omicron spread: Study <br><small>The Deccan Herald, 30 January 2022</small>" | markdownify}}</label>
 <div>{{ "Link to news article: [https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html](https://www.deccanherald.com/city/top-bengaluru-stories/curbs-delay-but-dont-prevent-omicron-spread-study-1076079.html)" | markdownify }}</div></li>

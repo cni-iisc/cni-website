@@ -78,6 +78,16 @@ permalink: /people/
 </div>
 
 <div style="clear:left;padding-top:20px">
+<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/joy.jpg">
+<div class="people_margin" markdown="1">
+### [Joy Kuri](http://kuri.dese.iisc.ac.in/)
+#### Professor, Department of Electronic Systems Engineering (DESE)
+**Research interests:** Analysis and control of communication networks and stochastic systems.<br>
+<span class="icon-mail"> <a href="mailto:kuri@iisc.ac.in">kuri (at) iisc.ac.in</a></span>
+</div>
+</div>
+
+<div style="clear:left;padding-top:20px">
 <img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/neeleshbmehta-1.png">
 <div class="people_margin" markdown="1">
 ### [Neelesh B Mehta](https://ece.iisc.ac.in/~nextgenwrl/)
@@ -129,16 +139,6 @@ permalink: /people/
 
 **Research interests:** Communication Networks, Cyber Physical Systems, Distributed Systems: Stochastic modelling, Analysis, Inference, Optimisation, and Control problems arising in such systems.<br>
 <span class="icon-mail"> <a href="mailto:anurag@iisc.ac.in">anurag (at) iisc.ac.in</a></span>
-</div>
-</div>
-
-<div style="clear:left;padding-top:20px">
-<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/joy.jpg">
-<div class="people_margin" markdown="1">
-### [Joy Kuri](http://kuri.dese.iisc.ac.in/)
-#### Professor, Department of Electronic Systems Engineering (DESE)
-**Research interests:** Analysis and control of communication networks and stochastic systems.<br>
-<span class="icon-mail"> <a href="mailto:kuri@iisc.ac.in">kuri (at) iisc.ac.in</a></span>
 </div>
 </div>
 
