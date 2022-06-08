@@ -13,14 +13,6 @@ permalink: /news/
   <button class="tablinks" onclick="clickTab(event, 'past')">Past</button>
 </div>
 </div>
-<div class="show-for-small-only">
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'announcements')" id="defaultOpenSmall">Announcements</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'past')">Past</button>
-</div>
-</div>
 <div markdown="1" id="announcements" class="tabcontent">
 
 

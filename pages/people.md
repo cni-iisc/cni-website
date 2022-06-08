@@ -17,20 +17,6 @@ permalink: /people/
   <button class="tablinks" onclick="clickTab(event, 'staff')">Staff</button>
 </div>
 </div>
-<div class="show-for-small-only">
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'faculty')" id="defaultOpenSmall">Faculty</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'phd')">Ph.D. Fellows/Scholars</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;text-align:center">
-  <button class="tablinks" style="text-align:center" onclick="clickTab(event, 'mtech')">M.Tech. Fellows/Scholars</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;text-align:center">
-  <button class="tablinks" style="text-align:center" onclick="clickTab(event, 'staff')">Staff</button>
-</div>
-</div>
 <div markdown="1" id="faculty" class="tabcontent">
 <div class="hide-for-small" markdown="1">
 <div style="padding-top:20px">

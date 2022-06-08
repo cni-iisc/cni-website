@@ -15,17 +15,6 @@ header:
   <button class="tablinks" onclick="clickTab(event, 'past')">Past Work</button>
 </div>
 </div>
-<div class="show-for-small-only">
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'res-phd')" id="defaultOpenSmall">Research by Ph.D. Fellows </button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'res-mtech')">Research by M.Tech. Fellows</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'past')">Past Work</button>
-</div>
-</div>
 <div markdown="1" id="res-phd" class="tabcontent">
 </div>
 <div markdown="1" id="res-mtech" class="tabcontent">

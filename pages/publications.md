@@ -8,27 +8,11 @@ header:
  title: "PUBLICATIONS"
  background-color: "#334d5c"
 ---
-<div class="hide-for-small">
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'journal')" id="defaultOpen">Journals</button>
   <button class="tablinks" onclick="clickTab(event, 'conference')">Conferences</button>
   <button class="tablinks" onclick="clickTab(event, 'techreport')">Technical Reports</button>
   <button class="tablinks" onclick="clickTab(event, 'preprint')">Preprints</button>
-</div>
-</div>
-<div class="show-for-small-only">
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'journal')" id="defaultOpenSmall">Journals</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'conference')">Conferences</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'techreport')">Technical Reports</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'preprint')">Preprints</button>
-</div>
 </div>
 <div markdown="1" id="journal" class="tabcontent">
 <ul class="jekyllcodex_accordion">

@@ -14,17 +14,6 @@ permalink: /events/
   <button class="tablinks" onclick="clickTab(event, 'past')">Past Events</button>
 </div>
 </div>
-<div class="show-for-small-only">
-<div class="tab" style="display:flex;justify-content:center;align-items:center">
-  <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpenSmall">Upcoming Events</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center">
-  <button class="tablinks" onclick="clickTab(event, 'nss')">Network Seminar Series</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center">
-  <button class="tablinks" onclick="clickTab(event, 'past')">Past Events</button>
-</div>
-</div>
 <div markdown="1" id="nss" class="tabcontent">
 # Network Seminar Series
 ##### CNI hosts a weekly network seminar series on different topics of communication and networking. Know more [here!](https://cni.iisc.ac.in/nss/)

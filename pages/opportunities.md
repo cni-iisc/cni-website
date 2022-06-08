@@ -14,18 +14,6 @@ permalink: /opportunities/
   <button class="tablinks" onclick="clickTab(event, 'intern')">Internships</button>
 </div>
 </div>
-<div class="show-for-small-only">
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'pdf')" id="defaultOpenSmall">Post-doctoral fellow</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'RE')">Research Engineer (DCN)</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'intern')">Internships</button>
-</div>
-
-</div>
 <div markdown="1" id="pdf" class="tabcontent">
 **Location: Indian Institute of Science Campus, Bengaluru**
 
