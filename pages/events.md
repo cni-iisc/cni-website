@@ -7,12 +7,10 @@ header:
 
 permalink: /events/
 ---
-<div class="hide-for-small">
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpen">Upcoming Events</button>
   <button class="tablinks" onclick="clickTab(event, 'nss')">Network Seminar Series</button>
   <button class="tablinks" onclick="clickTab(event, 'past')">Past Events</button>
-</div>
 </div>
 <div markdown="1" id="nss" class="tabcontent">
 # Network Seminar Series

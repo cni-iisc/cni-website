@@ -7,11 +7,9 @@ header:
 
 permalink: /news/
 ---
-<div class="hide-for-small">
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'announcements')" id="defaultOpen">Announcements</button>
   <button class="tablinks" onclick="clickTab(event, 'past')">Past</button>
-</div>
 </div>
 <div markdown="1" id="announcements" class="tabcontent">
 

@@ -9,13 +9,11 @@ header:
 
 permalink: /people/
 ---
-<div class="hide-for-small">
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'faculty')" id="defaultOpen">Faculty</button>
   <button class="tablinks" onclick="clickTab(event, 'phd')">Ph.D. Fellows/Scholars</button>
   <button class="tablinks" onclick="clickTab(event, 'mtech')">M.Tech. Fellows/Scholars</button>
   <button class="tablinks" onclick="clickTab(event, 'staff')">Staff</button>
-</div>
 </div>
 <div markdown="1" id="faculty" class="tabcontent">
 <div class="hide-for-small" markdown="1">
