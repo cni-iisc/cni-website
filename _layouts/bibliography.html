@@ -1,0 +1,79 @@
+---
+---
+  <div id="{{entry.key}}" class="col-sm-8">
+      <span><h4> {{entry.title}} </h4></span>
+      <span class="author">
+        {% for author in entry.author_array %}
+          {% if forloop.length == 1 %}
+            {% if author.last == site.scholar.last_name %}
+              <em>{{author.last}}, {{author.first}}</em>
+            {% else %}
+	    <em>{{author.last}}, {{author.first}}</em>
+            {% endif %}
+          {% else %}
+            {% unless forloop.last %}
+              {% if author.last == site.scholar.last_name %}
+                <em>{{author.last}}, {{author.first}};</em>
+              {% else %}
+                {% if site.data.coauthors[author.last] %}
+		<em><a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</em></a>,
+                {% else %}
+		<em>{{author.last}}, {{author.first}};</em>
+                {% endif %}
+              {% endif %}
+            {% else %}
+              {% if author.last == site.scholar.last_name %}
+	      <em>and {{author.last}}, {{author.first}}</em>
+              {% else %}
+                {% if site.data.coauthors[author.last] %}
+		<em>and <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a></em>
+                {% else %}
+		<em>and {{author.last}}, {{author.first}}</em>
+                {% endif %}
+              {% endif %}
+            {% endunless %}
+          {% endif %}
+        {% endfor %}
+      </span>
+      <br>
+
+      <span class="periodical">
+      {% if entry.type == "article" %}
+        {{entry.journal}}
+      {% elsif entry.type == "inproceedings" %}
+        In {{entry.booktitle}}
+      {% endif %}
+      {% if entry.year %}
+        {{entry.year}}
+      {% endif %}
+      </span>
+      <br>
+    {% if entry.bibtex %}
+    {% endif %}
+
+    <div class="links">
+    {% if entry.abstract %}
+    <button id="buttona{{entry.key}}" value="{{entry.key}}" onclick="AbstractToggle(this.value);" class="buttonAbsBib buttonhover">Abstract</button>
+    {% endif %}
+    {% if entry.bibtex %}
+    <button id="buttonb{{entry.key}}" value="{{entry.key}}" onclick="BibTeXToggle(this.value);" class="buttonAbsBib buttonhover">BibTeX</button>
+    {% endif %}
+    {% if entry.html %}
+    <button class="buttonAbsBib buttonhover"><a href="{{ entry.html }}" target="_blank">Online</a></button>
+    {% endif %}
+    {% if entry.pdf %}
+      <button class="buttonAbsBib buttonhover"><a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank">PDF</a></button>
+    {% endif %}
+    {% if entry.abstract %}
+    <div id="Abstract{{entry.key}}" style="display:none">
+	    {{entry.abstract}}
+    </div>
+    {% endif %}
+    {% if entry.bibtex %}
+    <div id="BibTeX{{entry.key}}" style="display:none">
+	    {{entry.bibtex}}
+    </div>
+    {% endif %}
+    </div>
+
+  </div>
