@@ -58,8 +58,8 @@
     {% if entry.bibtex %}
     <button id="buttonb{{entry.key}}" value="{{entry.key}}" onclick="BibTeXToggle(this.value);" class="buttonAbsBib buttonhover">BibTeX</button>
     {% endif %}
-    {% if entry.html %}
-    <button class="buttonAbsBib buttonhover"><a href="{{ entry.html }}" target="_blank">Online</a></button>
+    {% if entry.doi %}
+    <button class="buttonAbsBib buttonhover"><a href="https://doi.org/{{ entry.html }}" target="_blank">doi</a></button>
     {% endif %}
     {% if entry.pdf %}
       <button class="buttonAbsBib buttonhover"><a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank">PDF</a></button>
