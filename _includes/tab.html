@@ -12,9 +12,31 @@
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 56px;
+  padding: 5px 10px;
   transition: 0.3s;
-  font-size: 17px;
+  font-size: 2vh;
+  height: 70px;
+}
+/* one item */
+.tablinks:first-child:nth-last-child(1) {
+    width: 100%;
+}
+/* two items */
+.tablinks:first-child:nth-last-child(2),
+.tablinks:first-child:nth-last-child(2) ~ .tablinks {
+    width: 50%;
+}
+
+/* three items */
+.tablinks:first-child:nth-last-child(3),
+.tablinks:first-child:nth-last-child(3) ~ .tablinks {
+    width: 33.3333%;
+}
+
+/* four items */
+.tablinks:first-child:nth-last-child(4),
+.tablinks:first-child:nth-last-child(4) ~ .tablinks {
+    width: 25%;
 }
 
 /* Change background color of buttons on hover */
@@ -34,6 +56,25 @@
   -webkit-animation: fadeEffect 1s;
   animation: fadeEffect 1s;
 }
+@media only screen and (max-width: 1025px) {
+/* two items */
+.tablinks:first-child:nth-last-child(2),
+.tablinks:first-child:nth-last-child(2) ~ .tablinks {
+    width: 100%;
+}
+
+/* three items */
+.tablinks:first-child:nth-last-child(3),
+.tablinks:first-child:nth-last-child(3) ~ .tablinks {
+    width: 100%;
+}
+
+/* four items */
+.tablinks:first-child:nth-last-child(4),
+.tablinks:first-child:nth-last-child(4) ~ .tablinks {
+    width: 100%;
+}
+}
 </style>
 
 <script>
@@ -49,8 +90,8 @@ function clickTab(evt, tabName) {
   }
   document.getElementById(tabName).style.display = "block";
   evt.currentTarget.className += " active";
+  
 }
 
-// Get the element with id="defaultOpen" and click on it
 </script>
 

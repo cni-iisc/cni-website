@@ -51,6 +51,7 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-scholar
 
 
 #       ____              _             __  _
@@ -272,3 +273,24 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+scholar:
+  style: assets/bibliography/ieee-with-url.csl
+  locale: en
+
+  sort_by: year
+  order: ascending
+  group_by: year
+  group_order: descending  
+
+  source: _bibliography
+  bibliography: references.bib
+  repository: pdf
+  bibliography_template: bibliography
+  replace_strings: true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"

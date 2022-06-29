@@ -1,0 +1,59 @@
+---
+---
+  <div id="{{entry.key}}" class="col-sm-8">
+      <span><h4> {{entry.title}} </h4></span>
+      <span class="author">
+        {% for author in entry.author_array %}
+          {% if forloop.length == 1 %}
+              <em>{{author.last}}, {{author.first}}</em>
+          {% else %}
+            {% unless forloop.last %}
+                <em>{{author.last}}, {{author.first}};</em>
+            {% else %}
+	      <em>and {{author.last}}, {{author.first}}</em>
+            {% endunless %}
+          {% endif %}
+        {% endfor %}
+      </span>
+      <br>
+
+      <span class="periodical">
+      {% if entry.type == "article" %}
+        {{entry.journal}}
+      {% elsif entry.type == "inproceedings" %}
+        In {{entry.booktitle}}
+      {% endif %}
+      {% if entry.year %}
+        {{entry.year}}
+      {% endif %}
+      </span>
+      <br>
+    {% if entry.bibtex %}
+    {% endif %}
+
+    <div class="links">
+    {% if entry.abstract %}
+    <button id="buttona{{entry.key}}" value="{{entry.key}}" onclick="AbstractToggle(this.value);" class="buttonAbsBib buttonhover">Abstract</button>
+    {% endif %}
+    {% if entry.bibtex %}
+    <button id="buttonb{{entry.key}}" value="{{entry.key}}" onclick="BibTeXToggle(this.value);" class="buttonAbsBib buttonhover">BibTeX</button>
+    {% endif %}
+    {% if entry.doi %}
+    <button class="buttonAbsBib buttonhover"><a href="https://doi.org/{{ entry.doi }}" target="_blank">doi</a></button>
+    {% endif %}
+    {% if entry.pdf %}
+      <button class="buttonAbsBib buttonhover"><a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank">PDF</a></button>
+    {% endif %}
+    {% if entry.abstract %}
+    <div id="Abstract{{entry.key}}" style="display:none">
+	    {{entry.abstract}}
+    </div>
+    {% endif %}
+    {% if entry.bibtex %}
+    <div id="BibTeX{{entry.key}}" style="display:none">
+	    {{entry.bibtex}}
+    </div>
+    {% endif %}
+    </div>
+
+  </div>

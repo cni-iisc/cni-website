@@ -27,6 +27,8 @@
     url: ""
   - title: "Publications"
     url: "/publications/"
+  - title: "Publications_test"
+    url: "/publi_test/"
 - title: "Courses"
   url: "/courses/"
   side: right

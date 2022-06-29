@@ -8,23 +8,10 @@ header:
  title: "RESEARCH HIGHLIGHTS"
  background-color: "#334d5c"
 ---
-<div class="hide-for-small">
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'res-phd')" id="defaultOpen">Research by Ph.D. Fellows </button>
   <button class="tablinks" onclick="clickTab(event, 'res-mtech')">Research by M.Tech. Fellows</button>
   <button class="tablinks" onclick="clickTab(event, 'past')">Past Work</button>
-</div>
-</div>
-<div class="show-for-small-only">
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'res-phd')" id="defaultOpenSmall">Research by Ph.D. Fellows </button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'res-mtech')">Research by M.Tech. Fellows</button>
-</div>
-<div class="tab" style="display:flex;justify-content:center;align-items:center;">
-  <button class="tablinks" onclick="clickTab(event, 'past')">Past Work</button>
-</div>
 </div>
 <div markdown="1" id="res-phd" class="tabcontent">
 </div>
