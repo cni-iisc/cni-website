@@ -252,7 +252,7 @@ asciidoctor:
     icons: font
 
 scholar:
-  style: assets/bibliography/ieee-with-url.csl
+  style: apa
   locale: en
 
   sort_by: year
