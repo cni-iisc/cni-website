@@ -32,7 +32,7 @@ host: 10.32.199.46
 port: 4003
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -51,7 +51,6 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-    - jekyll-scholar
 
 
 #       ____              _             __  _
@@ -115,7 +114,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: CNI     # Default author for pages
   -
     scope:
       path: ''
@@ -124,7 +123,7 @@ defaults:
       show_meta: false   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: CNI     # Default author for posts
 
 
 
@@ -138,6 +137,13 @@ defaults:
 #  Open _data/navigation.yml to adjust the left and right topbar navigation
 #
 
+enable_project_categories:  true   # enables categorization of projects into
+                                     # multiple categories
+
+## Collections
+collections:
+  projects:
+    output: true
 
 
 #     _____ __________
@@ -195,21 +201,8 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
-
-
-#        ____  _
-#       / __ \(_)________ ___  _______
-#      / / / / / ___/ __ `/ / / / ___/
-#     / /_/ / (__  ) /_/ / /_/ (__  )
-#    /_____/_/____/\__, /\__,_/____/
-#                    /_/
-#
-# used in _includes/comments
-
-# disqus_shortname: 
-
+    twitter   : cni_iisc
+    facebook  : Centre-for-Networked-Intelligence-109923317917292
 
 #      _____
 #     / ___/____ ___________
@@ -235,23 +228,6 @@ sass:
 # google_analytics_tracking_id:
 
 
-
-#   _                 _     _
-#  | |_ __ ___      _| | __| |_ ___
-#  | __/ _` \ \ /\ / / |/ /| __/ _ \
-#  | || (_| |\ V  V /|   < | || (_) |
-#   \__\__,_| \_/\_/ |_|\_(_)__\___/     More › https://www.tawk.to/knowledgebase/
-#
-#  tawk.to is a free live chat app that lets you monitor and chat
-#  with visitors on your website or from a free customizable page
-#
-#  To load the script add tawkto: true in front matter of each page
-#
-# used in _includes/footer_scripts
-
-# tawkto_embed_uri:
-
-
 #     ___              _     __           __
 #    /   |  __________(_)___/ /___  _____/ /_____  _____
 #   / /| | / ___/ ___/ / __  / __ \/ ___/ __/ __ \/ ___/
@@ -273,24 +249,3 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
-
-scholar:
-  style: assets/bibliography/ieee-with-url.csl
-  locale: en
-
-  sort_by: year
-  order: ascending
-  group_by: year
-  group_order: descending  
-
-  source: _bibliography
-  bibliography: references.bib
-  repository: pdf
-  bibliography_template: bibliography
-  replace_strings: true
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
