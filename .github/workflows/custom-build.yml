@@ -1,4 +1,4 @@
-name: Build and deploy ityogi Jekyll site to GitHub Pages
+name: Build and deploy CNI Jekyll site to GitHub Pages
 
 on:
   push:
