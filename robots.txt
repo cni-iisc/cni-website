@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cni-iisc.github.io/cni-website/sitemap.xml
