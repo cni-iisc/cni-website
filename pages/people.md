@@ -15,6 +15,7 @@ permalink: /people/
   <button class="tablinks" onclick="clickTab(event, 'mtech')">M.Tech. Fellows/Scholars</button>
   <button class="tablinks" onclick="clickTab(event, 'staff')">Staff</button>
 </div>
+
 <div markdown="1" id="faculty" class="tabcontent">
 <div class="hide-for-small" markdown="1">
 
@@ -41,10 +42,8 @@ permalink: /people/
 <div style="clear:left;padding-top:20px">
 <img style="float:left" width="150"  src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Himanshu.jpg">
 <div class="people_margin" markdown="1">
-
 ### [Himanshu Tyagi](https://ece.iisc.ac.in/~htyagi/) (Co-convener)
 #### Assistant Professor, Department of Electrical Communication Engineering (ECE)
-
 **Research interests:** Information theory, information constrained learning and statistics, information theoretic cryptography, socio-technical networked systems.<br>
 <span class="icon-mail"> <a href="mailto:htyagi@iisc.ac.in">htyagi (at) iisc.ac.in</a></span>
 </div>
@@ -55,7 +54,6 @@ permalink: /people/
 <div class="people_margin" markdown="1">
 ### [Bharadwaj Amrutur](https://ece.iisc.ac.in/~htyagi/)
 #### Professor, Department of Electrical Communication Engineering (ECE); Chairman, Robert Bosch Centre for Cyber Physical Systems, IISc
-
 **Research interests:** IoT systems, Robotic Systems and Connected Autonomous Vehicles.<br>
 <span class="icon-mail"> <a href="mailto:amrutur@iisc.ac.in">amrutur (at) iisc.ac.in</a></span>
 </div>
@@ -76,7 +74,6 @@ permalink: /people/
 <div class="people_margin" markdown="1">
 ### [Neelesh B Mehta](https://ece.iisc.ac.in/~nextgenwrl/)
 #### Professor, Department of Electrical Communication Engineering (ECE)
-
 **Research interests:** Wireless Communication Systems, Communication theory and systems<br>
 <span class="icon-mail"> <a href="mailto:nbmehta@iisc.ac.in">nbmehta (at) iisc.ac.in</a></span>
 </div>
@@ -87,7 +84,6 @@ permalink: /people/
 <div class="people_margin" markdown="1">
 ### [Haresh Dagale](https://eecs.iisc.ac.in/people/haresh-dagale/)
 #### Principal Research Scientist, Department of Electronic Systems Engineering (DESE)
-
 **Research interests:** Embedded systems, TCP-IP networking, wireless networking, VoIP and audio video streaming.<br>
 <span class="icon-mail"> <a href="mailto:haresh@iisc.ac.in">haresh (at) iisc.ac.in</a></span>
 </div>
@@ -98,7 +94,6 @@ permalink: /people/
 <div class="people_margin" markdown="1">
 ### [Aditya Gopalan](https://ece.iisc.ac.in/~aditya/)
 #### Assistant Professor, Department of Electrical Communication Engineering (ECE)
-
 **Research interests:** Machine learning and Statistical inference, Control and performance modeling and Analysis of complex systems.<br>
 <span class="icon-mail"> <a href="mailto:aditya@iisc.ac.in">aditya (at) iisc.ac.in</a></span>
 </div>
@@ -109,7 +104,6 @@ permalink: /people/
 <div class="people_margin" markdown="1">
 ### [Vaibhav Katewa](https://ece.iisc.ac.in/anurag/)
 #### Assistant Professor, Department of Electrical Communication Engineering (ECE)
-
 **Research interests:** Analysis and design of security and privacy mechanisms for cyber-physical systems and complex networks, Decentralized and sparse feedback control, and protocol design for networked control systems.<br>
 <span class="icon-mail"> <a href="mailto:vkatewa@iisc.ac.in">vkatewa (at) iisc.ac.in</a></span>
 </div>
@@ -120,7 +114,6 @@ permalink: /people/
 <div class="people_margin" markdown="1">
 ### [Anurag Kumar](https://ece.iisc.ac.in/anurag/)
 #### Honorary Professor, Department of Electrical Communication Engineering (ECE)
-
 **Research interests:** Communication Networks, Cyber Physical Systems, Distributed Systems: Stochastic modelling, Analysis, Inference, Optimisation, and Control problems arising in such systems.<br>
 <span class="icon-mail"> <a href="mailto:anurag@iisc.ac.in">anurag (at) iisc.ac.in</a></span>
 </div>
@@ -131,7 +124,6 @@ permalink: /people/
 <div class="people_margin" markdown="1">
 ### [Chandra Murthy](https://ece.iisc.ac.in/~cmurthy/doku.php?id=home)
 #### Professor, Department of Electrical Communication Engineering (ECE)
-
 **Research interests:** Digital signal processing, Information theory and estimation theory, and their applications in the optimization of MIMO, OFDM and CDMA wireless communication systems.<br>
 <span class="icon-mail"> <a href="mailto:cmurthy@iisc.ac.in">cmurthy (at) iisc.ac.in</a></span>
 </div>
@@ -142,7 +134,6 @@ permalink: /people/
 <div class="people_margin" markdown="1">
 ### [T V Prabhakar](http://zenlab.dese.iisc.ac.in/people/tv-prabhakar/)
 #### Principal Research Scientist, Department of Electronic Systems Engineering (DESE)
-
 **Research interests:** Communication systems, sensor networks, energy harvesting systems.<br>
 <span class="icon-mail"> <a href="mailto:tvprabs@iisc.ac.in">tvprabs (at) iisc.ac.in</a></span>
 </div>
@@ -153,7 +144,6 @@ permalink: /people/
 <div class="people_margin" markdown="1">
 ### [Chandramani Singh](http://chandramani.dese.iisc.ac.in/)
 #### Assistant Professor, Department of Electronic Systems Engineering (DESE)
-
 **Research interests:** Communication networks, stochastic systems, federated learning, optimization, game theory.<br>
 <span class="icon-mail"> <a href="mailto:chandra@iisc.ac.in">chandra (at) iisc.ac.in</a></span>
 </div>
@@ -164,21 +154,31 @@ permalink: /people/
 <div class="people_margin" markdown="1">
 ### [Rahul Singh](https://sites.google.com/view/rsingh12/home)
 #### Assistant Professor, Department of Electrical Communication Engineering (ECE)
-
 **Research interests:** Machine Learning, Stochastic Control, Networks, CyberPhysical Systems, Queueing Theory, Distributed Systems and Control, Real-Time Systems.<br>
 <span class="icon-mail"> <a href="mailto:rahulsingh@iisc.ac.in">rahulsingh (at) iisc.ac.in</a></span>
 </div>
 </div>
+
+<div style="clear:left;padding-top:20px">
+<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/pavan_t.jpg">
+<div class="people_margin" markdown="1">
+### [Pavankumar Tallapragada](https://ee.iisc.ac.in/~pavant/)
+#### Assistant Professor, Department of Electrical Engineering (EE)
+**Research interests:** Networked control systems, Distributed systems and control, Multi-agent systems and control, Dynamics of socio-technical systems.<br>
+<span class="icon-mail"> <a href="mailto:pavant@iisc.ac.in">pavant (at) iisc.ac.in</a></span>
+</div>
+</div>
 </div>
 <div class="show-for-small-only" markdown="1">
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Parimal.jpeg">
 <div markdown="1" style="text-align:center">
 ### [Parimal Parag](https://ece.iisc.ac.in/~parimal/) (Convener)
 #### Assistant Professor, Department of Electrical Communication Engineering (ECE)
-
 **Research interests:** Network theory, Applied probability, Optimization methods, and their applications to distributed systems.<br> 
 <span class="icon-mail"> <a href="mailto:parimal@iisc.ac.in">parimal (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Rajesh.jpeg">
 <div markdown="1" style="text-align:center">
 ### [Rajesh Sundaresan](https://ece.iisc.ac.in/~rajeshs/) (Co-Convener)
@@ -186,6 +186,7 @@ permalink: /people/
 **Research interests:** Communication, computation, and control over networks, Decentralised algorithms over graphs and networks, Network analytics, and Information geometry.<br>
 <span class="icon-mail"> <a href="mailto:rajeshs@iisc.ac.in">rajeshs (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center"  src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Himanshu.jpg">
 <div markdown="1" style="text-align:center">
 
@@ -195,6 +196,7 @@ permalink: /people/
 **Research interests:** Information theory, information constrained learning and statistics, information theoretic cryptography, socio-technical networked systems.<br>
 <span class="icon-mail"> <a href="mailto:htyagi@iisc.ac.in">htyagi (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center"  src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Bharadwaj_Amrutur_Photo.jpg">
 <div markdown="1" style="text-align:center">
 ### [Bharadwaj Amrutur](https://ece.iisc.ac.in/~htyagi/)
@@ -212,6 +214,8 @@ permalink: /people/
 **Research interests:** Wireless Communication Systems, Communication theory and systems<br>
 <span class="icon-mail"> <a href="mailto:nbmehta@iisc.ac.in">nbmehta (at) iisc.ac.in</a></span>
 </div>
+
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/haresh.jpg">
 <div markdown="1" style="text-align:center">
 ### [Haresh Dagale](https://eecs.iisc.ac.in/people/haresh-dagale/)
@@ -220,6 +224,7 @@ permalink: /people/
 **Research interests:** Embedded systems, TCP-IP networking, wireless networking, VoIP and audio video streaming.<br>
 <span class="icon-mail"> <a href="mailto:haresh@iisc.ac.in">haresh (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Aditya_pic_NY.jpeg">
 <div markdown="1" style="text-align:center">
 ### [Aditya Gopalan](https://ece.iisc.ac.in/~aditya/)
@@ -228,6 +233,7 @@ permalink: /people/
 **Research interests:** Machine learning and Statistical inference, Control and performance modeling and Analysis of complex systems.<br>
 <span class="icon-mail"> <a href="mailto:aditya@iisc.ac.in">aditya (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Profile_Pic_Vaibhav_Katewa.jpg">
 <div markdown="1" style="text-align:center">
 ### [Vaibhav Katewa](https://ece.iisc.ac.in/anurag/)
@@ -236,6 +242,7 @@ permalink: /people/
 **Research interests:** Analysis and design of security and privacy mechanisms for cyber-physical systems and complex networks, Decentralized and sparse feedback control, and protocol design for networked control systems.<br>
 <span class="icon-mail"> <a href="mailto:vkatewa@iisc.ac.in">vkatewa (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Anurag-Kumar-1.jpg">
 <div markdown="1" style="text-align:center">
 ### [Anurag Kumar](https://ece.iisc.ac.in/anurag/)
@@ -244,6 +251,7 @@ permalink: /people/
 **Research interests:** Communication Networks, Cyber Physical Systems, Distributed Systems: Stochastic modelling, Analysis, Inference, Optimisation, and Control problems arising in such systems.<br>
 <span class="icon-mail"> <a href="mailto:anurag@iisc.ac.in">anurag (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/joy.jpg">
 <div markdown="1" style="text-align:center">
 ### [Joy Kuri](http://kuri.dese.iisc.ac.in/)
@@ -252,6 +260,7 @@ permalink: /people/
 **Research interests:** Analysis and control of communication networks and stochastic systems.<br>
 <span class="icon-mail"> <a href="mailto:kuri@iisc.ac.in">kuri (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Chandra-M.jpeg">
 <div markdown="1" style="text-align:center">
 ### [Chandra Murthy](https://ece.iisc.ac.in/~cmurthy/doku.php?id=home)
@@ -260,6 +269,7 @@ permalink: /people/
 **Research interests:** Digital signal processing, Information theory and estimation theory, and their applications in the optimization of MIMO, OFDM and CDMA wireless communication systems.<br>
 <span class="icon-mail"> <a href="mailto:cmurthy@iisc.ac.in">cmurthy (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/TV-Prabhakar-1.png">
 <div markdown="1" style="text-align:center">
 ### [T V Prabhakar](http://zenlab.dese.iisc.ac.in/people/tv-prabhakar/)
@@ -268,6 +278,7 @@ permalink: /people/
 **Research interests:** Communication systems, sensor networks, energy harvesting systems.<br>
 <span class="icon-mail"> <a href="mailto:tvprabs@iisc.ac.in">tvprabs (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Chandramani.jpg">
 <div markdown="1" style="text-align:center">
 ### [Chandramani Singh](http://chandramani.dese.iisc.ac.in/)
@@ -276,17 +287,27 @@ permalink: /people/
 **Research interests:** Communication networks, stochastic systems, federated learning, optimization, game theory.<br>
 <span class="icon-mail"> <a href="mailto:chandra@iisc.ac.in">chandra (at) iisc.ac.in</a></span>
 </div>
+
 <img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/Rahul.jpg">
 <div markdown="1" style="text-align:center">
 ### [Rahul Singh](https://sites.google.com/view/rsingh12/home)
 #### Assistant Professor, Department of Electrical Communication Engineering (ECE)
-
 **Research interests:** Machine Learning, Stochastic Control, Networks, CyberPhysical Systems, Queueing Theory, Distributed Systems and Control, Real-Time Systems.<br>
 <span class="icon-mail"> <a href="mailto:rahulsingh@iisc.ac.in">rahulsingh (at) iisc.ac.in</a></span>
 </div>
 
+
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/faculty/pavan_t.jpg">
+<div markdown="1" style="text-align:center">
+### [Pavankumar Tallapragada](https://ee.iisc.ac.in/~pavant/)
+#### Assistant Professor, Department of Electrical Engineering (EE)
+**Research interests:** Networked control systems, Distributed systems and control, Multi-agent systems and control, Dynamics of socio-technical systems.<br>
+<span class="icon-mail"> <a href="mailto:pavant@iisc.ac.in">pavant (at) iisc.ac.in</a></span>
+</div>
+
 </div>
 </div>
+
 <div id="phd" markdown="1" class="tabcontent">
 <div class="hide-for-small" markdown="1">
 

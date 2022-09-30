@@ -15,19 +15,23 @@ body {
     /* Flexbox stuff */
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     
     /* Text styles */
     text-align: center;
-    text-shadow: 2px 2px #000000;
-    color: white; /* ADD THIS LINE */
+    text-shadow: 1px 1px #666666;
+    color: #DDDD99; /* ADD THIS LINE */
     
     /* Background styles */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('/cni-website/assets/img/full-image-hero/image.jpg'); 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.7)), url('/assets/img/full-image-hero/image.jpg'); 
     background-size: 2000px 500px;
     background-position: center -1px;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+.hero span {
+	align-self: flex-end;
 }
 
 .hero h1 {
