@@ -257,8 +257,9 @@ scholar:
 
   sort_by: year
   order: ascending
-  group_by: year
+  group_by: year,type
   group_order: descending  
+  type_names: {inproceedings: Conference Papers}
 
   source: _bibliography
   bibliography: references.bib
