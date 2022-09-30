@@ -3,7 +3,7 @@ layout: page
 teaser: ""
 categories:
     - design
-permalink: /pubs/
+permalink: /publications/
 header:
  title: "PUBLICATIONS"
  background-color: "#334d5c"
