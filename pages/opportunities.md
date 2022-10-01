@@ -8,54 +8,118 @@ header:
 permalink: /opportunities/
 ---
 <div class="tab">
-  <button class="tablinks" onclick="clickTab(event, 'pdf')" id="defaultOpen">Post-doctoral fellow</button>
-  <button class="tablinks" onclick="clickTab(event, 'RE')">Research Engineer (DCN)</button>
-  <button class="tablinks" onclick="clickTab(event, 'intern')">Internships</button>
+  <button class="tablinks" onclick="clickTab(event, 'dcn')" id="defaultOpen">Research Engineer (DCN)</button>
+  <button class="tablinks" onclick="clickTab(event, 'adwiser')">Project Assistant (Network Labs)</button>
+  <button class="tablinks" onclick="clickTab(event, 'ics')">Project Associate (ICS)</button>
 </div>
-<div markdown="1" id="pdf" class="tabcontent">
+<div markdown="1" id="adwiser" class="tabcontent">
+**Position: Project Assistant (Network Labs)**
+
+We have an immediate opening for a Project Assistant/Associate position in the
+Network Labs, of the department of Electrical Communication Engineering, of
+IISc to work on wireless networking projects:
+
+We are seeking applications from ECE or Computer Science graduate/post-graduate
+engineers with the following technical skills:
+- Strong programming skills in C/C++/Python and a working knowledge of Matlab
+- In-depth understanding of and experience with TCP/IP networking
+- Working knowledge of the Linux OS and networking
+- Familiarity with the basic concepts in wireless communications and networking
+
+**Qualifications**
+- Bachelors or Masters degree in Computer Science, or Electronics and Communication Engg., or related disciplines
+- Salary will be commensurate with the qualifications
+
 **Location: Indian Institute of Science Campus, Bengaluru**
 
-The centre seeks exceptional candidates with strong fundamentals and interest in applying theory to practical, large-scale networked systems. Broadly, candidates with research interests in cyber physical systems, IoT, programmable networks, 5G networks, smart cities, data exchanges, networked autonomous vehicles, and theoretical underpinnings of these applications will align well with centre’s research objective. The candidate will get an opportunity to work with other researchers and faculty members at the centre, spanning multiple departments in the Electrical, Electronics, and Computer Sciences (EECS) division. 
+**About CNI:**<br>
+The Centre for Networked Intelligence (cni.iisc.ac.in) is an industry-sponsored
+research centre focused on developing next generation networking methodologies,
+and prototypes, based on fundamentals driven ideas and design.
 
-**How to apply:**
+**Incentives for joining CNI**
+- Opportunity to work on the frontiers of technology with state-of-the-art equipment and acquire industry-relevant skills
+- Combination of systems research and software development, with freedom to participate in various activities of the Centre
+- Opportunity to work with leading researchers from IISc
+- Potential for academic publications, enhancing higher study prospects. 
 
-Please fill in the form available at this [link](https://forms.gle/q6sMPHAGzqVLw3ZF8) to apply for post-doctoral fellowship.
+**Duration:** Initially for one year, renewable on mutual agreement.
+
+**How to apply:**<br>
+
+Please fill in [the form to apply](https://forms.gle/q6sMPHAGzqVLw3ZF8).
+
 </div>
-<div markdown="1" id="RE" class="tabcontent">
+
+<div markdown="1" id="dcn" class="tabcontent">
 **Position:** Research Engineer  (DCN)
 
 We are looking for energetic, hands-on individuals to join the data-center network (DCN) project at the Centre for Networked Intelligence (CNI), IISc. This role involves Linux systems development, quantitative analysis, and documentation. 
 
 **Location:** Indian Institute of Science Campus, Bengaluru
 
-**About CNI:**
-
+**About CNI:**<br>
 The Centre for Networked Intelligence (cni.iisc.ac.in) is an industry-sponsored research centre focused on developing next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future.  
 
 **Requirements:**
 
-A strong understanding of computer networks and Linux operating system 
-Proficiency in C/C++ and Python programming and development tools 
-Experience with network simulation/emulation tools is desirable
-Familiarity with Linux systems programming and virtualization (VMs/containers) will be an added advantage 
-Qualifications 
+- A strong understanding of computer networks and Linux operating system 
+- Proficiency in C/C++ and Python programming and development tools 
+- Experience with network simulation/emulation tools is desirable
+- Familiarity with Linux systems programming and virtualization (VMs/containers) will be an added advantage 
 
-Bachelors or master’s in Computer Science, Electrical Communication, or related disciplines 
-1-3 years of relevant experience 
-Freshers with an excellent academic record and projects in related areas will also be considered 
-Salary will be commensurate with qualifications. 
-Incentives for joining CNI 
+**Qualifications** 
 
-Opportunity to work on the frontiers of technology with advanced network equipment and acquire industry-relevant skills 
-Combination of systems research and software development, with freedom to participate in various activities of the Centre 
-Opportunity to work with leading researchers from IISc and industry experts 
-Potential for academic publications, enhancing higher study prospects. 
-**Duration: Initially for one year, renewable annually.**
+- Bachelors or master’s in Computer Science, Electrical Communication, or related disciplines 
+- 1-3 years of relevant experience 
+- Freshers with an excellent academic record and projects in related areas will also be considered 
+- Salary will be commensurate with qualifications. 
+
+**Incentives for joining CNI**<br>
+
+- Opportunity to work on the frontiers of technology with advanced network equipment and acquire industry-relevant skills 
+- Combination of systems research and software development, with freedom to participate in various activities of the Centre 
+- Opportunity to work with leading researchers from IISc and industry experts 
+- Potential for academic publications, enhancing higher study prospects. 
+
+**Duration:** Initially for one year, renewable annually.
 
 **How to apply:**
 
-Please fill in the form to apply.
+Please fill in [the form to apply](https://forms.gle/q6sMPHAGzqVLw3ZF8).
+
 </div>
-<div markdown="1" id="intern" class="tabcontent">
-We are not accepting any applications for internships currently. Please check later for announcements on internships.
+
+<div markdown="1" id="ics" class="tabcontent">
+
+**Position:** Project Associate (ICS)
+
+We have an opening for a Project Assistant/Associate position in Electronic Systems Engineering department of IISc to work on Industrial Control Systems (ICS) Security Testbed project.
+
+We are seeking applications from ECE/CSA graduate/post-graduate engineers with following technical skills:
+- Strong programming skills in C/C++/Python
+- In-depth understanding of TCP/IP network stack
+- Working knowledge of Linux Operating System and network security
+
+**Qualifications:**
+- Bachelors or master’s in Computer Science, Electrical Communication, or related disciplines
+- Salary will be commensurate with qualifications.
+
+**Location: Indian Institute of Science Campus, Bengaluru**
+
+**About CNI:**<br>
+The Centre for Networked Intelligence (cni.iisc.ac.in) is an industry-sponsored research centre focused on developing next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future.  
+
+**Incentives for joining CNI**
+- Opportunity to work on the frontiers of technology with state-of-the-art equipment and acquire industry-relevant skills 
+- Combination of systems research and software development, with freedom to participate in various activities of the Centre
+- Opportunity to work with leading researchers from IISc
+- Potential for academic publications, enhancing higher study prospects. 
+
+**Duration:** Initially for one year, renewable on mutual agreement.
+
+**How to apply:**
+
+Please fill in [the form to apply](https://forms.gle/q6sMPHAGzqVLw3ZF8).
+
 </div>
