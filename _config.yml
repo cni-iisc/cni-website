@@ -272,3 +272,5 @@ scholar:
   details_link:   Details
 
   query: "@*"
+
+keep_files: ['CNAME']
