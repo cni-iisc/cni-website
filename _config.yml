@@ -274,3 +274,4 @@ scholar:
   query: "@*"
 
 keep_files: ['CNAME']
+include: ['CNAME']
