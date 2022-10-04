@@ -52,7 +52,7 @@ plugins:
     - jekyll-gist
     - jekyll-paginate
     - jekyll-scholar
-
+    - jekyll-redirect-from
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
