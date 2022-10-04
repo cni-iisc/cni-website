@@ -7,18 +7,19 @@ header:
 
 permalink: /events/
 ---
+<!--
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'upcoming')" id="defaultOpen">Upcoming Events</button>
   <button class="tablinks" onclick="clickTab(event, 'nss')">Network Seminar Series</button>
   <button class="tablinks" onclick="clickTab(event, 'past')">Past Events</button>
 </div>
 <div markdown="1" id="nss" class="tabcontent">
+-->
+
 # Network Seminar Series
-##### CNI hosts a weekly network seminar series on different topics of communication and networking. Know more [here!](https://cni.iisc.ac.in/nss/)
-<div class="row t60 b60">
-    <div class="small-12 text-center columns">
-        <a class="button large radius alert" href="https://groups.google.com/g/cni-seminar-series" target="_blank"> Subscribe to Network Seminar Series!</a>
-    </div><!-- /.small-12.columns -->
+
+The Networks Seminar Series, hosted by CNI, is a technical discussion forum in topics including but not limited to computer networks, machine learning, signal processing, and information theory. The calendar of past and upcoming seminars is shown below.
+
 <div class="show-for-xxlarge-only">
   <iframe src="https://calendar.google.com/calendar/u/0/embed?color=%23cd74e6&src=v9fhtaae62fente6v22f36ht8c@group.calendar.google.com" style="border: 0" width="1200" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
@@ -34,15 +35,16 @@ permalink: /events/
 <div class="show-for-small-only">
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FKolkata&mode=AGENDA&title=CNI%20Network%20Seminar%20Series&src=dmFya2V5bWpvaG5AZ21haWwuY29t&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=djlmaHRhYWU2MmZlbnRlNnYyMmYzNmh0OGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4uaW5kaWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=Y19jbGFzc3Jvb20wMGE5Zjc2Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=azhvcDJzOTh2cDQ3dHZqY2E0cXZyZjZra3Q2aWc4YjlAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237986CB&color=%237986CB&color=%238E24AA&color=%23D50000&color=%23137333&color=%23E67C73" style="border:solid 1px #777" width="320" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
-</div><!-- /.row -->
+<div class="row t60 b60">
+    <div class="small-12 text-center columns">
+        <a class="button large radius alert" href="https://groups.google.com/g/cni-seminar-series" target="_blank"> Subscribe to Network Seminar Series mailing list</a>
+    </div><!-- /.small-12.columns -->
 </div>
-<div markdown="1" id="talks" class="tabcontent">
-</div>
-<div markdown="1" id="upcoming" class="tabcontent">
-# Upcoming Events
-</div>
-<div markdown="1" id="past" class="tabcontent">
-# Talks and Seminars
+
+**More details on the seminar series can be found on the [Network Seminar Series webpage](/nss)**
+
+## Talks and Seminars
+
 <ul class="jekyllcodex_accordion">
         <li><input id="talk1" type="checkbox" /><label for="talk1">{{"### General lower bounds for estimation under information constraints - Prof. Himanshu Tyagi" |  markdownify }}</label>
 <div>{{ "Talk by Prof. Himanshu Tyagi on 20/11/2020 hosted by [Foundation of Data Science](https://dstheory.wordpress.com/2020/11/11/friday-nov-20-himanshu-tyagi-for-the-indian-institute-of-science-iisc/) on &quot;General lower bounds for estimation under information constraints&quot;" | markdownify }}<br><iframe style="display:block;margin-left: auto; margin-right: auto;" width="350" height="315" src="https://www.youtube.com/embed/gcannMB6Ivg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></li>
@@ -75,4 +77,3 @@ Please head over to [https://hackathon.uidai.gov.in](https://hackathon.uidai.gov
   </dl>
 </div><!-- /.medium-7.columns -->
 
-</div>
