@@ -1107,17 +1107,17 @@ Sujata is an Mtech (research) student in ECE department. She is currently workin
 <img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/preetam.jpg">
 <div class="people_margin" markdown="1">
 ### Preetam Patil
-#### Consultant Technologist
+#### Consultant Technologist and Research Manager
 Preetam Patil holds a PhD in Computer Science (2010) and M.Tech-IT (2002) from IIT-Bombay, a post-graduate diploma in Software Technology (1998) from CDAC-Mumbai, and Bachelor of Engineering in Electrical Engineering (1996) from NIT-Jaipur. He was part of the Advanced Technology Group at NetApp India between 2010 and 2013, working on projects related to Big-Data and SDN. He has also worked at CDAC-Mumbai (formerly NCST) for ERNET operations, and at the School of Technology and Computer Science of TIFR Mumbai.
 </div>
 </div>
 
 <div style="clear:left;padding-top:20px">
-<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/pic-1024x1235.jpg">
+<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/jagadishm.jpg">
 <div class="people_margin" markdown="1">
-### Vishal Sevani
+### Jagadish Midthala
 #### Consultant Technologist
-Vishal Sevani received his B.E in Electronics Engineering and M.E in Electronics and Telecommunication Engineering from Mumbai University (India) in 2002 and 2006, respectively. He then joined IIT Bombay to do PhD. His PhD research was on devising and implementing low-cost solution to provide efficient rural Internet connectivity. After his PhD, he worked as a guest researcher in NIST, Maryland with focus of his research being standardization of mmWave WiFi networks. Apart from research experience, he also has significant industry experience having worked in software industry as a hands-on programmer, in 3 different start-ups, for about 7 years. His research interests are broadly in the area of systems and networking with emphasis on building real world systems. He likes to spend his free time watching and reading about movies as well as animal documentaries.
+Jagadish works on projects related to public health and epidemiology. Before joining CNI he worked as a software engineer and corporate trainer at Jed-i Technologies. He has a background in computer science with CS education as a specialization. He likes to spend his spare time hiking, travelling and teaching math to school students. He graduated from MS Ramaiah Institute of Technology (BE) in 2006 and holds master's and PhD degrees from IIT Bombay.
 </div>
 </div>
 
@@ -1187,11 +1187,11 @@ Preetam Patil holds a PhD in Computer Science (2010) and M.Tech-IT (2002) from I
 </div>
 
 <div style="clear:left;padding-top:20px">
-<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/pic-1024x1235.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/jagadishm.jpg">
 <div markdown="1" style="text-align:center">
-### Vishal Sevani
+### Jagadish Midthala
 #### Consultant Technologist
-Vishal Sevani received his B.E in Electronics Engineering and M.E in Electronics and Telecommunication Engineering from Mumbai University (India) in 2002 and 2006, respectively. He then joined IIT Bombay to do PhD. His PhD research was on devising and implementing low-cost solution to provide efficient rural Internet connectivity. After his PhD, he worked as a guest researcher in NIST, Maryland with focus of his research being standardization of mmWave WiFi networks. Apart from research experience, he also has significant industry experience having worked in software industry as a hands-on programmer, in 3 different start-ups, for about 7 years. His research interests are broadly in the area of systems and networking with emphasis on building real world systems. He likes to spend his free time watching and reading about movies as well as animal documentaries.
+Jagadish works on projects related to public health and epidemiology. Before joining CNI he worked as a software engineer and corporate trainer at Jed-i Technologies. He has a background in computer science with CS education as a specialization. He likes to spend his spare time hiking, travelling and teaching math to school students. He graduated from MS Ramaiah Institute of Technology (BE) in 2006 and holds master's and PhD degrees from IIT Bombay.
 </div>
 </div>
 
