@@ -1122,29 +1122,11 @@ Jagadish works on projects related to public health and epidemiology. Before joi
 </div>
 
 <div style="clear:left;padding-top:20px">
-<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Gaurav-1024x1200.jpg">
-<div class="people_margin" markdown="1">
-### Gaurav Gautam
-#### Technical Associate
-Gaurav Gautam holds a B.Tech degree in Electronics and Communication engineering from the Dronacharya College of Engineering Gurugram in 2015 and completed his M.Tech degree in Communication and Networks from the Indian Institute of Science, Bangalore in 2019.
-</div>
-</div>
-
-<div style="clear:left;padding-top:20px">
 <img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Aniruddha-Iyer.jpg">
 <div class="people_margin" markdown="1">
 ### Aniruddha Iyer 
 #### Technical Associate
 Aniruddha Iyer holds a Bachelor’s in Technology in Computer Science from Shiv Nadar University with Minor in Mathematics (2020).
-</div>
-</div>
-
-<div style="clear:left;padding-top:20px">
-<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/f.jpg">
-<div class="people_margin" markdown="1">
-### Prashanth S 
-#### Technical Associate
-Prashanth S holds a Bachelor’s in Technology in Computer Science and Engineering from Amrita Vishwa Vidyapeetham University (2021).  He previously interned at CNI IISc Bangalore, Cisco-Thingqubator and CDAC-Chennai.
 </div>
 </div>
 
@@ -1158,23 +1140,33 @@ Thejashwini, holds a Bachelor’s degree in Commerce from Bangalore University (
 </div>
 
 <div style="clear:left;padding-top:20px">
-<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture3-1.png">
+<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/tarunk.jpg">
 <div class="people_margin" markdown="1">
-### Aswin Prasad
+### Tarun Khandelwal
 #### Technical Associate
-Aswin Prasad holds a Bachelor’s in Technology in computer Science and Engineering from Nitte Meenakshi Institute of Technology (2020). He previously interned at nuclei (CDNA Technologies Pvt. Ltd.) 
+Tarun did B.E. in Electronics and Telecommunication Engineering from SGB Amravati University, Amravati, M.Tech. in VLSI Design from Visvesvaraya National Institute of Technology, Nagpur, M.Tech. (Research) from RBCCPS, IISc Bengaluru. He has previously worked as a Project Engineer at Wipro Technologies, and as a Junior Research Fellow at the Department of Electronic systems engineering and RBCCPS at IISc.
+</div>
+</div>
+
+
+<div style="clear:left;padding-top:20px">
+<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Nithish.jpg">
+<div class="people_margin" markdown="1">
+### Nithish K Ghani
+#### Project Associate
+Nithish K Gnani holds a Bachelor’s in Technology in Mechanical Engineering from National Institute of Technology Karnataka (NITK), Surathkal. He has previously worked as a Team Leader in Supply Chain vertical of Hindustan Coca-Cola Beverages Private Limited. At Zero Energy Networks (ZEN) Lab, DESE, IISc, he has worked on IoT data management, device identification using physically unclonable functions (PUF), indoor localization, WLAN modelling and simulation using MATLAB. He is currently working to build a time sensitive networking (TSN) capable switch on programmable network devices using P4 programming.
 </div>
 </div>
 
 <div style="clear:left;padding-top:20px">
-<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture4.jpg">
+<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/deepakc.jpg">
 <div class="people_margin" markdown="1">
-### Purushothaman Saravanan
-#### Technical Associate
-Purushothaman Saravanan completed his Bachelor’s in Technology in Electronics and Communication Engineering from PES University, Bengaluru in 2021.
+### Deepak Choudhary L
+#### Project Assistant
+Deepak Choudhary completed his Bachelor’s in Technology in Electronics and Communication Engineering from REVA University, Bengaluru in 2021. He previously interned at ECE, IISc.
 </div>
 </div>
-</div>
+
 <div class="show-for-small-only" markdown="1">
 
 <div style="clear:left;padding-top:20px">
@@ -1192,15 +1184,6 @@ Preetam Patil holds a PhD in Computer Science (2010) and M.Tech-IT (2002) from I
 ### Jagadish Midthala
 #### Consultant Technologist
 Jagadish works on projects related to public health and epidemiology. Before joining CNI he worked as a software engineer and corporate trainer at Jed-i Technologies. He has a background in computer science with CS education as a specialization. He likes to spend his spare time hiking, travelling and teaching math to school students. He graduated from MS Ramaiah Institute of Technology (BE) in 2006 and holds master's and PhD degrees from IIT Bombay.
-</div>
-</div>
-
-<div style="clear:left;padding-top:20px">
-<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Gaurav-1024x1200.jpg">
-<div markdown="1" style="text-align:center">
-### Gaurav Gautam
-#### Technical Associate
-Gaurav Gautam holds a B.Tech degree in Electronics and Communication engineering from the Dronacharya College of Engineering Gurugram in 2015 and completed his M.Tech degree in Communication and Networks from the Indian Institute of Science, Bangalore in 2019.
 </div>
 </div>
 
@@ -1231,20 +1214,29 @@ Thejashwini, holds a Bachelor’s degree in Commerce from Bangalore University (
 </div>
 
 <div style="clear:left;padding-top:20px">
-<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture3-1.png">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/tarunk.png">
 <div markdown="1" style="text-align:center">
-### Aswin Prasad
+### Tarun Khandelwal
 #### Technical Associate
-Aswin Prasad holds a Bachelor’s in Technology in computer Science and Engineering from Nitte Meenakshi Institute of Technology (2020). He previously interned at nuclei (CDNA Technologies Pvt. Ltd.) 
+Tarun did B.E. in Electronics and Telecommunication Engineering from SGB Amravati University, Amravati, M.Tech. in VLSI Design from Visvesvaraya National Institute of Technology, Nagpur, M.Tech. (Research) from RBCCPS, IISc Bengaluru. He has previously worked as a Project Engineer at Wipro Technologies, and as a Junior Research Fellow at the Department of Electronic systems engineering and RBCCPS at IISc.
 </div>
 </div>
 
 <div style="clear:left;padding-top:20px">
-<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Picture4.jpg">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/nithish.jpg">
 <div markdown="1" style="text-align:center">
-### Purushothaman Saravanan
-#### Technical Associate
-Purushothaman Saravanan completed his Bachelor’s in Technology in Electronics and Communication Engineering from PES University, Bengaluru in 2021.
+### Nithish K Gnani
+#### Project Associate
+Nithish K Gnani holds a Bachelor’s in Technology in Mechanical Engineering from National Institute of Technology Karnataka (NITK), Surathkal. He has previously worked as a Team Leader in Supply Chain vertical of Hindustan Coca-Cola Beverages Private Limited. At Zero Energy Networks (ZEN) Lab, DESE, IISc, he has worked on IoT data management, device identification using physically unclonable functions (PUF), indoor localization, WLAN modelling and simulation using MATLAB. He is currently working to build a time sensitive networking (TSN) capable switch on programmable network devices using P4 programming.
+</div>
+</div>
+
+<div style="clear:left;padding-top:20px">
+<img class="image_center" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/deepakc.jpg">
+<div markdown="1" style="text-align:center">
+### Deepak Choudhary L
+#### Project Assistant
+Deepak Choudhary completed his Bachelor’s in Technology in Electronics and Communication Engineering from REVA University, Bengaluru in 2021. He previously interned at ECE, IISc.
 </div>
 </div>
 
@@ -1280,3 +1272,4 @@ Sandhya Rathee, holds a B.Tech degree in Computer Science from Maharshi Dayanand
 -->
 </div>
 </div>
+
