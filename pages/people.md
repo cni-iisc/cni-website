@@ -1135,7 +1135,7 @@ Aniruddha Iyer holds a Bachelor’s in Technology in Computer Science from Shiv 
 <div class="people_margin" markdown="1">
 ### Thejashwini G 
 #### Administrative Manager
-Thejashwini, holds a Bachelor’s degree in Commerce from Bangalore University (BU), Bangalore, India in 2010. She received her Master’s in business Administration (MBA) degree in Finance & Marketing from Bangalore University (BU), Bangalore, Karnataka in 2012. She has eight plus years of experience, and she has been associated with CNI, IISC since 2021.
+Thejashwini holds a Bachelor’s degree in Commerce from Bangalore University (BU), Bangalore, India in 2010. She received her Master’s in business Administration (MBA) degree in Finance & Marketing from Bangalore University (BU), Bangalore, Karnataka in 2012. She has eight plus years of experience, and she has been associated with CNI, IISC since 2021.
 </div>
 </div>
 
@@ -1150,7 +1150,7 @@ Tarun did B.E. in Electronics and Telecommunication Engineering from SGB Amravat
 
 
 <div style="clear:left;padding-top:20px">
-<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/Nithish.jpg">
+<img style="float:left" width="150" src="{{ site.url }}{{ site.baseurl }}/images/people/staff/nithish.jpg">
 <div class="people_margin" markdown="1">
 ### Nithish K Ghani
 #### Project Associate
@@ -1209,7 +1209,7 @@ Prashanth S holds a Bachelor’s in Technology in Computer Science and Engineeri
 <div markdown="1" style="text-align:center">
 ### Thejashwini G 
 #### Administrative Manager
-Thejashwini, holds a Bachelor’s degree in Commerce from Bangalore University (BU), Bangalore, India in 2010. She received her Master’s in business Administration (MBA) degree in Finance & Marketing from Bangalore University (BU), Bangalore, Karnataka in 2012. She has eight plus years of experience, and she has been associated with CNI, IISC since 2021.
+Thejashwini holds a Bachelor’s degree in Commerce from Bangalore University (BU), Bangalore, India in 2010. She received her Master’s in business Administration (MBA) degree in Finance & Marketing from Bangalore University (BU), Bangalore, Karnataka in 2012. She has eight plus years of experience, and she has been associated with CNI, IISC since 2021.
 </div>
 </div>
 
