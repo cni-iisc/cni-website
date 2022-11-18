@@ -8,14 +8,14 @@ header:
 permalink: /opportunities/
 ---
 <div class="tab">
-  <button class="tablinks" onclick="clickTab(event, 'dcn')" id="defaultOpen">Research Engineer (DCN)</button>
-  <button class="tablinks" onclick="clickTab(event, 'adwiser')">Project Assistant (Network Labs)</button>
+  <button class="tablinks" onclick="clickTab(event, 'dcn')" id="defaultOpen">Research and Development Engineer (DCN)</button>
+  <button class="tablinks" onclick="clickTab(event, 'adwiser')">Project Associate (Network Labs)</button>
   <button class="tablinks" onclick="clickTab(event, 'ics')">Project Associate (ICS)</button>
 </div>
 <div markdown="1" id="adwiser" class="tabcontent">
-**Position: Project Assistant (Network Labs)**
+**Position: Project Associate (Network Labs)**
 
-We have an immediate opening for a Project Assistant/Associate position in the
+We have an immediate opening for a Project Associate position in the
 Network Labs, of the department of Electrical Communication Engineering, of
 IISc to work on wireless networking projects:
 
@@ -52,7 +52,7 @@ Please fill in [the form to apply](https://forms.gle/q6sMPHAGzqVLw3ZF8).
 </div>
 
 <div markdown="1" id="dcn" class="tabcontent">
-**Position:** Research Engineer  (DCN)
+**Position:** Research and Development Engineer  (DCN)
 
 We are looking for energetic, hands-on individuals to join the data-center network (DCN) project at the Centre for Networked Intelligence (CNI), IISc. This role involves Linux systems development, quantitative analysis, and documentation. 
 
@@ -71,9 +71,8 @@ The Centre for Networked Intelligence (cni.iisc.ac.in) is an industry-sponsored 
 **Qualifications** 
 
 - Bachelors or master’s in Computer Science, Electrical Communication, or related disciplines 
-- 1-3 years of relevant experience 
-- Freshers with an excellent academic record and projects in related areas will also be considered 
-- Salary will be commensurate with qualifications. 
+- Freshers as well experienced candidates are encouraged to apply
+- Salary will be commensurate with qualifications.
 
 **Incentives for joining CNI**<br>
 
@@ -94,7 +93,7 @@ Please fill in [the form to apply](https://forms.gle/q6sMPHAGzqVLw3ZF8).
 
 **Position:** Project Associate (ICS)
 
-We have an opening for a Project Assistant/Associate position in Electronic Systems Engineering department of IISc to work on Industrial Control Systems (ICS) Security Testbed project.
+We have an opening for a Project Associate position in Electronic Systems Engineering department of IISc to work on Industrial Control Systems (ICS) Security Testbed project.
 
 We are seeking applications from ECE/CSA graduate/post-graduate engineers with following technical skills:
 - Strong programming skills in C/C++/Python
