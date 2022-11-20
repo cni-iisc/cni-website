@@ -10,7 +10,6 @@ permalink: /opportunities/
 <div class="tab">
   <button class="tablinks" onclick="clickTab(event, 'dcn')" id="defaultOpen">Research and Development Engineer (DCN)</button>
   <button class="tablinks" onclick="clickTab(event, 'adwiser')">Project Associate (Network Labs)</button>
-  <button class="tablinks" onclick="clickTab(event, 'ics')">Project Associate (ICS)</button>
 </div>
 <div markdown="1" id="adwiser" class="tabcontent">
 **Position: Project Associate (Network Labs)**
@@ -89,36 +88,3 @@ Please fill in [the form to apply](https://forms.gle/q6sMPHAGzqVLw3ZF8).
 
 </div>
 
-<div markdown="1" id="ics" class="tabcontent">
-
-**Position:** Project Associate (ICS)
-
-We have an opening for a Project Associate position in Electronic Systems Engineering department of IISc to work on Industrial Control Systems (ICS) Security Testbed project.
-
-We are seeking applications from ECE/CSA graduate/post-graduate engineers with following technical skills:
-- Strong programming skills in C/C++/Python
-- In-depth understanding of TCP/IP network stack
-- Working knowledge of Linux Operating System and network security
-
-**Qualifications:**
-- Bachelors or master’s in Computer Science, Electrical Communication, or related disciplines
-- Salary will be commensurate with qualifications.
-
-**Location: Indian Institute of Science Campus, Bengaluru**
-
-**About CNI:**<br>
-The Centre for Networked Intelligence (cni.iisc.ac.in) is an industry-sponsored research centre focused on developing next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future.  
-
-**Incentives for joining CNI**
-- Opportunity to work on the frontiers of technology with state-of-the-art equipment and acquire industry-relevant skills 
-- Combination of systems research and software development, with freedom to participate in various activities of the Centre
-- Opportunity to work with leading researchers from IISc
-- Potential for academic publications, enhancing higher study prospects. 
-
-**Duration:** Initially for one year, renewable on mutual agreement.
-
-**How to apply:**
-
-Please fill in [the form to apply](https://forms.gle/q6sMPHAGzqVLw3ZF8).
-
-</div>
