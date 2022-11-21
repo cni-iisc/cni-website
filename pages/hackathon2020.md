@@ -38,7 +38,7 @@ The following are the cost and logistics constraints that need to be considered 
 1. A district can overload labs in it’s same district, up to a maximum of 100 excess swabs per lab. The cost of every such excess swabs is given in point 4 of section on allocation costs.
 1. Allocation of swabs to labs outside of the source district should be such that the maximum distance between any two such labs should be less than 40km.
 
-#### Visualization
+### Visualization
 Can you design a user interface and visualisation solution for the health care professional? The interface should take as inputs the daily caseload at districts and daily capacities and backlogs at testing labs and render the output of the allocation solution in an user friendly and intuitive manner via infographics. 
 
 For guidance, we list a few features that can be incorporated as part of the interface design for rendering the output.
@@ -65,4 +65,31 @@ The top two teams will have a chance to do an internship at the Centre for Netwo
 | First | Rs. 30,000 |
 | Second | Rs. 20,000 |
 |---------------------|
+
+## Participation
+
+#### Important Dates
+| Event | Date |
+|--------------|
+| Hackathon announcement | 23/11/2020 |
+| Registration start | 30/11/2020 |
+| Registration close | 09/12/2020 |
+| Submission start | 07/12/2020 |
+| Submission close | 13:00 hrs 14/12/2020 |
+| Finalist presentation | 16/12/2020 |
+| Winner announcements | 16/12/2020 |
+|-----------------------------------|
+
+#### Team Formation and Eligibility Rules
+The hackathon is open to all undergraduate (year 2, 3, and 4) and masters students in an engineering or science stream. A team can comprise up to 4 individuals, all belonging to the same institution.
+
+All communications with the team will be made through a registered email of a representative or coordinator of the team.
+
+#### Discussion Forum
+For discussions and queries about the hackathon, please visit the [hackathon forum] (https://discourse.cnihackathon.in/).
+
+## Sponsors
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Cisco-CSR-Logos-horiz.jpg" height="150">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/IISc_logo-150x150.png" height="150">
 
