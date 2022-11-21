@@ -91,8 +91,8 @@ For discussions and queries about the hackathon, please visit the [hackathon for
 ## Sponsors
 <table>
 <tr>
-<td><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Cisco-CSR-Logos-horiz.jpg" height="120"></td>
-<td><img src="{{ site.url }}{{ site.baseurl }}/assets/img/IISc_logo-150x150.png" height="150"></td>
+<td style="vertical-align:middle"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Cisco-CSR-Logos-horiz.jpg" height="100"></td>
+<td style="vertical-align:middle"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/IISc_logo-150x150.png" height="150"></td>
 </tr>
 </table>
 
