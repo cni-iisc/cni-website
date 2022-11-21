@@ -69,6 +69,7 @@ The top two teams will have a chance to do an internship at the Centre for Netwo
 ## Participation
 
 #### Important Dates
+
 | Event | Date |
 |--------------|
 | Hackathon announcement | 23/11/2020 |
