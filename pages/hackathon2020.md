@@ -89,7 +89,10 @@ All communications with the team will be made through a registered email of a re
 For discussions and queries about the hackathon, please visit the [hackathon forum] (https://discourse.cnihackathon.in/).
 
 ## Sponsors
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Cisco-CSR-Logos-horiz.jpg" height="150">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/IISc_logo-150x150.png" height="150">
+<table>
+<tr>
+<td><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Cisco-CSR-Logos-horiz.jpg" height="120"></td>
+<td><img src="{{ site.url }}{{ site.baseurl }}/assets/img/IISc_logo-150x150.png" height="150"></td>
+</tr>
+</table>
 
