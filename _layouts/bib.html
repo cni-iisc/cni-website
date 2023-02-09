@@ -199,7 +199,8 @@
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
-            <p>{{ entry.abstract }}</p>
+            <!-- <p>{{ entry.abstract }}</p> -->
+            <button id="buttona{{entry.key}}" value="{{entry.key}}" onclick="AbstractToggle(this.value);" class="buttonAbsBib buttonhover">Abstract</button>
           </div>
           {%- endif -%}
 
@@ -210,4 +211,5 @@
           </div>
           {%- endif %}
         </div>
+        
       </div>
