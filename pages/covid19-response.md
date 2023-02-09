@@ -4,7 +4,7 @@ layout: page
 
 categories:
     - design
-permalink: /covid19-response/
+permalink: /covid-19-response/
 header:
  title: "COVID19 RESPONSE"
  background-color: "#334d5c"

@@ -20,7 +20,7 @@
   side: right
   dropdown:
   - title: "COVID-19 Response"
-    url: "/covid19-response/"
+    url: "/covid-19-response/"
   - title: "Highlights"
     url: "/research-highlights/"
   - title: "R&D Projects"
