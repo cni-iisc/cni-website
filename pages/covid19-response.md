@@ -107,7 +107,8 @@ Hackathon on allocation of [Swabs to Labs](https://cni.iisc.ac.in/hackathon2020/
 </ul>
 <script>document.getElementById("accordion1").click();</script>
 # Our Sponsors
-We thank our many sponsors for supporting our efforts. Cisco CSR, IISc, Hitachi, Google, DST, DHWFS-NHM.
+### We thank our many sponsors for supporting our efforts. Cisco CSR, IISc, Hitachi, Google, DST, DHWFS-NHM.
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/covid19-response/Cisco-CSR-Logos-horiz-1920x496.jpg" style="height:90px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/covid19-response/IISc_Seal_Master_logo_Black-01-1527x1080.jpg" style="height:90px" />
 <img src="{{ site.url }}{{ site.baseurl }}/images/covid19-response/hitachi.png" style="height:90px" />
