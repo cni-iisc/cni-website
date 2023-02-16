@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2022-01-07 10:59:00-0400
+inline: true
+---
+
+
+##### India may see 10 lakh Covid cases a day by Jan-end: IISc-ISI model
+##### The Economic Times, 07 January 2022
+<div>{{ "Link to news article: [https://economictimes.indiatimes.com/news/india/india-may-see-10-lakh-covid-cases-a-day-by-jan-end-iisc-isi-model/articleshow/88763235.cms](https://economictimes.indiatimes.com/news/india/india-may-see-10-lakh-covid-cases-a-day-by-jan-end-iisc-isi-model/articleshow/88763235.cms)" | markdownify }}<br><img src="{{ site.url }}{{ site.baseurl }}/assets//img/news/coronavirus-indias-weekly-cases-up-nearly-3-fold-in-highest-ever-surge.jpg"></div>

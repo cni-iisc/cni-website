@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: logo.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>#EC 2.11,</p>
@@ -27,7 +27,7 @@ Realising the potential of networked intelligence requires a holistic approach, 
 
 The centre aims to develop next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future. The centre aims to build network applications and public policies for the benefit of society in areas such as smart cities, IoT/CPS, data exchanges etc
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `logo.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

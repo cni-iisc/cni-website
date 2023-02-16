@@ -1,13 +1,22 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: courses
+permalink: /courses/
+title: Courses
+description: While CNI does not offer any academic programs of its own, we have been developing online course/lab modules as well as contributing towards making some of IISc courses available online for the benefit of the larger student community.
 nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+nav_order: 5
+horizontal: true
 ---
+
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like!
+
+Disclaimer : ----------------- This page will be replaced by the courses page from the older version
+
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
