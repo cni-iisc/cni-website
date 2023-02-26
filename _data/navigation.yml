@@ -16,9 +16,11 @@
   side: right
 
 - title: Research
-  url: "/research-highlights/"
+  # url: "/research-highlights/"
   side: right
   dropdown:
+  - title: "Projects"
+  
   - title: "COVID-19 Response"
     url: "/covid-19-response/"
   - title: "Highlights"
