@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "PhD Thesis Oral Defence: Minimizing latency in data acquisition, distributed processing, storage, and retrieval"
-teaser: "Rojji Jinan, CNI Fellow during 2019-20 and 2021-22, will defend her thesis on March 1, 2023 (Wednesday) at 10 am.  Venue: RBCCPS Board Room
+teaser: "Rooji Jinan, CNI Fellow during 2019-20 and 2021-22, will defend her thesis on March 1, 2023 (Wednesday) at 10 am.  Venue: RBCCPS Board Room
 (in-person event)."
 categories:
     - defense
