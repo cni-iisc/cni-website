@@ -1,0 +1,51 @@
+<!-- _includes/people.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+
+      <div class="card hoverable " >
+       
+        {%- if people.img %}
+        {%- include figure.html
+          path=people.img
+          alt="people thumbnail" 
+          class = "people"
+          
+           -%}
+        {%- endif %}
+        
+        <div class="card-body">
+          {% if people.redirect -%}
+          <a href="{{ people.redirect }}">
+            {%- else -%}
+            <a href="{{ people.url | relative_url }}">
+              {%- endif %}
+          <h2 class="card-title small">{{ people.title }}</h2>
+        </a>
+          <p class="card-text">{{ people.description }}</p>
+          
+          <div class="row ml-1 mr-1 p-0">
+            
+              <!-- <div class ="card-text">
+                <p class="card-text">"Research Interests : "{{ people.Research_Interests }}</p>
+              </div> -->
+            
+            {%- if people.github -%}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ people.github }}"><i class="fab fa-github gh-icon"></i></a>
+              </div>
+              
+              {%- if people.github_stars -%}
+              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                <i class="fas fa-star"></i>
+                <span id="{{ people.github_stars }}-stars"></span>
+              </span>
+              {%- endif %}
+            </div>
+            {%- endif %}
+          </div>
+        
+        </div>
+      </div>
+    
+</div>

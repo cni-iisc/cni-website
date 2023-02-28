@@ -6,6 +6,7 @@
         <div class="container">
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+            
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
@@ -43,14 +44,14 @@
                 {% endif %}
               {% endfor %}
 
-              <!-- About -->
-              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+              <!-- About --> <!-- This is not required as the logo already points to the about page -->
+              <!-- <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
                   {%- if page.permalink == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
-              </li>
+              </li> -->
               {% if site.blog_nav_title %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">

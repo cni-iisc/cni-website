@@ -7,6 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: logo.png
+  dark_image: logo_black.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>#EC 2.11,</p>
