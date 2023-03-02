@@ -1,15 +1,23 @@
-<!-- _includes/people_new_layout.html-->
-
+<!-- _includes/people.html -->
 <div class="grid-sizer">
-  <div class="grid-item">
-    
-      <div class="card hoverable">
+<div class="grid-item">
 
-
-
- 
-      
-
+  <div class = "card-item">
+    <div class = "card hoverable">
+      <div class = "row g-1">
+        <div class="card-img col-md-6">
+          {% include figure.html path=people.img alt="people thumbnail" class="people.card-img" %}
+        </div>
+        
+        <div class="col-md-6">
+          <div class="card-body">
+            <h3 class="card-title">{{ people.title }}</h3>
+            <p class="card-text">{{ people.description }}</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
+      
+</div>    
 </div>

@@ -146,6 +146,10 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  img {
+    height: 4rem;
+    
+  }
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -170,11 +174,12 @@ blockquote {
 .navbar.navbar-light {
   a {
     &:hover {
-      text-decoration: none;
+      text-decoration:none;
     }
   }
   .navbar-brand {
     color: var(--global-text-color);
+    
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
@@ -455,6 +460,7 @@ footer.sticky-bottom {
     width: 250px;
     margin-bottom: 10px;
     height: 400px;
+    max-inline-size: 3;
 
   }
 
@@ -531,6 +537,7 @@ footer.sticky-bottom {
   }
 
   .card {
+    
     img {
       
       height:auto;
@@ -553,11 +560,12 @@ footer.sticky-bottom {
 
     .row {
       display: flex;
-      align-items: center;
+      // align-items: center;
       
       
     }
   }
+  
 
   .grid-sizer, .grid-item {
     width: 200px;

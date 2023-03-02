@@ -2,7 +2,7 @@
 layout: page
 title: Bharadwaj Amrutur
 description: Professor, Department of Electrical Communication Engineering (ECE); Chairman, RBCCPS, IISc
-img: assets/img/people/faculty/Bharadwaj_Amrutur.jpg
+img: assets/img/people/faculty/Bharadwaj_Amrutur_Photo.jpg
 importance: 3
 category: Faculty
 redirect: 

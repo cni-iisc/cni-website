@@ -5,9 +5,23 @@
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
           {% if page.permalink != '/' -%}
-          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+          <a class="navbar-brand switch" href="{{ site.baseurl }}/">
+
+
             
-            {%- if site.title == "blank" -%}
+              
+              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+              {%- assign profile_image_class = "img-fluid " -%}
+              
+              {% include figure.html 
+              path=profile_image_path 
+              class=nav
+              alt=page.profile.image -%}
+              
+            
+            
+
+            <!-- {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
               {%- endif -%}
@@ -19,8 +33,11 @@
               {%- endif -%}
             {%- else -%}
               {{- site.title -}}
-            {%- endif -%}
+            {%- endif -%} -->
           </a>
+
+
+          
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->
           <div class="navbar-brand social">
@@ -44,7 +61,7 @@
                 {% endif %}
               {% endfor %}
 
-              <!-- About --> <!-- This is not required as the logo already points to the about page -->
+              <!-- About This is not required as the logo already points to the about page -->
               <!-- <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
                   {%- if page.permalink == '/' -%}

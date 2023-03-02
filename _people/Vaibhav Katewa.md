@@ -2,7 +2,7 @@
 layout: page
 title: Vaibhav Katewa
 description: Assistant Professor, Department of Electrical Communication Engineering (ECE)
-img: assets/img/people/faculty/Vaibhav_Katewa.jpg
+img: assets/img/people/faculty/Profile_Pic_Vaibhav_Katewa.jpg
 importance: 3
 category: Faculty
 redirect: https://ece.iisc.ac.in/anurag/

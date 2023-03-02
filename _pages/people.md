@@ -29,7 +29,7 @@ horizontal: false
   {%- else -%}
   <div class="grid">
     {%- for people in sorted_people -%}
-      {% include people.html %}
+      {% include people_new_layout.html %}
     {%- endfor %}
   </div>
   {%- endif -%}

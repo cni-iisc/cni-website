@@ -25,14 +25,16 @@
     padding-top: 12px;
     display : block;
   }
-
+  
   .repo-img-light {
     display: block;
   }
   .repo-img-dark {
     display: none;
   }
+  
 }
+
 
 html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
@@ -47,8 +49,7 @@ html[data-theme='dark'] {
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
-  
-  
+
 
   .fa-sun {
     padding-left: 10px;
@@ -66,3 +67,4 @@ html[data-theme='dark'] {
     display: block;
   }
 }
+

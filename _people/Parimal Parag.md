@@ -2,7 +2,7 @@
 layout: page
 title: Parimal Parag ( Convener )
 description: Assistant Professor, Department of Electrical Communication Engineering (ECE)
-img: assets/img/people/faculty/Parimal.jpeg
+img: assets/img/people/faculty/Parimal.jpg
 importance: 1
 category: Faculty
 redirect: https://ece.iisc.ac.in/~parimal/

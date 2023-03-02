@@ -2,7 +2,7 @@
 layout: page
 title: Rajesh Sundaresan ( Co-Convener )
 description: Professor, Department of Electrical Communication Engineering (ECE)
-img: assets/img/people/faculty/Rajesh.jpeg
+img: assets/img/people/faculty/Rajesh.jpg
 importance: 2
 category: Faculty
 redirect: https://ece.iisc.ac.in/~rajeshs/

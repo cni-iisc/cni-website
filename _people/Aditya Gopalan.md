@@ -2,7 +2,7 @@
 layout: page
 title: Aditya Gopalan 
 description: Assistant Professor, Department of Electrical Communication Engineering (ECE)
-img: assets/img/people/faculty/Aditya_pic_NY.jpeg
+img: assets/img/people/faculty/Aditya_pic_NY.jpg
 importance: 4
 category: Faculty
 redirect: https://ece.iisc.ac.in/~aditya/
