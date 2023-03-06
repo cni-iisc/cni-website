@@ -19,9 +19,14 @@
             {%- else -%}
             <a href="{{ people.url | relative_url }}">
               {%- endif %}
-          <h2 class="card-title small">{{ people.title }}</h2>
+          <h2 class="card-title small">{{ people.title }}
+            {%- if people.position_at_CNI -%}
+            <br>
+            <i>( {{ people.position_at_CNI }})</i>
+            {%- endif -%}
+          </h2>
         </a>
-          <p class="card-text">{{ people.description }}</p>
+          <p class="card-text small">{{ people.description }}</p>
           
           <div class="row ml-1 mr-1 p-0">
             

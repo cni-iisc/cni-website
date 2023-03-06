@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Parimal Parag ( Convener )
+title: Parimal Parag
+position_at_CNI: Convener
 description: Assistant Professor, Department of Electrical Communication Engineering (ECE)
 img: assets/img/people/faculty/Parimal.jpg
 importance: 1

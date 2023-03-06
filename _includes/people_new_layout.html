@@ -1,23 +1,43 @@
 <!-- _includes/people.html -->
-<div class="grid-sizer">
+
+<div class="grid-sizer"></div>
 <div class="grid-item">
 
-  <div class = "card-item">
-    <div class = "card hoverable">
-      <div class = "row g-1">
-        <div class="card-img col-md-6">
-          {% include figure.html path=people.img alt="people thumbnail" class="people.card-img" %}
-        </div>
-        
-        <div class="col-md-6">
-          <div class="card-body">
-            <h3 class="card-title">{{ people.title }}</h3>
-            <p class="card-text">{{ people.description }}</p>
-          </div>
-        </div>
-      </div>
+  
+  <div class="people-item card hoverable">
+    <div class ="people-card">
+      <table>
+        <tr>
+          <td>
+            {% include figure.html path=people.img alt="people thumbnail" class="people.card-img" %}
+          </td>
+          <td class="card-text">
+            <ul type = none>
+              <li>
+                {{ people.title }}
+              </li>
+              <li>
+                <i>
+                {%- if people.position_at_CNI -%} 
+                  {{ people.position_at_CNI }}
+                {%- endif -%}
+              </i>
+              </li>
+              <li>
+                {{ people.description }}
+              </li>
+
+              <li>
+                <b>Research Interests: </b>{{ people.Research_Interests }}
+              </li>
+              <li>
+                
+              </li>
+            </ul>
+          </td>
+        </tr>
+      </table>
     </div>
   </div>
       
 </div>    
-</div>

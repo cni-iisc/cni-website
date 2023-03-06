@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Rajesh Sundaresan ( Co-Convener )
+title: Rajesh Sundaresan
+position_at_CNI: Co-Convener
 description: Professor, Department of Electrical Communication Engineering (ECE)
 img: assets/img/people/faculty/Rajesh.jpg
 importance: 2
