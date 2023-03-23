@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ICS Security Testbed
-description: a project with a background image
-img: assets/img/12.jpg
+description: 
+img: assets/img/projects/ICS Testbed.png
 importance: 1
 category: ""
 ---

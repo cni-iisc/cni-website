@@ -3,7 +3,7 @@ layout: page
 title: People
 permalink: /people/
 description: 
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Faculty,Ph.D. Fellows/Scholars, M.Tech. Fellows/Scholars, Staff ]
 horizontal: false

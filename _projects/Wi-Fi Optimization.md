@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Wi-Fi Optimization
-description: a project with a background image
-img: assets/img/1.jpg
+description: 
+img: assets/img/projects/wifi-optimisation.jpg
 importance: 3
 category: ""
 ---

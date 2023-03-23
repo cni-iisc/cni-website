@@ -4,8 +4,7 @@ title: courses
 permalink: /courses/
 title: Courses
 description: 
-nav: true
-nav_order: 5
+nav: false
 horizontal: true
 ---
 

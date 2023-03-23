@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: by the CNI
 # years: [1967, 1956, 1950, 1935, 1905]
-nav: true
+nav: false
 nav_order: 1
 ---
 

@@ -12,6 +12,7 @@ permalink: /cni-opportunities/
 header:
  title: "Opportunities"
  background-color: "#334d5c"
+tags: Research
 ---
 **Full time positions at the EECS/RBCCPS’s Centre for Networked Intelligence (a Cisco CSR initiative) at IISc (2)**
 

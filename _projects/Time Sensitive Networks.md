@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Time Sensitive Networks
-description: a project with a background image
-img: assets/img/3.jpg
+description:
+img: assets/img/projects/TimeSensitiveNetworking.png
 importance: 2
 category: ""
 ---

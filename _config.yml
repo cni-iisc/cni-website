@@ -164,6 +164,13 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+
+  seminars:
+    defaults:
+      layout: post
+    output: true
+    permalink: /seminars/:path/
+
   projects:
     output: true
     permalink: /projects/:path/
@@ -177,6 +184,9 @@ collections:
 
 news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
+
+seminars_scrollable: false
+seminars_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

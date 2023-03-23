@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Data Center Networks
-description: a project that redirects to another website
-img: assets/img/7.jpg
+description: 
+img: assets/img/projects/DCN.png
 redirect: https://unsplash.com
 importance: 3
 category: ""
