@@ -1,7 +1,7 @@
 ---
 layout: home
 title: home
-permalink: /home/
+permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -22,3 +22,6 @@ social: true  # includes social icons at the bottom of the page
 seminars: true
 
 ---
+
+
+

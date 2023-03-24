@@ -1,6 +1,6 @@
 ---
 layout: page
-title: seminars
+title: Seminars
 permalink: /seminars/
 description: 
 nav: false
@@ -8,6 +8,7 @@ nav: false
 display_categories: [""]
 horizontal: false
 ---
+{% youtube PLNN9TCnjABcZm0JkniaBpOIn3vb6dYTdH %}
 
 <!-- pages/seminars.md -->
 <div class="seminars">

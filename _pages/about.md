@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /about/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -16,8 +16,8 @@ profile:
     <p>Sir C V Raman Road, Bengaluru</p>
     <p>Karnataka 560012</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 We are racing towards a connected world where every individual and every connected device adds value to the network and derive value from the network. We leave traces when we engage with the network, and all such interactions add value to the network.

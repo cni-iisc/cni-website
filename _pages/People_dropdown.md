@@ -6,13 +6,13 @@ nav_order: 1
 dropdown: true
 children: 
     - title: Faculty
-      permalink: /
+      permalink: /faculty/
     - title: Staff
-      permalink: /
+      permalink: /staff/
     - title: divider
     - title: Ph.D. Fellows/Scholars
-      permalink: /
+      permalink: /phd/
     - title: M.Tech Fellows/Scholars
-      permalink: /
+      permalink: /mtech/
     
 ---

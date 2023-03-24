@@ -13,7 +13,7 @@ tags: PhD
 ---
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/people/phd/Rooji.jpg) -->
-<img src="{{ site.url }}{{ site.baseurl }}/images/people/phd/Rooji.jpg"  width="100">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/people/phd/Rooji.jpg"  width="100">
 
 Rooji Jinan, CNI Fellow during 2019-20 and 2021-22, will defend her thesis on March 1, 2023 (Wednesday) at 10 am.
 
