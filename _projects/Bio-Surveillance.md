@@ -2,8 +2,8 @@
 layout: page
 title: Bio-Surveillance
 description: 
-img: assets/img/12.jpg
+img: assets/img/projects/workflow.png
 importance: 1
 category: ""
-redirect: /cni_new/covid19response/
+redirect: /cni_new/covid-19-response/
 ---

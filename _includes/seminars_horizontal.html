@@ -1,0 +1,53 @@
+
+<a href="{{ seminar.url | relative_url }}">
+<div class="container  rounded shadow seminar-container">
+  <br>
+  <div class="row">
+    <div class="col">
+      {%- if seminar.recorded_video -%} 
+        <iframe width="350" height="315" src="https://www.youtube.com/embed/{{seminar.recorded_video}}"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      {%- endif -%}
+    </div>
+
+    
+    <div class="col-sm">
+      <div class="post-title">
+      {%- if seminar.title -%} 
+        <b>
+        {{ seminar.title }}
+        </b>
+      {%- endif -%}
+      </div>
+      <br>
+      <div class="caption">
+        
+        {%- if seminar.speaker -%} 
+          <div class = "post-meta text-left">Speaker :</div> 
+          {{ seminar.speaker }}
+        {%- endif -%}
+      </div>
+      <br>
+
+      <div class="caption">
+        {%- if seminar.description -%} 
+          {{ seminar.description }}
+        {%- endif -%}
+      </div>
+      <div class="more_authors_text">
+        <br>
+        
+        {%- if seminar.zoom_link -%} 
+          <a href="{{ seminar.zoom_link }}">
+             Click here to join 
+            
+          </a>
+        {%- endif -%}
+      </div>
+
+
+    </div>
+  </div>
+  <br>
+  
+</div>
+</a>
