@@ -5,7 +5,7 @@ speaker: Speaker's name
 description: Short Description of the seminar topic
 img: image link
 importance: 1
-date: 2020-09-10 10:59:00-0400
+date: 2023-03-27 16:59:00
 category: ""
 zoom_link: https://zoom.us/j/99506912102?pwd=c3VWNHpJdmZVWXNsNDRxdHhVaTBuZz09
 upcoming: true

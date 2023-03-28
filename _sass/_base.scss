@@ -4,6 +4,7 @@
 
 // Typography
 
+
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
@@ -146,8 +147,9 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  padding: 0;
   img {
-    height: 4rem;
+    height: 3rem;
     
   }
 }
@@ -450,6 +452,64 @@ footer.sticky-bottom {
       object-fit: cover;
       height: 200px;
     }
+  }
+
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+  
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  .grid-sizer, .grid-item {
+    width: 250px;
+    margin-bottom: 10px;
+    height: 400px;
+
+  }
+
+  h2.category {
+    color: var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: right;
+  }
+}
+
+
+// Opportunities
+
+.opportunities {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .card-title {
+    
+    font-size: small;
+    text-align: center;
+
+  }
+
+  .card {
+    img {
+      width: 100%;
+      object-fit: cover;
+      height: 200px;
+    }
+    background-color: rgba(201, 187, 255, 0.719);
   }
 
   .card-item {

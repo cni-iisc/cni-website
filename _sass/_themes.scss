@@ -16,6 +16,21 @@
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
 
+  .profile_image_class {
+    display: none;
+
+    
+
+  }
+  .profile_dark_image_class {
+    display: block;
+    position: relative;
+    padding-top: 5px;
+    
+    
+    
+  
+  }
 
   .fa-sun {
     display : none;
@@ -59,7 +74,21 @@ html[data-theme='dark'] {
   .fa-moon {
     display : none;
   }
+  
 
+  .profile_dark_image_class {
+    display: none;
+
+  }
+  .profile_image_class {
+    display: inline-block;
+    position: relative;
+    padding-top: 5px;
+    
+    
+
+    
+  }
   .repo-img-light {
     display: none;
   }

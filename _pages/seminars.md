@@ -26,13 +26,15 @@ horizontal: true
    <br>
 {%- assign seminars = site.seminars | sort: "date" | reverse %}
 
+{%- assign cdate = site.time  -%}
 
+<!-- {{ cdate }} -->
 - **Upcoming Seminars**  
 
 <div class="seminars">
   <div class="container">
     {%- for seminar in seminars -%}
-      {%- if seminar.upcoming -%}
+      {%- if seminar.date > cdate -%}
         {% include seminars_horizontal.html %}
       {%- endif -%}
     {%- endfor %}
@@ -52,9 +54,9 @@ horizontal: true
 <div class="seminars">
   <div class="container">
     {%- for seminar in seminars -%}
-      {%- unless seminar.upcoming -%}
+      {%- if seminar.date < cdate -%}
         {% include seminars_horizontal.html %}
-      {%- endunless -%}
+      {%- endif -%}
     {%- endfor %}
   </div>
 </div>

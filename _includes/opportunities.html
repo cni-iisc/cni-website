@@ -1,0 +1,23 @@
+<!-- _includes/opportunitys.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if opportunity.redirect -%}
+  <a href="{{ opportunity.redirect }}">
+    {%- else -%}
+    <a href="{{ opportunity.url | relative_url }}">
+      {%- endif %}
+      <div class="card hoverable">
+        {%- if opportunity.img %}
+        {%- include figure.html
+          path=opportunity.img
+          alt="opportunity thumbnail"
+          height=20px -%}
+        {%- endif %}
+        <div class="card-body">
+          <h2 class="card-title small">{{ opportunity.title }}</h2>
+          <p class="card-text">{{ opportunity.description }}</p>
+          
+        </div>
+      </div>
+    </a>
+</div>
