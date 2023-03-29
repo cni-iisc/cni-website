@@ -10,9 +10,7 @@ email: cni@iisc.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
  'The Centre for Networked Intelligence, under the division of EECS and RBCCPS, IISc, aims to develop next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future.'
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 logo: "Logos/CNI Final logo_8 Jan 2021/CNI Final logo_whiter_kumari_08 01 2021.png" # "logo.png"
 logo_theme_dark: "Logos/CNI Final logo_8 Jan 2021/CNI Final logo_bw_kumari_08 01 2021.png" # actual value was "logo_black.png"
@@ -25,7 +23,7 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 host: 10.32.199.46
-port: 4005
+port: 4006
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -190,6 +188,8 @@ collections:
 
 news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
+
+blog_limit: 3 
 
 seminars_scrollable: false
 seminars_limit: 5

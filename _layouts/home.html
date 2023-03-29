@@ -54,7 +54,10 @@ layout: default
   </a>
 </div>
 
-
+{% if page.blog -%}
+            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Updates</a></h2>
+            {%- include blog.html %}
+          {%- endif %}
 
 {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Highlighted publications</a></h2>
