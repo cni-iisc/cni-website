@@ -1,6 +1,6 @@
 ---
 layout: page
-title: M.Tech. Fellows/Scholars
+title: M Tech Fellows
 permalink: /mtech/
 description: 
 nav: false
@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/peoples.md -->
-<div class="people">
+<div class="people-non-faculty">
 {%- if site.enable_people_categories and page.display_categories %}
   <!-- Display categorized people -->
   {%- for category in page.display_categories %}

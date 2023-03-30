@@ -9,12 +9,12 @@ children:
       permalink: /seminars/
     - title: Courses
       permalink: /courses/
-    - title: divider
+    # - title: divider
     - title: Hackathons
       permalink: /hackathon2020/
-    - title: CNI Summer School
+    - title: Summer School
       permalink: /summerschool/
-    - title: divider
+    # - title: divider
     - title: CNI in the News
       permalink: /news/
     # - title: Newsletter

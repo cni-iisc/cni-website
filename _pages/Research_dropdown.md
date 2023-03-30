@@ -9,10 +9,9 @@ children:
       permalink: /projects/
     - title: Publications
       permalink: /publications/
-    - title: divider
+    # - title: divider
     - title: Research Highlights
       permalink: /researchhighlights/
-    - title: Covid 19 response
-      permalink: /covid-19-response/
+
     
 ---

@@ -491,15 +491,17 @@ footer.sticky-bottom {
 
     &:hover {
       .card-title {
-        color: var(--global-theme-color);
+        color:rgb(231, 214, 58);
       }
     }
   }
 
   .card-title {
     
-    font-size: small;
+    font-size: medium;
     text-align: center;
+    height: 25px;
+    color: rgb(253, 253, 252) ;
 
   }
 
@@ -509,7 +511,7 @@ footer.sticky-bottom {
       object-fit: cover;
       height: 200px;
     }
-    background-color: rgba(201, 187, 255, 0.719);
+    background-color: rgba(66, 20, 253, 0.719);
   }
 
   .card-item {
@@ -666,6 +668,12 @@ footer.sticky-bottom {
   }
   .card-title{
     height: 25px;
+    text-decoration: solid;
+    font-size: medium;
+  }
+  .card-subtitle {
+    height: 20px;
+    font-size: small;
   }
 
   .card {
@@ -682,6 +690,9 @@ footer.sticky-bottom {
   }
   .card-text {
     height: 85px;
+    font-size: small;
+    
+
   }
   
 
@@ -706,6 +717,83 @@ footer.sticky-bottom {
     margin-bottom: 10px;
     margin-top: 10px;
     height: 470px;
+    
+ 
+  }
+
+  h2.category {
+    color: var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: right;
+  }
+}
+
+// Non-faculty
+
+.people-non-faculty {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+  .card-title{
+    height: 25px;
+    text-decoration: solid;
+    font-size: medium;
+  }
+  .card-subtitle {
+    height: 14px;
+    font-size: small;
+  }
+
+  .card {
+    
+    img {
+      
+      height:auto;
+      width: 100%;
+      // width: 150px;
+      
+      
+    }
+    
+  }
+  .card-text {
+    height: 0px;
+    font-size: small;
+    
+
+  }
+  
+
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+    
+
+    .row {
+      display: flex;
+      // align-items: center;
+      
+      
+    }
+  }
+  
+
+  .grid-sizer, .grid-item {
+    width: 200px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 375px;
     
  
   }
@@ -904,6 +992,7 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post{
+  
   .post-meta{
     color: var(--global-text-color-light);
     font-size: 0.875rem;

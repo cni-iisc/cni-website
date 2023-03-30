@@ -36,11 +36,9 @@
       <div class="more_authors_text">
         <br>
         
-        {%- if seminar.zoom_link -%} 
-          <a href="{{ seminar.zoom_link }}">
-             Click here to join 
-            
-          </a>
+        {%- if seminar.date > cdate -%} 
+          
+          <a href="{{ seminar.zoom_link }}" class="btn btn-outline-primary btn-md active" role="button" aria-pressed="true"><b>Join on ZOOM</b></a>
         {%- endif -%}
       </div>
 

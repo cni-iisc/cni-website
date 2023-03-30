@@ -9,10 +9,10 @@ children:
       permalink: /faculty/
     - title: Staff
       permalink: /staff/
-    - title: divider
-    - title: Ph.D. Fellows/Scholars
+    # - title: divider
+    - title: Ph.D. Fellows
       permalink: /phd/
-    - title: M.Tech Fellows/Scholars
+    - title: M.Tech Fellows
       permalink: /mtech/
     
 ---
