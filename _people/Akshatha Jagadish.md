@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: student_page
 title: Akshatha Jagadish
 position_at_CNI: 
 description: 

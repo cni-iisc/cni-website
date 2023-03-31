@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: student_page
 title: Koti Nishat Saipanmuluk
 position_at_CNI: 
 description: 

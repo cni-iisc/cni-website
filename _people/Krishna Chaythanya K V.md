@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: student_page
 title: Krishna Chaythanya K V
 position_at_CNI: 
 description: 

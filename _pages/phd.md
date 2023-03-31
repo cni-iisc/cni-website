@@ -68,7 +68,7 @@ horizontal: false
 
 <h2 class="category">Alumni</h2>
 
-<div class="people">
+<div class="people-non-faculty">
 {%- if site.enable_people_categories and page.display_categories %}
   <!-- Display categorized people -->
   {%- for category in page.display_categories %}

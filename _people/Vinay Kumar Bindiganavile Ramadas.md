@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: student_page
 title: Vinay Kumar Bindiganavile Ramadas
 position_at_CNI: 
 description: 

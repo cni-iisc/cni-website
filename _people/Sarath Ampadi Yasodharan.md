@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: student_page
 title: Sarath Ampadi Yasodharan
 position_at_CNI: 
 description: 

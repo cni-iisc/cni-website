@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: student_page
 title: Anusree Rajan
 position_at_CNI: 
 description: 

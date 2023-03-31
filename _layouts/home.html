@@ -11,7 +11,7 @@ layout: default
           </h1>
           <!-- <p class="desc">{{ page.subtitle }}</p> -->
         </header>
-
+<br>
         <article>
           {% if page.profile -%}
           
@@ -24,39 +24,13 @@ layout: default
           </div>
 
           
-<div id="updatesAndEvents" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/img/history/IMG_0281.JPG" alt="First slide">
-      <!-- {% youtube uSpeHqV5ksc %} -->
-    </div>
-    <!-- <div class="carousel-item">
-      <a href="www.google.com">
-      <img class="d-block w-100" src="http://img.youtube.com/vi/4EvNxWhskf8/hqdefault.jpg" title="YouTube Video" alt="YouTube Video" />
-      </a>
-    </div> -->
-    
-  </div>
-  <a class="carousel-control-prev" href="#updatesAndEvents" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#updatesAndEvents" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+
 
 {% if page.blog -%}
             <!-- <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Updates</a></h2> -->
             <br>
             {%- include blog.html %}
-            <center><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">more updates ...</a></center>
+            <center><a href="{{ '/blog/' | relative_url }}" style="color: rgb(3, 32, 163);">more updates ...</a></center>
             <br>
           {%- endif %}
 
@@ -65,7 +39,7 @@ layout: default
             {%- include selected_papers.html %}
 {%- endif %}
 
-          
+          <a href="{{ '/about/' }}"> <h3 align="center"> About CNI </h3> </a>
           <!-- Social -->
           {%- if page.social %}
             <div class="social">

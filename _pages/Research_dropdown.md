@@ -10,8 +10,8 @@ children:
     - title: Publications
       permalink: /publications/
     # - title: divider
-    - title: Research Highlights
-      permalink: /researchhighlights/
+    - title: Highlights
+      permalink: /research-highlights/
 
     
 ---

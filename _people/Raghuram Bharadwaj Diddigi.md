@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: student_page
 title: Raghuram Bharadwaj Diddigi
 position_at_CNI: 
 description: 

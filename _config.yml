@@ -23,7 +23,7 @@ last_updated: true # set to true if you want to display last updated in the foot
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 host: 10.32.199.46
-port: 4006
+port: 4005
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -73,7 +73,7 @@ github_username: cni-iisc # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: cni_iisc # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: 
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -96,11 +96,10 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: centrefornetworkedintellig5324 # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-  ..
+contact_note: > 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -170,6 +169,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  
+  researchhighlights:
+    output: true 
+    permalink: /researchhighlights/:path/
 
   covidresponse:
     output: true
@@ -185,6 +188,8 @@ collections:
   opportunities:
     output: true 
     permalink: /opportunities/:path
+
+  
 
 news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: student_page
 title: Niheskumar Sumanbhai Rathod
 position_at_CNI: 
 description: 

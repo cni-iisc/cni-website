@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: student_page
 title: Ajay Kumar Badita
 position_at_CNI: 
 description: 
