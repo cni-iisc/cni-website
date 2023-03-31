@@ -7,6 +7,7 @@ importance: 1
 category: ""
 ---
 
+**PIs** : Haresh Dagale, Chandramani Singh
 
 - **Ned2 Robot** : 
     - The Ned2 robot has several functionalities, including real-time object classification, picking and placing objects of specific color and shape, sorting and stacking objects, monitoring and controlling over TCP Modbus, measuring and communicating conveyor belt speed and light intensity, controlling the emergency lamp, controlling the movement of the robotic arm, calibration, controls for jogging feature, and live streaming from the onboard camera using python-OpenCV (which is still in progress).

@@ -2,7 +2,7 @@
 layout: page
 title: Himanshu Tyagi
 position_at_CNI: Co-Convener
-description: Assistant Professor, Department of Electrical Communication Engineering (ECE)
+description: Associate Professor, Department of Electrical Communication Engineering (ECE)
 img: assets/img/people/faculty/Himanshu.jpg
 importance: 3
 category: Faculty

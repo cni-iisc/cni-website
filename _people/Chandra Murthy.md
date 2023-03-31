@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chandra Murthy 
-description: Assistant Professor, Department of Electrical Communication Engineering (ECE)
+description: Professor, Department of Electrical Communication Engineering (ECE)
 img: assets/img/people/faculty/Chandra-M.jpg
 importance: 5
 category: Faculty

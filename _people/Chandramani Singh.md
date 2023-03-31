@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chandramani Singh
-description: Assistant Professor, Department of Electronic Systems Engineering (DESE)
+description: Associate Professor, Department of Electronic Systems Engineering (DESE)
 img: assets/img/people/faculty/Chandramani.jpg
 importance: 5
 category: Faculty

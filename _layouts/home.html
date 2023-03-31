@@ -38,8 +38,28 @@ layout: default
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Highlighted publications</a></h2>
             {%- include selected_papers.html %}
 {%- endif %}
+<hr>
 
-          <a href="{{ '/about/' }}"> <h3 align="center"> About CNI </h3> </a>
+ 
+<div style="background-color: rgb(219, 219, 219);">
+  <table align="center">
+  <tr><b>Sponsored by:</b>
+  <td style="vertical-align:middle"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Cisco-CSR-Logos-horiz.jpg" height="80"></td>
+  <td style="vertical-align:middle"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/IISc_logo-150x150.png" height="80"></td>
+  
+  </tr>
+  </table>
+
+  <table align="center">
+    <tr><b>Supported by:</b>
+    
+    <td style="vertical-align:middle"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/cropped-BCCPS-Logo.png" height="80"></td>
+    <td style="vertical-align:middle"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/ece_logo.jpg" height="80"></td>
+    </tr>
+    </table>
+
+  <hr>
+  </div>
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
@@ -56,3 +76,4 @@ layout: default
         </article>
 
 </div>
+

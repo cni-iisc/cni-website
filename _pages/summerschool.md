@@ -25,7 +25,7 @@ The 2023 edition of CNI Summer school is here!
 
 This year’s summer school will be in the form of a short course on Dynamic resource allocation problems in communication networks by Dr. Alexandre Reiffers-Masson, Assistant Professor
  ,IMT Atlantique (Brest). 
- It will be conducted in hybrid mode (online as well as in-person participation in IISc Campus).
+
 
 **Bio of the Speaker**
 
@@ -43,4 +43,7 @@ Ten sessions (one theory and one lab session each day, for a total of five days)
 
 **Schedule**
 - Dates: May 02-06
-- Venue: Room MP-20, ECE Department, IISc, Bangalore
+- Venue: ECE Department, IISc, Bangalore
+- Timings: 
+  - 09:00 AM to 11:00 AM(Theory session)
+  - 11:30 AM to 01:30 PM (Practical session)

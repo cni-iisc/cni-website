@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Highlights
+title: Highlights of Research by Past CNI fellows
 permalink: /research-highlights/
 description: 
 nav: false

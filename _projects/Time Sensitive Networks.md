@@ -18,12 +18,8 @@ category: ""
         {% include figure.html path="assets/img/projects/timesensitivenetworks (1).png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 
-**Current Progress**
-- P4 and C Sandbox Applications
-    - By building P4 program and associated extern functions, we have:
-        - Forwarded packets to a specific queue of a port
-        - Obtained Queue Size
-        - Obtained Ingress and Egress Timestamp
+
+
 
 
 <div class="row justify-content-sm-center">
@@ -34,6 +30,4 @@ category: ""
   
     
 
-**Upcoming work**  
 
-- Implementing Hardware Offload Logic of the **T**ime **A**ware **S**haper
