@@ -6,7 +6,7 @@ title: Centre for Networked Intelligence # the website title (if blank, full nam
 first_name: Centre for Networked Intelligence,
 middle_name: Indian Institute of Science,
 last_name: Bangalore
-email: cni@iisc.ac.in
+email: contact.cni@iisc.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
  'The Centre for Networked Intelligence, under the division of EECS and RBCCPS, IISc, aims to develop next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future.'
 footer_text: >
