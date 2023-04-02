@@ -189,6 +189,10 @@ collections:
     output: true 
     permalink: /opportunities/:path
 
+  newsletters:
+    output: true 
+    permalink: /newsletters/:path
+
   
 
 news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
