@@ -47,16 +47,16 @@ Ten sessions (one theory and one lab session each day, for a total of five days)
  - Python codes to implement such algorithms. 
 
 **Schedule**
-- Dates: May 02-06
+- Dates: 3rd July 2023 to 7th July 2023
 - Venue: ECE Department, IISc, Bangalore
 - Timings: 
   - 09:00 AM to 11:00 AM(Theory session)
   - 11:30 AM to 01:30 PM (Practical session)
 
-**Registration Link**
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeJCC4x5QjGTMXVANloaybKpFGde8_3XAvgEAybTs12uFKfcQ/viewform" class="btn btn-primary btn-lg active hoverable" role="button" aria-pressed="true">Register</a>
 
-[https://docs.google.com/forms/d/e/1FAIpQLSeJCC4x5QjGTMXVANloaybKpFGde8_3XAvgEAybTs12uFKfcQ/viewform?usp=share_link](https://docs.google.com/forms/d/e/1FAIpQLSeJCC4x5QjGTMXVANloaybKpFGde8_3XAvgEAybTs12uFKfcQ/viewform?usp=share_link)
 
+<!-- 
 <div>
   <img width="25%" src="/assets/img/summerschool/2023-summer-school-registration-form.png"/>
-</div>
+</div> -->
