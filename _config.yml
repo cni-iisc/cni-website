@@ -295,7 +295,7 @@ scholar:
 
   sort_by: year
   order: ascending
-  group_by: year, type
+  group_by: year
   group_order: descending
   type_names: {inproceedings: Conference Papers}
 
