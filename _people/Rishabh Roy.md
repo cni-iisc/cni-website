@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rishabh Roy
-position_at_CNI: Project Adwiser
+position_at_CNI: Project Associate
 description: 
 department:
 img: assets/img/people/staff/RishabhRoy.JPG
