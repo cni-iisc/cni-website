@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seminars
+title: 
 permalink: /nss/
 redirect: /networks-seminar/
 description: 
