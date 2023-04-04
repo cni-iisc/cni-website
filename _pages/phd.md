@@ -40,7 +40,7 @@ horizontal: false
 {%- else -%}
 <!-- Display people without categories -->
 {%- assign people0 = site.people | where : "category", "Ph.D. Fellows/Scholars" -%}
-  {%- assign sorted_people = people0 | sort: "importance" -%}
+  {%- assign sorted_people = people0 | sort: "title" -%}
   <!-- Generate cards for each people -->
   {% if page.horizontal -%}
   <div class="container">
@@ -74,7 +74,7 @@ horizontal: false
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_people = site.people | where: "category", category -%}
-  {%- assign sorted_people = categorized_people | sort: "importance" %}
+  {%- assign sorted_people = categorized_people | sort: "title" %}
   <!-- Generate cards for each people -->
   {% if page.horizontal -%}
   <div class="container">
@@ -98,7 +98,7 @@ horizontal: false
 {%- else -%}
 <!-- Display people without categories -->
 {%- assign people0 = site.people | where : "category", "Ph.D. Fellows/Scholars" -%}
-  {%- assign sorted_people = people0 | sort: "importance" -%}
+  {%- assign sorted_people = people0 | sort: "title" -%}
   <!-- Generate cards for each people -->
   {% if page.horizontal -%}
   <div class="container">
