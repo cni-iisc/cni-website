@@ -5,9 +5,9 @@ position_at_CNI: Administrative Manager
 description: 
 department:
 img: assets/img/people/staff/thejashwinig.jpg
-importance: 4
+importance: 3
 category: Staff
-redirect: personal portfolio links if available
+redirect: 
 research_interests: Research interests
 email: 
 past: true or false

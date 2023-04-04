@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Nithish K Ghani
+title: Nithish K Gnani
 position_at_CNI: Project Associate
 description: 
 department:
 img: assets/img/people/staff/nithishkghani.jpg
-importance: 6
+importance: 7
 category: Staff
-redirect: personal portfolio links if available
-research_interests: Research interests
+redirect: 
+research_interests: 
 email: 
 past: true or false
 

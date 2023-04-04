@@ -5,7 +5,7 @@ position_at_CNI:
 description: 
 description2: 
 department:
-img: assets/img/people/phd/past/Stanly Samuel.jpg
+img: 
 importance: 11
 category: 
 redirect: 
