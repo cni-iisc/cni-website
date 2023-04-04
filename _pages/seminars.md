@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Seminars
-permalink: /seminars/
+permalink: /networks-seminar/
+redirect_from: /nss/
 description: 
 nav: false
 

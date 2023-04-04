@@ -752,9 +752,11 @@ footer.sticky-bottom {
     }
     
   }
-  .card-text {
+  .card-text-people {
     height: 85px;
-    font-size: small;
+    font-size: smaller;
+    color: var(--global-text-color-light);
+
     
 
   }

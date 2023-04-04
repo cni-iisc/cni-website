@@ -23,7 +23,7 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 host: 10.32.199.46
-port: 4005
+port: 4007
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -246,6 +246,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-redirect-from
  
 
 # Sitemap settings

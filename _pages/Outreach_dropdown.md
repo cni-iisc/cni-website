@@ -6,7 +6,7 @@ nav_order: 4
 dropdown: true
 children: 
     - title: Seminars
-      permalink: /seminars/
+      permalink: /networks-seminar/
     - title: Courses
       permalink: /courses/
     # - title: divider
