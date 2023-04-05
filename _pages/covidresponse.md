@@ -56,3 +56,29 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+<hr>
+
+# Our Sponsors
+##### We thank our many sponsors for supporting our efforts. Cisco CSR, IISc, Hitachi, Google, DST, DHWFS-NHM.
+<center>
+<div class="row">
+  <div class="col-md-4">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/covid19-response/Cisco-CSR-Logos-horiz-1920x496.jpg" style="height:90px">
+  </div>
+  <div class="col-md-4">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/covid19-response/IISc_Seal_Master_logo_Black-01-1527x1080.jpg" style="height:90px" />
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/covid19-response/hitachi.png" style="height:90px" />
+  </div>
+  <div class="col-md-4">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/covid19-response/Screenshot_2021-05-31-Google-has-a-new-logo.png" style="height:90px" />
+  </div>
+  <div class="col-md-4">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/covid19-response/dst.jpeg" style="height:90px" />
+  </div>
+</div>
+</center>

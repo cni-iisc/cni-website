@@ -5,7 +5,10 @@ description:
 img: assets/img/covid19-response/campus rakshak.png
 importance: 1
 category: ""
+# github: https://github.com/cni-iisc/campus-rakshak-simulator
 ---
+
+![](/assets/img/covid19-response/campus rakshak.png)
 
 An agent-based simulator for the modelling COVID-19 spread in college campuses. 
 
