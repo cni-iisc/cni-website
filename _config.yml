@@ -193,6 +193,14 @@ collections:
     output: true 
     permalink: /newsletters/:path
 
+  hackathons:
+    output: true 
+    permalink: /hackathons/:path
+
+  summerschools:
+    output: true 
+    permalink: /summerschools/:path
+
   
 
 news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
@@ -247,6 +255,7 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
   - jekyll-redirect-from
+  - jekyll-twitter-plugin
  
 
 # Sitemap settings

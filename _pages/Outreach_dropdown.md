@@ -11,7 +11,7 @@ children:
       permalink: /courses/
     # - title: divider
     - title: Hackathons
-      permalink: /hackathon2020/
+      permalink: /hackathons/
     - title: Summer School
       permalink: /summerschool/
     # - title: divider

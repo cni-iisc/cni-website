@@ -104,7 +104,67 @@ The seats available for the school are limited. Therefore, we request you to exp
 
 You can e-mail us at **contact.cni@iisc.ac.in** with the following subject: “CNI Summer School-2023” in case of difficulties in the registration or for any other query. After you have registered, we may also add you to a Microsoft Teams group using your email-id. 
 
- 
+
+
+<br>
+<hr>
+
+
+<h3 class="desc">Past summer schools:</h3>
+
+
+
+<!-- pages/projects.md -->
+<div class="projects">
+{%- if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {%- for category in page.display_categories %}
+  <h2 class="category">{{ category }}</h2>
+  {%- assign categorized_projects = site.summerschools| where: "category", category -%}
+  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+  {% endfor %}
+
+{%- else -%}
+<!-- Display projects without categories -->
+  {%- assign sorted_projects = site.summerschools | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+{%- endif -%}
+</div>
+
+
+
+
 <hr>
   <!-- Sponsors and Supporters -->
 
@@ -126,15 +186,6 @@ You can e-mail us at **contact.cni@iisc.ac.in** with the following subject: “C
           </div>
         </div>
       </div>  
-
-<!-- 
-<hr>
-Past summer schools:
-<hr> -->
-
-
-
-
 
 
 <!-- 
