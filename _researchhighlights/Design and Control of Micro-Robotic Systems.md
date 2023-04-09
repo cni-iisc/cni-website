@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resource Aware Control of Networked Control Systems
+title: Design and Control of Micro Robotic Systems
 speaker: Akshatha Jagdish
 description: 
 img:
