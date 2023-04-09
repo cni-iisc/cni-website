@@ -31,7 +31,7 @@ tweets:
 
 <div class="jekyll-twitter-plugin" align="center">
 {% for tweet in page.tweets %}
-  {% twitter tweet align=center maxwidth=500 limit=3 chrome=noheader %}
+  {% twitter tweet align=center maxwidth=900 limit=3 chrome=noheader %}
 {% endfor %}
 </div>
 
