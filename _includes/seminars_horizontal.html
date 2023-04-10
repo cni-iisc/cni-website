@@ -4,11 +4,12 @@
   <br>
   <div class="row">
     <div class="col">
-      {%- if seminar.recorded_video -%} 
-        <iframe width="500" height="315" src="https://www.youtube.com/embed/{{seminar.recorded_video}}"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      {%- endif -%}
       {%- if seminar.img -%} 
       <img src="/{{ seminar.img }}" width="500"/>
+       
+      {%- else if seminar.recorded_video -%} 
+      <iframe width="500" height="315" src="https://www.youtube.com/embed/{{seminar.recorded_video}}"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      
       {%- endif -%}
     </div>
 
@@ -17,7 +18,7 @@
       <div class="post-title">
       {%- if seminar.title -%} 
         <b>
-        {{ seminar.title }}
+          <a href="{{ seminar.url | relative_url }}">{{ seminar.title }}</a>
         </b>
       {%- endif -%}
       </div>
@@ -41,6 +42,7 @@
           <b>Venue:</b> {{ seminar.venue }}
         {%- endif -%}
       </div>
+      <div class="row">
       <div class="more_authors_text">
         <br>
         
@@ -50,7 +52,14 @@
         {%- endif -%}
         {%- endif -%}
       </div>
-
+      <div class="more_authors_text">
+        <br>
+        {%- if seminar.recorded_video -%}  
+          <a href="{{ seminar.recorded_video }}" class="btn btn-red btn-md active red" role="button" aria-pressed="true"><b>Youtube</b></a>
+       
+        {%- endif -%}
+      </div>
+      </div>
 
     </div>
   </div>

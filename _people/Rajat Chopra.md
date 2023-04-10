@@ -13,6 +13,6 @@ research_interests:
 email: 
 past: true
 years: [2020]
-advisor:  # only applicable for students or fellows
+advisor: Prof. Aditya Gopalan # only applicable for students or fellows
 
 ---
