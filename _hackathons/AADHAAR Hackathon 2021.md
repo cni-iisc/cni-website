@@ -3,7 +3,7 @@ layout: page
 title: AADHAAR Hackathon 2021
 description:
 img: assets/img/hackathons/aadhar_hackathon.jpeg
-importance: 1
+importance: 2
 category: ""
 ---
 We are excited to announce the Aadhaar Hackathon 2021, in partnership with the Unique Identification Authority of India (UIDAI).

@@ -3,7 +3,7 @@ layout: page
 title: CNI Swabs2Labs Hackathon 2020
 description:
 img: assets/img/transfer_map_zoomed.png
-importance: 2
+importance: 3
 category: ""
 ---
 
