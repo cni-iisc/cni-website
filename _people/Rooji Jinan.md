@@ -12,7 +12,7 @@ redirect:
 research_interests: 
 email: 
 past: true
-
+years: [2019]
 advisor: Parimal Parag (ECE) # only applicable for students or fellows
 
 ---

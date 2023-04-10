@@ -12,7 +12,7 @@ redirect:
 research_interests: 
 email: 
 past: true
-
+years: [2019]
 advisor: Manoj Varma (CeNSE) # only applicable for students or fellows
 
 ---

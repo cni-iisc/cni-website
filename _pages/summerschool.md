@@ -32,9 +32,11 @@ horizontal: false
 <h2 align="center">Dynamic resource allocation problems in communication networks</h2>
 
 
-**Course summary**: In this course, we will study mathematical tools to solve the dynamic resource allocation problems in communication networks. Most of the resource allocation problems are known to be NP-hard to solve. However, it is possible to design efficient heuristics using the theory of Markov decision processes. We will talk about different heuristics, such as LP-based and Whittle index policies, and provide proof of their performances. To complete these first formal approaches, we will also take a different path to solve such problems by using Deep Reinforcement Learning algorithms. 
+**Course summary**
+  
+  In this course, we will study mathematical tools to solve the dynamic resource allocation problems in communication networks. Most of the resource allocation problems are known to be NP-hard to solve. However, it is possible to design efficient heuristics using the theory of Markov decision processes. We will talk about different heuristics, such as LP-based and Whittle index policies, and provide proof of their performances. To complete these first formal approaches, we will also take a different path to solve such problems by using Deep Reinforcement Learning algorithms. 
 
-All the techniques seen during this class will be illustrated on different network problems such as adaptive routing, TCP control, optimal control of the age of information, and optimal channel selection. This course will also have some lab sessions and we will provide code in python to implement the different algorithms seen during the class. 
+  All the techniques seen during this class will be illustrated on different network problems such as adaptive routing, TCP control, optimal control of the age of information, and optimal channel selection. This course will also have some lab sessions and we will provide code in python to implement the different algorithms seen during the class. 
 
  <hr>
 
@@ -50,7 +52,7 @@ All the techniques seen during this class will be illustrated on different netwo
         <img src="/assets/img/summerschool/alex-speaker-summerschool-2023.jpg" align="center" width="100%">
         </div>
         <div class="col-md-6" >
-          Faculty: <b>Dr. Alexandre Reiffers-Masson</b><br>, Assistant professor,<br> IMT Atlantique (Brest). 
+           <b>Dr. Alexandre Reiffers-Masson,</b><br> Associate professor,<br> IMT Atlantique (Brest). 
         </div>
         </div>
         </button>
@@ -88,7 +90,7 @@ All the techniques seen during this class will be illustrated on different netwo
 
 **Eligibility**
 
-Eligibility: 4th year of Bachelor’s/dual-degree and any year of Master’s/Ph.D. students. Both Engineering (ECE/CS/EE or related streams) and Science students can enroll. 
+4th year of Bachelor’s/dual-degree and any year of Master’s/Ph.D. students. Both Engineering (ECE/CS/EE or related streams) and Science students can enroll. 
 
 - Information related to the practical sessions: The students are expected to bring their own laptops for the practical sessions in Python language. We will provide access to the online code execution environment. 
 

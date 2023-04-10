@@ -16,11 +16,11 @@ profile:
     <p>Sir C V Raman Road, Bengaluru</p>
     <p>Karnataka 560012</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 seminars: true
-blog: false
+blog: true
 
 tweets:
   - https://twitter.com/cni_iisc?ref_src=twsrc%5Etfw
@@ -29,9 +29,5 @@ tweets:
 
 <hr>
 
-<div class="jekyll-twitter-plugin" align="center">
-{% for tweet in page.tweets %}
-  {% twitter tweet align=center maxwidth=900 limit=3 chrome=noheader %}
-{% endfor %}
-</div>
+
 

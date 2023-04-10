@@ -7,6 +7,9 @@
       {%- if seminar.recorded_video -%} 
         <iframe width="500" height="315" src="https://www.youtube.com/embed/{{seminar.recorded_video}}"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       {%- endif -%}
+      {%- if seminar.img -%} 
+      <img src="/{{ seminar.img }}" width="500"/>
+      {%- endif -%}
     </div>
 
     
@@ -33,12 +36,18 @@
           {{ seminar.description }}
         {%- endif -%}
       </div>
+      <div class="caption">
+        {%- if seminar.venue -%} 
+          <b>Venue:</b> {{ seminar.venue }}
+        {%- endif -%}
+      </div>
       <div class="more_authors_text">
         <br>
         
         {%- if seminar.date > cdate -%} 
-          
+        {%- if seminar.zoom_link -%}  
           <a href="{{ seminar.zoom_link }}" class="btn btn-outline-primary btn-md active" role="button" aria-pressed="true"><b>Join on ZOOM</b></a>
+        {%- endif -%}
         {%- endif -%}
       </div>
 

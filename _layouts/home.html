@@ -88,13 +88,36 @@ layout: default
 
 <!-- <a class="twitter-timeline" data-height="600" href="https://twitter.com/cni_iisc?ref_src=twsrc%5Etfw">Tweets by cni_iisc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-{% if page.blog -%}
+
+
+
+<div class="row">
+<div class="col-sm-8">
+
+          {% if page.blog -%}
             <!-- <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Updates</a></h2> -->
             <br>
             {%- include blog.html %}
             <center><a href="{{ '/blog/' | relative_url }}" style="color: rgb(3, 32, 163);">more updates ...</a></center>
             <br>
           {%- endif %}
+
+
+
+          {% if page.news -%}
+          <!-- <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">Updates</a></h2> -->
+          <br>
+          {%- include news.html %}
+          <center><a href="{{ '/news/' | relative_url }}" style="color: rgb(3, 32, 163);">more ...</a></center>
+          <br>
+        {%- endif %}
+</div>
+<div class="col-sm-4 jekyll-twitter-plugin" align="center">
+  {% for tweet in page.tweets %}
+    {% twitter tweet align=center maxwidth=900 maxheight=300 limit=3 chrome=noheader chrome=noscrollbar %}
+  {% endfor %}
+  </div>
+</div>
 
 {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Highlighted publications</a></h2>

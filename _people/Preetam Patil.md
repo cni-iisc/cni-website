@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Preetam Patil
-position_at_CNI: Consultant Technologist and Research Manager
+position_at_CNI: Research Manager
 description: 
 department:
 img: assets/img/people/staff/preetampatil.jpg

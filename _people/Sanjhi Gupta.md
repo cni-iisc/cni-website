@@ -12,7 +12,7 @@ redirect:
 research_interests: 
 email: 
 past: true
-
+years: [2020]
 advisor: Chandra R. Murthy (ECE) # only applicable for students or fellows
 
 ---

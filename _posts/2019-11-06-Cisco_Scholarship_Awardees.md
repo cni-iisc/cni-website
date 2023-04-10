@@ -13,7 +13,7 @@ header:
  title: "Cisco Scholarship awardees"
  background-color: "#334d5c"
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/posts/IMG_0275-1024x682.jpg" style="width:500px">&emsp;<img src="{{ site.url }}{{ site.baseurl }}/images/posts/IMG_0276-1024x682.jpg" style="width:500px">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/IMG_0275-1024x682.jpg" style="width:500px">&emsp;<img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/IMG_0276-1024x682.jpg" style="width:500px">
 
 The following students were awarded the Ph.D & M.Tech fellowship for the year 2019-20
 

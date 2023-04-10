@@ -12,6 +12,7 @@ redirect:
 research_interests: 
 email: 
 past: false
+years: [2022]
 
 advisor: Bharadwaj Amrutur  # only applicable for students or fellows
 

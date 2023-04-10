@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Engineer-Cloud and Data Center Networks
-description: 
+details: We are looking for energetic, hands-on individuals to join the data-center network (DCN) project at the Centre for Networked Intelligence (CNI), IISc. This role involves Linux systems development, quantitative analysis, and documentation. 
 img: 
 importance: 2
 category: ""

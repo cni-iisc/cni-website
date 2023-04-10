@@ -7,6 +7,18 @@ years: [2022, 2021, 2020]
 nav: false
 nav_order: 1
 ---
+<div class="row">
+  <div class="col-sm-4 title" style="color:var(--pub-article);">
+    Articles
+  </div>
+  <div class="col-sm-4 title" style="color:var(--pub-inproceedings); text-align:center;">
+    Inproceedings
+  </div>
+  <div class="col-sm-4 title" style="color:var(--pub-misc);  text-align:right">
+    Misc
+  </div>
+</div>
+
 <!-- _pages/publications.md -->
 <div class="publications">
 

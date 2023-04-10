@@ -493,17 +493,23 @@ footer.sticky-bottom {
     &:hover {
       .card-title {
         color:rgb(231, 214, 58);
+        
       }
     }
   }
 
   .card-title {
-    
-    font-size: medium;
+    margin-top: 8px;
+    font-size: large;
     text-align: center;
     height: 25px;
     color: rgb(253, 253, 252) ;
 
+  }
+  .caption {
+    font-size: small;
+    padding: 2px;
+    width: 95%;
   }
 
   .card {
@@ -511,6 +517,7 @@ footer.sticky-bottom {
       width: 100%;
       object-fit: cover;
       height: 200px;
+
     }
     background-color: rgba(66, 20, 253, 0.719);
   }
@@ -523,6 +530,7 @@ footer.sticky-bottom {
     .row {
       display: flex;
       align-items: center;
+      padding-bottom: 5px;
     }
   }
 
@@ -530,7 +538,12 @@ footer.sticky-bottom {
     width: 250px;
     margin-bottom: 10px;
     height: 400px;
+    align-items: center;
 
+  }
+  
+  .opportunity-container {
+    align-items: center;
   }
 
   h2.category {

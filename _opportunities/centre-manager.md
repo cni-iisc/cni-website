@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Centre Manager
-description: 
+details: We are looking for a Centre Manager, who will actively advance activities that support the Centre's efforts. He/she is expected to manage research grants and collaborate with stakeholders within IISc and also with external sponsors and partners to enable successful and timely execution of programmes.
 img:
 importance: 1
 category: ""

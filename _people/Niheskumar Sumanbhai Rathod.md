@@ -12,7 +12,7 @@ redirect:
 research_interests: 
 email: 
 past: true
-
+years: [2019]
 advisor: Rajesh Sundaresan (ECE/RBCCPS) and Bharadwaj Amrutur (ECE/RBCCPS) # only applicable for students or fellows
 
 ---

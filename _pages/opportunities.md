@@ -20,9 +20,9 @@ horizontal: true
   <!-- Generate cards for each opportunity -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row">
     {%- for opportunity in sorted_opportunities -%}
-      {% include opportunities_horizontal.html %}
+      {% include opportunities_layout.html %}
     {%- endfor %}
     </div>
   </div>
@@ -41,12 +41,13 @@ horizontal: true
   <!-- Generate cards for each opportunity -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row">
     {%- for opportunity in sorted_opportunities -%}
-      {% include opportunities_horizontal.html %}
+      {% include opportunities_layout.html %}
     {%- endfor %}
     </div>
   </div>
+  
   {%- else -%}
   <div class="grid">
     {%- for opportunity in sorted_opportunities -%}
@@ -55,4 +56,6 @@ horizontal: true
   </div>
   {%- endif -%}
 {%- endif -%}
+
 </div>
+<br>

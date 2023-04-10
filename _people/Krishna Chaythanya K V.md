@@ -12,7 +12,7 @@ redirect:
 research_interests: 
 email: 
 past: true
-
+years: [2019,2021]
 advisor: Anurag Kumar (ECE) and Rajesh Sundaresan (ECE/RBCCPS) # only applicable for students or fellows
 
 ---

@@ -12,7 +12,7 @@ redirect:
 research_interests: 
 email: 
 past: false
-
+years: [2022]
 advisor: Vaibhav Katewa # only applicable for students or fellows
 
 ---

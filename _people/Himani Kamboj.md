@@ -12,7 +12,7 @@ redirect:
 research_interests: 
 email: 
 past: true
-
+years: [2020]
 advisor: Arpita Patra (CSA) # only applicable for students or fellows
 
 ---
