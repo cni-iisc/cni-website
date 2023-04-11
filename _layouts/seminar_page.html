@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<!-- page.html -->
+<!-- {% include breadcrumbs.html %} -->
+        <div class="post">
+
+          <header class="post-header">
+            <center>
+            <h1 class="post-title">{{ page.title }}</h1>
+            
+            <p class="post-description">{{ page.description }}</p>
+          </center>
+          </header>
+          <br>
+          <hr>
+
+          {%- if page.recorded_video -%}
+          <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/{{ page.recorded_video }}"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+          </iframe>
+          {%- endif -%}
+          
+
+          <h2><b>Abstract</b></h2>
+          <article>
+            {{ page.Topic_abstract }}
+          </article>
+          <br>
+          <h2><b> The Speaker </b></h2>
+          <article>
+            {{ page.speaker_bio }}
+          </article>
+          <article>
+            {{ content }}
+          </article>
+
+        </div>

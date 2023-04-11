@@ -15,5 +15,5 @@ horizontal: false
 
 {%- for newsletter in site.newsletters -%}
 
-    {{ newsletter.title }}
+   <a href="{{ newsletter.url | relative_url }}"> {{ newsletter.title }}</a>
 {%- endfor -%}

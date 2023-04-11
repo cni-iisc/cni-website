@@ -32,7 +32,7 @@ horizontal: false
 <h2 align="center">Dynamic resource allocation problems in communication networks</h2>
 
 
-**Course summary**
+
   
   In this course, we will study mathematical tools to solve the dynamic resource allocation problems in communication networks. Most of the resource allocation problems are known to be NP-hard to solve. However, it is possible to design efficient heuristics using the theory of Markov decision processes. We will talk about different heuristics, such as LP-based and Whittle index policies, and provide proof of their performances. To complete these first formal approaches, we will also take a different path to solve such problems by using Deep Reinforcement Learning algorithms. 
 

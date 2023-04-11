@@ -71,12 +71,12 @@ horizontal: false
    <hr>
    <div class="row">
     <div class="col-md-4">
-      <a href="/phd-2019/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2019 - 2020</a>
+      <a href="/phd-2021/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2021 - 2022</a>
     </div>
     <div class="col-md-4">
       <a href="/phd-2020/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2020 - 2021</a>
     </div>
     <div class="col-md-4">
-      <a href="/phd-2021/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2021 - 2022</a>
+      <a href="/phd-2019/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2019 - 2020</a>
     </div>
    </div>
