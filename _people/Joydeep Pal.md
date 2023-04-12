@@ -3,7 +3,7 @@ layout: student_page
 title: Joydeep Pal                                                                                                                     
 position_at_CNI: 
 description: 
-description2: Krishna Chaythanya is a fifth-year PhD student at the ECE Department. He obtained his M.Sc(Engg) in ECE from the Indian Institute of Science in 2011 and a B.E. degree in ECE from PES Institute of Technology, Bangalore, in 2008. Before joining IISc for the PhD program, he designed IoT Networks for Home Automation at a startup. Earlier, he worked at Imagination Technologies and CSR Technologies, developing algorithms for wireless baseband transceivers. His research interests are broadly in inference, and control over networks. He is currently working on applying sequential hypothesis testing and learning techniques for inference over networks with applications in Industrial Automation.
+description2: Joydeep is a PhD student at Department of Electronic Systems Engineering, Indian Institute of Science. My research interests are in Tactile Internet, Time-Sensitive Networking and control over networks. He has worked on Energy modelling in Intelligent Drones. He is currently working on the implementation of an intelligent Tactile CPS. He obtained his BTech degree in Electronics and Communications Engineering from Delhi Technological University.
 department:
 img: assets/img/people/phd/joydeep.png
 importance: 4
@@ -13,6 +13,6 @@ research_interests:
 email: 
 past: 
 years: [2022,2021]
-advisor: Anurag Kumar (ECE) and Rajesh Sundaresan (ECE/RBCCPS) # only applicable for students or fellows
+advisor:  T. V. Prabhakar & Chandramani Singh # only applicable for students or fellows
 
 ---
