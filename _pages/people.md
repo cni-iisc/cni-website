@@ -9,6 +9,11 @@ display_categories: [Faculty,Ph.D. Fellows/Scholars, M.Tech. Fellows/Scholars, S
 horizontal: false
 ---
 
+
+
+
+
+
 <!-- pages/peoples.md -->
 <div class="people">
 {%- if site.enable_people_categories and page.display_categories %}
