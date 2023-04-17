@@ -198,9 +198,9 @@ collections:
     output: true 
     permalink: /hackathons/:path
 
-  summerschools:
+  summerschool:
     output: true 
-    permalink: /summerschools/:path
+    permalink: /summerschool/:path
 
   
 
