@@ -669,7 +669,58 @@ footer.sticky-bottom {
 }
 
 // Newsletter
+.visitor-pic {
+  margin: auto;
+  float: left;
+}
+.visitors-card {
+  margin: auto;
+  background-color: azure;
+}
+.sem-title {
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  font-size: medium;
+}
+.sem-post-newsletter {
+  position: relative;
+  text-align: left;
+  margin:auto;
+ 
+}
+.visitor-text {
+  margin:auto;
+  text-align: center;
+  position: relative;
+}
+.newsletter-ytube {
+  text-align:center;
+  font-size: small;
+  color: gray;
+}
+.nl-text {
+  text-align: center;
+}
+.center {
+  margin: auto;
+  width: 100%;
+  border: 2px solid rgb(11, 15, 11);
+  padding: 10px;
+}
+.newsletter-title {
+  text-align: center;
+}
+.newsletter-text {
+  margin-left: 2px;
+  text-align: center;
+}
 .newsletter {
+  
+  
+  h1 {
+    align-items: center;
+  }
   a {
     text-decoration: none;
 
@@ -679,8 +730,8 @@ footer.sticky-bottom {
       }
     }
   }
- 
 
+  
   .card-title {
     height: 25px;
   }
