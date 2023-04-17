@@ -40,7 +40,7 @@ layout: default
           
             {%- if seminar.date | "%y-%m-%d" >= mdate -%}
             {%- assign seminars.upcoming = false -%}
-              {{ seminar.title }}
+              {{ seminar.title }} {{ seminar.date }}
               <br>
             {%- endif -%}
           {%- endfor %}
