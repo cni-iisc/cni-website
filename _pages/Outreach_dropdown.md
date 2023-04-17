@@ -13,7 +13,7 @@ children:
     - title: Hackathons
       permalink: /hackathons/
     - title: Summer School
-      permalink: /summerschool/2023
+      permalink: /summerschool/
     # - title: divider
     - title: CNI in the News
       permalink: /news/
