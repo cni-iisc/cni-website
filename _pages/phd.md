@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ph.D. Fellows
+title: PhD Fellows
 permalink: /phd/
 description: 
 nav: false

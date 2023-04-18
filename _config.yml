@@ -308,7 +308,7 @@ scholar:
   order: ascending
   group_by: year
   group_order: descending
-  type_names: {inproceedings: Conference Papers}
+  type_names: {inproceedings, articles, misc}
 
   source: /_bibliography/
   bibliography: papers.bib

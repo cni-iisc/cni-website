@@ -5,7 +5,7 @@ permalink: /research-highlights/
 description: 
 nav: false
 nav_order: 2
-display_categories: [""]
+display_categories: [phd,mtech]
 horizontal: false
 ---
 
