@@ -52,7 +52,7 @@ horizontal: true
 <br>
 
 
-
+<hr>
 
 
 <!-- pages/seminars.md -->
