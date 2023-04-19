@@ -51,23 +51,32 @@ horizontal: true
 </div>
 <br>
 
-**Talks and Seminars**
-
 
 
 
 
 <!-- pages/seminars.md -->
-
+{%- assign cur_month =  cdate| date : '%m-%y' -%}
 
 <div class="seminars">
   <div class="container">
     {%- for seminar in seminars -%}
     
       {%- if seminar.date < cdate -%}
-      {%- assign seminars.upcoming = false -%}
-        {% include seminars_horizontal.html %}
+        {%-  assign sem_month = seminar.date | date : '%m-%y' -%}
+        {%- assign seminars.upcoming = false -%}
+        {%- if sem_month == cur_month -%}
+          {% include seminars_horizontal.html %}
+        {%- endif -%}
       {%- endif -%}
     {%- endfor %}
   </div>
 </div>
+
+<br>
+
+<div class="seminar-past-talks">
+      <a href="/pasttalks" class="btn btn-primary btn-lg active seminar-past-talks" role="button" aria-pressed="true">Past Talks</a>
+</div>
+
+<br>

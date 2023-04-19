@@ -614,6 +614,35 @@ footer.sticky-bottom {
 }
 
 // Seminars  
+/* The animation code */
+@keyframes example {
+  0%   {background-color: red;}
+  25%  {background-color: yellow;}
+  50%  {background-color: blue;}
+  100% {background-color: green;}
+}
+
+.months-list {
+  display: inline;
+  padding: 0;
+  margin: auto;
+}
+.seminar-past-talks {
+
+
+  
+  margin: auto;
+  width: 100%;
+  padding: 2px;
+
+  
+  background-color: aliceblue;
+  animation: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  
+  
+}
 .seminars {
   a {
     text-decoration: none;
@@ -648,6 +677,8 @@ footer.sticky-bottom {
       align-items: center;
     }
   }
+
+  
 
   .grid-sizer, .grid-item {
     width: 250px;
