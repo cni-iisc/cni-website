@@ -1,18 +1,19 @@
     {% if site.footer_fixed %}
     <footer class="fixed-bottom">
-      <div class="footer-socials">
-        {%- include social.html -%}
-      </div>
+      
       <div class="container mt-0">
         &copy; Copyright {{ site.time | date: '%Y' }} {{ site.title }}. {{ site.footer_text }}
         {%- if site.impressum_path -%}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
         {%- endif -%}
+        <div class="footer-socials">
+          {%- include social.html -%}
+        </div>
         {%- if site.last_updated -%}
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
         {%- endif %}
         
-        <a href={{site.url}}{{site.baseurl}}/about>About CNI</a>
+        <!-- <a href={{site.url}}{{site.baseurl}}/about>About CNI</a> -->
         
       </div>
     </footer>

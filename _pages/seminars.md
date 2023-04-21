@@ -37,7 +37,7 @@ horizontal: true
 
 <!-- {{ cdate }} -->
 
-
+<h2 style="text-align:center">Upcoming ...</h2>
 <div class="seminars">
   <div class="container">
     {%- for seminar in seminars -%}
@@ -53,6 +53,7 @@ horizontal: true
 
 
 <hr>
+
 
 
 <!-- pages/seminars.md -->

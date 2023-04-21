@@ -50,6 +50,23 @@ layout: default
               </div>
               {%- endif -%}
               {%- endfor -%}
+
+              <!-- Showcase seminars -->
+              {%- for seminar in site.seminars -%}
+              {%- if seminar.showcase -%}
+               <div class="carousel-item">
+               {% if seminar.redirect -%}
+                  <a href="{{ seminar.redirect }}">
+                  {%- else -%}
+                  <a href="{{ seminar.url | relative_url }}">
+                {%- endif %}
+                  <img class="d-block w-100 img-fluid" src="{{ seminar.img }}">
+                  
+                  </a>
+              </div>
+              {%- endif -%}
+              {%- endfor -%}
+              
           <!-- Showcasing news on the carousel -->
               {%- for news in site.news -%}
              {%- if news.showcase -%}
@@ -68,6 +85,7 @@ layout: default
               </div>
               {%- endif -%}
               {%- endfor -%}
+
             </div>
             <a class="carousel-control-prev shadow" href="#updatesAndEvents" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
