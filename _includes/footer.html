@@ -4,13 +4,17 @@
       <div class="container mt-0">
         &copy; Copyright {{ site.time | date: '%Y' }} {{ site.title }}. {{ site.footer_text }}
         {%- if site.impressum_path -%}
+        <div class="footer_text">
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        </div>
         {%- endif -%}
         <div class="footer-socials">
           {%- include social.html -%}
         </div>
         {%- if site.last_updated -%}
+        <div class="footer_text">
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        </div>
         {%- endif %}
         
         <!-- <a href={{site.url}}{{site.baseurl}}/about>About CNI</a> -->
