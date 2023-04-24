@@ -37,7 +37,7 @@ horizontal: false
 
 {%- else -%}
 <!-- Display people without categories -->
-{%- assign people0 = site.people | where : "category", "Staff" -%}
+{%- assign people0 = site.people | where : "category", "Staff"  -%}
   {%- assign sorted_people = people0 | sort: "importance" -%}
   <!-- Generate cards for each people -->
   {% if page.horizontal -%}
@@ -51,9 +51,16 @@ horizontal: false
   {%- else -%}
   <div class="grid">
     {%- for people in sorted_people -%}
+    {%- unless people.past == true -%}
       {% include people.html %}
+    {%- endunless -%}
     {%- endfor %}
   </div>
   {%- endif -%}
 {%- endif -%}
+</div>
+<br>
+<hr>
+<div style="text-align: center;">
+<a href="/staff/alumni" class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="text-align:center">Alumni</a>
 </div>

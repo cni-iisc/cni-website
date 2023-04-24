@@ -1,16 +1,15 @@
 ---
-layout: mtech_page
-title: M Tech Fellows 
-permalink: /mtech-2021/
-description: 2021 - 2022
+layout: page
+title: Alumni <a href="/staff">Staff</a>
+permalink: /staff/alumni
+description: 
 nav: false
 nav_order: 3
 # display_categories: [Faculty,Ph.D. Fellows/Scholars, M.Tech. Fellows/Scholars, Staff ]
 horizontal: false
-year: 2021
 ---
 
-
+<!-- pages/peoples.md -->
 <div class="people-non-faculty">
 {%- if site.enable_people_categories and page.display_categories %}
   <!-- Display categorized people -->
@@ -30,9 +29,7 @@ year: 2021
   {%- else -%}
   <div class="grid">
     {%- for people in sorted_people -%}
-
       {% include people.html %}
-
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -40,14 +37,13 @@ year: 2021
 
 {%- else -%}
 <!-- Display people without categories -->
-{%- assign people0 = site.people | where : "category", "M.Tech. Fellows/Scholars" -%}
-  {%- assign sorted_people = people0 | sort: "title" -%}
+{%- assign people0 = site.people | where : "category", "Staff"  -%}
+  {%- assign sorted_people = people0 | sort: "importance" -%}
   <!-- Generate cards for each people -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
     {%- for people in sorted_people -%}
-    
       {% include people_horizontal.html %}
     {%- endfor %}
     </div>
@@ -55,13 +51,9 @@ year: 2021
   {%- else -%}
   <div class="grid">
     {%- for people in sorted_people -%}
-      {%- if people.past == true -%}
-      {%- for y in people.years -%}
-      {%- if y == page.year -%}
-        {% include people.html %}
-      {%- endif -%}
-      {%- endfor -%}
-     {%- endif -%}
+    {%- if people.past == true -%}
+      {% include people.html %}
+    {%- endif -%}
     {%- endfor %}
   </div>
   {%- endif -%}

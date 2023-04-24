@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mtech_page
 title: M Tech Fellows 
 permalink: /mtech-2020/
 description: 2020-2021
