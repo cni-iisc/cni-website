@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alumni <a href="/staff">Staff</a>
+title: Alumni Staff
 permalink: /staff/alumni
 description: 
 nav: false

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Gauram Gautam
-position_at_CNI: Technical Associate
+title: Vishal Sevani
+position_at_CNI: Consultant Technologist
 description: 
 department:
-img: assets/img/people/staff/past/Gaurav-Gautam.jpg
+img: assets/img/people/staff/past/Vishal Sevani.jpg
 importance: 5
 category: Staff
 redirect: 
 research_interests: 
 email: 
 past: true
-duration: Sep 2020 – Jun 2022
+duration: Feb 2021 - July 2022
 
 advisor: # only applicable for students or fellows
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Purushothaman S
-position_at_CNI: Project Trainee
+position_at_CNI: Technical Associate
 description: 
 department:
 img: assets/img/people/staff/past/purushothaman_s.jpg

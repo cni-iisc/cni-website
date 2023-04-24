@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Gauram Gautam
+title: Ashwin Gerard Colaco
 position_at_CNI: Technical Associate
 description: 
 department:
-img: assets/img/people/staff/past/Gaurav-Gautam.jpg
+img: assets/img/people/staff/past/ashwin gerard colaco.jpg
 importance: 5
 category: Staff
 redirect: 
 research_interests: 
 email: 
 past: true
-duration: Sep 2020 – Jun 2022
+duration: Aug 2021 – Jul 2022
 
 advisor: # only applicable for students or fellows
 

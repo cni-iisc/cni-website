@@ -4,7 +4,7 @@ title: Prashanth S
 position_at_CNI: Technical Associate
 description: 
 department:
-img: assets/img/people/staff/past/prashanth_s.jpg
+img: assets/img/people/staff/past/Prashanth_S.jpg
 importance: 5
 category: Staff
 redirect: 

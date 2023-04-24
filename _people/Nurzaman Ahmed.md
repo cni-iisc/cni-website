@@ -4,7 +4,7 @@ title: Nurzaman Ahmed
 position_at_CNI: Post Doctoral Fellowship
 description: 
 department:
-img: assets/img/people/staff/past/NurzamanAhmed.jpg
+img: assets/img/people/staff/past/Nurzaman Ahmed.jpg
 importance: 5
 category: Staff
 redirect: 
