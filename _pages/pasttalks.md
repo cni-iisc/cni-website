@@ -27,6 +27,9 @@ horizontal: true
     <div class="col-md-2">
       <a href="/pasttalks/2019" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2019</a>
     </div>
+    <div class="col-md-2">
+      <a href="/nss/" class="btn btn-tertiary btn-lg active" role="button" aria-pressed="true">Upcoming</a>
+    </div>
 
    </div>
 

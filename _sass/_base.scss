@@ -12,7 +12,14 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
-
+h5 {
+  text-align: center;
+  font-size: larger;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#accordion {
+  background-color: azure;
+}
 table {
   td, th {
     color: var(--global-text-color);
@@ -653,6 +660,7 @@ footer.sticky-bottom {
   
 }
 .seminars {
+  
   a {
     text-decoration: none;
 
@@ -662,23 +670,48 @@ footer.sticky-bottom {
       }
     }
   }
- 
+  
+  .more-authors-text {
+    height: 55px;
+    margin: 5px;
+    text-align: center;
+    
+  }
 
   .card-title {
-    height: 25px;
+    height: 60px;
+    font-size: medium;
+    overflow:hidden;
+    
+  
   }
 
   .card {
+    
+    
     img {
-      width: 100%;
+      
       object-fit: cover;
-      height: 200px;
+      height: 2px;
     }
   }
-
+  .card-speaker {
+    font-size: medium;
+    font-weight: 500;
+    height: 25px
+  }
+  .card-text {
+    position: relative;
+    padding: 2px;
+    text-align: justify;
+    height: 25px;
+  }
   .card-item {
+    position:relative;
     width: auto;
     margin-bottom: 10px;
+    display: -ms-inline-grid;
+    
   
 
     .row {
@@ -692,7 +725,7 @@ footer.sticky-bottom {
   .grid-sizer, .grid-item {
     width: 250px;
     margin-bottom: 10px;
-    height: 400px;
+    height: auto;
 
   }
 

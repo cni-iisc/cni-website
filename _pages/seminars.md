@@ -61,16 +61,17 @@ horizontal: true
 
 <div class="seminars">
   <div class="container">
+  <div class="grid">
     {%- for seminar in seminars -%}
-    
       {%- if seminar.date < cdate -%}
         {%-  assign sem_month = seminar.date | date : '%m-%y' -%}
         {%- assign seminars.upcoming = false -%}
         {%- if sem_month == cur_month -%}
-          {% include seminars_horizontal.html %}
+          {% include seminars_card.html %}
         {%- endif -%}
       {%- endif -%}
     {%- endfor %}
+    </div>
   </div>
 </div>
 

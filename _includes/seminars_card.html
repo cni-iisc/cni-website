@@ -1,0 +1,55 @@
+<!-- _includes/seminar.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+
+      <div class="card hoverable " >
+        <div class="card-body">
+          {% if seminar.redirect -%}
+          <a href="{{ seminar.redirect }}">
+            {%- else -%}
+            <a href="{{ seminar.url | relative_url }}">
+              {%- endif %}
+          <h2 class="card-title">{{ seminar.title }}</h2>
+          <p class="card-text">{{ seminar.date | date: "%b %d, %Y" }}</p>
+            <p class="card-speaker">
+            {%- if seminar.speaker -%}
+             {{ seminar.speaker }}
+            {%- endif -%}
+            </p>
+          
+        </a>
+        <div class="more-authors-text">
+          <br>
+          {%- if seminar.recorded_video -%}  
+            <a href="https://youtu.be/{{ seminar.recorded_video }}" class="btn btn-red btn-md active red" role="button" aria-pressed="true"><b>Youtube</b></a>
+         
+          {%- endif -%}
+        </div>
+          
+          
+          <div class="row ml-1 mr-1 p-0">
+            
+              <!-- <div class ="card-text">
+                <p class="card-text">"Research Interests : "{{ seminar.Research_Interests }}</p>
+              </div> -->
+            
+            {%- if seminar.github -%}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ seminar.github }}"><i class="fab fa-github gh-icon"></i></a>
+              </div>
+              
+              {%- if seminar.github_stars -%}
+              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                <i class="fas fa-star"></i>
+                <span id="{{ seminar.github_stars }}-stars"></span>
+              </span>
+              {%- endif %}
+            </div>
+            {%- endif %}
+          </div>
+        
+        </div>
+      </div>
+    
+</div>
