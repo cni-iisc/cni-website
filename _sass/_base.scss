@@ -12,10 +12,20 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
-h5 {
+.card-header {
   text-align: center;
-  font-size: larger;
+  box-shadow: 2px;
+  border-radius: 2px; 
+  border-color: rgb(0, 58, 130);
+  
+}
+.month-name {
+  
+  align-items: center;
+  font-size: large;
+  font-weight: bold;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 #accordion {
   background-color: azure;
