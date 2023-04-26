@@ -7,6 +7,7 @@ importance: 3
 category: ""
 ---
 
+<h1 style="text-align:center;"><a href="/cni-hackathon-2020/">Winners announced</a></h1>
 
 ## Swabs2Labs
 Swabs2Labs is a project undertaken by the Centre for Networked Intelligence that deals with the allocation of collected test swabs to testing labs in an efficient manner. This project has been undertaken in conjunction with Ministry of Health and Family Welfare of the Karnataka State Government, and is part of the centre’s efforts to analyze, model and develop tools to tackle the COVID-19 epidemic.

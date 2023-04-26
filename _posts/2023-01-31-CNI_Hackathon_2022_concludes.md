@@ -37,7 +37,7 @@ from some of the well-known institutes in India.
 The jury comprised experts from industry and IISc, and final jusy presentations were
 held on January 19, 2023.
 
-![]({{ site.url }}{{ site.baseurl }}/images/posts/hackathon2022_winners.png)
+<img width="100%" src="/assets/img/posts/hackathon2022_winners.png"/>
 
 Winners are awarded prizes worth up to ₹ 1.75 lakhs per track, sponsored by [Cisco CSR](https://www.cisco.com/c/en_in/about/csr.html).
 

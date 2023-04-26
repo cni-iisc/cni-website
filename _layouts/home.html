@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{%- assign cdate = site.time  -%}
 <!-- home.html -->
 
       <div class="post">
@@ -33,23 +33,7 @@ layout: default
                 <img class="d-block w-100 img-fluid" style = "max-height:500px; max-width:900px !important;" src="assets/img/history/IMG_0281.JPG" alt="First slide">
                 <!-- {% youtube uSpeHqV5ksc %} -->
               </div>
-          <!-- Showcasing projects on the carousel -->    
-             {%- for project in site.projects -%}
-             {%- if project.showcase -%}
-               <div class="carousel-item">
-                {% if project.redirect -%}
-                  <a href="{{ project.redirect }}">
-                  {%- else -%}
-                  <a href="{{ project.url | relative_url }}">
-                {%- endif %}
-                  <img class="d-block w-100 img-fluid" src="{{ project.img }}">
-                  <div class="carousel-caption">
-                    <h4 class="glow meta blue rounded"> {{ project.title }} </h4>
-                  </div>
-                  </a>
-              </div>
-              {%- endif -%}
-              {%- endfor -%}
+
 
               <!-- Showcase seminars -->
               {%- for seminar in site.seminars -%}
@@ -67,6 +51,57 @@ layout: default
               {%- endif -%}
               {%- endfor -%}
               
+              <!-- Showcase upcoming seminars -->
+              {%- for seminar in site.seminars -%}
+                {%- if seminar.date > cdate  -%}
+                  <div class="carousel-item">
+                    {% if seminar.redirect -%}
+                      <a href="{{ seminar.redirect }}">
+                    {%- else -%}
+                      <a href="{{ seminar.url | relative_url }}">
+                    {%- endif -%}
+                      <img class="d-block w-100 img-fluid" src="{{ seminar.img }}">
+                      </a>
+                  </div>
+                {%- endif -%}
+              {%- endfor -%}
+
+              <!-- Showcase seminars; give attribute, showcase = true in the front-matter of seminar -->
+              {%- for seminar in site.seminars -%}
+              {%- if seminar.showcase -%}
+               <div class="carousel-item">
+               {% if seminar.redirect -%}
+                  <a href="{{ seminar.redirect }}">
+                  {%- else -%}
+                  <a href="{{ seminar.url | relative_url }}">
+                {%- endif %}
+                  <img class="d-block w-100 img-fluid" src="{{ seminar.img }}">
+                  
+                  </a>
+              </div>
+              {%- endif -%}
+              {%- endfor -%}
+
+
+          <!-- Showcasing projects on the carousel -->    
+          {%- for project in site.projects -%}
+          {%- if project.showcase -%}
+            <div class="carousel-item">
+             {% if project.redirect -%}
+               <a href="{{ project.redirect }}">
+               {%- else -%}
+               <a href="{{ project.url | relative_url }}">
+             {%- endif %}
+               <img class="d-block w-100 img-fluid" src="{{ project.img }}">
+               <div class="carousel-caption">
+                 <h4 class="glow meta blue rounded"> {{ project.title }} </h4>
+               </div>
+               </a>
+           </div>
+           {%- endif -%}
+           {%- endfor -%}
+
+           
           <!-- Showcasing news on the carousel -->
               {%- for news in site.news -%}
              {%- if news.showcase -%}
