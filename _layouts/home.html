@@ -35,21 +35,7 @@ layout: default
               </div>
 
 
-              <!-- Showcase seminars -->
-              {%- for seminar in site.seminars -%}
-              {%- if seminar.showcase -%}
-               <div class="carousel-item">
-               {% if seminar.redirect -%}
-                  <a href="{{ seminar.redirect }}">
-                  {%- else -%}
-                  <a href="{{ seminar.url | relative_url }}">
-                {%- endif %}
-                  <img class="d-block w-100 img-fluid" src="{{ seminar.img }}">
-                  
-                  </a>
-              </div>
-              {%- endif -%}
-              {%- endfor -%}
+
               
               <!-- Showcase upcoming seminars -->
               {%- for seminar in site.seminars -%}
