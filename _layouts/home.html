@@ -34,8 +34,22 @@ layout: default
                 <!-- {% youtube uSpeHqV5ksc %} -->
               </div>
 
+              <!-- Showcasing summerschools -->
 
-
+              {%- for ss in site.summerschool -%}
+              {%- if ss.showcase -%}
+               <div class="carousel-item">
+               {% if ss.redirect -%}
+                  <a href="{{ ss.redirect }}">
+                  {%- else -%}
+                  <a href="{{ ss.url | relative_url }}">
+                {%- endif %}
+                  <img class="d-block w-100 img-fluid" src="{{ ss.img }}">
+                  
+                  </a>
+              </div>
+              {%- endif -%}
+              {%- endfor -%}
               
               <!-- Showcase upcoming seminars -->
               {%- for seminar in site.seminars -%}
