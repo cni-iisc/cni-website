@@ -311,6 +311,12 @@ blockquote {
   display: inline;
 
 }
+@media only screen and (max-width: 768px) {
+  .footer-socials {
+    display: block;
+  
+  }
+}
 
 .footer_text {
   display: inline;
