@@ -44,10 +44,8 @@ horizontal: true
     {%- for seminar in seminars -%}
       {%- if seminar.date > cdate -%}
       {%- assign sem_time = seminar.date | date: "%H:%M:%S" -%}
-      {%- if  sem_time < stime -%}
       {%- assign seminar.upcoming = true -%}
         {% include seminars_horizontal.html %}
-      {%- endif -%}
       {%- endif -%}
     {%- endfor %}
   </div>
