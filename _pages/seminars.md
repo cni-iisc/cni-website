@@ -37,7 +37,8 @@ horizontal: true
 
 
 {%- assign stime = site.time | date: "%H:%M:%S" -%}
---
+
+____
 
 <div class="seminars">
   <div class="container">
