@@ -17,7 +17,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
       - uses: helaili/jekyll-action@v2    # Choose any one of the Jekyll Actions
-        with:                                # Some relative inputs of your action
+        with:
+          pre_build_commands: git config --global http.version HTTP/1.1; apk fetch git-lfs;
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
           pre_build_commands: apk --update add imagemagick
