@@ -1,16 +1,15 @@
 ---
-layout: page
+layout: hackathon_page
 title: Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023
-description:
-img: 
+description: 
+img: assets/img/hackathons/digital-defenders-ctf-2023.jpeg  
 importance: 1
 year: 2023
 category: ""
 ---
 
 
-<center>brought to you by 
-CySecK, Cisco and CNI-IISc and powered by Traboda
+<center>
 </center>
 
 
