@@ -5,6 +5,7 @@ description:
 img: assets/img/hackathons/2019-datathon.png
 importance: 4
 category: ""
+year: 2019
 ---
 
 
