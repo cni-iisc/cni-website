@@ -34,6 +34,24 @@ layout: default
                 <!-- {% youtube uSpeHqV5ksc %} -->
               </div>
 
+
+              <!-- Showcasing hackathons -->
+
+              {%- for hh in site.hackathons -%}
+              {%- if hh.showcase -%}
+               <div class="carousel-item">
+               {% if hh.redirect -%}
+                  <a href="{{ hh.redirect }}">
+                  {%- else -%}
+                  <a href="{{ hh.url | relative_url }}">
+                {%- endif %}
+                  <img class="d-block w-100 img-fluid carousel-img" src="{{ hh.img }}">
+                  
+                  </a>
+              </div>
+              {%- endif -%}
+              {%- endfor -%}
+
               <!-- Showcasing summerschools -->
 
               {%- for ss in site.summerschool -%}

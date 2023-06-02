@@ -17,7 +17,11 @@
                     {% if item.inline -%} 
                       {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
                     {%- else -%} 
+                    {%- if item.internal_url -%}
+                      <a class="blog-title" href="{{ site.baseurl}}{{ item.internal_url }}">{{ item.title }}</a>
+                    {%- else -%}
                       <a class="blog-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    {%- endif -%}
                     {%- endif %} 
                   </td>
                 </tr>
