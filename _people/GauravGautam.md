@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gauram Gautam
+title: Gaurav Gautam
 position_at_CNI: Technical Associate
 description: 
 department:

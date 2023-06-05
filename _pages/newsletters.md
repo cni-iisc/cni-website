@@ -1,6 +1,6 @@
 ---
-layout: newsletters
-title: Newsletter
+layout: page
+title: Newsletters
 permalink: /newsletters/
 description: 
 nav: false

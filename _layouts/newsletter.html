@@ -1,0 +1,87 @@
+---
+layout: default
+---
+
+
+<div class="newsletter-container">
+  
+  <div class="row empty-banner">
+
+  </div>
+
+  <!-- First row -->
+  <div class = "row">
+    <div class="col-3 title">
+      <h1>
+        {{ page.title }}
+      </h1>
+    </div>
+    <div class="col-9 date">
+      <h1>
+        {{ page.month }} {{ page.year }}
+      </h1>
+    </div>
+  </div>
+
+  <!-- main content -->
+  <div class="row">
+    <div class="col-3 events">
+      <div class="row month_events">
+        <article>
+          {{ content }}
+        </article>
+    </div>
+
+    </div>
+    <div class="col-9 main_content">
+      <div class="row">
+        <div class="col main_pic">
+          <img src="{{ page.main_pic | relative_url }}"/>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-3 past-events">
+      <h1>
+        Past events
+      </h1>
+      <img src="{{ page.main_pic | relative_url }}"/>
+
+    </div>
+    <div class="col-9 main-articles">
+      <div class="row">
+        <div class="col-6">
+          <h1>
+            {{ page.article_1_heading }}
+          </h1>
+
+          {{ page.article_1 }}
+        </div>
+        <div class="col-6">
+          <h1>
+            {{ page.article_2_heading }}
+          </h1>
+          {{ page.article_2 }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+</div>
+
+<!-- <div id="newsletter">
+  <p>
+    <font size="3" color="red">print this to pdf</font>
+  </p>
+</div> -->
+
+<!-- <button class="btn btn-primary print" onclick="printDiv('newsletter','Title')"><span class="glyphicon glyphicon-print" aria-hidden="true"></span> Print</button> -->
+
