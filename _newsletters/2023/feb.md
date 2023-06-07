@@ -2,18 +2,27 @@
 layout: newsletter
 title: CNI Newsletter
 newsletter_type: monthly #annual / monthly
-description: 
-img: sample_main_pic.JPG
-category: ""
 
-month: february
+
+month: february 
 year: 2023
 
+
+# pics to be displayed have to be stored under assets/img/newsletter/<year>/<month>
+
+# Main image to be displayed
+img: sample_main_pic.JPG
+
+
+# content for past events
 past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
 
-past_event_pics:
+past_event_pics: # Provide a list of file names with proper extensions
     - sample_main_pic.JPG
     - preview.jpg
+
+
+# Upcoming events
 
 events_headline: We have four seminars and one thesis defence this month.
 
