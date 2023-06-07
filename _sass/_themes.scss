@@ -18,7 +18,7 @@
   --pub-article: #{$blue-color-dark};
   --pub-inproceedings: #{$purple-color};
   --pub-misc: #{$black-color};
-
+  --newsletter-border-color: rgb(44, 44, 44);
   .profile_image_class {
     display: none;
 
@@ -70,6 +70,7 @@ html[data-theme='dark'] {
   --pub-article: #{$cyan-color};
   --pub-inproceedings: #{$purple-color};
   --pub-misc: #{$grey-color-light};
+  --newsletter-border-color: rgb(138, 138, 138);
 
   .fa-sun {
     padding-left: 10px;

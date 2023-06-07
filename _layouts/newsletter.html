@@ -6,7 +6,9 @@ layout: default
 <div class="newsletter-container">
   
   <div class="row empty-banner">
-
+    <div class="col-3">
+    </div>
+    <div class="col-9"></div>
   </div>
 
   <!-- First row -->
@@ -18,25 +20,35 @@ layout: default
     </div>
     <div class="col-9 date">
       <h1>
-        {{ page.month }} {{ page.year }}
+        {{ page.month | capitalize }} {{ page.year }}
       </h1>
     </div>
   </div>
 
-  <!-- main content -->
+  <!-- Events -->
   <div class="row">
     <div class="col-3 events">
       <div class="row month_events">
         <article>
-          {{ content }}
+          <h1>Upcoming events</h1>
+          <h2>{{ page.events_headline }}</h2>
+
+          {%- for event in page.events -%} 
+          <br>
+            <h2><b>{{ event.name }}:</b>
+            {{ event.description }}</h2>
+          {%- endfor -%}
         </article>
     </div>
 
     </div>
+
+    <!-- Main picture -->
+
     <div class="col-9 main_content">
       <div class="row">
         <div class="col main_pic">
-          <img src="{{ page.main_pic | relative_url }}"/>
+          <img src="{{ site.baseurl }}/assets/img/newsletter/{{ page.year }}/{{ page.month }}/{{ page.img }}"/>
         </div>
       </div>
 
@@ -47,41 +59,93 @@ layout: default
       <h1>
         Past events
       </h1>
-      <img src="{{ page.main_pic | relative_url }}"/>
 
+      <h2> {{ page.past_events_headline }}</h2>
+
+      <!-- For looping through the directory and picking up images - This picks up multiple version of the same image. To be used after fixing duplication issues-->
+      <!-- {%- capture gallery_path -%}assets/img/newsletter/{{ page.year }}/{{ page.month }}{%- endcapture -%}
+        {%- for image in site.static_files -%}
+          {%- if image.path contains gallery_path -%}
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+          {%- endif -%}
+        {%- endfor -%} -->
+        
+        <!-- Looping through provided images in the past_event_pics object -->
+
+        {%- for picture in page.past_event_pics -%} 
+          <img src="{{ site.baseurl }}/assets/img/newsletter/{{ page.year }}/{{ page.month }}/{{ picture }}"/>
+        {%- endfor -%}
     </div>
     <div class="col-9 main-articles">
       <div class="row">
-        <div class="col-6">
-          <h1>
-            {{ page.article_1_heading }}
-          </h1>
+        <h1>
+          Centre updates
+        </h1>
+        <article>
 
-          {{ page.article_1 }}
-        </div>
-        <div class="col-6">
-          <h1>
-            {{ page.article_2_heading }}
-          </h1>
-          {{ page.article_2 }}
-        </div>
+          
+          <p>
+            {{ content }}
+          </p>
+
+
+          <div class="box-article">
+            <h1>{{ page.msg-title }}</h1>
+            <h2>{{ page.msg-content }}</h2>
+          </div>
+        </article>
       </div>
     </div>
+  </div>
+  <div class = "row">
+    <div class="col-3 email">
+      <h1>
+        contact.cni@iisc.ac.in
+      </h1>
+    </div>
+    <div class="col-9 address">
+      <h1>
+        CNI, ECE Department, IISc 560012 |  <a href="https://cni.iisc.ac.in">https://cni.iisc.ac.in</a>
+      </h1>
+    </div>
+  </div>
+  <!-- Sponsors and Supporters -->
+
+
+
+    <div class="row logos">
+          <div class="col-3">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/Cisco CSR Logos-TM-vert.png" height="110"/>
+          </div>
+          <div class="col-3">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/img/IISc_logo-150x150.png" height="100"/>
+          </div>
+          <div class="col-2">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/cropped-BCCPS-Logo.png" height="100"/>
+          </div>
+          <div class="col-3">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Logos/ece_logo.jpg" height="100"/>
+          </div>
+     
+    </div>
+  
+
+  <div class="row empty-banner">
+
   </div>
 
 </div>
 
-
+<!-- last row -->
 
 
 
 </div>
 
-<!-- <div id="newsletter">
+<!-- <div id="newsletter-container">
   <p>
     <font size="3" color="red">print  to pdf</font>
   </p>
 </div> -->
 
-<!-- <button class="btn btn-primary print" onclick="printDiv('newsletter','Title')"><span class="glyphicon glyphicon-print" aria-hidden="true"></span> Print</button> -->
-
+<!-- <button class="btn btn-primary print" onclick="printDiv('newsletter-container','Title')"><span class="glyphicon glyphicon-print" aria-hidden="true"></span> Print</button> -->

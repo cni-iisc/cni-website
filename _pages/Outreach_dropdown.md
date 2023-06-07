@@ -17,7 +17,7 @@ children:
     # - title: divider
     - title: CNI in the News
       permalink: /news/
-    # - title: Newsletter
-    #   permalink: Newsletter
+    - title: Newsletters
+      permalink: /newsletters/
     
 ---

@@ -10,6 +10,9 @@ display_categories: [""]
 horizontal: true
 ---
 
+  {%- assign seminars = site.seminars | sort: "date" | reverse -%}
+  {%- assign cdate = site.time  -%}
+  {%- assign stime = site.time | date: "%H:%M:%S" -%}
 
 **Networks Seminar Series**
 
@@ -31,14 +34,8 @@ horizontal: true
 
     
    <br>
-{%- assign seminars = site.seminars | sort: "date" | reverse -%}
-
-{%- assign cdate = site.time  -%}
 
 
-{%- assign stime = site.time | date: "%H:%M:%S" -%}
-
-____
 
 <div class="seminars">
   <div class="container">

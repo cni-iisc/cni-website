@@ -781,21 +781,27 @@ footer.sticky-bottom {
 
   .title {
    
-    border: 1.5px solid black;
-    text-align: left;
-    font-size: large;
+    border-top: 1.5px solid var(--newsletter-border-color);
+    border-left: 1.5px solid var(--newsletter-border-color);
+    border-bottom: 1.5px solid var(--newsletter-border-color);
+
+    text-align: center;
+    font-size: larger;
     h1 {
       margin: 10px;
+      padding: 10px;
       font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
   }
 
   .date {
+    font-size: larger;
     text-align: right;
-    border: 1.5px solid black;
+    border: 1.5px solid var(--newsletter-border-color);
     h1{ 
       margin: 10px;
       font-weight: 200;
+      padding: 10px;
     }
   }
 
@@ -814,8 +820,26 @@ footer.sticky-bottom {
 
   div.events{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: justify;
-    border-right: 1.5px solid black;
+    b {
+      font-weight: 700;
+    }
+    border-left: 1.5px solid var(--newsletter-border-color);
+    
+
+    .month_events {
+      h1 {
+        font-weight: 650;
+        margin: 0;
+        font-size: medium;
+        text-align: center;
+      }
+      h2 {
+        font-weight: lighter;
+        margin: 0;
+        font-size: small;
+      }
+    }
+    
   }
 
   article {
@@ -825,18 +849,21 @@ footer.sticky-bottom {
 
   .main_content {
     text-align: justify;
-
+    border-left: 1.5px solid var(--newsletter-border-color);
+    border-right: 1.5px solid var(--newsletter-border-color);
     .main_pic {
       img {
         width: 100%;
-        margin: 10px; 
-        padding-right: 15px;        
+        // margin: 10px; 
+        // padding-right: 10px;
+        padding-top: 10px;        
       }
     }
   }
 
   .past-events {
-    border: 1.5px solid black;;
+    border-top: 1.5px solid var(--newsletter-border-color);
+    border-left: 1.5px solid var(--newsletter-border-color);
     img {
       width: 100%;
       // margin: 15px;
@@ -845,125 +872,190 @@ footer.sticky-bottom {
     h1{ 
       // margin: 10px;
       font-weight: 200;
-      padding: 10px
+      padding: 10px;
+    }
+    h2 {
+      font-size: small;
+      padding: 10px;
+      
     }
   }
   .main-articles {
-    padding: 10px;
+    h1 {
+      padding-left: 15px;
+    }
+    article{
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2;
+    padding-top: 10px;
+    }
+    padding: 15px;
+    border-right: 1.5px solid var(--newsletter-border-color);
+    border-left: 1.5px solid var(--newsletter-border-color);
+    
+    p {
+      margin-top: 10px;
+    }
     
     h1{ 
-
-      font-weight: 200;
-
-     
+      font-weight: 600;  
+      margin: 0;
     }
-  }
 
-}
+    .box-article {
+      border: 2px solid darkblue;
+      h1 {
 
-// Newsletter
-.visitor-pic {
-  margin: auto;
-  float: left;
-}
-.visitors-card {
-  margin: auto;
-  background-color: azure;
-}
-.sem-title {
-  text-align: center;
-  margin: auto;
-  padding: 10px;
-  font-size: medium;
-}
-.sem-post-newsletter {
-  position: relative;
-  text-align: left;
-  margin:auto;
- 
-}
-.visitor-text {
-  margin:auto;
-  text-align: center;
-  position: relative;
-}
-.newsletter-ytube {
-  text-align:center;
-  font-size: small;
-  color: gray;
-}
-.nl-text {
-  text-align: center;
-}
-.center {
-  margin: auto;
-  width: 100%;
-  border: 2px solid rgb(11, 15, 11);
-  padding: 10px;
-}
-.newsletter-title {
-  text-align: center;
-}
-.newsletter-text {
-  margin-left: 2px;
-  text-align: center;
-}
-.newsletter {
-  
-  
-  h1 {
-    align-items: center;
-  }
-  a {
-    text-decoration: none;
+        margin: 10px;
 
-    &:hover {
-      .card-title {
-        color: var(--global-theme-color);
+      }
+
+      h2 {
+        margin: 10px;
       }
     }
   }
 
-  
-  .card-title {
-    height: 25px;
+  .email {
+    text-align: justify;
+    border-top: 1.5px solid var(--newsletter-border-color);
+    border-left: 1.5px solid var(--newsletter-border-color);
+    border-bottom: 1.5px solid var(--newsletter-border-color);
+    font-size: large;
+    h1 {
+      margin: 10px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
   }
 
-  .card {
+  .address {
+    text-align: center;
+    border: 1.5px solid var(--newsletter-border-color);
+    font-size: large;
+    h1 {
+      margin: 10px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+  }
+  
+  .logos {
+    margin: 10px;
+    padding: 0px;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    display: flex;
     img {
-      width: 100%;
-      object-fit: cover;
-      height: 200px;
+      padding: 15px;
     }
   }
 
-  .card-item {
-    width: auto;
-    margin-bottom: 10px;
+}
+
+// // Newsletter
+// .visitor-pic {
+//   margin: auto;
+//   float: left;
+// }
+// .visitors-card {
+//   margin: auto;
+//   background-color: azure;
+// }
+// .sem-title {
+//   text-align: center;
+//   margin: auto;
+//   padding: 10px;
+//   font-size: medium;
+// }
+// .sem-post-newsletter {
+//   position: relative;
+//   text-align: left;
+//   margin:auto;
+ 
+// }
+// .visitor-text {
+//   margin:auto;
+//   text-align: center;
+//   position: relative;
+// }
+// .newsletter-ytube {
+//   text-align:center;
+//   font-size: small;
+//   color: gray;
+// }
+// .nl-text {
+//   text-align: center;
+// }
+// .center {
+//   margin: auto;
+//   width: 100%;
+//   border: 2px solid rgb(11, 15, 11);
+//   padding: 10px;
+// }
+// .newsletter-title {
+//   text-align: center;
+// }
+// .newsletter-text {
+//   margin-left: 2px;
+//   text-align: center;
+// }
+// .newsletter {
+  
+  
+//   h1 {
+//     align-items: center;
+//   }
+//   a {
+//     text-decoration: none;
+
+//     &:hover {
+//       .card-title {
+//         color: var(--global-theme-color);
+//       }
+//     }
+//   }
+
+  
+//   .card-title {
+//     height: 25px;
+//   }
+
+//   .card {
+//     img {
+//       width: 100%;
+//       object-fit: cover;
+//       height: 200px;
+//     }
+//   }
+
+//   .card-item {
+//     width: auto;
+//     margin-bottom: 10px;
   
 
-    .row {
-      display: flex;
-      align-items: center;
-    }
-  }
+//     .row {
+//       display: flex;
+//       align-items: center;
+//     }
+//   }
 
-  .grid-sizer, .grid-item {
-    width: 250px;
-    margin-bottom: 10px;
-    height: 400px;
+//   .grid-sizer, .grid-item {
+//     width: 250px;
+//     margin-bottom: 10px;
+//     height: 400px;
 
-  }
+//   }
 
-  h2.category {
-    color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
-    padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    text-align: right;
-  }
-}
+//   h2.category {
+//     color: var(--global-divider-color);
+//     border-bottom: 1px solid var(--global-divider-color);
+//     padding-top: 0.5rem;
+//     margin-top: 2rem;
+//     margin-bottom: 1rem;
+//     text-align: right;
+//   }
+// }
 
 // People new style
 
