@@ -770,14 +770,17 @@ footer.sticky-bottom {
 // Newsletter container
 
 .newsletter-container {
-  
+  margin:0;
+  padding: 0;
+  // background-color: beige;
+  background-size: cover;
+  font-size: small;
+  text-align: justify;
+
   div.empty-banner {
     background-color: beige;
     height: 20px;
   }
-
-  font-size: small;
-  text-align: justify;
 
   .title {
    
@@ -953,109 +956,6 @@ footer.sticky-bottom {
 
 }
 
-// // Newsletter
-// .visitor-pic {
-//   margin: auto;
-//   float: left;
-// }
-// .visitors-card {
-//   margin: auto;
-//   background-color: azure;
-// }
-// .sem-title {
-//   text-align: center;
-//   margin: auto;
-//   padding: 10px;
-//   font-size: medium;
-// }
-// .sem-post-newsletter {
-//   position: relative;
-//   text-align: left;
-//   margin:auto;
- 
-// }
-// .visitor-text {
-//   margin:auto;
-//   text-align: center;
-//   position: relative;
-// }
-// .newsletter-ytube {
-//   text-align:center;
-//   font-size: small;
-//   color: gray;
-// }
-// .nl-text {
-//   text-align: center;
-// }
-// .center {
-//   margin: auto;
-//   width: 100%;
-//   border: 2px solid rgb(11, 15, 11);
-//   padding: 10px;
-// }
-// .newsletter-title {
-//   text-align: center;
-// }
-// .newsletter-text {
-//   margin-left: 2px;
-//   text-align: center;
-// }
-// .newsletter {
-  
-  
-//   h1 {
-//     align-items: center;
-//   }
-//   a {
-//     text-decoration: none;
-
-//     &:hover {
-//       .card-title {
-//         color: var(--global-theme-color);
-//       }
-//     }
-//   }
-
-  
-//   .card-title {
-//     height: 25px;
-//   }
-
-//   .card {
-//     img {
-//       width: 100%;
-//       object-fit: cover;
-//       height: 200px;
-//     }
-//   }
-
-//   .card-item {
-//     width: auto;
-//     margin-bottom: 10px;
-  
-
-//     .row {
-//       display: flex;
-//       align-items: center;
-//     }
-//   }
-
-//   .grid-sizer, .grid-item {
-//     width: 250px;
-//     margin-bottom: 10px;
-//     height: 400px;
-
-//   }
-
-//   h2.category {
-//     color: var(--global-divider-color);
-//     border-bottom: 1px solid var(--global-divider-color);
-//     padding-top: 0.5rem;
-//     margin-top: 2rem;
-//     margin-bottom: 1rem;
-//     text-align: right;
-//   }
-// }
 
 // People new style
 
