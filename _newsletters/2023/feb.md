@@ -33,7 +33,7 @@ events:
 
     - name: Fast, Flexible, and Intelligent Next-Generation Networks and Systems
       description: by Muhammad Shahbaz from Purdue University on 14th March @4pm
-      url:https://youtu.be/cSa74gRzEsE
+      url: https://youtu.be/cSa74gRzEsE
 
     - name: Leading the core-technology innovations for 6G
       description: by Dr. Naga Bhushan from Qualcomm on 15th March @4pm
