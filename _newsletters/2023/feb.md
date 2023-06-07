@@ -27,21 +27,25 @@ past_event_pics: # Provide a list of file names with proper extensions
 events_headline: We have four seminars and one thesis defence this month.
 
 events:
-    - name: "UGIF: UI Grounded Instruction Following"
-      description: by Sagar G. Venkatesh from Google Research on 7th Feb @4pm
+    - name: Age-Distortion Tradeoffs
+      description: by Yunus Inan from EPFL, Switzerland on 7th March @4pm
+      url: https://youtu.be/8ryHuwy5p5I
+
+    - name: Fast, Flexible, and Intelligent Next-Generation Networks and Systems
+      description: by Muhammad Shahbaz from Purdue University on 14th March @4pm
+      url:https://youtu.be/cSa74gRzEsE
+
+    - name: Leading the core-technology innovations for 6G
+      description: by Dr. Naga Bhushan from Qualcomm on 15th March @4pm
       url:
 
-    - name: Coding Schemes For Input-Constrained Channels
-      description: by V. Arvind Rameshwar from IISc on 14th Feb @4pm
-      url:
-
-    - name: RF Beyond Communication
-      description: New Opportunities for Human Sensing with mmWave by Sandip Chakraborty from IIT Kharagpur on 21st Feb @4pm
-      url:
-
-    - name: Finite time analysis of temporal difference learning with linear function approximation
-      description: Tail averaging and regularisation by Prashanth L.A from IIT Madras 28th Feb @4pm
-      url:
+    - name: Research Challenges in Network Slicing in 55G and Beyond Its Implications on Rural Connectivity 
+      description: by Prof. Sudhir Dixit  from IISc 23rd March @4pm
+      url: https://youtu.be/9Ry3mCzxFzc
+    
+    - name: Short Packet Communication under Random Arrival Of Data
+      description: by Parthajit Mohapatra IIT Tirupati on 28th March @ 4pm
+      url: https://youtu.be/DlmpO-nqvwo
 
 # The content of below two will be displayed as a box inside the main area.
 msg-title: From the convenor
