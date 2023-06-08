@@ -24,7 +24,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have four seminars and one thesis defence this month.
+events_headline: We have five seminars  this month.
 
 events:
     - name: Age-distortion tradeoffs
@@ -60,7 +60,7 @@ We hope to reach students, faculty, and potential staff who would be interested 
 
 <!-- Main article -->
 
-CNI had organised four seminars organised in February 2023.  
+CNI had organised four seminars and one thesis defense in February 2023.  
 
 Dr. Sagar Gubbi Venkatesh from Google research spoke on UI grounded instruction following on Feb 7.   In particular, he talked about the natural language-based instruction following agent that helps new smartphone users learn how to use the phone independently. The proposed system parses instructions from support sites using large language models such as ChatGPT and generates macros which can be executed when the user asks queries.
  
