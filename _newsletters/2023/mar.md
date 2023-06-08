@@ -39,7 +39,7 @@ events:
       description: by Dr. Lalitesh Katragadda from CMU on 11th April 
       url:
 
-    - name: Learning optimal beam directions in next-generation wireless networks: A fixed-budget stochastic bandit approach
+    - name: "Learning optimal beam directions in next-generation wireless networks: A fixed-budget stochastic bandit approach"
       description:  by Manjesh Kumar Hanawal from IIT Bombay 18th April @4pm
       url: https://youtu.be/DtrciQaBGtg
 
