@@ -27,11 +27,11 @@ past_event_pics: # Provide a list of file names with proper extensions
 events_headline: We have four seminars and one thesis defence this month.
 
 events:
-    - name: Age-Distortion Tradeoffs
+    - name: Age-distortion tradeoffs
       description: by Yunus Inan from EPFL, Switzerland on 7th March @4pm
       url: https://youtu.be/8ryHuwy5p5I
 
-    - name: Fast, Flexible, and Intelligent Next-Generation Networks and Systems
+    - name: Fast, flexible, and intelligent next-generation networks and systems
       description: by Muhammad Shahbaz from Purdue University on 14th March @4pm
       url: https://youtu.be/cSa74gRzEsE
 
@@ -39,11 +39,11 @@ events:
       description: by Dr. Naga Bhushan from Qualcomm on 15th March @4pm
       url:
 
-    - name: Research Challenges in Network Slicing in 55G and Beyond Its Implications on Rural Connectivity 
+    - name: Research challenges in network slicing in 5G and beyond its implications on rural connectivity 
       description: by Prof. Sudhir Dixit  from IISc 23rd March @4pm
       url: https://youtu.be/9Ry3mCzxFzc
     
-    - name: Short Packet Communication under Random Arrival Of Data
+    - name: Short packet communication under random arrival of data
       description: by Parthajit Mohapatra IIT Tirupati on 28th March @ 4pm
       url: https://youtu.be/DlmpO-nqvwo
 
