@@ -57,13 +57,7 @@ We hope to reach students, faculty, and potential staff who would be interested 
 <!-- Main article -->
     CNI had organised five seminars organised in February 2023.  
     
-    Yunus Inan , a PhD student at EPFL, Switzerland  talked about a model to study the tradeoff between timeliness and
-    distortion in data transmission, where different pieces of data have a different
-    cost of not being sent. He poses the question of finding the optimal tradeoff
-    as a policy design problem amenable to dynamic programming methods. The
-    speaker talked about the structural properties of optimal transmission policies,
-    gives an algorithmic procedure to find the optimal tradeoff, and numerically
-    evaluates some instances.
+    Yunus Inan , a PhD student at EPFL, Switzerland  talked about a model to study the tradeoff between timeliness adistortion in data transmission, where different pieces     of data have a differen cost of not being sent. He poses the question of finding the optimal tradeoff as a policy design problem amenable to dynamic programming             methods. The speaker talked about the structural properties of optimal transmission policies, gives an algorithmic procedure to find the optimal tradeoff, and               numericall evaluates some instances.
     
     Muhammad Shahbaz, a  assistant professor in Computer Science at Purdue University ,  discussed some of the networking and systems architectures he has developed to         address the ever-rising tension between performance
     and flexibility. He discussed how the continuous growth in chips’ processing
