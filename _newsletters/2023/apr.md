@@ -15,7 +15,7 @@ img: sample_main_pic.JPG
 
 
 # content for past events
-past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
+#past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
 
 past_event_pics: # Provide a list of file names with proper extensions
     - sample_main_pic.JPG
@@ -24,24 +24,22 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have four seminars and one thesis defence this month.
+events_headline: We have five seminars month.
 
 events:
-    - name: "UGIF: UI Grounded Instruction Following"
-      description: by Sagar G. Venkatesh from Google Research on 7th Feb @4pm
-      url:
+    - name: Mean-field control for restless bandits and weakly coupled MDPs
+      description: by Dr. Nicolas Gast from INRIA on 2nd May @4pm
+      url: https://youtu.be/pM11eHp_RYM
 
-    - name: Coding Schemes For Input-Constrained Channels
-      description: by V. Arvind Rameshwar from IISc on 14th Feb @4pm
-      url:
+    - name: "Fair clustering: notations and algorithms"
+      description: by Shweta Jain from IIT Ropar on 9th May @4pm
+      url: https://youtu.be/7ApB6KN5Drc
 
-    - name: RF Beyond Communication
-      description: New Opportunities for Human Sensing with mmWave by Sandip Chakraborty from IIT Kharagpur on 21st Feb @4pm
-      url:
+    - name: Reliable object detection and identification in adverse conditions
+      description:  by Kshitiz Bansal  from Univaersity of California on 23rd May @4pm
+      url: https://youtu.be/5d3UjPQuTcQ
 
-    - name: Finite time analysis of temporal difference learning with linear function approximation
-      description: Tail averaging and regularisation by Prashanth L.A from IIT Madras 28th Feb @4pm
-      url:
+    
 
 # The content of below two will be displayed as a box inside the main area.
 msg-title: From the convenor
