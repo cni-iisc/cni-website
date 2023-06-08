@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+ 
 
 <div class="newsletter-container">
   
@@ -20,7 +20,7 @@ layout: default
     </div>
     <div class="col-9 date">
       <h1>
-        {{ page.month | capitalize }} {{ page.year }}
+        {{ page.date | date: "%B %Y" | capitalize }} 
       </h1>
     </div>
   </div>
@@ -35,7 +35,7 @@ layout: default
 
           {%- for event in page.events -%} 
           <br>
-            <h2><b>{{ event.name }}:</b>
+            <h2><b>{{ event.name }} </b>
             {{ event.description }}</h2>
           {%- endfor -%}
         </article>
@@ -48,7 +48,7 @@ layout: default
     <div class="col-9 main_content">
       <div class="row">
         <div class="col main_pic">
-          <img src="{{ site.baseurl }}/assets/img/newsletter/{{ page.year }}/{{ page.month | downcase }}/{{ page.img }}"/>
+          <img src="{{ site.baseurl }}/assets/img/newsletter/{{ page.date | date: '%Y' }}/{{ page.date | date: '%B' | downcase }}/{{ page.img }}"/>
         </div>
       </div>
 
@@ -63,7 +63,7 @@ layout: default
       <h2> {{ page.past_events_headline }}</h2>
 
       <!-- For looping through the directory and picking up images - This picks up multiple version of the same image. To be used after fixing duplication issues-->
-      <!-- {%- capture gallery_path -%}assets/img/newsletter/{{ page.year }}/{{ page.month }}{%- endcapture -%}
+      <!-- {%- capture gallery_path -%}assets/img/newsletter/{{ page.date | date: '%Y' }}/{{ page.date | date: '%B' | downcase }}{%- endcapture -%}
         {%- for image in site.static_files -%}
           {%- if image.path contains gallery_path -%}
           <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
@@ -73,7 +73,7 @@ layout: default
         <!-- Looping through provided images in the past_event_pics object -->
 
         {%- for picture in page.past_event_pics -%} 
-          <img src="{{ site.baseurl }}/assets/img/newsletter/{{ page.year }}/{{ page.month | downcase }}/{{ picture }}"/>
+          <img src="{{ site.baseurl }}/assets/img/newsletter/{{ page.date | date: '%Y' }}/{{ page.date | date: '%B' | downcase }}/{{ picture }}"/>
         {%- endfor -%}
     </div>
     <div class="col-9 main-articles">

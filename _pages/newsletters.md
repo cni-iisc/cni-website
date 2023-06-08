@@ -12,8 +12,9 @@ horizontal: false
 
 
 ---
+{%- assign newsletters = site.newsletters | sort: "date" | reverse -%}
+{%- for newsletter in newsletters-%}
 
-{%- for newsletter in site.newsletters -%}
-
-   <a href="{{ newsletter.url | relative_url }}"> {{ newsletter.title }} {{ newsletter.month | capitalize }} {{ newsletter.year }}</a>
+   <a href="{{ newsletter.url | relative_url }}"> {{ newsletter.title }} {{ newsletter.date | date: "%B %Y" | capitalize }}</a>
+   <br>
 {%- endfor -%}
