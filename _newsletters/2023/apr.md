@@ -15,7 +15,7 @@ img: sample_main_pic.JPG
 
 
 # content for past events
-#past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
+past_events_headline: Rooji Jinan, CNI Fellow during 2019-20 and 2021-22, defended her thesis on March 1, 2023 (Wednesday) at 10 am.
 
 past_event_pics: # Provide a list of file names with proper extensions
     - sample_main_pic.JPG
@@ -54,7 +54,20 @@ We hope to reach students, faculty, and potential staff who would be interested 
 
 <!-- Main article -->
 
-CNI had organised four seminars organised in February 2023.  
+CNI had organised five seminars organised in April 2023.
+    
+Dr. Sanjay Shakkottai, a professor in the Department of Electrical and Computer Engineering in the University of Texas at Austin, talked about a central problem in machine learning. The problem
+is as follows: How should we train models using data generated from a collection
+of clients/environments if we know that these models will be deployed in a new
+and unseen environment? In the setting of few-shot learning, two prominent approaches are: (a) develop a modeling framework that is “primed” to adapt, such
+as Model Adaptive Meta Learning (MAML), or (b) develop a common model
+using federated learning (such as FedAvg), and then fine tune the model for the
+deployment environment. The speaker talked about both these approaches in
+the multi-task linear representation setting. He showed that the reason behind
+the generalizability of the models in new environments trained through either
+of these approaches is that the training dynamics induce the models to evolve
+toward the common data representation among the clients’ tasks.
+
 
 Dr. Sagar Gubbi Venkatesh from Google research spoke on UI grounded instruction following on Feb 7.   In particular, he talked about the natural language-based instruction following agent that helps new smartphone users learn how to use the phone independently. The proposed system parses instructions from support sites using large language models such as ChatGPT and generates macros which can be executed when the user asks queries.
  
