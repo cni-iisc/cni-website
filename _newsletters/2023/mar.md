@@ -15,7 +15,7 @@ img: sample_main_pic.JPG
 
 
 # content for past events
-past_events_headline: Rooji Jinan, CNI Fellow during 2019-20 and 2021-22, defended her thesis on March 1, 2023 (Wednesday) at 10 am.
+#past_events_headline: Rooji Jinan, CNI Fellow during 2019-20 and 2021-22, defended her thesis on March 1, 2023 (Wednesday) at 10 am.
 
 past_event_pics: # Provide a list of file names with proper extensions
     - sample_main_pic.JPG
@@ -24,7 +24,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have four seminars this month.
+events_headline: We have four seminars next month.
 
 events:
     - name: "The power of adaptivity in representation learning:- from meta-learning to federated learning"
