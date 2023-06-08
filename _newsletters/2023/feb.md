@@ -24,7 +24,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have five seminars  this month.
+events_headline: We have five seminars next month.
 
 events:
     - name: Age-distortion tradeoffs
