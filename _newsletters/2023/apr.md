@@ -25,7 +25,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have five seminars month.
+events_headline: We have three seminars next month.
 
 events:
     - name: Mean-field control for restless bandits and weakly coupled MDPs
