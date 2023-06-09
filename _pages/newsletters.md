@@ -3,15 +3,17 @@ layout: page
 title: Newsletters
 permalink: /newsletters/
 description: 
-nav: false
-nav_order: 
+
 display_categories: [""]
-horizontal: false
+
 
 
 
 
 ---
+
+
+
 {%- assign newsletters = site.newsletters | sort: "date" | reverse -%}
 {%- for newsletter in newsletters-%}
 
