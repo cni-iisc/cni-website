@@ -15,7 +15,7 @@ img: sample_main_pic.JPG
 
 
 # content for past events
-past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
+#past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
 
 past_event_pics: # Provide a list of file names with proper extensions
     - sample_main_pic.JPG
@@ -24,24 +24,14 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have four seminars and one thesis defence this month.
+events_headline: We have one seminar  this month.
 
 events:
-    - name: "UGIF: UI Grounded Instruction Following"
-      description: by Sagar G. Venkatesh from Google Research on 7th Feb @4pm
+    - name: Multiparty interactive coding over networks of intersecting broadcast links
+      description: by Manuj Mukherjee from IIIT Delhi on 16th June @11am
       url:
 
-    - name: Coding Schemes For Input-Constrained Channels
-      description: by V. Arvind Rameshwar from IISc on 14th Feb @4pm
-      url:
-
-    - name: RF Beyond Communication
-      description: New Opportunities for Human Sensing with mmWave by Sandip Chakraborty from IIT Kharagpur on 21st Feb @4pm
-      url:
-
-    - name: Finite time analysis of temporal difference learning with linear function approximation
-      description: Tail averaging and regularisation by Prashanth L.A from IIT Madras 28th Feb @4pm
-      url:
+    
 
 # The content of below two will be displayed as a box inside the main area.
 msg-title: From the convenor
@@ -56,14 +46,15 @@ We hope to reach students, faculty, and potential staff who would be interested 
 
 <!-- Main article -->
 
-CNI had organised four seminars organised in February 2023.  
+CNI had organised three seminars organised in May 2023.  
 
-Dr. Sagar Gubbi Venkatesh from Google research spoke on UI grounded instruction following on Feb 7.   In particular, he talked about the natural language-based instruction following agent that helps new smartphone users learn how to use the phone independently. The proposed system parses instructions from support sites using large language models such as ChatGPT and generates macros which can be executed when the user asks queries.
- 
-V. Arvind Rameshwar, a PhD candidate at ECE, IISc spoke on construction of coding schemes for binary-input channels with constrained inputs. The focus was on two different channel models, one with a random noise and another with adversarial noise. In each setting, the main questions sought to be addressed were the construction of explicit coding schemes and the derivation of good bounds on the rates achievable for a given amount of noise.  
+Dr. Nicolas Gast, a research scientist at Inria (Grenoble, France) spoke on mean-field vontrol for restless bandits and weakly coupled MDPs. He discussed mean field control in relation to Restless Bandits and weakly coupled Markov Decision Processes (MDPs). The talk highlights the challenges in solving such problems and introduces the concept of mean-field approximations to treat every agent as independent. The talk outlines various classical notions of index policies, including the Gittins index policy, as well as lambda-threshold policies that can be used to prioritize which arms to activate. Dr. Gast explained that index policies are the best approach for solving exponential convergence problems due to their greater accuracy and locally linear nature.  He also discussed the Markovian bandit problem in the context of the job applicant selection process. He explained that simple policies like priority rules are often asymptotically optimal and can be computed easily using index policies. The talk also covered the optimality guarantees for the Mean-Field Control in Restless Bandits and Weakly Coupled MDPs, and the issue of periodic behavior and synchronization between agents in the model. He showed that the optimization results still hold, even if the Markov chain doesn't have a stationary distribution, as long as the policy does not change. Overall, the talk emphasizes the practical applications of mean-field control in solving complex and computationally challenging problems.
+    
+Shweta Jain,a professor  from IIT Ropar spoke on fair clustering: Notations and algorithms. She discussed fair clustering and its different notions and algorithms. She emphasized the need for fairness and unbiasedness in machine learning models used for loan approval and healthcare facilities, as biases can negatively affect certain groups of people. Jain discussed two types of fairness essential for unsupervised learning: group fairness and individual fairness. Various approaches to fair clustering were discussed, including the fairlets, regularized optimization function, LP formulation, and Tau fairness. The speaker also discussed practical results of fair clustering and their future research, including exploring achieving balance with respect to multiple protected attributes and individual fairness. Additionally, the constraints on the radius of the cluster were discussed, with the Tau factor providing balance.
+    
+Kshitiz Bansal , Computer Science Ph.D. student at the University of California, San DiegoThe UC San Diego spoke on reliable object detection and identification in adverse conditions.  He mainly focused on the topic of reliable object detection and identification for autonomous driving, particularly in adverse weather conditions. He discussed the challenges posed by poor visibility due to fog or dust, and the use of different types of sensors such as cameras, lidars, and millimeter wave radars, which operate at a different spectrum and can penetrate obstacles, providing high-quality data that enhances the semantic understanding of the scene. The speaker also explained the use of techniques such as "quantillism" for radar output and object detection using deep learning networks, and how radar and camera data can be combined using image segmentation and SPG techniques for a more efficient and complete system. He also discussed the importance of scene context, CDMA phones, and multiple sensors for object detection and identification, highlighting the versatility and usefulness of RADAR sensors due to their ability to diffract from edges and detect objects in adverse conditions.
 
-Professor Sandip Chakraborty from the CSE department of IIT Kharagpur, spoke on RF beyond communication, exploring new opportunities for human sensing with mmWave. In this talk, the speaker discussed how mmWave sensing could be leveraged to develop smart space, where the environment can sense the human beings within it and respond accordingly.
 
-He also discussed specific use cases, like how your car can seamlessly monitor the dangerous driving behaviours of its driver and respond accordingly without requiring any camera or sensors to be deployed on the drivers body. 
+    
 
-Professor Prashanth L.A. from the CSE department of IIT Madras spoke on finite-time analysis of temporal difference learning with linear function approximation with tail averaging and regularisation. This talk considered the finite-time behaviour of a popular temporal difference (TD) learning algorithm when combined with tail-averaging. The speaker also talked about the finite-time bounds on the parameter error of the tail-averaged TD iterate under a step size choice that does not require information about the eigenvalues of the underlying matrix used in the TD fixed point. 
+
