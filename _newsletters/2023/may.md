@@ -24,7 +24,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have one seminar  this month.
+events_headline: We have one seminar  next month.
 
 events:
     - name: Multiparty interactive coding over networks of intersecting broadcast links
