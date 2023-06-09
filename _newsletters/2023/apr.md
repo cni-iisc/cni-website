@@ -56,7 +56,7 @@ We hope to reach students, faculty, and potential staff who would be interested 
 
 CNI had organised five seminars organised in April 2023.
     
-Dr. Sanjay Shakkottai, a professor in the Department of Electrical and Computer Engineering in the University of Texas at Austin, talked about a central problem in machine learning. The problem
+Dr. Sanjay Shakkottai, a professor in the Department of Electrical and Computer Engineering in the University of Texas at Austin spoke on the power of adaptivity in representation learning:- from meta-learning to federated learning. In particular, he talked about a central problem in machine learning. The problem
 is as follows: How should we train models using data generated from a collection
 of clients/environments if we know that these models will be deployed in a new
 and unseen environment? In the setting of few-shot learning, two prominent approaches are: (a) develop a modeling framework that is “primed” to adapt, such
@@ -67,14 +67,41 @@ the multi-task linear representation setting. He showed that the reason behind
 the generalizability of the models in new environments trained through either
 of these approaches is that the training dynamics induce the models to evolve
 toward the common data representation among the clients’ tasks.
+    
+Avhishek Chatterjee ,an assistant professor in the Department of Electrical Engineering at the Indian Institute of Technology Madras spoke on converse for quantum fault-tolerance. He talked about the fundamental lower bound on redundancy required
+for accurate implementation of a large class of operations, including unitary
+operators, in fault-tolerant quantum computation. The speaker obtained this
+bound by connecting fault-tolerant computation with a set of finite blocklength
+quantum communication problems whose accuracy requirements satisfy a joint
+constraint.The lower bound on redundancy obtained here leads to a strictly
+smaller upper bound on the noise threshold for non-degradable noise. He also
+showed that their bound directly extends to the case where noise at the outputs
+of a gate are non-i.i.d. but noise across gates are i.i.d. Overall, he provided
+new insights into the minimum redundancy required for fault-tolerant quantum
+computation, which has practical implications for designing and implementing
+quantum computing systems.
+    
+Dr. Lalitesh Katragadda from CMU spoke on Aarogya Setu, how India saw covid. Aarogya Setu was an experimental digital effort launched in India to provide clarity, first response and see the spread of Covid. It was abandoned when needed, but did a lot of good and evolved into a trusted, high fidelity global standard vaccine response. This talk will take a walk down memory lane.
+    
+Manjesh Kumar Hanawal, an associate professor in Industrial Engineering and Operations Research at the Indian Institute of Technology Bombay spoke on learning optimal beam directions in next-generation wireless networks: A fixed-budget stochastic bandit approach. He talked about using millimetre wave (mmWave) communications in
+5G networks, which can support high data rates but are sensitive to attenuation loss and require precise beam alignment between transmitter and receiver.
+The speaker discussed Unimodal Bandit for Best Beam (UB3) algorithm that
+identifies the best beam in a finite time using pure exploration strategies. The
+algorithm exploits the unimodal structure of the received signal strengths of
+the beams to identify the best beam with a high probability in a few rounds.
+He proved that the error exponent in the probability does not depend on the
+number of beams and shows that this is indeed the case by establishing a lower
+bound for the unimodal bandits.He concluded that UB3 outperforms the stateof-the-art algorithms and has lower computational complexity.
+    
+Praveen Jayachandran from IBM Research, India spoke on trends and challenges in multi-cloud networking and observability. Enterprises are deploying applications across an increasingly large number of
+public, private and edge clouds. He highlighted some of the trends
+in this space and the challenges it poses on multi-cloud networking and observability across these geo-distributed Cloud environments. Specifically, the
+talk  explored the challenges and approaches in supporting “application-aware”
+network connectivity across heterogeneous cloud environments, leveraging Observability and AI-based operational analytics. The speaker also discussed how
+insights derived from analytics could assist intelligent automation for managing
+applications communicating across heterogeneous multi-cloud environments.
 
 
-Dr. Sagar Gubbi Venkatesh from Google research spoke on UI grounded instruction following on Feb 7.   In particular, he talked about the natural language-based instruction following agent that helps new smartphone users learn how to use the phone independently. The proposed system parses instructions from support sites using large language models such as ChatGPT and generates macros which can be executed when the user asks queries.
+
+
  
-V. Arvind Rameshwar, a PhD candidate at ECE, IISc spoke on construction of coding schemes for binary-input channels with constrained inputs. The focus was on two different channel models, one with a random noise and another with adversarial noise. In each setting, the main questions sought to be addressed were the construction of explicit coding schemes and the derivation of good bounds on the rates achievable for a given amount of noise.  
-
-Professor Sandip Chakraborty from the CSE department of IIT Kharagpur, spoke on RF beyond communication, exploring new opportunities for human sensing with mmWave. In this talk, the speaker discussed how mmWave sensing could be leveraged to develop smart space, where the environment can sense the human beings within it and respond accordingly.
-
-He also discussed specific use cases, like how your car can seamlessly monitor the dangerous driving behaviours of its driver and respond accordingly without requiring any camera or sensors to be deployed on the drivers body. 
-
-Professor Prashanth L.A. from the CSE department of IIT Madras spoke on finite-time analysis of temporal difference learning with linear function approximation with tail averaging and regularisation. This talk considered the finite-time behaviour of a popular temporal difference (TD) learning algorithm when combined with tail-averaging. The speaker also talked about the finite-time bounds on the parameter error of the tail-averaged TD iterate under a step size choice that does not require information about the eigenvalues of the underlying matrix used in the TD fixed point. 
