@@ -73,15 +73,7 @@ Avhishek Chatterjee ,an assistant professor in the Department of Electrical Engi
     
 Dr. Lalitesh Katragadda from CMU spoke on Aarogya Setu, how India saw covid. Aarogya Setu was an experimental digital effort launched in India to provide clarity, first response and see the spread of Covid. It was abandoned when needed, but did a lot of good and evolved into a trusted, high fidelity global standard vaccine response. This talk will take a walk down memory lane.
     
-Manjesh Kumar Hanawal, an associate professor in Industrial Engineering and Operations Research at the Indian Institute of Technology Bombay spoke on learning optimal beam directions in next-generation wireless networks: A fixed-budget stochastic bandit approach. He talked about using millimetre wave (mmWave) communications in
-5G networks, which can support high data rates but are sensitive to attenuation loss and require precise beam alignment between transmitter and receiver.
-The speaker discussed Unimodal Bandit for Best Beam (UB3) algorithm that
-identifies the best beam in a finite time using pure exploration strategies. The
-algorithm exploits the unimodal structure of the received signal strengths of
-the beams to identify the best beam with a high probability in a few rounds.
-He proved that the error exponent in the probability does not depend on the
-number of beams and shows that this is indeed the case by establishing a lower
-bound for the unimodal bandits.He concluded that UB3 outperforms the stateof-the-art algorithms and has lower computational complexity.
+Manjesh Kumar Hanawal, an associate professor in Industrial Engineering and Operations Research at the Indian Institute of Technology Bombay spoke on learning optimal beam directions in next-generation wireless networks: A fixed-budget stochastic bandit approach.He talked about how we can use millimeter wave (mmWave) communications in 5G networks to support high data rates. However, these communications are sensitive to attenuation loss and require precise beam alignment between the transmitter and receiver.He proposed an algorithm called Unimodal Bandit for Best Beam (UB3) that can help identify the best beam in a finite time using pure exploration strategies. This algorithm can improve the throughput of the network by more than 15% compared to other state-of-the-art algorithms. The algorithm is simple to implement and has lower computational complexity, making it a practical solution for beam alignment in mmWave systems. His works can be useful for wireless network protocol design and can help improve the performance of 5G networks.
     
 Praveen Jayachandran from IBM Research, India spoke on trends and challenges in multi-cloud networking and observability. Enterprises are deploying applications across an increasingly large number of
 public, private and edge clouds. He highlighted some of the trends
