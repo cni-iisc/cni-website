@@ -75,13 +75,9 @@ Dr. Lalitesh Katragadda from CMU spoke on Aarogya Setu, how India saw covid. Aar
     
 Manjesh Kumar Hanawal, an associate professor in Industrial Engineering and Operations Research at the Indian Institute of Technology Bombay spoke on learning optimal beam directions in next-generation wireless networks: A fixed-budget stochastic bandit approach.He talked about how we can use millimeter wave (mmWave) communications in 5G networks to support high data rates. However, these communications are sensitive to attenuation loss and require precise beam alignment between the transmitter and receiver.He proposed an algorithm called Unimodal Bandit for Best Beam (UB3) that can help identify the best beam in a finite time using pure exploration strategies. This algorithm can improve the throughput of the network by more than 15% compared to other state-of-the-art algorithms. The algorithm is simple to implement and has lower computational complexity, making it a practical solution for beam alignment in mmWave systems. His works can be useful for wireless network protocol design and can help improve the performance of 5G networks.
     
-Praveen Jayachandran from IBM Research, India spoke on trends and challenges in multi-cloud networking and observability. Enterprises are deploying applications across an increasingly large number of
-public, private and edge clouds. He highlighted some of the trends
-in this space and the challenges it poses on multi-cloud networking and observability across these geo-distributed Cloud environments. Specifically, the
-talk  explored the challenges and approaches in supporting “application-aware”
-network connectivity across heterogeneous cloud environments, leveraging Observability and AI-based operational analytics. The speaker also discussed how
-insights derived from analytics could assist intelligent automation for managing
-applications communicating across heterogeneous multi-cloud environments.
+Praveen Jayachandran from IBM Research, India spoke on trends and challenges in multi-cloud networking and observability. He discussed various trends and challenges in multi-cloud networking and observability. He explained the trends such as the move towards hybrid and multi-cloud environments, edge computing, and decentralizing intelligence. However, managing multi-cloud environments comes with challenges, including the need for application-aware networking and observability. To address these challenges, IBM is focused on application-aware networking and observability with AI Ops, programmable fabric of multi-cloud border gateways, and the need for standardization across metrics and logs. Additional challenges include distributed debugging and tracing across clusters and combining insights from different modalities of data. One important aspect he touches on is the need for a capability to handle large volumes of data for collecting matrix data, which is not meant for microsecond-level data collection. He recommends using EVPF for collecting nanosecond-scale system calls instead of Prometheus, which is not suitable for such use cases.
+
+
 
 
 
