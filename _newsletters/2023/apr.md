@@ -69,18 +69,7 @@ the generalizability of the models in new environments trained through either
 of these approaches is that the training dynamics induce the models to evolve
 toward the common data representation among the clients’ tasks.
     
-Avhishek Chatterjee ,an assistant professor in the Department of Electrical Engineering at the Indian Institute of Technology Madras spoke on converse for quantum fault-tolerance. He talked about the fundamental lower bound on redundancy required
-for accurate implementation of a large class of operations, including unitary
-operators, in fault-tolerant quantum computation. The speaker obtained this
-bound by connecting fault-tolerant computation with a set of finite blocklength
-quantum communication problems whose accuracy requirements satisfy a joint
-constraint.The lower bound on redundancy obtained here leads to a strictly
-smaller upper bound on the noise threshold for non-degradable noise. He also
-showed that their bound directly extends to the case where noise at the outputs
-of a gate are non-i.i.d. but noise across gates are i.i.d. Overall, he provided
-new insights into the minimum redundancy required for fault-tolerant quantum
-computation, which has practical implications for designing and implementing
-quantum computing systems.
+Avhishek Chatterjee ,an assistant professor in the Department of Electrical Engineering at the Indian Institute of Technology Madras spoke on converse for quantum fault-tolerance.He talked about how to make quantum computers work better by reducing errors. He showed that there is a minimum amount of extra information needed to make sure that quantum operations are accurate, and he explained how to calculate this amount. He also showed that this minimum amount of extra information can help us figure out how much noise a quantum computer can handle before it stops working properly.Overall, he provided new insights into how to make quantum computers more reliable, which is important for developing practical applications of quantum computing.
     
 Dr. Lalitesh Katragadda from CMU spoke on Aarogya Setu, how India saw covid. Aarogya Setu was an experimental digital effort launched in India to provide clarity, first response and see the spread of Covid. It was abandoned when needed, but did a lot of good and evolved into a trusted, high fidelity global standard vaccine response. This talk will take a walk down memory lane.
     
