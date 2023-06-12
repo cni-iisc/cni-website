@@ -17,17 +17,17 @@ img: sample_main_pic.JPG
 # content for past events
 #past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
 
-events:
-    -name: Mean-field control for restless bandits and weakly coupled MDPs
+past_events:
+    - name: "Mean-field control for restless bandits and weakly coupled MDPs"
       description: by Dr. Nicolas Gast from INRIA on 2nd May @4pm
       url: https://youtu.be/pM11eHp_RYM
     
     - name: "Fair clustering: notations and algorithms"
-      description: by Shweta Jain from IIT Ropar on 9th May @4pm
+      description: "by Shweta Jain from IIT Ropar on 9th May @4pm"
       url: https://youtu.be/7ApB6KN5Drc
     
     - name: Reliable object detection and identification in adverse conditions
-      description:  by Kshitiz Bansal  from Univaersity of California on 23rd May @4pm
+      description:  "by Kshitiz Bansal  from Univaersity of California on 23rd May @4pm"
       url: https://youtu.be/5d3UjPQuTcQ
 
 

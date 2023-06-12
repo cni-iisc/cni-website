@@ -60,7 +60,17 @@ layout: default
         Past events
       </h1>
 
-      <p> {{ page.past_events_headline | markdownify }}</p>
+      {%- for past-event in page.past_events -%} 
+      <h2>
+        <b>
+          <a href="{{ past-event.url }}">
+        {{ past-event.name }}
+          </b>
+          {{ past-event.description }}
+      </a></h2>
+      <br>
+      {%- endfor -%}
+
 
       <!-- For looping through the directory and picking up images - This picks up multiple version of the same image. To be used after fixing duplication issues-->
       <!-- {%- capture gallery_path -%}assets/img/newsletter/{{ page.date | date: '%Y' }}/{{ page.date | date: '%B' | downcase }}{%- endcapture -%}
@@ -82,8 +92,6 @@ layout: default
           Centre updates
         </h1>
         <article>
-
-          
           <p>
             {{ content | markdownify }}
           </p>
