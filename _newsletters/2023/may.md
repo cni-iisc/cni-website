@@ -41,8 +41,8 @@ This is the beginning of Gulmohar bloom all over the campus, and advent of the m
 For some of the graduate students, this is the time for industry internships, and for summer interns from outside IISc arrival time at various laboratories. 
 The end of spring semester signals return of focus to research, conference travels, and summer schools. 
     
-Talking about summer schools, CNI is supporting the [14th annual JTG/IEEE Information Theory Society summer school][JTG 2023] that is returning to IISc in June this year. 
-We are also organizing our [3rd annual CNI summer school][CNI 2023] in July this year. 
+Talking about summer schools, CNI is supporting the 14th annual JTG/IEEE Information Theory Society summer school, [JTG 2023](https://ece.iisc.ac.in/~jtg/2023/about.html) that is returning to IISc in June this year. 
+We are also organizing our 3rd annual CNI summer school, [CNI 2023](https://cni.iisc.ac.in/summerschool/2023) in July this year. 
 We invite all the senior undergraduate and early graduate students to register for both of these events."
 
 ---
@@ -61,7 +61,7 @@ Dr. Gast explained that index policies are the best approach for solving exponen
 --> 
   
 ## Fair clustering: notations and algorithms
-Professor Shweta Jain from IIT Ropar spoke about ``fair clustering'' problem where the goal is to ensure that each group in a cluster has an equal representation from different types of people. She proposed a new way of measuring fairness called ``$\tau$-ratio fairness'' which allows for a better balance between efficiency and fairness. She also suggested a simple algorithm that can efficiently achieve this balance. The experimental results show that this algorithm outperforms other existing algorithms.
+Professor Shweta Jain from IIT Ropar spoke about ``fair clustering`` problem where the goal is to ensure that each group in a cluster has an equal representation from different types of people. She proposed a new way of measuring fairness called $\tau$-ratio fairness which allows for a better balance between efficiency and fairness. She also suggested a simple algorithm that can efficiently achieve this balance. The experimental results show that this algorithm outperforms other existing algorithms.
     
 ## Reliable object detection and identification in adverse conditions
 Our third speaker this month was Kshitiz Bansal, who delievered an in-person talk. He is currently a computer science Ph.D. student at the University of California, San Diego. His talk mainly focused on the topic of reliable object detection and identification for autonomous driving, particularly in adverse weather conditions. He discussed the challenges posed by poor visibility due to fog or dust, and the use of different types of sensors such as cameras, LIDARs, and millimeter wave radars, which operate at a different spectrum and can penetrate obstacles, providing high-quality data that enhances the semantic understanding of the scene. 

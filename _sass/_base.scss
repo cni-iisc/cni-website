@@ -885,37 +885,55 @@ footer.sticky-bottom {
   }
   .main-articles {
     h1 {
-      padding-left: 15px;
+      padding-left: 20px;
+      font-weight: 600;  
+      margin: 0;
+    }
+    h2{ 
+      font-weight: 600;  
+      padding-left: 10px;
+      margin: 0;
     }
     article{
     -webkit-columns: 2;
     -moz-columns: 2;
     columns: 2;
-    padding-top: 10px;
+    padding-top: 5px;
     }
-    padding: 15px;
+    padding: 5px;
     border-right: 1.5px solid var(--newsletter-border-color);
     border-left: 1.5px solid var(--newsletter-border-color);
     
     p {
-      margin-top: 10px;
+      // margin-top: 10px;
+      margin:0;
+      font-size: small;
+      padding: 10px;
+      
     }
     
-    h1{ 
-      font-weight: 600;  
-      margin: 0;
-    }
+    
+    
 
     .box-article {
+      margin: 0;
+      padding: 0;
       border: 2px solid darkblue;
       h1 {
 
-        margin: 10px;
+        margin: 5px;
+        padding: 5px;
+        margin-bottom: 0;
 
       }
-
       h2 {
         margin: 10px;
+      }
+      p {
+        padding: 10px;
+        margin: 0;
+        position: relative;
+        
       }
     }
   }

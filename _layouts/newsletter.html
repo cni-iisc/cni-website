@@ -35,7 +35,7 @@ layout: default
 
           {%- for event in page.events -%} 
           <br>
-            <h2><b>{{ event.name }} </b>
+            <h2><b> <a href="{{event.url}}">{{ event.name }} </a> </b>
             {{ event.description }}</h2>
           {%- endfor -%}
         </article>
@@ -85,13 +85,13 @@ layout: default
 
           
           <p>
-            {{ content }}
+            {{ content | markdownify }}
           </p>
 
 
           <div class="box-article">
             <h1>{{ page.msg-title }}</h1>
-            <h2>{{ page.msg-content }}</h2>
+            <p>{{ page.msg-content | markdownify }}</p>
           </div>
         </article>
       </div>
