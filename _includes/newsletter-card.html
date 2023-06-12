@@ -1,0 +1,37 @@
+<!-- _includes/newsletters.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if newsletter.redirect -%}
+  <a href="{{ newsletter.redirect }}">
+    {%- else -%}
+    <a href="{{ newsletter.url | relative_url }}">
+      {%- endif %}
+      <div class="card hoverable">
+        {%- if newsletter.main_pic %}
+        {%- include figure.html
+          path=newsletter.img
+          alt="newsletter thumbnail"
+          height=20px -%}
+        {%- endif %}
+        <div class="card-body">
+          <h2 class="card-title small">{{ newsletter.title }} {{ newsletter.date | date: "%B %Y" | capitalize }}</h2>
+          <p class="card-text">{{ newsletter.description }}</p>
+          <div class="row ml-1 mr-1 p-0">
+            {%- if newsletter.github -%}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ newsletter.github }}"><i class="fab fa-github gh-icon"></i></a>
+              </div>
+              {%- if newsletter.github_stars -%}
+              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                <i class="fas fa-star"></i>
+                <span id="{{ newsletter.github_stars }}-stars"></span>
+              </span>
+              {%- endif %}
+            </div>
+            {%- endif %}
+          </div>
+        </div>
+      </div>
+    </a>
+</div>

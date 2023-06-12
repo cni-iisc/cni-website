@@ -13,10 +13,15 @@ display_categories: [""]
 ---
 
 
-
+<div class="newsletters">
 {%- assign newsletters = site.newsletters | sort: "date" | reverse -%}
 {%- for newsletter in newsletters-%}
-
-   <a href="{{ newsletter.url | relative_url }}"> {{ newsletter.title }} {{ newsletter.date | date: "%B %Y" | capitalize }}</a>
-   <br>
+{% include newsletter-card.html %}
 {%- endfor -%}
+</div>
+
+
+
+
+
+

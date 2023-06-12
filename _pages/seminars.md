@@ -56,16 +56,16 @@ horizontal: true
 
 
 <!-- pages/seminars.md -->
-{%- assign cur_month =  cdate| date : '%m-%y' -%}
+{%- assign cur_year =  cdate| date : '%y' -%}
 
 <div class="seminars">
   <div class="container">
   <div class="grid">
     {%- for seminar in seminars -%}
       {%- if seminar.date < cdate -%}
-        {%-  assign sem_month = seminar.date | date : '%m-%y' -%}
+        {%-  assign sem_year = seminar.date | date : '%y' -%}
         {%- assign seminars.upcoming = false -%}
-        {%- if sem_month == cur_month -%}
+        {%- if sem_year == cur_year -%}
           {% include seminars_card.html %}
         {%- endif -%}
       {%- endif -%}

@@ -60,7 +60,7 @@ layout: default
         Past events
       </h1>
 
-      <h2> {{ page.past_events_headline }}</h2>
+      <p> {{ page.past_events_headline | markdownify }}</p>
 
       <!-- For looping through the directory and picking up images - This picks up multiple version of the same image. To be used after fixing duplication issues-->
       <!-- {%- capture gallery_path -%}assets/img/newsletter/{{ page.date | date: '%Y' }}/{{ page.date | date: '%B' | downcase }}{%- endcapture -%}

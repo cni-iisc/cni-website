@@ -768,6 +768,59 @@ footer.sticky-bottom {
 }
 
 // Newsletter container
+.newsletters{
+  overflow-y: hidden;
+  a {
+    text-decoration: none;
+
+    &:hover {
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .card-title {
+    height: 25px;
+  }
+
+  .card {
+    img {
+      width: 100%;
+      object-fit: cover;
+      height: 200px;
+    }
+  }
+
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+  
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  .grid-sizer, .grid-item {
+    width: auto;
+    margin-bottom: 10px;
+    height: auto;
+    display: inline-block;
+
+  }
+
+  h2.category {
+    color: var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: right;
+  }
+}
+
 
 .newsletter-container {
   margin:0;
@@ -776,6 +829,16 @@ footer.sticky-bottom {
   background-size: cover;
   font-size: small;
   text-align: justify;
+  h1 {
+    margin: 10px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+  }
+  h2 {
+    font-size: small;
+  }
+
 
   div.empty-banner {
     background-color: beige;
@@ -790,11 +853,7 @@ footer.sticky-bottom {
 
     text-align: center;
     font-size: larger;
-    h1 {
-      margin: 10px;
-      padding: 10px;
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
+    
   }
 
   .date {
@@ -814,12 +873,7 @@ footer.sticky-bottom {
     font-style: normal;
     list-style-position: outside;
   }
-  h1 {
-    font-size: medium;
-  }
-  h2 {
-    font-size: small;
-  }
+ 
 
   div.events{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -833,6 +887,7 @@ footer.sticky-bottom {
       h1 {
         font-weight: 650;
         margin: 0;
+        padding-bottom: 0;
         font-size: medium;
         text-align: center;
       }
@@ -872,11 +927,11 @@ footer.sticky-bottom {
       // margin: 15px;
       padding: 15px;
     }
-    h1{ 
-      // margin: 10px;
-      font-weight: 200;
-      padding: 10px;
-    }
+    // h1{ 
+    //   // margin: 10px;
+    //   font-weight: 200;
+    //   padding: 10px;
+    // }
     h2 {
       font-size: small;
       padding: 10px;
