@@ -4,7 +4,7 @@ title: CNI Newsletter
 newsletter_type: monthly #annual / monthly
 
 
-date: 01-04-2023 
+date: 01-05-2023 
 year: 2023
 
 
