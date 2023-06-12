@@ -43,13 +43,16 @@ events:
     
 
 # The content of below two will be displayed as a box inside the main area.
-msg-title: From the convenor
+msg-title: From the editor
 
-msg-content: "We are starting this monthly newsletter to keep all the stakeholders updated on the centre activities. 
-
-Apart from the research and development activities, the centre offers free online courses, scholarship for students working in the relevant areas, organises weekly seminar series, technical workshops, and annual summer schools. 
-
-We hope to reach students, faculty, and potential staff who would be interested in participating in the centre activities. "
+msg-content: "Spring semester is officially over, and this means many things at IISc. 
+This is the beginning of Gulmohar bloom all over the campus, and advent of the mango season. 
+For some of the graduate students, this is the time for industry internships, and for summer interns from outside IISc arrival time at various laboratories. 
+The end of spring semester signals return of focus to research, conference travels, and summer schools. 
+    
+Talking about summer schools, CNI is supporting the [14th annual JTG/IEEE Information Theory Society summer school](https://ece.iisc.ac.in/~jtg/2023/about.html), that is returning to IISc in June this year. 
+We are also organizing our [3rd annual CNI summer school](https://cni.iisc.ac.in/summerschool/2023) in July this year. 
+We invite all the senior undergraduate and early graduate students to register for both of these events."
 
 ---
 
