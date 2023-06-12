@@ -18,6 +18,6 @@ children:
     - title: CNI in the News
       permalink: /news/
     - title: Newsletters
-      permalink: /newsletters/2023/may
+      permalink: /newsletters/2023/jun
     
 ---
