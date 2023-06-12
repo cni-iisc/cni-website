@@ -4,7 +4,7 @@ title: CNI Newsletter
 newsletter_type: monthly #annual / monthly
 
 
-date: 01-05-2023 
+date: 01-06-2023 
 year: 2023
 
 
@@ -24,7 +24,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have one seminar  next month.
+events_headline: We have one seminar next month.
 
 events:
     - name: Multiparty interactive coding over networks of intersecting broadcast links
@@ -36,14 +36,9 @@ events:
 # The content of below two will be displayed as a box inside the main area.
 msg-title: From the editor
 
-msg-content: "Spring semester is officially over, and this means many things at IISc. 
-This is the beginning of Gulmohar bloom all over the campus, and advent of the mango season. 
-For some of the graduate students, this is the time for industry internships, and for summer interns from outside IISc arrival time at various laboratories. 
-The end of spring semester signals return of focus to research, conference travels, and summer schools. 
-    
-Talking about summer schools, CNI is supporting the 14th annual JTG/IEEE Information Theory Society summer school, [JTG 2023](https://ece.iisc.ac.in/~jtg/2023/about.html) that is returning to IISc in June this year. 
-We are also organizing our 3rd annual CNI summer school, [CNI 2023](https://cni.iisc.ac.in/summerschool/2023) in July this year. 
-We invite all the senior undergraduate and early graduate students to register for both of these events."
+msg-content: "We have two major upcoming events this month. CNI is supporting the [14th annual JTG/IEEE Information Theory Society summer school](https://ece.iisc.ac.in/~jtg/2023/about.html). We have three outstanding international speakers for this event talking about modern research topics such as differential privacy, quantum information theory, and codes for distributed storage and compute. We have 100 registered participants for this event which will be conducted in the ECE department at IISc from June 19-23. 
+
+Apart from this, we have bi-annual Cisco-IISc day on June 27, where all CNI PhD scholars will present their research work, along with two associated CNI faculty. Our CSR partner Cisco will also have presentation from their researchers at this event."
 
 ---
 
@@ -65,7 +60,7 @@ Professor Shweta Jain from IIT Ropar spoke about ``fair clustering`` problem whe
     
 ## Reliable object detection and identification in adverse conditions
 Our third speaker this month was Kshitiz Bansal, who delievered an in-person talk. He is currently a computer science Ph.D. student at the University of California, San Diego. His talk mainly focused on the topic of reliable object detection and identification for autonomous driving, particularly in adverse weather conditions. He discussed the challenges posed by poor visibility due to fog or dust, and the use of different types of sensors such as cameras, LIDARs, and millimeter wave radars, which operate at a different spectrum and can penetrate obstacles, providing high-quality data that enhances the semantic understanding of the scene. 
-The speaker also explained the use of techniques such as ``quantillism'' for radar output and object detection using deep learning networks, and how radar and camera data can be combined using image segmentation and SPG techniques for a more efficient and complete system. He also discussed the importance of scene context, CDMA phones, and multiple sensors for object detection and identification, highlighting the versatility and usefulness of RADAR sensors due to their ability to diffract from edges and detect objects in adverse conditions. 
+<!-- The speaker also explained the use of techniques such as ``quantillism'' for radar output and object detection using deep learning networks, and how radar and camera data can be combined using image segmentation and SPG techniques for a more efficient and complete system. He also discussed the importance of scene context, CDMA phones, and multiple sensors for object detection and identification, highlighting the versatility and usefulness of RADAR sensors due to their ability to diffract from edges and detect objects in adverse conditions. -->
 
 
 [JTG 2023]: https://ece.iisc.ac.in/~jtg/2023/about.html
