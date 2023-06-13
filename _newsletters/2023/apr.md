@@ -88,7 +88,7 @@ Our first speaker this month was Yunus Inan , a PhD student at EPFL, Switzerland
     
 ## Fast, flexible, and intelligent next-generation networks and systems
     
-Muhammad Shahbaz, an assistant professor in Computer Science at Purdue University  discussed some of the networking and systems architectures he has             developed to address the ever-rising tension between  performance and flexibility. He discussed how the continuous growth in chips’ processing capacity has         helped preserve the end-to-end principle, keeping CPUs generalpurpose and smart while having network switches fixed-function and dumb, to process and forward       information at speed. However, two major trends are now challenging this principle: Moore’s Law’s decline and big data’s rise. As a result, CPUs must now           repurpose resources needed for general-purpose processing to logic tailored to a particular application domain, and switches must take on more responsibilities     to further offload CPUs. The concern is that doing  so  will cause systems to sacrifice flexibility for higher performance, and networks to sacrifice               performance for more flexibility.
+Muhammad Shahbaz, an assistant professor in Computer Science at Purdue University  discussed some of the networking and systems architectures he has             developed to address the ever-rising tension between  performance and flexibility. He discussed how the continuous growth in chips’ processing capacity has         helped preserve the end-to-end principle, keeping CPUs generalpurpose and smart while having network switches fixed-function and dumb, to process and forward       information at speed. 
     
 ## Leading the core-technology innovations for 6G
     
@@ -96,7 +96,7 @@ Dr. Naga Bhushan , VP of Technology Qualcomm  discussed the development of 6G wi
     
 ## Research challenges in network slicing in 5G and beyond its implications on rural connectivity
     
-Sudhir Dixit  discussed the concept of network slicing, which allows for multiple logical networks on the same physical infrastructure, creating a network of networks. The technology has significant implications for connectivity in rural areas, providing greater flexibility and efficiency.Network slicing can allow for more efficient and targeted use of resources, providing better connectivity for remote communities, especially in applications such as telemedicine and online education. However, there are challenges, including the need to ensure the right resources are available to each slice and the importance of proper management, particularly in rural areas where connectivity is limited,reliability and security still need to be addressed to fully realize the potential of network slicing in these contexts. Despite challenges, there is a lot of opportunity for improvement and innovation in network slicing.
+Sudhir Dixit  discussed the concept of network slicing, which allows for multiple logical networks on the same physical infrastructure, creating a network of networks. The technology has significant implications for connectivity in rural areas, providing greater flexibility and efficiency.Network slicing can allow for more efficient and targeted use of resources, providing better connectivity for remote communities, especially in applications such as telemedicine and online education. However, there are challenges to be addressed to fully realize the potential of network slicing in these contexts. 
     
 ## Short packet communication under random arrival of data
     
