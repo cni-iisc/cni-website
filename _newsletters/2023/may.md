@@ -15,7 +15,30 @@ img: sample_main_pic.JPG
 
 
 # content for past events
-past_events_headline: 
+past_events_headline: We had five seminars last month. 
+
+ 
+
+past_events:
+    - name: "The power of adaptivity in representation learning:- from meta-learning to federated learning"
+      description: by Dr. Sanjay Shakkottai  from the University of Texas at Austin on 4th April @4pm
+      url: https://youtu.be/iQcmWzRLOBU
+
+    - name: Converse for quantum fault-tolerance
+      description: by Avhishek Chatterjee from IIT Madras on 11th April @4pm
+      url: https://youtu.be/dVyqQ2kfLPw
+
+    - name: Aarogya setu, how India saw covid
+      description: by Dr. Lalitesh Katragadda from CMU on 11th April 
+      url:
+
+    - name: "Learning optimal beam directions in next-generation wireless networks: A fixed-budget stochastic bandit approach"
+      description:  by Manjesh Kumar Hanawal from IIT Bombay 18th April @4pm
+      url: https://youtu.be/DtrciQaBGtg
+    
+    - name: Trends and Challenges in Multi-cloud Networking and Observability.
+      description: by Praveen Jayachandran from IBM Research, India on 25th April @4pm
+      url: https://youtu.be/CSWQD-YpzeQ
 
 past_event_pics: # Provide a list of file names with proper extensions
     - sample_main_pic.JPG
