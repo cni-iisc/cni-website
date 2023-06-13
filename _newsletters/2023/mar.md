@@ -15,7 +15,7 @@ img: Hackathon.jpg
 
 
 # content for past events
-past_events_headline: There were four seminars last month. Two of them were online and other two are in-peson talk.
+past_events_headline: There were four seminars last month. Two of them were online and other two are in-person talk.
     
 
 past_events:
@@ -80,7 +80,7 @@ We hope to reach students, faculty, and potential staff who would be interested 
 
 <!-- Main article -->
 
-CNI had organised four seminars  in February 2023. Two of them were online and other two are in-peson talk.
+CNI had organised four seminars  in February 2023. Two of them were online and other two are in-person talk.
     
 ## UGIF :- UI grounded instruction following
 
