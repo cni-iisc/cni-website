@@ -24,7 +24,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have three seminars next month.
+events_headline: We have three seminars this month. Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023 is being organized by CySecK- the K-Tech Centre of Excellence in Cyber Security – in association with the Centre for Networked Intelligence (CNI) (located in the Indian Institute of Science, Bengaluru) and Cisco Systems India Pvt. Ltd. Registrations for this event starts from 11th May. There would be a total of 25 prizes on offer for the participants totalling to a value of Indian Rupees (INR) 4,00,000/- (Four Lakhs only). In addition, top candidates will be considered for Internship opportunities at partner organizations.
 
 events:
     - name: Mean-field control for restless bandits and weakly coupled MDPs
