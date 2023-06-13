@@ -767,7 +767,7 @@ footer.sticky-bottom {
   }
 }
 
-// Newsletter container
+// Newsletter cards
 .newsletters{
   overflow-y: hidden;
   a {
@@ -821,17 +821,17 @@ footer.sticky-bottom {
   }
 }
 
-
+// Newsletter container
 .newsletter-container {
   margin:0;
   padding: 0;
   // background-color: beige; v
-  background-size: cover;
+  // background-size: cover;
   font-size: small;
   text-align: justify;
   h1 {
     margin: 10px;
-    padding: 10px;
+    // padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
   }
@@ -839,6 +839,7 @@ footer.sticky-bottom {
     font-size: small;
   }
 
+  
 
   div.empty-banner {
     background-color: beige;
@@ -853,6 +854,11 @@ footer.sticky-bottom {
 
     text-align: center;
     font-size: larger;
+    h1{ 
+      margin: 10px;
+      font-weight: 200;
+      padding: 10px;
+    }
     
   }
 
@@ -893,7 +899,7 @@ footer.sticky-bottom {
       }
       h2 {
         font-weight: lighter;
-        margin: 0;
+        margin: 2px;
         font-size: small;
       }
     }
@@ -927,14 +933,15 @@ footer.sticky-bottom {
       // margin: 15px;
       padding: 15px;
     }
-    // h1{ 
-    //   // margin: 10px;
-    //   font-weight: 200;
-    //   padding: 10px;
-    // }
+    h1{ 
+      margin:0;
+      margin-top: 5px;
+      font-weight: 200;
+      padding: 5px;
+    }
     h2 {
       font-size: small;
-      padding: 10px;
+      padding: 5px;
       
     }
   }
@@ -942,7 +949,8 @@ footer.sticky-bottom {
     h1 {
       padding-left: 20px;
       font-weight: 600;  
-      margin: 0;
+      margin: 5px;
+      padding-bottom: 0;
     }
     h2{ 
       font-weight: 600;  
@@ -953,11 +961,16 @@ footer.sticky-bottom {
     -webkit-columns: 2;
     -moz-columns: 2;
     columns: 2;
+    margin:15px;
     padding-top: 5px;
+    margin-top: 0;
     }
     padding: 5px;
+    padding-top: 0px;
+    margin:0;
     border-right: 1.5px solid var(--newsletter-border-color);
     border-left: 1.5px solid var(--newsletter-border-color);
+    // border-top: 1.5px solid var(--newsletter-border-color);
     
     p {
       // margin-top: 10px;
