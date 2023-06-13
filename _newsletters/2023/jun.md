@@ -16,7 +16,7 @@ img: sample_main_pic.JPG
 
 # content for past events
 #past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
-past_events_headline: We had three seminars last month. Two of them were online and one of them was in-person talk. Apart from this, Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023  is being organized by CySecK- the K-Tech Centre of Excellence in Cyber Security – in association with the Centre for Networked Intelligence (CNI) (located in the Indian Institute of Science, Bengaluru) and Cisco Systems India Pvt. Ltd. Registration for this event was opened on 11th May.  
+past_events_headline: We had three seminars last month. Two of them were online and one of them was in-person talk. Registration for Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023  event was opened on 11th May.  
     
 past_events:
     - name: "Mean-field control for restless bandits and weakly coupled MDPs"
