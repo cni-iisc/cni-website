@@ -16,7 +16,7 @@ img: sample_main_pic.JPG
 
 # content for past events
 #past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
-past_events_headline: We had three seminars last month. Two of them were online and one of them was in-person talk.
+past_events_headline: We had three seminars last month. Two of them were online and one of them was in-person talk. Apart from this, Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023  is being organized by CySecK- the K-Tech Centre of Excellence in Cyber Security – in association with the Centre for Networked Intelligence (CNI) (located in the Indian Institute of Science, Bengaluru) and Cisco Systems India Pvt. Ltd. Registration for this event was opened on 11th May.  
     
 past_events:
     - name: "Mean-field control for restless bandits and weakly coupled MDPs"
@@ -39,7 +39,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have one seminar this month and also there are two major events happening this month. The 14th annual JTG/IEEE IT Soc summer school on signal processing, communications, and networks will be held at IIsc, Bengaluru from June 19-23, 2023, with topics on privacy, quantum, and distributed storage. Also there is bi-annual Cisco-IISc day on 27th June. Apart from this, Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023  is being organized by CySecK- the K-Tech Centre of Excellence in Cyber Security – in association with the Centre for Networked Intelligence (CNI) (located in the Indian Institute of Science, Bengaluru) and Cisco Systems India Pvt. Ltd. There will be webinars delivered by technical experts from Cisco on the following topics Web Application Security,Network Security,Cryptography,Forensics. 
+events_headline: We have one seminar this month and also there are two major events happening this month. The 14th annual JTG/IEEE IT Soc summer school on signal processing, communications, and networks will be held at IIsc, Bengaluru from June 19-23, 2023, with topics on privacy, quantum, and distributed storage. Also there is bi-annual Cisco-IISc day on 27th June. Rregistrations for the Capture the Flag (CTF) competition will be closing on 4th June.  There will be Samgacchadhwam Series Webinars from 5th June to 27th June. These webinars will be delivered by technical experts from Cisco on the following topics Web Application Security,Network Security,Cryptography,Forensics. 
 
 
 events:
