@@ -15,7 +15,7 @@ img: open-day-3.jpg
 
 
 # content for past events
-#past_events_headline: Rooji Jinan, CNI Fellow during 2019-20 and 2021-22, defended her thesis on March 1, 2023 (Wednesday) at 10 am. National Crime Records Bureau(NCRB) in collaboration with Cyber Peace Foundation has launched 4th CCTNS Hackathon & Cyber Challenge-2023, https://www.cyberchallenge.in on 13th March 2023. We had four seminars last month.
+past_events: Rooji Jinan, CNI Fellow during 2019-20 and 2021-22, defended her thesis on March 1, 2023 (Wednesday) at 10 am. National Crime Records Bureau(NCRB) in collaboration with Cyber Peace Foundation has launched 4th CCTNS Hackathon & Cyber Challenge-2023, https://www.cyberchallenge.in on 13th March 2023. We had four seminars last month.
     
 past_events:
     - name: Age-distortion tradeoffs
