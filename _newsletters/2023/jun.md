@@ -45,7 +45,7 @@ events_headline: We have one seminar this month and also there are two major eve
 events:
     - name: Multiparty interactive coding over networks of intersecting broadcast links
       description: by Manuj Mukherjee from IIIT Delhi on 16th June @11am
-      url: 
+      url: https://www.youtube.com/watch?v=5ZGOVwc9l-c
 
     
 
