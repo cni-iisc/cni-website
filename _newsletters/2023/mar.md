@@ -15,7 +15,7 @@ img: Hackathon.jpg
 
 
 # content for past events
-past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
+past_events_headline: There were four seminars last month. Two of them were online and other two are in-peson talk.
     
 
 past_events:
@@ -44,7 +44,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have five seminars next month.
+events_headline: We have five seminars next month. Three of them were online talk and two of them were in-person talk.
 
 events:
     - name: Age-distortion tradeoffs
@@ -80,15 +80,23 @@ We hope to reach students, faculty, and potential staff who would be interested 
 
 <!-- Main article -->
 
-CNI had organised four seminars and one thesis defense in February 2023.  
+CNI had organised four seminars  in February 2023. Two of them were online and other two are in-peson talk.
+    
+## UGIF :- UI grounded instruction following
 
-Dr. Sagar Gubbi Venkatesh from Google research spoke on UI grounded instruction following on Feb 7.He talked about a new way to help people who are new to using smartphones. Often, new users only use a few features like calling and messaging because they are hesitant to explore the phone. Experienced users are not always around to help them learn how to use the phone. To solve this problem, he proposed a natural language based instruction following agent that can show users how to perform various tasks on their own. The instructions are written in natural language and are parsed using Large Language Models (LLMs) to generate macros that can be executed on the phone. He also introduced a dataset called UGIF-DataSet 1, which contains instructions in eight languages showing how to execute different tasks on the phone. The performance of different LLM models was evaluated using this dataset, and the results showed that the success rate was higher for English than for non-English languages.
+Dr. Sagar Gubbi Venkatesh from Google research  talked about a new way to help people who are new to using smartphones. Often, new users only use a few features like calling and messaging because they are hesitant to explore the phone. Experienced users are not always around to help them learn how to use the phone. To solve this problem, he proposed a natural language based instruction following agent that can show users how to perform various tasks on their own. The instructions are written in natural language and are parsed using Large Language Models (LLMs) to generate macros that can be executed on the phone. He also introduced a dataset called UGIF-DataSet 1, which contains instructions in eight languages showing how to execute different tasks on the phone. 
+    
+## Construction of coding schemes for binary-input channels with constrained inputs
  
-V. Arvind Rameshwar, a PhD candidate at ECE, IISc spoke on construction of coding schemes for binary-input channels with constrained inputs. This talk was about finding ways to create codes that can correct errors in digital data. He explored two different methods for creating these codes. The first method involves using well-known codes that are already good at correcting errors, and then creating new codes based on those. The second method involves using a mathematical technique called linear programming to find the best possible codes for correcting errors. He showed that both of these methods can be effective in creating codes that are resilient to errors.  
+V. Arvind Rameshwar, a PhD candidate at ECE, IISc  talked  about finding ways to create codes that can correct errors in digital data. He explored two different methods for creating these codes. The first method involves using well-known codes that are already good at correcting errors, and then creating new codes based on those. The second method involves using a mathematical technique called linear programming to find the best possible codes for correcting errors. He showed that both of these methods can be effective in creating codes that are resilient to errors. 
+    
+## RF beyond communication, exploring new opportunities for human sensing with mmWave
 
-Professor Sandip Chakraborty from the CSE department of IIT Kharagpur, spoke on RF beyond communication, exploring new opportunities for human sensing with mmWave. In this talk, he discussed the potential of using millimeter wave (mmWave) technology for human sensing beyond communication. He described the use of mobile devices with high sensing capabilities to recognize various activities such as exercise, cooking, and sleeping. Prof. Chakraborty details the math behind range resolution and bandwidth in mmWave communication and its ability to monitor dangerous driving behaviors due to drowsiness or distractions. He also addresses challenges such as distinguishing different activities and drivers and identifying small-scale movements. 
+Professor Sandip Chakraborty from the CSE department of IIT Kharagpur, discussed the potential of using millimeter wave (mmWave) technology for human sensing beyond communication. He described the use of mobile devices with high sensing capabilities to recognize various activities such as exercise, cooking, and sleeping. Prof. Chakraborty details the math behind range resolution and bandwidth in mmWave communication and its ability to monitor dangerous driving behaviors due to drowsiness or distractions. He also addresses challenges such as distinguishing different activities and drivers and identifying small-scale movements. 
+    
+## Finite-time analysis of temporal difference learning with linear function approximation with tail averaging and regularisation.
 
-Professor Prashanth L.A. from the CSE department of IIT Madras spoke on finite-time analysis of temporal difference learning with linear function approximation with tail averaging and regularisation. This talk is about a popular algorithm called temporal difference (TD) learning, which is used in machine learning. He explained the behavior of this algorithm and proposed some modifications to improve its performance. He found that by using a technique called tail-averaging, the algorithm can converge faster and with less error. He also proposed a variant of the algorithm that incorporates regularization, which can be useful for problems with ill-conditioned features. Overall, he provided some useful insights into how to improve the performance of TD learning.
+Professor Prashanth L.A. from the CSE department of IIT Madras talked about a popular algorithm called temporal difference (TD) learning, which is used in machine learning. He explained the behavior of this algorithm and proposed some modifications to improve its performance. He found that by using a technique called tail-averaging, the algorithm can converge faster and with less error. He also proposed a variant of the algorithm that incorporates regularization, which can be useful for problems with ill-conditioned features. Overall, he provided some useful insights into how to improve the performance of TD learning.
 
  
 
