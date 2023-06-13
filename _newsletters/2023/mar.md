@@ -11,15 +11,15 @@ year: 2023
 # pics to be displayed have to be stored under assets/img/newsletter/<year>/<month>
 
 # Main image to be displayed
-img: sample_main_pic.JPG
+img: open-day-3.jpg
 
 
 # content for past events
 #past_events_headline: Rooji Jinan, CNI Fellow during 2019-20 and 2021-22, defended her thesis on March 1, 2023 (Wednesday) at 10 am.
 
 past_event_pics: # Provide a list of file names with proper extensions
-    - sample_main_pic.JPG
-    - preview.jpg
+    - open-day-1.jpg
+    - open-day-2.jpg
 
 
 # Upcoming events
