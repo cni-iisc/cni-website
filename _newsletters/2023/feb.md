@@ -11,7 +11,7 @@ year: 2023
 # pics to be displayed have to be stored under assets/img/newsletter/<year>/<month>
 
 # Main image to be displayed
-img: sample_main_pic.JPG
+img: Hackathon.jpg
 
 
 # content for past events
