@@ -16,6 +16,26 @@ img: Hackathon.jpg
 
 # content for past events
 past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
+    
+
+past_events:
+    - name: "UGIF :- UI grounded instruction following"
+      description: by Dr. Sagar Gubbi Venkatesh from Google research on 7th Feb @4pm
+      url: 
+    
+    - name: Coding schemes for input-constrained channels
+      description: by V. Arvind Rameshwar from IISc on 14th Feb @4pm
+      url: [https://youtu.be/cSa74gRzEsE](https://youtu.be/6gDEKAib_8s)
+
+    - name: RF beyond communication:- new opportunities for human sensing with mmWave
+      description: by Sandip Chakraborty from IIT Kharagpur on 21st Feb @4pm
+      url: https://youtu.be/wwtF7nnch2M
+
+    - name: "Finite time analysis of temporal difference learning with linear function approximation:- tail averaging and regularisation"
+      description: by Prashanth L.A.  from IIT Madras 28th  Feb @4pm
+      url: https://youtu.be/9Ry3mCzxFzc
+    
+    
 
 past_event_pics: # Provide a list of file names with proper extensions
     - sample_main_pic.JPG
