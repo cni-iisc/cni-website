@@ -15,7 +15,7 @@ img: sample_main_pic.JPG
 
 
 # content for past events
-past_events_headline: We had five seminars last month. 
+past_events_headline: We had five seminars last month. Four of them were online and one of them was in-person talk.
 
  
 
