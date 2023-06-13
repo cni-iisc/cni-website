@@ -86,10 +86,7 @@ CNI had organised five seminars organised in April 2023. Four of them were onlin
 Our our first speaker this month was Dr. Sanjay Shakkottai , a professor in the Department of Electrical and Computer Engineering in the University of Texas at Austin. He talked about a central problem in machine learning. The problem
 is as follows: How should we train models using data generated from a collection
 of clients/environments if we know that these models will be deployed in a new
-and unseen environment? In the setting of few-shot learning, there are two prominent approaches. <!--are: (a) develop a modeling framework that is “primed” to adapt, such
-as Model Adaptive Meta Learning (MAML), or (b) develop a common model
-using federated learning (such as FedAvg), and then fine tune the model for the
-deployment environment. --!> . The speaker talked about both these approaches in 
+and unseen environment? In the setting of few-shot learning, there are two prominent approaches.  The speaker talked about both these approaches in 
 the multi-task linear representation setting. He showed that the reason behind
 the generalizability of the models in new environments trained through either
 of these approaches is that the training dynamics induce the models to evolve
