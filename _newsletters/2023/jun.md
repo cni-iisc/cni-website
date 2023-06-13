@@ -18,6 +18,7 @@ img: sample_main_pic.JPG
 #past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
 
 past_events:
+    We had three seminars last month. Two of them were online and one of them was in-person talk. 
     - name: "Mean-field control for restless bandits and weakly coupled MDPs"
       description: by Dr. Nicolas Gast from INRIA on 2nd May @4pm
       url: https://youtu.be/pM11eHp_RYM
