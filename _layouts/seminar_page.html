@@ -38,8 +38,11 @@ layout: default
           <h2><b>Abstract</b></h2>
           <article>
 
-            
+            {%- if page.Topic_abstract -%}
             {{ page.Topic_abstract }}
+            {%- else -%}
+            {{ content | markdownify }} 
+            {%- endif -%}
             
           </article>
           <br>
@@ -47,8 +50,8 @@ layout: default
           <article>
             {{ page.speaker_bio }}
           </article>
-          <article>
+          <!-- <article>
             {{ content }}
-          </article>
+          </article> -->
         </div>
         </div>
