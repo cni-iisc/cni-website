@@ -25,7 +25,7 @@ past_events:
     
     - name: Coding schemes for input-constrained channels
       description: by V. Arvind Rameshwar from IISc on 14th Feb @4pm
-      url: [https://youtu.be/cSa74gRzEsE](https://youtu.be/6gDEKAib_8s)
+      url: https://youtu.be/6gDEKAib_8s
 
     - name: RF beyond communication:- new opportunities for human sensing with mmWave
       description: by Sandip Chakraborty from IIT Kharagpur on 21st Feb @4pm
