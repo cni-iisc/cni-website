@@ -171,6 +171,29 @@ layout: default
 <br>
 <br>
 
-<div class="center">
-  <a href="/newsletters/" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Newsletters Archive</a>
+
+<!-- Logic for navigation buttons -->
+
+{%- assign n1  = page.date | date: '%m' | minus: 1 -%} 
+{%- assign n2  = page.date | date: '%m' | plus: 1 | date: '%b'-%} 
+
+<!-- {%- assign nxt = n2 | date:"%b" | downcase -%} -->
+
+<center>
+<div class="row">
+<!-- <div class="col-4">
+  <a href="/newsletters/" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Previous</a>
+</div> -->
+
+<div class="col-4">
+  <a href="/newsletters/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Newsletters Archive</a>
 </div>
+
+<!-- 
+{%- if  nxt -%} 
+<div class="col-4">
+  <a href="{{ nxt }}" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Next</a>
+</div>
+{%- endif -%} -->
+</div>
+</center>

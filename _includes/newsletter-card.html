@@ -7,9 +7,10 @@
     <a href="{{ newsletter.url | relative_url }}">
       {%- endif %}
       <div class="card hoverable">
+        {%- assign img_path = {{ site.baseurl }}/assets/img/newsletter/{{ newsletter.date | date: '%Y' }}/{{ newsletter.date | date: '%B' | downcase }}/{{ newsletter.img }}  -%}
         {%- if newsletter.img %}
         {%- include figure.html
-          path=newsletter.img
+          path=newsletter.img_path
           alt="newsletter thumbnail"
           height=20px -%}
         {%- endif %}
