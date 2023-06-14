@@ -69,7 +69,7 @@ events:
       url: https://youtu.be/CSWQD-YpzeQ
 
 # The content of below two will be displayed as a box inside the main area.
-msg-title: From the convenor
+msg-title: From the editor
 
 msg-content: "We are starting this monthly newsletter to keep all the stakeholders updated on the centre activities. 
 
