@@ -11,7 +11,7 @@ year: 2023
 # pics to be displayed have to be stored under assets/img/newsletter/<year>/<month>
 
 # Main image to be displayed
-img: seminar-pic-1.jpg
+img: 
 
 
 # content for past events
@@ -72,7 +72,7 @@ Dr. Gast explained that index policies are the best approach for solving exponen
 --> 
   
 ## Fair clustering: notations and algorithms
-Professor Shweta Jain from IIT Ropar spoke about ``fair clustering'' problem where the goal is to ensure that each group in a cluster has an equal representation from different types of people. She proposed a new way of measuring fairness called $\tau$-ratio fairness which allows for a better balance between efficiency and fairness. She also suggested a simple algorithm that can efficiently achieve this balance. The experimental results show that this algorithm outperforms other existing algorithms.
+Professor Shweta Jain from IIT Ropar spoke about *fair clustering* problem where the goal is to ensure that each group in a cluster has an equal representation from different types of people. She proposed a new way of measuring fairness called $\tau$-ratio fairness which allows for a better balance between efficiency and fairness. She also suggested a simple algorithm that can efficiently achieve this balance. The experimental results show that this algorithm outperforms other existing algorithms.
     
 ## Reliable object detection and identification in adverse conditions
 Our third speaker this month was Kshitiz Bansal, who delievered an in-person talk. He is currently a computer science Ph.D. student at the University of California, San Diego. His talk mainly focused on the topic of reliable object detection and identification for autonomous driving, particularly in adverse weather conditions. He discussed the challenges posed by poor visibility due to fog or dust, and the use of different types of sensors such as cameras, LIDARs, and millimeter wave radars, which operate at a different spectrum and can penetrate obstacles, providing high-quality data that enhances the semantic understanding of the scene. 

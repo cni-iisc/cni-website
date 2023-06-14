@@ -7,7 +7,7 @@
     <a href="{{ newsletter.url | relative_url }}">
       {%- endif %}
       <div class="card hoverable">
-        {%- if newsletter.main_pic %}
+        {%- if newsletter.img %}
         {%- include figure.html
           path=newsletter.img
           alt="newsletter thumbnail"
