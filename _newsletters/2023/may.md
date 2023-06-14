@@ -65,7 +65,7 @@ events:
     
 
 # The content of below two will be displayed as a box inside the main area.
-msg-title: From the convenor
+msg-title: From the editor
 msg-content: "Spring semester is officially over, and this means many things at IISc. 
 This is the beginning of Gulmohar bloom all over the campus, and advent of the mango season. 
 For some of the graduate students, this is the time for industry internships, and for summer interns from outside IISc arrival time at various laboratories. 
