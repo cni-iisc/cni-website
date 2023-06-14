@@ -9,10 +9,7 @@
       <div class="card hoverable">
         {%- assign img_path = {{ site.baseurl }}/assets/img/newsletter/{{ newsletter.date | date: '%Y' }}/{{ newsletter.date | date: '%B' | downcase }}/{{ newsletter.img }}  -%}
         {%- if newsletter.img %}
-        {%- include figure.html
-          path=newsletter.img_path
-          alt="newsletter thumbnail"
-          height=20px -%}
+        
         {%- endif %}
         <div class="card-body">
           <h2 class="card-title small">{{ newsletter.title }} {{ newsletter.date | date: "%B %Y" | capitalize }}</h2>
