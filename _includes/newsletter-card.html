@@ -9,7 +9,7 @@
       <div class="card hoverable">
         {%- if newsletter.img %}
         {%- include figure.html
-          path=<img src="{{ site.baseurl }}/assets/img/newsletter/{{ page.date | date: '%Y' }}/{{ page.date | date: '%B' | downcase }}/{{ page.img }}"/>newsletter.img
+          path=newsletter.img
           alt="newsletter thumbnail"
           height=20px -%}
         {%- endif %}
