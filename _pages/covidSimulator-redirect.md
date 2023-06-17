@@ -2,7 +2,7 @@
 layout: page
 title: 
 permalink: /simulator/
-redirect: https://cni-iisc.github.io/epidemic-simulator/
+redirect_to: https://cni-iisc.github.io/epidemic-simulator/
 description: 
 nav: false
 
