@@ -11,7 +11,7 @@ year: 2023
 # pics to be displayed have to be stored under assets/img/newsletter/<year>/<month>
 
 # Main image to be displayed
-img: JTGSS 1.JPG
+img: "JTGSS 1.JPG"
 
 
 # content for past events
