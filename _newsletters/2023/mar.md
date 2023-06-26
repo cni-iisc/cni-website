@@ -38,7 +38,7 @@ past_events:
     
 
 past_event_pics: # Provide a list of file names with proper extensions
-    - sample_main_pic.JPG
+    - IISc_Yellow.JPG
     - preview.jpg
 
 
