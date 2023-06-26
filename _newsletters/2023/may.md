@@ -11,7 +11,7 @@ year: 2023
 # pics to be displayed have to be stored under assets/img/newsletter/<year>/<month>
 
 # Main image to be displayed
-img: sample_main_pic.JPG
+img: IISC Flowers
 
 
 # content for past events
@@ -41,7 +41,7 @@ past_events:
       url: https://youtu.be/CSWQD-YpzeQ
 
 past_event_pics: # Provide a list of file names with proper extensions
-    - sample_main_pic.JPG
+    - IISc Yellow Flowers
     - preview.jpg
 
 
