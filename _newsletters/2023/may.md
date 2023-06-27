@@ -24,7 +24,7 @@ past_events:
       description: by Professor Sanjay Shakkottai  from the University of Texas at Austin on 4th April @4pm
       url: https://youtu.be/iQcmWzRLOBU
 
-    - name: Converse for quantum fault-tolerance
+    - name: "Converse for quantum fault-tolerance"
       description: by Professor Avhishek Chatterjee from IIT Madras on 11th April @4pm
       url: https://youtu.be/dVyqQ2kfLPw
 
@@ -36,7 +36,7 @@ past_events:
       description:  by Professor Manjesh Hanawal from IIT Bombay 18th April @4pm
       url: https://youtu.be/DtrciQaBGtg
     
-    - name: Trends and Challenges in Multi-cloud Networking and Observability.
+    - name: "Trends and Challenges in Multi-cloud Networking and Observability"
       description: by Dr. Praveen Jayachandran from IBM Research, India on 25th April @4pm
       url: https://youtu.be/CSWQD-YpzeQ
 
@@ -47,8 +47,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have three seminars this month. Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023 is being organized by CySecK- the K-Tech Centre of Excellence in Cyber Security – in association with the Centre for Networked Intelligence  and Cisco Systems India Pvt. Ltd. 
-
+events_headline: We have three seminars and the beginning of our annual hackathon this month. 
 events:
     - name: Mean-field control for restless bandits and weakly coupled MDPs
       description: by Dr. Nicolas Gast from INRIA on 2nd May @4pm
