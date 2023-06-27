@@ -28,7 +28,7 @@ past_events:
       url: https://youtu.be/7ApB6KN5Drc
     
     - name: Reliable object detection and identification in adverse conditions
-      description:  "by Kshitiz Bansal  from University of California on 23rd May @4pm"
+      description:  "by Kshitiz Bansal from University of California on 23rd May @4pm"
       url: https://youtu.be/5d3UjPQuTcQ
 
 
