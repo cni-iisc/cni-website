@@ -21,11 +21,11 @@ past_events_headline: "We had five seminars last month. Four of them were online
 
 past_events:
     - name: "The power of adaptivity in representation learning:- from meta-learning to federated learning"
-      description: by Professor Sanjay Shakkottai  from the University of Texas at Austin on 4th April @4pm
+      description: "by Professor Sanjay Shakkottai  from the University of Texas at Austin on 4th April @4pm"
       url: https://youtu.be/iQcmWzRLOBU
 
     - name: "Converse for quantum fault-tolerance"
-      description: by Professor Avhishek Chatterjee from IIT Madras on 11th April @4pm
+      description: "by Professor Avhishek Chatterjee from IIT Madras on 11th April @4pm"
       url: https://youtu.be/dVyqQ2kfLPw
 
     - name: Aarogya setu, how India saw covid
@@ -33,11 +33,11 @@ past_events:
       url:
 
     - name: "Learning optimal beam directions in next-generation wireless networks: A fixed-budget stochastic bandit approach"
-      description:  by Professor Manjesh Hanawal from IIT Bombay 18th April @4pm
+      description: "by Professor Manjesh Hanawal from IIT Bombay 18th April @4pm"
       url: https://youtu.be/DtrciQaBGtg
     
     - name: "Trends and Challenges in Multi-cloud Networking and Observability"
-      description: by Dr. Praveen Jayachandran from IBM Research, India on 25th April @4pm
+      description: "by Dr. Praveen Jayachandran from IBM Research, India on 25th April @4pm"
       url: https://youtu.be/CSWQD-YpzeQ
 
 past_event_pics: # Provide a list of file names with proper extensions
@@ -49,7 +49,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 events_headline: We have three seminars and the beginning of our annual hackathon this month. 
 events:
-    - name: Mean-field control for restless bandits and weakly coupled MDPs
+    - name: "Mean-field control for restless bandits and weakly coupled MDPs"
       description: by Dr. Nicolas Gast from INRIA on 2nd May @4pm
       url: https://youtu.be/pM11eHp_RYM
 
@@ -57,11 +57,11 @@ events:
       description: by Professor Shweta Jain from IIT Ropar on 9th May @4pm
       url: https://youtu.be/7ApB6KN5Drc
 
-    - name: Reliable object detection and identification in adverse conditions
+    - name: "Reliable object detection and identification in adverse conditions"
       description:  by Kshitiz Bansal from the University of California on 23rd May @4pm
       url: https://youtu.be/5d3UjPQuTcQ
 
-     - name: CNI Digital Defenders Cybersecurity Hackathon 2023
+     - name: "CNI Digital Defenders Cybersecurity Hackathon 2023"
        description: "organized by CySecK, CNI, and Cisco India. Registration starting May 11"
        url: https://cni.iisc.ac.in/hackathons/digital-defenders-hackathon-2023
 
