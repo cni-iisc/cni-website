@@ -34,7 +34,7 @@ past_events:
 
 past_event_pics: # Provide a list of file names with proper extensions
     - seminar-pic-1.jpg
-    - preview.jpg
+    - Hackathon.jpg
 
 
 # Upcoming events
