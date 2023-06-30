@@ -4,7 +4,7 @@ title: CNI Newsletter
 newsletter_type: monthly #annual / monthly
 
 
-date: 01-06-2023 
+date: 01-07-2023 
 year: 2023
 
 
@@ -15,22 +15,17 @@ img: "JTGSS 1.JPG"
 
 
 # content for past events
-#past_events_headline: CNI Hackathon 2022 winners were announced on 31st January, 2023
-past_events_headline: We had three seminars last month. Two of them were online and one of them was an in-person talk. Registration for Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023  event was opened on 11th May.  
+
+past_events_headline: We had one in-person seminar last month. Registration for Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023  event was opened on 11th May.  
     
 past_events:
-    - name: "Mean-field control for restless bandits and weakly coupled MDPs"
-      description: by Dr. Nicolas Gast from INRIA on 2nd May @4pm
-      url: https://youtu.be/pM11eHp_RYM
-    
-    - name: "Fair clustering: notations and algorithms"
-      description: "by Shweta Jain from IIT Ropar on 9th May @4pm"
-      url: https://youtu.be/7ApB6KN5Drc
-    
-    - name: Reliable object detection and identification in adverse conditions
-      description:  "by Kshitiz Bansal from University of California on 23rd May @4pm"
-      url: https://youtu.be/5d3UjPQuTcQ
+    - name: JTG/IEEE IT Soc summer school 2023
+      description: Auditorium, ECE MP building, June 19-23 @09:00am-05:00 pm
 
+    - name: CNI cybersecurity hackathon 2023
+      description: Registration deadline, June 4, 2023
+      url: https://cni.iisc.ac.in/hackathons/digital-defenders-hackathon-2023
+    
 
 past_event_pics: # Provide a list of file names with proper extensions
     - seminar-pic-1.jpg
