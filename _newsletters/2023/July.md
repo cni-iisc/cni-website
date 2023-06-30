@@ -22,6 +22,7 @@ past_events:
     - name: Multiparty interactive coding over networks of intersecting broadcast links
       description: by Manuj Mukherjee from IIIT Delhi on 16th June @11am
       url: https://www.youtube.com/watch?v=5ZGOVwc9l-c
+      
     - name: JTG/IEEE IT Soc summer school 2023
       description: Auditorium, ECE MP building, June 19-23 @09:00am-05:00 pm
 
@@ -37,11 +38,13 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have one seminar this month 
+events_headline: We have two seminars this month. The Centre for Networked Intelligence (CNI) is organizing the third annual CNI summer school during July 10-14, 2023.
 
 events:
-
-    - name: JTG/IEEE IT Soc summer school 2023
+    - name: Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits 
+      description: by Vincent Y. F. Tan from National University of Singapore on July 4th @ 3pm
+      url: 
+    - name: CNI Summer School 2023
       description: Auditorium, ECE MP building, June 19-23 @09:00am-05:00pm
     - name: CNI cybersecurity hackathon 2023
       description: Registration deadline, June 4, 2023
