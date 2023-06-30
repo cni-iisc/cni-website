@@ -16,7 +16,7 @@ img: "JTGSS 1.JPG"
 
 # content for past events
 
-past_events_headline: We had one in-person seminar last month. We had two major  events last month. The [14th annual JTG/IEEE Information Theory Society summer school](https://ece.iisc.ac.in/~jtg/2023/about.html) was conducted in the ECE department at IISc from June 19-23. Apart from this, we had the bi-annual Cisco-IISc day on June 27, where all CNI PhD scholars  presented their research work, along with two associated CNI faculty. Our CSR partner Cisco  also presented their research at this event.
+past_events_headline: We had one in-person seminar last month. We had two major  events last month. The [14th annual JTG/IEEE Information Theory Society summer school] was conducted in the ECE department at IISc from June 19-23. Apart from this, we had the bi-annual Cisco-IISc day on June 27, where all CNI PhD scholars  presented their research work, along with two associated CNI faculty. Our CSR partner Cisco  also presented their research at this event.
     
 past_events:
     - name: Multiparty interactive coding over networks of intersecting broadcast links
