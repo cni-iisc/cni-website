@@ -16,9 +16,12 @@ img: "JTGSS 1.JPG"
 
 # content for past events
 
-past_events_headline: We had one in-person seminar last month. Registration for Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023  event was opened on 11th May.  
+past_events_headline: We had one in-person seminar last month. We had two major  events last month. The [14th annual JTG/IEEE Information Theory Society summer school](https://ece.iisc.ac.in/~jtg/2023/about.html) was conducted in the ECE department at IISc from June 19-23. Apart from this, we had the bi-annual Cisco-IISc day on June 27, where all CNI PhD scholars  presented their research work, along with two associated CNI faculty. Our CSR partner Cisco  also presented their research at this event.
     
 past_events:
+    - name: Multiparty interactive coding over networks of intersecting broadcast links
+      description: by Manuj Mukherjee from IIIT Delhi on 16th June @11am
+      url: https://www.youtube.com/watch?v=5ZGOVwc9l-c
     - name: JTG/IEEE IT Soc summer school 2023
       description: Auditorium, ECE MP building, June 19-23 @09:00am-05:00 pm
 
@@ -34,12 +37,10 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have one seminar this month and also there are two major events happening this month. 
+events_headline: We have one seminar this month 
 
 events:
-    - name: Multiparty interactive coding over networks of intersecting broadcast links
-      description: by Manuj Mukherjee from IIIT Delhi on 16th June @11am
-      url: https://www.youtube.com/watch?v=5ZGOVwc9l-c
+
     - name: JTG/IEEE IT Soc summer school 2023
       description: Auditorium, ECE MP building, June 19-23 @09:00am-05:00pm
     - name: CNI cybersecurity hackathon 2023
@@ -59,7 +60,12 @@ Apart from this, we have the bi-annual Cisco-IISc day on June 27, where all CNI 
 
 <!-- Main article -->
 
-In the post-pandemic world, we have decided to reduce the number of online seminars to a maximum of two per month. This month, we had two online speakers and a visitor to CNI for the network seminar series.  
+This month, we had one in-person talk.  
+
+## Multiparty Interactive Coding over Networks of Intersecting Broadcast Links
+Our first speaker this month was Manuj Mukherjee, an assistant professor in the ECE department of IIIT Delhi. He talked about how to perform computations over networks with multiple broadcast channels that intersect at a single party. Each broadcast link suffers from random bit-flip noise that affects the receivers independently. The speaker proposed interactive coding schemes that successfully perform any computation over these noisy networks and strive to reduce their communication overhead with respect to the original (noiseless) computation. 
+
+
 
 ## Mean-field control for restless bandits and weakly coupled Markov decision processes
 Our first speaker this month was Dr. Nicolas Gast, a research scientist at INRIA, Grenoble, France. It is very difficult to gain analytical insights from Markov decision processes in most cases, and the problem gets exacerbated with an increased number of dimensions for controlled Markov chains. He highlighted these challenges for multiple agents with a coupled evolution and introduced the concept of mean-field approximations when the coupling is weak. 
@@ -67,7 +73,7 @@ It can be shown that in many such settings, the optimal decision is an index pol
     
 <!--, where we can treat every agent independently. 
 The talk outlined various classical notions of index policies, including the Gittins index policy, as well as lambda-threshold policies that can be used to prioritize which arms to activate. 
-Dr. Gast explained that index policies are the best approach for solving exponential convergence problems due to their greater accuracy and locally linear nature.  He also discussed the Markovian bandit problem in the context of the job applicant selection process. He explained that simple policies like priority rules are often asymptotically optimal and can be computed easily using index policies. The talk also covered the optimality guarantees for the Mean-Field Control in Restless Bandits and Weakly Coupled MDPs, and the issue of periodic behavior and synchronization between agents in the model. He showed that the optimization results still hold, even if the Markov chain doesn't have a stationary distribution, as long as the policy does not change. Overall, the talk emphasizes the practical applications of mean-field control in solving complex and computationally challenging problems.
+Dr. Gast explained that index policies are the best approach for solving exponential convergence problems due to their greater accuracy and locally linear nature.  He also discussed the Markovian bandit problem in the context of the job applicant selection process. He explained that simple policies like priority rules are often asymptotically optimal and can be computed easily using index policies. The talk also covered the optimality guarantees for the Mean-Field Control in Restless Bandits and Weakly Coupled MDPs, and the issue of periodic behaviour and synchronization between agents in the model. He showed that the optimization results still hold, even if the Markov chain doesn't have a stationary distribution, as long as the policy does not change. Overall, the talk emphasizes the practical applications of mean-field control in solving complex and computationally challenging problems.
 --> 
   
 ## Fair clustering: notations and algorithms
