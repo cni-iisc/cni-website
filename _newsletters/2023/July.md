@@ -46,7 +46,7 @@ events:
       url: 
 
     - name: The unreasonable effectiveness of mathematics in large scale deep learning
-      description: by Greg Yang from Microsoft Research on July 10th 
+      description: by Greg Yang from Microsoft Research on July 10th @4 pm
       url: 
       
     - name: CNI Summer School 2023
