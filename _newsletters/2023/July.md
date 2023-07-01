@@ -50,7 +50,7 @@ events:
       url: 
       
     - name: CNI Summer School 2023
-      description: Room no. MP-20, ECE MP building, July 10-14 @09:00am
+      description: Room no. MP-20, ECE MP building, July 10-14 @9 am
       url - https://cni.iisc.ac.in/summerschool/2023
       
     
