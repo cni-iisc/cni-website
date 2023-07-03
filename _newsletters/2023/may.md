@@ -63,7 +63,7 @@ events:
 
      - name: "CNI Digital Defenders Cybersecurity Hackathon 2023"
        description: "organized by CySecK, CNI, and Cisco India. Registration starting May 11"
-       url: https://cni.iisc.ac.in/hackathons/digital-defenders-hackathon-2023
+       url: "https://cni.iisc.ac.in/hackathons/digital-defenders-hackathon-2023"
 
 # The content of below two will be displayed as a box inside the main area.
 msg-title: From the editor
