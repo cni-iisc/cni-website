@@ -59,7 +59,7 @@ events:
 # The content of below two will be displayed as a box inside the main area.
 msg-title: From the editor
 
-msg-content: "We have one major upcoming event this month. The Centre for Networked Intelligence (CNI) is organizing the third annual CNI summer school during July 10-14, 2023. This is 5 days in-person summer school, where we will study mathematical tools to solve dynamic resource allocation problems in communication networks. We have over 100 registered participants for this event.
+msg-content: "We have one major upcoming event this month. The Centre for Networked Intelligence (CNI) is organizing the third annual CNI summer school during July 10-14, 2023. This is 5 days in-person summer school, where we will study mathematical tools to solve dynamic resource allocation problems in communication networks. We have over 100 registered participants for this event."
 
 
 ---
