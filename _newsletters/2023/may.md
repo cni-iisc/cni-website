@@ -52,18 +52,15 @@ events:
     - name: "Mean-field control for restless bandits and weakly coupled MDPs"
       description: "by Dr. Nicolas Gast from INRIA on 2nd May @4pm"
       url: https://youtu.be/pM11eHp_RYM
-
     - name: "Fair clustering: notations and algorithms"
       description: "by Professor Shweta Jain from IIT Ropar on 9th May @4pm"
       url: https://youtu.be/7ApB6KN5Drc
-
     - name: "Reliable object detection and identification in adverse conditions"
       description:  "by Kshitiz Bansal from the University of California on 23rd May @4pm"
       url: https://youtu.be/5d3UjPQuTcQ
-
-     - name: "CNI Digital Defenders Cybersecurity Hackathon 2023"
-       description: "organized by CySecK, CNI, and Cisco India. Registration starting May 11"
-       url: "https://cni.iisc.ac.in/hackathons/digital-defenders-hackathon-2023"
+    - name: "CNI Digital Defenders Cybersecurity Hackathon 2023"
+      description: "organized by CySecK, CNI, and Cisco India. Registration starting May 11"
+      url: "https://cni.iisc.ac.in/hackathons/digital-defenders-hackathon-2023"
 
 # The content of below two will be displayed as a box inside the main area.
 msg-title: From the editor
