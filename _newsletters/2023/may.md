@@ -38,7 +38,7 @@ past_events:
     
     - name: "Trends and Challenges in Multi-cloud Networking and Observability"
       description: "by Dr. Praveen Jayachandran from IBM Research, India on 25th April @4pm"
-      url: https://youtu.be/CSWQD-YpzeQ
+      url: "https://youtu.be/CSWQD-YpzeQ"
 
 past_event_pics: # Provide a list of file names with proper extensions
     - "IISc Yellow Flowers.jpg"
