@@ -12,7 +12,9 @@ Venue: MP20, ECE dept
 recorded_video: 
 zoom_link: https://zoom.us/j/99506912102?pwd=c3VWNHpJdmZVWXNsNDRxdHhVaTBuZz09
 
-speaker_bio: 
+speaker_bio: "Sarath AY is a postdoctoral research associate in the Division of Applied Mathematics at Brown University. He obtained my Ph.D. from the Department of Electrical Communication Engineering at the Indian Institute of Science, Bengaluru, India.
+
+He is broadly interested in applied probability. His current research aims to understand the behavior of interacting particle systems on sparse graphs. His Ph.D. research focused on the study of large-time behavior and metastability in models of mean-field interacting particle systems, with applications to communication networks."
 
 
 Topic_abstract: "We prove a Sanov-type large deviation principle for the component empirical measures of certain sequences of unimodular random graphs (including Erdos-Renyi and random regular graphs) whose vertices are marked with i.i.d. random variables. Specifically, we show that the rate function can be expressed in a fairly tractable form involving suitable relative entropy functionals. As a corollary, we establish a variational formula for the annealed pressure (or limiting log partition function) for various statistical physics models on sparse random graphs.
