@@ -47,7 +47,19 @@ events:
 
     - name: The unreasonable effectiveness of mathematics in large scale deep learning
       description: by Greg Yang from Microsoft Research on July 10th @4 pm
-      url: 
+      url: https://youtu.be/peevkOXh7vM
+
+    - name: Missing Mass and Optimal Discovery
+      description: by Aurélien Garivier from Ecole Normale Supérieure de Lyon, France on July 11th @3 pm
+      url: https://youtu.be/dtVckysRbDs
+
+    - name: "A tale of tails: Asymptotics and Non-asymptotics in Load Balancing"
+      description: by Siva Theja Maguluri from Georgia Tech on July 12th @4 pm
+      url: https://youtu.be/OJnlLWXft2U  
+
+    - name: A Sanov-type theorem for unimodular marked random graphs and its applications
+      description: by Sarath AY  from Brown University on July 14th @4 pm
+      url: https://youtu.be/sErpXnSWg7Y
       
     - name: CNI Summer School 2023
       description: "Room no. MP-20, ECE MP building, July 10-14 @9 am"
