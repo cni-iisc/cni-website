@@ -1,5 +1,5 @@
 ---
-layout: newsletter
+layout: newsletter_new
 title: CNI Newsletter
 newsletter_type: monthly #annual / monthly
 

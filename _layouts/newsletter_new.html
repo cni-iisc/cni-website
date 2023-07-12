@@ -1,0 +1,120 @@
+---
+
+layout: default
+
+---
+
+<!-- Start of newsletter-container -->
+<div class="'newsletter-container">
+
+  <!-- Start of parent row level 1-->
+  <div class="row"> 
+
+    <!-- Start of left col -->
+    <div class="col-3">
+
+      <!-- Page title -->
+      <div class="row title">
+        <h1> {{ page.title }} </h1>
+      </div>
+
+      <!-- Upcoming events -->
+      <div class="row events">
+        <div class="row month_events">
+          <article>
+            <h1>Upcoming events</h1>
+            <h2>{{ page.events_headline }}</h2>
+  
+            {%- for event in page.events -%} 
+            <br>
+              <h2><b> <a href="{{event.url}}">{{ event.name }} </a> </b>
+              {{ event.description }}</h2>
+            {%- endfor -%}
+          </article>
+        </div>
+      </div>
+
+
+
+      <!-- Past events -->
+      <div class="row past-events">
+        <h1>
+          Past events
+        </h1>
+        <h2>{{ page.past_events_headline }}</h2>
+        {%- for past-event in page.past_events -%} 
+        <h2>
+          <b>
+            <a href="{{ past-event.url }}">
+          {{ past-event.name }}
+            </b>
+            {{ past-event.description }}
+        </a></h2>
+        <br>
+        {%- endfor -%}
+        <!-- For looping through the directory and picking up images - This picks up multiple version of the same image. To be used after fixing duplication issues-->
+        <!-- {%- capture gallery_path -%}assets/img/newsletter/{{ page.date | date: '%Y' }}/{{ page.date | date: '%B' | downcase }}{%- endcapture -%}
+          {%- for image in site.static_files -%}
+            {%- if image.path contains gallery_path -%}
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+            {%- endif -%}
+          {%- endfor -%} -->
+          
+          <!-- Looping through provided images in the past_event_pics object -->
+  
+          {%- for picture in page.past_event_pics -%} 
+            <img src="{{ site.baseurl }}/assets/img/newsletter/{{ page.date | date: '%Y' }}/{{ page.date | date: '%B' | downcase }}/{{ picture }}"/>
+          {%- endfor -%}
+      </div>
+
+
+
+    <!-- End of left col -->
+    </div>
+
+    <!-- Start of right col -->
+    <div class="col-9">
+
+
+      <!-- Page date -->
+      <div class="row title">
+        <h1>
+          {{ page.date | date: "%B %Y" | capitalize }} 
+        </h1>
+      </div>
+
+      <!-- Start of main article -->
+      <div class="row main-articles">
+        <div class="row">
+          <h1>
+            Centre updates
+          </h1>
+          <article>
+            <p>
+              {{ content | markdownify }}
+            </p>
+  
+  
+            <div class="box-article">
+              <h1>{{ page.msg-title }}</h1>
+              <p>{{ page.msg-content | markdownify }}</p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+
+
+    <!-- End of right col -->
+    </div>
+
+  <!-- End of parent row level 1-->
+  </div>
+
+
+
+
+
+
+<!-- end of newsletter-container -->
+</div>
