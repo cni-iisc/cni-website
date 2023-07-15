@@ -87,6 +87,8 @@ Our first speaker this month was Vincent Y. F. Tan, an associate professor with 
 
 ## The unreasonable effectiveness of mathematics in large scale deep learning
 
+## Missing Mass and Optimal Discovery
+
 
 
 
