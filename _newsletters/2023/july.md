@@ -60,6 +60,14 @@ events:
     - name: A Sanov-type theorem for unimodular marked random graphs and its applications
       description: by Sarath AY  from Brown University on July 14th @4 pm
       url: https://youtu.be/sErpXnSWg7Y
+
+    - name: Order-optimal convergence rates with adaptive SGD 
+      description: by Sanjay Shakkottai from The University of Texas  on July 17th @5.45 pm
+      url: 
+
+    - name: Dynamic Pricing and Matching for Online Marketplaces
+      description: by Sushil Varma from Georgia Tech on July 18th @4 pm
+      url: https://youtube.com/live/wZi2bdZDadM?feature=share 
       
     - name: CNI Summer School 2023
       description: "Room no. MP-20, ECE MP building, July 10-14 @9 am"
