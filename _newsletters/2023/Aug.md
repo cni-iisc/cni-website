@@ -19,7 +19,7 @@ img: "JTGSS 1.JPG"
 past_events_headline: We had two seminars this month. The Centre for Networked Intelligence (CNI) organized the third annual CNI summer school during July 10-14, 2023.
     
 past_events:
-     - name: Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits 
+    - name: Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits 
       description: by Vincent Y. F. Tan from National University of Singapore on July 4th @ 3pm
       url: 
 
