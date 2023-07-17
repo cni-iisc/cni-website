@@ -39,7 +39,8 @@ horizontal: true
 
 <div class="seminars">
   <div class="container">
-    {%- for seminar in seminars -%}
+  {%- assign seminars_desc = seminars | orderby: 'date' | reverse -%}
+    {%- for seminar in seminars_desc -%}
       {%- if seminar.date > cdate -%}
       {%- assign sem_time = seminar.date | date: "%H:%M:%S" -%}
       {%- assign seminar.upcoming = true -%}
