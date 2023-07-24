@@ -1,0 +1,20 @@
+---
+layout: seminar_page
+category: ""
+
+
+
+title: "SaFeR – A Safety Framework for e-Scooter Riders"  
+speaker: "Prof. Mahima Agumbe Suresh, San Jose State University"
+img: assets/img/seminars/July-24-MahimaAgumbeSuresh.png
+date: 2023-07-24 17:00:00 
+Venue: MP30, ECE dept
+recorded_video: sb0x1ZXH4Uo
+zoom_link: https://zoom.us/j/99506912102?pwd=c3VWNHpJdmZVWXNsNDRxdHhVaTBuZz09
+
+speaker_bio: "Mahima Agumbe Suresh is an Assistant Professor at San Jose State University. She received her Ph.D. from the Department of Computer Science and Engineering at Texas A&M University in December 2015 following which, she was a postdoctoral researcher at Xerox Research Labs, India. Her research interests include edge computing, machine learning, modeling and system design for cyber-physical systems and the Internet of Things."
+
+Topic_abstract: "Micromobility refers to small and light modes of transportation that are characterized by limited speed and range, such as electric scooters (e-scooters), and skateboards. With the introduction of shared e-scooter services to urban streets, micromobility started taking a higher share of urban streets across the world. This talk will first present a design of a framework to make urban micromobility safer. The goal of the framework is to improve situational awareness for the rider, similar to advanced driver assistance systems on cars. The framework is envisioned to incorporate a suite of algorithms that can run on commodity hardware, which adaptively selects algorithms based on sensing or computation capabilities of available devices. Next, the talk will discuss a deep learning monocular depth estimation algorithm, which is optimized using quantization and channel pruning to provide inference in real-time if we have only one camera available. A discussion on the considerations for algorithms and approaches towards human-in-the-loop applications will be included. Finally, the talk will cover algorithms that use combinations of other available sensors to output a comprehensive safety assessment metric for the rider. The design of the metric will also be discussed."
+
+
+---
