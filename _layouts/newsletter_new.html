@@ -1,120 +1,316 @@
----
-
-layout: default
-
----
-
-<!-- Start of newsletter-container -->
-<div class="'newsletter-container">
-
-  <!-- Start of parent row level 1-->
-  <div class="row"> 
-
-    <!-- Start of left col -->
-    <div class="col-3">
-
-      <!-- Page title -->
-      <div class="row title">
-        <h1> {{ page.title }} </h1>
-      </div>
-
-      <!-- Upcoming events -->
-      <div class="row events">
-        <div class="row month_events">
-          <article>
-            <h1>Upcoming events</h1>
-            <h2>{{ page.events_headline }}</h2>
-  
-            {%- for event in page.events -%} 
-            <br>
-              <h2><b> <a href="{{event.url}}">{{ event.name }} </a> </b>
-              {{ event.description }}</h2>
-            {%- endfor -%}
-          </article>
-        </div>
-      </div>
-
-
-
-      <!-- Past events -->
-      <div class="row past-events">
-        <h1>
-          Past events
-        </h1>
-        <h2>{{ page.past_events_headline }}</h2>
-        {%- for past-event in page.past_events -%} 
-        <h2>
-          <b>
-            <a href="{{ past-event.url }}">
-          {{ past-event.name }}
-            </b>
-            {{ past-event.description }}
-        </a></h2>
-        <br>
-        {%- endfor -%}
-        <!-- For looping through the directory and picking up images - This picks up multiple version of the same image. To be used after fixing duplication issues-->
-        <!-- {%- capture gallery_path -%}assets/img/newsletter/{{ page.date | date: '%Y' }}/{{ page.date | date: '%B' | downcase }}{%- endcapture -%}
-          {%- for image in site.static_files -%}
-            {%- if image.path contains gallery_path -%}
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-            {%- endif -%}
-          {%- endfor -%} -->
-          
-          <!-- Looping through provided images in the past_event_pics object -->
-  
-          {%- for picture in page.past_event_pics -%} 
-            <img src="{{ site.baseurl }}/assets/img/newsletter/{{ page.date | date: '%Y' }}/{{ page.date | date: '%B' | downcase }}/{{ picture }}"/>
-          {%- endfor -%}
-      </div>
-
-
-
-    <!-- End of left col -->
-    </div>
-
-    <!-- Start of right col -->
-    <div class="col-9">
-
-
-      <!-- Page date -->
-      <div class="row title">
-        <h1>
-          {{ page.date | date: "%B %Y" | capitalize }} 
-        </h1>
-      </div>
-
-      <!-- Start of main article -->
-      <div class="row main-articles">
-        <div class="row">
-          <h1>
-            Centre updates
-          </h1>
-          <article>
-            <p>
-              {{ content | markdownify }}
-            </p>
-  
-  
-            <div class="box-article">
-              <h1>{{ page.msg-title }}</h1>
-              <p>{{ page.msg-content | markdownify }}</p>
-            </div>
-          </article>
-        </div>
-      </div>
-
-
-
-    <!-- End of right col -->
-    </div>
-
-  <!-- End of parent row level 1-->
-  </div>
-
-
-
-
-
-
-<!-- end of newsletter-container -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+<head>
+<meta name=x-apple-disable-message-reformatting>
+<meta http-equiv=X-UA-Compatible>
+<meta charset=utf-8>
+<meta name=viewport content=target-densitydpi=device-dpi>
+<meta content=true name=HandheldFriendly>
+<meta content=width=device-width name=viewport>
+<style type="text/css">
+table {
+border-collapse: separate;
+table-layout: fixed;
+mso-table-lspace: 0pt;
+mso-table-rspace: 0pt
+}
+table td {
+border-collapse: collapse
+}
+.ExternalClass {
+width: 100%
+}
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+line-height: 100%
+}
+* {
+line-height: inherit;
+text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-moz-text-size-adjust: 100%;
+-o-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale
+}
+html {
+-webkit-text-size-adjust: none !important
+}
+img+div {
+display: none;
+display: none !important
+}
+img {
+Margin: 0;
+padding: 0;
+-ms-interpolation-mode: bicubic
+}
+h1, h2, h3, p, a {
+line-height: 1;
+overflow-wrap: normal;
+white-space: normal;
+word-break: break-word
+}
+a {
+text-decoration: none
+}
+h1, h2, h3, p {
+min-width: 100%!important;
+width: 100%!important;
+max-width: 100%!important;
+display: inline-block!important;
+border: 0;
+padding: 0;
+margin: 0
+}
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important
+}
+a[href^="mailto"],
+a[href^="tel"],
+a[href^="sms"] {
+color: inherit;
+text-decoration: none
+}
+@media (min-width: 481px) {
+.hd { display: none!important }
+}
+@media (max-width: 480px) {
+.hm { display: none!important }
+}
+[style*="Lato"] {font-family: 'Lato', BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif !important;} [style*="Roboto"] {font-family: 'Roboto', BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif !important;}
+</style>
+<!--[if !mso]><!-->
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet" type="text/css">
+<!--<![endif]-->
+<!--[if mso]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+<body class=t0 style="min-width:100%;Margin:0px;padding:0px;background-color:#ffffff;"><div class=t1 style="background-color:#ffffff;"><table role=presentation width=100% cellpadding=0 cellspacing=0 border=0 align=center><tr><td class=t271 style="font-size:0;line-height:0;mso-line-height-rule:exactly;" valign=top align=center>
+<!--[if mso]>
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false">
+<v:fill color=#ffffff />
+</v:background>
+<![endif]-->
+<table role=presentation width=100% cellpadding=0 cellspacing=0 border=0 align=center><tr><td>
+<table class=t5 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t6 style="overflow:hidden;width:800px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t6 style="overflow:hidden;width:800px;"><![endif]-->
+<div class=t12 style="display:inline-table;width:100%;text-align:left;vertical-align:top;">
+<!--[if mso]>
+<table role=presentation cellpadding=0 cellspacing=0 align=left valign=top><tr><td width=228.57143 valign=top><![endif]-->
+<div class=t174 style="display:inline-table;text-align:initial;vertical-align:inherit;width:28.57143%;max-width:600px;">
+<table role=presentation width=100% cellpadding=0 cellspacing=0 class=t176><tr>
+<td class=t177 style="border-bottom:1px solid #000;padding:10px 10px 10px 10px;"><h1 class=t178 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Roboto';line-height:34px;font-weight:400;font-style:normal;font-size:28px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">CNI Newsletter</h1></td>
+</tr></table>
 </div>
+<!--[if mso]>
+</td><td width=571.42857 valign=top><![endif]-->
+<div class=t184 style="display:inline-table;text-align:initial;vertical-align:inherit;width:71.42857%;max-width:1500px;">
+<table role=presentation width=100% cellpadding=0 cellspacing=0 class=t186><tr>
+<td class=t187 style="border-bottom:1px solid #000;padding:10px 10px 10px 10px;"><h1 class=t188 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Roboto';line-height:34px;font-weight:400;font-style:normal;font-size:28px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:right;mso-line-height-rule:exactly;mso-text-raise:2px;">June 2023</h1></td>
+</tr></table>
+</div>
+<!--[if mso]>
+</td>
+</tr></table>
+<![endif]-->
+</div></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t15 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t16 style="overflow:hidden;width:800px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t16 style="overflow:hidden;width:800px;"><![endif]-->
+<div class=t22 style="display:inline-table;width:100%;text-align:left;vertical-align:top;">
+<!--[if mso]>
+<table role=presentation cellpadding=0 cellspacing=0 align=left valign=top><tr><td width=227.35346 valign=top><![endif]-->
+<div class=t65 style="display:inline-table;text-align:initial;vertical-align:inherit;width:28.41918%;max-width:800px;">
+<table role=presentation width=100% cellpadding=0 cellspacing=0 class=t67><tr>
+<td class=t68 style="overflow:hidden;"><table role=presentation width=100% cellpadding=0 cellspacing=0><tr><td>
+<table class=t73 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t74 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t74 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<h1 class=t80 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Roboto';line-height:34px;font-weight:400;font-style:normal;font-size:25px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:center;mso-line-height-rule:exactly;mso-text-raise:3px;">Upcoming Events</h1></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t83 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t84 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t84 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<p class=t90 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Lato';line-height:22px;font-weight:400;font-style:normal;font-size:16px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">We have one seminar this month and also there are two major events happening this month.</p></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t263 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t264 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t264 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<p class=t270 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Lato';line-height:22px;font-weight:400;font-style:normal;font-size:16px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;"><a class=t260 href=https://www.youtube.com/watch?v=5ZGOVwc9l-c style="font-weight:700;font-style:normal;text-decoration:none;direction:ltr;color:blue;mso-line-height-rule:exactly;" target=_blank>Multiparty interactive coding over networks of intersecting broadcast links</a> by Manuj Mukherjee from IIIT Delhi on 16th June @11am</p></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t191 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t192 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t192 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<p class=t198 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Lato';line-height:22px;font-weight:400;font-style:normal;font-size:16px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">&gt; JTG/IEEE IT Soc summer school 2023 Auditorium, ECE MP building, June 19-23 @09:00am-05:00pm</p></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t201 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t202 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t202 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<p class=t208 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Lato';line-height:22px;font-weight:400;font-style:normal;font-size:16px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">&gt; CNI cybersecurity hackathon 2023 Registration deadline, June 4, 2023</p></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t93 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t94 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t94 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<h1 class=t100 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Roboto';line-height:34px;font-weight:400;font-style:normal;font-size:25px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:3px;">Past events</h1></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t103 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t104 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t104 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<p class=t110 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Lato';line-height:22px;font-weight:400;font-style:normal;font-size:16px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">We had three seminars last month. Two of them were online and one of them was an in-person talk. Registration for Digital Defenders Cybersecurity Masterclass and Capture the Flag (CTF) Competition 2023 event was opened on 11th May.</p></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t118 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t119 style="overflow:hidden;width:800px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t119 style="overflow:hidden;width:800px;"><![endif]-->
+<table role=presentation width=100% cellpadding=0 cellspacing=0><tr><td>
+<table class=t122 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t123 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t123 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<p class=t129 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Lato';line-height:22px;font-weight:400;font-style:normal;font-size:16px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">Mean-field control for restless bandits and weakly coupled MDPs by Dr. Nicolas Gast from INRIA on 2nd May @4pm</p></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t132 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t133 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t133 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<p class=t139 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Lato';line-height:22px;font-weight:400;font-style:normal;font-size:16px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">Fair clustering: notations and algorithms by Shweta Jain from IIT Ropar on 9th May @4pm</p></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t142 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t143 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t143 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<p class=t149 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Lato';line-height:22px;font-weight:400;font-style:normal;font-size:16px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">Reliable object detection and identification in adverse conditions by Kshitiz Bansal from University of California on 23rd May @4pm</p></td>
+</tr></table>
+</td></tr></table></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t157 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t158 style="overflow:hidden;width:800px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t158 style="overflow:hidden;width:800px;"><![endif]-->
+<table role=presentation width=100% cellpadding=0 cellspacing=0><tr><td>
+<table class=t161 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t162 style="width:240px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t162 style="width:240px;"><![endif]-->
+<div style="font-size:0px;"><img class=t168 style="display:block;border:0;height:auto;width:100%;Margin:0;max-width:100%;" width=227.3534635879219 height=227.34375 src=images/1.jpg /></div></td>
+</tr></table>
+</td></tr></table></td>
+</tr></table>
+</td></tr></table></td>
+</tr></table>
+</div>
+<!--[if mso]>
+</td><td width=572.64654 valign=top><![endif]-->
+<div class=t26 style="display:inline-table;text-align:initial;vertical-align:inherit;width:71.58082%;max-width:2015px;">
+<table role=presentation width=100% cellpadding=0 cellspacing=0 class=t28><tr>
+<td class=t29 style="border-left:1px solid #000;overflow:hidden;"><table role=presentation width=100% cellpadding=0 cellspacing=0><tr><td>
+<table class=t221 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t222 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t222 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<div style="font-size:0px;"><img class=t228 style="display:block;border:0;height:auto;width:100%;Margin:0;max-width:100%;" width=551.6465364120784 height=367.75 src=images/2.jpg /></div></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t211 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t212 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t212 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<h1 class=t218 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Roboto';line-height:40px;font-weight:400;font-style:normal;font-size:28px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:4px;">Centre Updates</h1></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t34 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t35 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t35 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<p class=t41 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Lato';line-height:22px;font-weight:400;font-style:normal;font-size:16px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">In the post-pandemic world, we have decided to reduce the number of online seminars to a maximum of two per month. This month, we had two online speakers and a visitor to CNI for the network seminar series.  Mean-field control for restless bandits and weakly coupled Markov decision processes Our first speaker this month was Dr. Nicolas Gast, a research scientist at INRIA, Grenoble, France. It is very difficult to gain analytical insights from Markov decision processes in most cases, and the problem gets exacerbated with an increased number of dimensions for controlled Markov chains. He highlighted these challenges for multiple agents with a coupled evolution and introduced the concept of mean-field approximations when the coupling is weak. It can be shown that in many such settings, the optimal decision is an index policy.  Fair clustering: notations and algorithms Professor Shweta Jain from IIT Ropar spoke about fair clustering problem where the goal is to ensure that each group in a cluster has an equal representation from different types of people. She proposed a new way of measuring fairness called τ -ratio fairness which allows for a better balance between efficiency and fairness. She also suggested a simple algorithm that can efficiently achieve this balance. The experimental results show that this algorithm outperforms other existing algorithms.  Reliable object detection and identification in adverse conditions Our third speaker this month was Kshitiz Bansal, who delivered an in-person talk. He is currently a computer science Ph.D. student at the University of California, San Diego. His talk mainly focused on the topic of reliable object detection and identification for autonomous driving, particularly in adverse weather conditions. He discussed the challenges posed by poor visibility due to fog or dust, and the use of different types of sensors such as cameras, LIDARs, and millimeter wave radars, which operate at a different spectrum and can penetrate obstacles, providing high-quality data that enhances the semantic understanding of the scene.</p></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t44 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t45 style="width:580px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t45 style="width:600px;padding:10px 10px 10px 10px;"><![endif]-->
+<h1 class=t51 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Roboto';line-height:34px;font-weight:400;font-style:normal;font-size:28px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">From the editor</h1></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t54 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t55 style="width:550px;padding:10px 10px 10px 10px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t55 style="width:570px;padding:10px 10px 10px 10px;"><![endif]-->
+<p class=t61 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Lato';line-height:22px;font-weight:400;font-style:normal;font-size:16px;text-decoration:none;text-transform:none;direction:ltr;color:#595959;text-align:left;mso-line-height-rule:exactly;mso-text-raise:2px;">We have two major upcoming events this month. CNI is supporting the 14th annual JTG/IEEE Information Theory Society summer school. We have three outstanding international speakers for this event talking about modern research topics such as differential privacy, quantum information theory, and codes for distributed storage and compute. We have 100 registered participants for this event which will be conducted in the ECE department at IISc from June 19-23. Apart from this, we have the bi-annual Cisco-IISc day on June 27, where all CNI PhD scholars will present their research work, along with two associated CNI faculty. Our CSR partner Cisco will also have presentations from their researchers at this event.</p></td>
+</tr></table>
+</td></tr></table></td>
+</tr></table>
+</div>
+<!--[if mso]>
+</td>
+</tr></table>
+<![endif]-->
+</div></td>
+</tr></table>
+</td></tr><tr><td>
+<table class=t231 role=presentation cellpadding=0 cellspacing=0 align=center><tr>
+<!--[if !mso]><!--><td class=t232 style="overflow:hidden;width:800px;">
+<!--<![endif]-->
+<!--[if mso]><td class=t232 style="overflow:hidden;width:800px;"><![endif]-->
+<div class=t238 style="display:inline-table;width:100%;text-align:left;vertical-align:top;">
+<!--[if mso]>
+<table role=presentation cellpadding=0 cellspacing=0 align=left valign=top><tr><td width=227.59602 valign=top><![endif]-->
+<div class=t244 style="display:inline-table;text-align:initial;vertical-align:inherit;width:28.4495%;max-width:600px;">
+<table role=presentation width=100% cellpadding=0 cellspacing=0 class=t246><tr>
+<td class=t247 style="border-top:1px solid #000;padding:10px 10px 10px 10px;"><h1 class=t248 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Roboto';line-height:34px;font-weight:400;font-style:normal;font-size:20px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:left;mso-line-height-rule:exactly;mso-text-raise:4px;">contact.cni@iisc.ac.in</h1></td>
+</tr></table>
+</div>
+<!--[if mso]>
+</td><td width=572.40398 valign=top><![endif]-->
+<div class=t255 style="display:inline-table;text-align:initial;vertical-align:inherit;width:71.5505%;max-width:1509px;">
+<table role=presentation width=100% cellpadding=0 cellspacing=0 class=t257><tr>
+<td class=t258 style="border-top:1px solid #000;padding:0 10px 10px 0;"><h1 class=t259 style="font-family:BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,'Roboto';line-height:34px;font-weight:400;font-style:normal;font-size:20px;text-decoration:none;text-transform:none;direction:ltr;color:#333333;text-align:center;mso-line-height-rule:exactly;mso-text-raise:4px;">CNI, ECE Department, IISc 560012 | <a class=t249 href=https://cni.iisc.ac.in/ style="font-weight:700;font-style:normal;font-size:20px;text-decoration:none;direction:ltr;color:blue;mso-line-height-rule:exactly;" target=_blank>https://cni.iisc.ac.in</a></h1></td>
+</tr></table>
+</div>
+<!--[if mso]>
+</td>
+</tr></table>
+<![endif]-->
+</div></td>
+</tr></table>
+</td></tr></table></td></tr></table></div></body>
+</html>
