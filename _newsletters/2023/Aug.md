@@ -47,6 +47,18 @@ past_events:
       description: by Sushil Varma from Georgia Tech on July 18th @4 pm
       url: https://youtube.com/live/wZi2bdZDadM?feature=share 
       
+    - name: An overview of robotics research at Google Deepmind.
+      description: by Dr. Pannag R Sanketi from Google Deepmind on July 19th @4 pm
+      url: https://youtu.be/7PrQ_MZ_uC8
+
+    - name: SaFeR – A Safety Framework for e-Scooter Riders
+      description: by Mahima Agumbe Suresh from San Jose State University on July 24th @4 pm
+      url: https://youtu.be/sb0x1ZXH4Uo
+
+    - name: The Robustness of Blockchains to Network Delays
+      description: by Suryanarayana Sankagiri from EPFL, Switzerland on July 28th @4 pm
+      url: https://youtu.be/ZSKnqAfwOFU
+      
     - name: CNI Summer School 2023
       description: "Room no. MP-20, ECE MP building, July 10-14 @9 am"
       url: https://cni.iisc.ac.in/summerschool/2023
@@ -58,7 +70,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have two seminars this month. The Centre for Networked Intelligence (CNI) is organizing the third annual CNI summer school during July 10-14, 2023.
+events_headline: We have ten seminars this month. The Centre for Networked Intelligence (CNI) is organizing the third annual CNI summer school during July 10-14, 2023.
 
 events:
     - name: Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits 
