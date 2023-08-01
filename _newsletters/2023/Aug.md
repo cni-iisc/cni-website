@@ -70,11 +70,11 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have ten seminars this month. The Centre for Networked Intelligence (CNI) is also organizing the third annual CNI summer school during July 10-14, 2023.
+events_headline: We have ten seminars this month. 
 
 events:
-    - name: Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits 
-      description: by Vincent Y. F. Tan from National University of Singapore on July 4th @ 3pm
+    - name: PAC Mode Estimation using PPR Martingale Confidence Sequences
+      description: by Shivaram Kalyanakrishnan from IIT Bombay on August 2nd @ 4pm
       url: 
 
     
