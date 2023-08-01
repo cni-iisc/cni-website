@@ -109,6 +109,20 @@ Siva Theja Maguluri is Fouts Family Early Career Professor and Assistant Profess
 ## A Sanov-type theorem for unimodular marked random graphs and its applications
 Sarath AY, a postdoctoral research associate in the Division of Applied Mathematics at Brown UniversityWe proved a Sanov-type large deviation principle for the component empirical measures of certain sequences of unimodular random graphs (including Erdos-Renyi and random regular graphs) whose vertices are marked with i.i.d. random variables. Specifically, hw showed that the rate function can be expressed in a fairly tractable form involving suitable relative entropy functionals. As a corollary, he established a variational formula for the annealed pressure (or limiting log partition function) for various statistical physics models on sparse random graphs
 
+## Order-optimal convergence rates with adaptive SGD
+Sanjay Shakkottai, a professor in the University of Texas at Austin,  talked about a problem in machine learning where we want to find the best solution for a non-convex function. The speaker focused on a class of functions that are more realistic for practical machine learning problems. He developed a technique to prove that their algorithm can find a good solution with a certain level of accuracy, even when the noise in the data is not uniformly bounded. This is important because in many practical settings, the noise is not uniformly bounded. He showed that their algorithm works well for a broad range of functions, but some other algorithms analyzed in previous works may not work well for certain types of functions.
+
+## Dynamic Pricing and Matching for Online Marketplaces
+Sushil Varma,a 5th-year Ph.D. student in the Industrial and Systems Engineering department at Georgia Tech discussed the concept of dynamic pricing and matching for online marketplaces. He highlighted the rapid growth of the online economy and the challenges faced by system operators in aligning supply and demand. He emphasized the importance of maximizing profit and minimizing delays for customers and services. He discussed the centralized approach to pricing and matching, as well as the need for effective control and optimization strategies. He also touched on the concepts of stability and compatibility in online marketplaces. The speaker emphasized the need to consider internet structure, connectivity, and arrival conditions to achieve a faster and well-behaved marketplace. He also highlighted the significance of finding the right balance between profit and waiting time, as excessively long waiting times can negatively affect customer experience. The speaker further discussed the challenges of distributing the system's state, the incorporation of servers into pricing, and customer choice. 
+
+## An overview of robotics research at Google Deepmind.
+Dr. Pannag R Sanketi, a Tech-Lead Manager in the Robotics team at Google Deepmind (previously called Google Brain) in Mountain View, California
+
+## SaFeR – A Safety Framework for e-Scooter Riders
+Mahima Agumbe Suresh, an Assistant Professor at San Jose State University
+
+## The Robustness of Blockchains to Network Delays
+Suryanarayana Sankagiri (Surya) ,a postdoctoral researcher in the Information and Network Dynamics Lab at EPFL, Switzerland 
 
 
 [CNI 2023]: https://cni.iisc.ac.in/summerschool/2023
