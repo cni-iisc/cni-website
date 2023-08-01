@@ -92,7 +92,7 @@ msg-content: "We have one major upcoming event this month. The Centre for Networ
 
 <!-- Main article -->
 
-This month, we had one in-person talk.  
+This month, we had ten in-person talk.  
 
 ## Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits
 Our first speaker this month was Vincent Y. F. Tan, an associate professor with the Department of Mathematics and the Department of Electrical and Computer Engineering, National University of Singapore (NUS). He discussed a problem called the probably anytime-safe stochastic combinatorial semi-bandits problem. In this problem, an agent has to select a subset of items from a larger set, where each item has a certain reward and risk associated with it. The agent has to make decisions in a way that minimizes the risk over a certain period of time. He proposed an algorithm called PASCOMBUCB that helps the agent make these decisions. The algorithm is designed to minimize regret over the entire time horizon.  This problem and algorithm can be applied to various domains, such as recommendation systems and transportation.
