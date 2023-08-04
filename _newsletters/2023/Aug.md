@@ -70,7 +70,7 @@ past_event_pics: # Provide a list of file names with proper extensions
 
 # Upcoming events
 
-events_headline: We have ten seminars this month. 
+events_headline: We have regular weekly seminars this month. 
 
 events:
     - name: PAC Mode Estimation using PPR Martingale Confidence Sequences
@@ -85,7 +85,7 @@ events:
 # The content of below two will be displayed as a box inside the main area.
 msg-title: From the editor
 
-msg-content: "We have one major upcoming event this month. The Centre for Networked Intelligence (CNI) is organizing the third annual CNI summer school during July 10-14, 2023. This is 5 days in-person summer school, where we will study mathematical tools to solve dynamic resource allocation problems in communication networks. We have over 100 registered participants for this event."
+msg-content: "IISc welcomes new students and they will be starting a new career. Courses for this semester will be starting from the first week of August."
 
 
 ---
