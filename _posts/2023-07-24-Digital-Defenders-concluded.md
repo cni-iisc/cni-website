@@ -9,11 +9,8 @@ header:
  title: "Digital defenders hackathon concludes"
  background-color: "#334d5c"
 tags: hackathon
-showcase: True
-img: 
-    - /assets/img/hackathons/digital_defender_results_1.jpeg
-    - /assets/img/hackathons/digital_defender_results_2.jpeg
-    - /assets/img/hackathons/digital_defender_results_3.jpeg
+showcase: true
+img: /assets/img/hackathons/digital_defender_results_1.jpeg
 
 ---
 
