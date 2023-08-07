@@ -6,7 +6,7 @@ img: assets/img/hackathons/digital-defenders-ctf-2023.jpeg
 importance: 1
 year: 2023
 category: ""
-showcase: true
+
 ---
 
 

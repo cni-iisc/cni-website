@@ -32,6 +32,13 @@ layout: default
             {%- endif -%}
             {%- endif -%}
           </div>
+          <div class="more_authors_text" style="text-align: center;">
+            <br>
+            
+            {%- if page.slides -%}  
+              <a href="{{site.baseurl}}/assets/slides/nss/{{ cdate | date: '%Y'}}/{{ cdate | date: '%B'}}/{{ page.slides }}" target="_blank" class="btn btn-outline-secondary btn-md active" role="button" aria-pressed="true"><b>Slides</b></a>
+            {%- endif -%}
+          </div>
           <br>
 
           <div style="text-align: justify;">
