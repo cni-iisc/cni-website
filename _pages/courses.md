@@ -46,8 +46,10 @@ While CNI does not offer any academic programs of its own, we have been developi
   <div class="container">
     <div class="row row-cols-1  ">
     {%- for project in sorted_courses -%}
+    {%- unless project.ignore -%}
       {% include courses_horizontal.html %}
-    {%- endfor %}
+    {%- endunless -%}
+    {%- endfor -%}
     </div>
   </div>
   {%- else -%}

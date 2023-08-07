@@ -5,6 +5,7 @@ description:
 img: assets/img/courses/IoT_course_prof_pic.jpg
 importance: 1
 category: work
+
 ---
 
 
