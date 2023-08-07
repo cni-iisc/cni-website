@@ -10,6 +10,7 @@ header:
  background-color: "#334d5c"
 tags: summer-school reinforcement-learning
 img: assets/img/summerschool/2023/IMG_6721.JPG
+showcase: true
 ---
 
 CNI Summer School 2023 has concluded with over a 100 hundred participants from various prestigious educational institutions in India. The daily sessions comprised of theory and lab sessions conducted in an interactive method to entice new researchers into unexplored depths of Deep Reinforcement Learning algorithms. The 5 day summer school also saw ample amount of online participation this time as the theory sessions were conducted in a hybrid fashion.

@@ -11,9 +11,9 @@ header:
 tags: hackathon
 showcase: True
 img: 
-    - assets/img/hackathons/digital_defender_results_1.jpeg
-    - assets/img/hackathons/digital_defender_results_2.jpeg
-    - assets/img/hackathons/digital_defender_results_3.jpeg
+    - /assets/img/hackathons/digital_defender_results_1.jpeg
+    - /assets/img/hackathons/digital_defender_results_2.jpeg
+    - /assets/img/hackathons/digital_defender_results_3.jpeg
 
 ---
 

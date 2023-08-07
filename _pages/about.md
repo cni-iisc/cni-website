@@ -20,13 +20,15 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-We are racing towards a connected world where every individual and every connected device adds value to the network and derive value from the network. We leave traces when we engage with the network, and all such interactions add value to the network.
+We are racing towards a connected world where every individual and device contribute to and benefit from the network. However, our data collection surpasses our ability to extract valuable knowledge. To achieve networked intelligence, we need a holistic approach involving real-time sensing, communication, analytics, and more. The center aims to develop next-gen networking solutions for smart cities, IoT, data exchanges, and society's benefit.
+
+<!-- We are racing towards a connected world where every individual and every connected device adds value to the network and derive value from the network. We leave traces when we engage with the network, and all such interactions add value to the network.
 
 Our ability to collect data round-the-clock has far surpassed our ability to manage, analyse, and extract critical and valuable knowledge that can drive intelligent decision making. This large scale sensing and data gathering can result in greater social good only if we are able to create knowledge out of the gathered data.
 
 Realising the potential of networked intelligence requires a holistic approach, a creation of a networked intelligence stack involving real-time sensing, communication, networking, distributed computation, analytics and control, characterisation of application intent, and application adaptation. There are many key issues that one needs to solve to realise this pipeline – methods to specify guarantees, network design and architecture to achieve them, robustness, security and privacy, mechanism design, etc.
 
-The centre aims to develop next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future. The centre aims to build network applications and public policies for the benefit of society in areas such as smart cities, IoT/CPS, data exchanges etc
+The centre aims to develop next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future. The centre aims to build network applications and public policies for the benefit of society in areas such as smart cities, IoT/CPS, data exchanges etc ... -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `logo.jpg` and put it in the `img/` folder.
 
