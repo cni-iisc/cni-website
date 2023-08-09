@@ -49,7 +49,8 @@ related engineering disciplines.
 development tools.
 - Solid foundation in probability and statistics.
 - Strong problem-solving skills and the ability to think critically and independently.
-Incentives for joining CNI
+
+**Incentives for joining CNI:**
 - Opportunity to work in a dynamic research environment at the forefront of computer
 networks and systems.
 - Collaboration with renowned experts in the field.
