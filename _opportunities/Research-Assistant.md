@@ -21,7 +21,7 @@ show: true
 We are seeking a motivated Research Assistant (RA) to join the Data Center Network (DCN)
 and Cloud Research group at the Centre for Networked Intelligence (CNI), IISc. The
 successful candidate will be actively involved in research projects focussed on sustainable
-computing,and network performance optimization. This role rerquires solid technical and
+computing,and network performance optimization. This role requires solid technical and
 quantitative skills and a passion for research.
 
 **Location:** Indian Institute of Science campus, Bengaluru
