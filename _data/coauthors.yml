@@ -310,8 +310,15 @@
 "Subramanian":
   - firstname: ["Renu"]
     url: https://ieeexplore.ieee.org/author/37850916900
+# Above Data collected by Ashwini B
+
+"Rao":
+  - firstname: ["Deeksha P"]
+    url: https://labs.dese.iisc.ac.in/zenlab/deeksha-p-rao/
+
+"Kumar":
+  - firstname: ["Anurag"]
+    url: https://scholar.google.co.in/citations?user=bG6LZK8AAAAJ&hl=en
 
 
 
-
-# Data collected by Ashwini B
