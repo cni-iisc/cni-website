@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PhD Research Highlights 2019
-permalink: /researchhighlights/2019-2020/phd
+permalink: /researchhighlights/2019/phd
 description: 
 nav: false
 year: 2019

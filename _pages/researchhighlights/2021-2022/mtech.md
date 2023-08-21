@@ -1,7 +1,7 @@
 ---
 layout: page
 title: M tech Research Highlights 2021 - 2022
-permalink: /researchhighlights/2021-2022/mtech
+permalink: /researchhighlights/2021/mtech
 description: 
 nav: false
 year: 2021

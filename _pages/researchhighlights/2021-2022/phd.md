@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PhD Research Highlights 2021 - 2022
-permalink: /researchhighlights/2021-2022/phd
+permalink: /researchhighlights/2021/phd
 description: 
 nav: false
 year: 2021

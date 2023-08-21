@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mtech Research Highlights 2019
-permalink: /researchhighlights/2019-2020/mtech
+permalink: /researchhighlights/2019/mtech
 description: 
 nav: false
 year: 2019
