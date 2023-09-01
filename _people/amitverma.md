@@ -5,7 +5,7 @@ position_at_CNI:
 description: 
 description2: Amit Verma is an Mtech second-year student in the ECE department ,IISc bangalore. He completed his B. Tech from IIIT Naya Raipur. Currently, he is working on a project on Short term unfairness in decentralized WiFi systems Under the guidance of Prof.Rajesh Sundaresan and Prof Anurag Kumar.
 department: ECE
-img: assets/img/people/mtech/amitverma.jpg
+img: assets/img/people/mtech/amitverma.JPG
 importance: 1
 category: M.Tech. Fellows/Scholars
 redirect: 
