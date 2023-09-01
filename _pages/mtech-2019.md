@@ -1,7 +1,7 @@
 ---
 layout: mtech_page
 title: M Tech Fellows 
-permalink: /mtech-2019/
+permalink: /mtech2019/
 description: 2019 - 2020
 nav: false
 nav_order: 3

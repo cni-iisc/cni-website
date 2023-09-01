@@ -10,5 +10,6 @@ advisor: Gurunath Gurrala & P S Sastry
 department: RBCCPS
 redirect: 
 Research_Interests:
+past: true
 years: [2022]
 ---

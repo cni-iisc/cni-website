@@ -11,7 +11,7 @@ category: Ph.D. Fellows/Scholars
 redirect: 
 research_interests: 
 email: 
-past: 
+past: true
 years: [2021,2022]
 advisor: T. V. Prabhakarv & Joy Kuri # only applicable for students or fellows
 

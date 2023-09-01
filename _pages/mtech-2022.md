@@ -1,13 +1,13 @@
 ---
 layout: mtech_page
 title: M Tech Fellows 
-permalink: /mtech2020/
-description: 2020-2021
+permalink: /mtech2022/
+description: 2022 - 2023
 nav: false
 nav_order: 3
 # display_categories: [Faculty,Ph.D. Fellows/Scholars, M.Tech. Fellows/Scholars, Staff ]
 horizontal: false
-year: 2020
+year: 2022
 ---
 
 

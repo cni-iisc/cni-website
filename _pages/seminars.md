@@ -80,7 +80,7 @@ horizontal: true
 <br>
 
 <div class="seminar-past-talks">
-      <a href="/pasttalks" class="btn btn-primary btn-lg active seminar-past-talks" role="button" aria-pressed="true">Past Talks</a>
+      <a href="/seminars/2022" class="btn btn-primary btn-lg active seminar-past-talks" role="button" aria-pressed="true">Past Talks</a>
 </div>
 
 <br>

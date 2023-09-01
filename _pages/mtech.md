@@ -69,14 +69,17 @@ horizontal: false
 
    <hr>
    <div class="row">
-    <div class="col-md-4">
-      <a href="/mtech-2021/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2021 - 2022</a>
+   <div class="col-md-4">
+      <a href="/mtech2022/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2022 - 2023</a>
     </div>
     <div class="col-md-4">
-      <a href="/mtech-2020/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2020 - 2021</a>
+      <a href="/mtech2021/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2021 - 2022</a>
+    </div>
+    <div class="col-md-4">
+      <a href="/mtech2020/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2020 - 2021</a>
     </div>
         <div class="col-md-4">
-      <a href="/mtech-2019/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2019 - 2020</a>
+      <a href="/mtech2019/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">2019 - 2020</a>
     </div>
  
    </div>

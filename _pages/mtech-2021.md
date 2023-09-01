@@ -1,7 +1,7 @@
 ---
 layout: mtech_page
 title: M Tech Fellows 
-permalink: /mtech-2021/
+permalink: /mtech2021/
 description: 2021 - 2022
 nav: false
 nav_order: 3

@@ -11,7 +11,7 @@ category: M.Tech. Fellows/Scholars
 redirect: 
 research_interests: 
 email: 
-past: false
+past: true
 years: [2022]
 advisor: Rajesh Sundaresan # only applicable for students or fellows
 
