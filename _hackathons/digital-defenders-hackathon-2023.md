@@ -18,6 +18,29 @@ This **Capture the Flag (CTF)** competition is being organized by [CySecK- the K
 
 The aim of this CTF is to promote awareness of cybersecurity and to guide and train young adults currently pursuing technical education in different types of cybersecurity violation scenarios.
 
+<center>The Winners have been announced.</center>
+
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/hackathons/digital_defender_results_1.jpeg"  width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/hackathons/digital_defender_results_2.jpeg"  width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/hackathons/digital_defender_results_3.jpeg"  width="100%">
+
+
+<b>With the conclusion of this year's hackathon</b>, we have awarded 25 prizes worth INR 400,000 to participants across 30 states and Union Territories of India.
+
+<table>
+  <tr> 
+  <td><b>9900+</b></td>
+  <td>Registrations</td>  
+  </tr>
+  <tr>
+  <td><b>4100+</b></td>
+  <td>Submissions</td>
+  </tr>
+</table>
+  
+<br>
 
 Eligibility
 * Only Indian nationals who are resident in India and are studying full-time in a Diploma (after 10th), Bachelor’s or Master’s course of study at a College/Institute

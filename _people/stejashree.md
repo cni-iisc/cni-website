@@ -6,7 +6,7 @@ description2: "Tejashree S is a research scholar at the Wireless Information Sys
 img: assets/img/people/phd/tejashrees.jpg
 importance: 1
 category: Ph.D. Fellows/Scholars 
-advisor: 
+advisor: Prof. Rajesh Sundaresan
 department: ECE
 redirect: 
 Research_Interests:

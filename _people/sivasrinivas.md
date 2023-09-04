@@ -6,7 +6,7 @@ description2: "I N.T.S.S.Srinivas am a second year PhD student at the Distribute
 img: assets/img/people/phd/sivasrinivas.JPG
 importance: 1
 category: Ph.D. Fellows/Scholars 
-advisor: 
+advisor: Prof. Parimal Parag
 department: ECE
 redirect: 
 Research_Interests:

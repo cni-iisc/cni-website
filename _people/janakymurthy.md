@@ -8,7 +8,7 @@ Previously, she worked as a Research Engineer at Ati Motors, Bangalore where she
 img: assets/img/people/phd/janakymurthy.JPG
 importance: 1
 category: Ph.D. Fellows/Scholars 
-advisor: 
+advisor: Prof. Rajesh Sundaresan
 department: ECE
 redirect: 
 Research_Interests:

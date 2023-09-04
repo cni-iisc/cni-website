@@ -16,6 +16,6 @@ years: [2023]
 linkedin: www.linkedin.com/in/kaushik-hasabnis-009a10162
 website: 
 G_scholar_ID:
-advisor: # only applicable for students or fellows
+advisor: Dr. Prabhakar T V # only applicable for students or fellows
 
 ---
