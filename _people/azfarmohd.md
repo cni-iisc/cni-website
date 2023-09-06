@@ -3,7 +3,7 @@ layout: student_page
 title: Mohd Azfar
 position_at_CNI: 
 description: 
-description2: "Mohd Azfar is pursuing Masters in Signal Processing. "
+description2: "Mohd Azfar is a 2nd year student , pursuing Masters in Signal Processing. He is working on applications of computer vision and machine learning  to build  facial and finger recognition systems to streamline Aadhar authentication services."
 department: ECE
 img: assets/img/people/mtech/azfarmohd.JPG
 importance: 1
