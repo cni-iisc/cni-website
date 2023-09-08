@@ -9,6 +9,7 @@
             {%- else -%}
             <a href="{{ seminar.url | relative_url }}">
               {%- endif %}
+             # {{ seminar.n }}
           <h2 class="card-title">{{ seminar.title }}</h2>
           <p class="card-text">{{ seminar.date | date: "%b %d, %Y" }}</p>
             <p class="card-speaker">
