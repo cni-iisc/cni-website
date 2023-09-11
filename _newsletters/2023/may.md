@@ -1,5 +1,5 @@
 ---
-layout: newsletter
+layout: newsletter-plain
 title: CNI Newsletter
 newsletter_type: monthly #annual / monthly
 
@@ -77,37 +77,1079 @@ We invite all the senior undergraduate and early graduate students to register f
 ---
 
 <!-- Main article -->
-
-CNI organized five seminars in April 2023. Four of them were online and one of them was an in-person event. 
- 
-## The power of adaptivity in representation learning:- from meta-learning to federated learning
-    
-Our first speaker this month was Professor Sanjay Shakkottai from the Department of Electrical and Computer Engineering at the University of Texas at Austin. 
-He talked about a central problem in machine learning: *How should we train models using data generated from a collection of clients/environments if we know that these models will be deployed in a new
-and unseen environment?* 
-In the setting of few-shot learning, there are two prominent approaches in the multi-task linear representation setting. 
-He showed that the reason behind the generalizability of the models in new environments trained through either of these approaches is that the training dynamics induce the models to evolve toward the common data representation among the clients’ tasks.
-
-## Converse for quantum fault-tolerance
-    
-Avhishek Chatterjee, an assistant professor in the Department of Electrical Engineering at the Indian Institute of Technology Madras, talked about how to make quantum computers work better by reducing errors. He showed that there is a minimum amount of extra information needed to make sure that quantum operations are accurate, and he explained how to calculate this amount. He also showed that this minimum amount of extra information can help us figure out how much noise a quantum computer can handle before it stops working properly. 
-Overall, he provided new insights into how to make quantum computers more reliable, which is important for developing practical applications of quantum computing.
-
-## Aarogya Setu, how India saw covid
-    
-Dr. Lalitesh Katragadda from CMU  talked about a digital effort called Aarogya Setu that was created in India during the COVID-19 pandemic. It was made to provide clarity and first response to those in need, and to see the disease spread at a local and regional level. Aarogya Setu was able to help India see the spread of COVID-19, but unfortunately, it was abandoned when the country needed it most. However, it did a lot of good and was praised by academics abroad for its scale and quality. In the end, it evolved into a trusted global standard for vaccine response. The talk takes a look back at this digital effort and its impact during the pandemic.
-
-## Learning optimal beam directions in next-generation wireless networks: A fixed-budget stochastic bandit approach
-
-Manjesh Kumar Hanawal, an associate professor in Industrial Engineering and Operations Research at the Indian Institute of Technology Bombay talked about how we can use millimeter wave (mmWave) communications in 5G networks to support high data rates. However, these communications are sensitive to attenuation loss and require precise beam alignment between the transmitter and receiver. 
-He proposed an algorithm called Unimodal Bandit for Best Beam (UB3) that can help identify the best beam in a finite time using pure exploration strategies. This algorithm can improve the throughput of the network by more than 15% compared to other state-of-the-art algorithms. The algorithm is simple to implement and has lower computational complexity, making it a practical solution for beam alignment in mmWave systems. 
- 
-## Trends and challenges in multi-cloud networking and observability.
-
-Praveen Jayachandran from IBM Research, India  explained the trends such as the move towards hybrid and multi-cloud environments, edge computing, and decentralizing intelligence. However, managing multi-cloud environments comes with challenges, including the need for application-aware networking and observability. To address these challenges, IBM is focused on application-aware networking and observability with AI Ops, the programmable fabric of multi-cloud border gateways, and the need for standardization across metrics and logs. Additional challenges include distributed debugging and tracing across clusters and combining insights from different modalities of data. One important aspect he touches on is the need for a capability to handle large volumes of data for collecting matrix data, which is not meant for microsecond-level data collection. 
-
-
-<!-- Registrations for this event start from 11th May. There would be a total of 25 prizes on offer for the participants totaling to a value of  INR 4,00,000/- (Four Lakhs only). In addition, top candidates will be considered for Internship opportunities at partner organizations. -->
-
-
+<center>
+<table id="bodyTable" style="background-color: #f4f4f4;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="bodyCell" align="center" valign="top">
+<table id="root" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody class="mceWrapper" data-block-id="13">
+<tr>
+<td class="mceWrapperOuter" align="center" valign="top"><!-- [if (gte mso 9)|(IE)]>
+									<table align="center" border="0" cellspacing="0" cellpadding="0" width="660" style="width:660px;">
+										<tr>
+											<td>
+												<![endif]-->
+<table style="max-width: 660px;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceWrapperInner" style="background-color: #ffffff; background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="12">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="12" valign="top" width="100%" data-block-id="-31">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="background-color: #ffffff; padding: 0 0 20px 0;" valign="top">
+<table id="section_3072bc996a15d2d2259f51cd8359c1df" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="200">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-37">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="-22">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-47">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="205">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover; padding-top: 0px; padding-bottom: 0px;" valign="top">
+<table style="table-layout: fixed;" border="0" width="100%" cellspacing="24" cellpadding="0"><colgroup> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> </colgroup>
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="4" valign="top" width="33.33333333333333%" data-block-id="202">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 10px 0 9px 18px;" align="center" valign="top"><a style="display: block;" href="http://cni.iisc.ac.in" target="_blank" data-block-id="108"> <img class="imageDropZone" style="border: 0; width: 79.811320754717px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/images/eb6b787b-1cf6-01b4-f743-88b0e983586c.png" alt="" width="79.811320754717" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 24px;" colspan="8" valign="top" width="66.66666666666666%" data-block-id="204">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 15px 24px 12px 0;" valign="top">
+<div id="dataBlockId-3" class="mceText" style="width: 100%;" data-block-id="3">
+<p style="text-align: left; letter-spacing: 16px;"><span style="font-size: 30px;"> <span style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;"> Synapse </span> </span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">Monthly Newsletter from <a href="https://cni.iisc.ac.in/"> CNI </a></p>
+<p class="last-child" style="text-align: left;"><span style="color: #4b4b4b;"> Issue - May 2023 </span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="background-color: transparent; padding: 0;" valign="top">
+<table id="section_c637d91fc12467601cabd44f716471b3" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="102">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-34">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="-16">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-44">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="106">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="24" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 24px;" colspan="12" valign="top" width="100%" data-block-id="105">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: #fffdfd; padding: 12px 24px 12px 24px;" valign="top">
+<div id="dataBlockId-103" class="mceText" style="width: 100%;" data-block-id="103">
+<p class="last-child" style="text-align: justify;"><strong> F<span style="color: #565656;">rom the Edito</span>r </strong></p>
+</div>
+</td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 12px 24px 12px 24px;" valign="top">
+<div id="dataBlockId-104" class="mceText" style="width: 100%;" data-block-id="104">
+<p class="last-child" style="text-align: left;"><span style="font-size: 14px;"> Spring semester is officially over, and this means many things at IISc. This is the beginning of Gulmohar bloom all over the campus, and the advent of the mango season. For some of the graduate students, this is the time for industry internships, and for summer interns from outside IISc arrival time at various laboratories. The end of the spring semester signals a return of focus to research, conference travels, and summer schools. Talking about summer schools, CNI is supporting the&nbsp; </span> <a href="https://ece.iisc.ac.in/~jtg/2023/about.html"> <span style="font-size: 14px;"> 14th annual JTG/IEEE Information Theory Society summer school </span> </a> <span style="font-size: 14px;"> , which is returning to IISc in June this year. We are also organizing our&nbsp; </span> <a href="https://cni.iisc.ac.in/summerschool/2023"> <span style="font-size: 14px;"> 3rd annual CNI summer school </span> </a> <span style="font-size: 14px;"> &nbsp;in July this year. In addition, our annual hackathon this year is based on cybersecurity and is being organized in association with CySecK, the K-Tech Centre of Excellence in Cyber Security, and our CSR sponsor, Cisco Systems India Pvt. Ltd. We invite all the senior undergraduate and early graduate students to register for all of these events. </span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">
+<table style="background-color: transparent;" border="0" width="100%" cellspacing="0" cellpadding="0" data-block-id="101">
+<tbody>
+<tr>
+<td style="min-width: 100%; border-top: 1px solid #323232;" valign="top">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="padding: 0 24px 0 24px;" valign="top">
+<div id="dataBlockId-81" class="mceText" style="width: 100%;" data-block-id="81">
+<h1 class="last-child"><span style="color: #323232;"> <span style="font-size: 20px;"> Upcoming Events </span> </span></h1>
+</div>
+</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="background-color: #f4f6ff; padding: 0;" valign="top">
+<table id="section_ba4da21cbdc15e4612b1cadaae249c96" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="82">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-32">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="-12">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-42">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="87">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover; padding-top: 0px; padding-bottom: 0px;" valign="top">
+<table style="table-layout: fixed;" border="0" width="100%" cellspacing="24" cellpadding="0"><colgroup> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> </colgroup>
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="8" valign="top" width="66.66666666666666%" data-block-id="84">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: #f4f6ff; padding: 12px 24px 12px 24px;" valign="top">
+<div id="dataBlockId-83" class="mceText" style="width: 100%;" data-block-id="83">
+<p class="last-child"><a href="https://cni.iisc.ac.in/seminars/2023-05-02/"> <span style="font-size: 14px;"> Mean-field control for restless bandits and weakly coupled MDPs </span> </a> <a href="https://youtu.be/pM11eHp_RYM"> <span style="font-size: 14px;"> &nbsp; </span> </a> <span style="font-size: 14px;"> by Dr. Nicolas Gast from INRIA on 2nd May @4pm </span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 24px;" colspan="4" valign="top" width="33.33333333333333%" data-block-id="86">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: #f4f6ff; padding: 0;" align="center" valign="top"><a style="display: block;" href="https://youtu.be/pM11eHp_RYM" target="_blank" data-block-id="169"> <img class="" style="border: 0; width: 192px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/video_thumbnails_new/35ddca964315027a95051e1048caa61f.png" alt="Mean-Field Control for Restless Bandits and Weakly Coupled MDPs | Dr. Nicolas Gast, Inria, Grenoble" width="192" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="background-color: transparent; padding: 0;" valign="top">
+<table id="section_f0bd9f868c79dca72157f36d51ea028c" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="131">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-36">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="-20">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-46">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="136">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover; padding-top: 0px; padding-bottom: 0px;" valign="top">
+<table style="table-layout: fixed;" border="0" width="100%" cellspacing="24" cellpadding="0"><colgroup> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> </colgroup>
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="4" valign="top" width="33.33333333333333%" data-block-id="133">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" align="center" valign="top"><a style="display: block;" href="https://youtu.be/7ApB6KN5Drc" target="_blank" data-block-id="157"> <img class="" style="border: 0; width: 192px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/video_thumbnails_new/0789b546f969111905c4e2c8150d808d.png" alt="Fair Clustering: Notations and Algorithms | Prof. Shweta Jain, IIT Ropar." width="192" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 24px;" colspan="8" valign="top" width="66.66666666666666%" data-block-id="135">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 12px 24px 12px 24px;" valign="top">
+<div id="dataBlockId-143" class="mceText" style="width: 100%;" data-block-id="143">
+<p class="last-child"><a href="https://cni.iisc.ac.in/seminars/2023-05-09/"> <span style="font-size: 14px;"> Fair clustering: notations and algorithms </span> </a> <a href="https://youtu.be/7ApB6KN5Drc"> <span style="font-size: 14px;"> &nbsp; </span> </a> <span style="font-size: 14px;"> by Professor Shweta Jain from IIT Ropar on 9th May @4pm </span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="background-color: #f4f6ff; padding: 0;" valign="top">
+<table id="section_304e49b03a2a79105bfad0ce8cbb4d56" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="88">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-33">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="-14">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-43">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="93">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover; padding-top: 0px; padding-bottom: 0px;" valign="top">
+<table style="table-layout: fixed;" border="0" width="100%" cellspacing="24" cellpadding="0"><colgroup> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> </colgroup>
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="8" valign="top" width="66.66666666666666%" data-block-id="90">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: #f4f6ff; padding: 20px 24px 12px 24px;" valign="top">
+<div id="dataBlockId-89" class="mceText" style="width: 100%;" data-block-id="89">
+<p class="last-child"><a href="https://cni.iisc.ac.in/seminars/2023-05-23/"> Reliable object detection and identification in adverse conditions </a> <a href="https://youtu.be/5d3UjPQuTcQ"> &nbsp; </a> by Kshitiz Bansal from the University of California on 23rd May @4pm</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 24px;" colspan="4" valign="top" width="33.33333333333333%" data-block-id="92">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: #f4f6ff; padding: 0;" align="center" valign="top"><a style="display: block;" href="https://youtu.be/5d3UjPQuTcQ" target="_blank" data-block-id="159"> <img class="" style="border: 0; width: 192px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/video_thumbnails_new/87eb798b73c014abc3f952e55c54b530.png" alt="Reliable Object Detection and Identification in Adverse Conditions, UCSD." width="192" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceBlockContainerE2E" style="padding: 12px 0 12px 0;" align="full" valign="top"><img class="imageDropZone" style="width: 660px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/images/76887ad4-dea9-6e53-2471-21e3e2c7e2ae.jpeg" alt="" width="660" height="auto" data-block-id="337" /></td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="background-color: #f4f6ff; padding: 12px 24px 12px 24px;" valign="top">
+<div id="dataBlockId-336" class="mceText" style="width: 100%;" data-block-id="336">
+<p class="last-child"><a href="https://cni.iisc.ac.in/hackathons/digital-defenders-hackathon-2023"> CNI Digital Defenders Cybersecurity Hackathon 2023&nbsp; </a> organized by CySecK, CNI, and Cisco India. Registration starting May 11</p>
+</div>
+</td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">
+<table style="background-color: transparent;" border="0" width="100%" cellspacing="0" cellpadding="0" data-block-id="303">
+<tbody>
+<tr>
+<td style="min-width: 100%; border-top: 1px solid #6c6c6c;" valign="top">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="padding: 0 24px 0 24px;" valign="top">
+<div id="dataBlockId-18" class="mceText" style="width: 100%;" data-block-id="18">
+<p class="last-child" style="text-align: center;"><strong> <span style="color: #323232;"> <span style="font-size: 24px;"> Past Events </span> </span> </strong></p>
+</div>
+</td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="padding: 0 24px 10px 24px;" valign="top">
+<div id="dataBlockId-171" class="mceText" style="width: 100%;" data-block-id="171">
+<p class="last-child">We had five seminars last month. Four of them were online and one of them was an in-person talk.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="background-color: #f4f6ff; padding: 0;" valign="top">
+<table id="section_0c126b62613a5135837dbd62c2b4d940" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="122">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-35">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="-18">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-45">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="127">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover; padding-top: 0px; padding-bottom: 0px;" valign="top">
+<table style="table-layout: fixed;" border="0" width="100%" cellspacing="24" cellpadding="0"><colgroup> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> </colgroup>
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="4" valign="top" width="33.33333333333333%" data-block-id="124">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: #f4f6ff; padding: 0;" align="center" valign="top"><a style="display: block;" href="https://youtu.be/iQcmWzRLOBU" target="_blank" data-block-id="120"> <img class="" style="border: 0; width: 192px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/video_thumbnails_new/127faa8b80e01df933aedde824feeb34.png" alt="The Power of Adaptivity in Representation Learning: from Meta-Learning to Federated Learning" width="192" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 24px;" colspan="8" valign="top" width="66.66666666666666%" data-block-id="126">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: #f4f6ff; padding: 12px 24px 12px 24px;" valign="top">
+<div id="dataBlockId-25" class="mceText" style="width: 100%;" data-block-id="25">
+<p class="last-child"><a href="https://cni.iisc.ac.in/seminars/2023-04-04/"> The power of adaptivity in representation learning:- from meta-learning to federated learning&nbsp; </a> by Professor Sanjay Shakkottai from the University of Texas at Austin on 4th April @4pm</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="background-color: #ffffff; padding: 0;" valign="top">
+<table id="section_2fef54cf28eb5928dbfa0ef25c7b37fa" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="240">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-38">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="-24">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-48">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="245">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover; padding-top: 0px; padding-bottom: 0px;" valign="top">
+<table style="table-layout: fixed;" border="0" width="100%" cellspacing="24" cellpadding="0"><colgroup> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> </colgroup>
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="8" valign="top" width="66.66666666666666%" data-block-id="242">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="padding: 0 24px 0 24px;" valign="top">
+<div id="dataBlockId-241" class="mceText" style="width: 100%;" data-block-id="241">
+<p class="last-child"><a href="https://cni.iisc.ac.in/seminars/april11-2023/"> Converse for quantum fault-tolerance </a> <a href="https://youtu.be/dVyqQ2kfLPw"> &nbsp; </a> by Professor Avhishek Chatterjee from IIT Madras on 11th April @4pm</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 24px;" colspan="4" valign="top" width="33.33333333333333%" data-block-id="244">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="padding: 0;" align="center" valign="top"><a style="display: block;" href="https://youtu.be/dVyqQ2kfLPw" target="_blank" data-block-id="243"> <img class="" style="border: 0; width: 192px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/video_thumbnails_new/0dfbc476107796fcdb34957e902d5cf7.png" alt="A Converse for Fault-tolerant Quantum Computation." width="192" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="background-color: #f4f6ff; padding: 0;" valign="top">
+<table id="section_bd64c335a1a213a7d6dfa040bc935675" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="246">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-39">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="-26">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-49">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="251">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover; padding-top: 0px; padding-bottom: 0px;" valign="top">
+<table style="table-layout: fixed;" border="0" width="100%" cellspacing="24" cellpadding="0"><colgroup> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> </colgroup>
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="4" valign="top" width="33.33333333333333%" data-block-id="248">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="padding: 0;" align="center" valign="top"><a style="display: block;" href="https://cni.iisc.ac.in/seminars/april11-2023-2/" target="_blank" data-block-id="349"> <img class="imageDropZone" style="border: 0; width: 192px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/images/9fad1a1b-c926-5d60-13f2-d2bad2a3cdda.png" alt="" width="192" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 24px;" colspan="8" valign="top" width="66.66666666666666%" data-block-id="250">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: #f4f6ff; padding: 0 24px 0 24px;" valign="top">
+<div id="dataBlockId-249" class="mceText" style="width: 100%;" data-block-id="249">
+<p class="last-child"><a href="https://cni.iisc.ac.in/newsletters/2023/may"> <br /> </a> <a href="https://cni.iisc.ac.in/seminars/april11-2023-2/"> Aarogya setu, how India saw covid </a> <a href="https://cni.iisc.ac.in/newsletters/2023/may"> &nbsp; </a> by Dr. Lalitesh Katragadda from CMU on 11th April</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="background-color: #ffffff; padding: 0;" valign="top">
+<table id="section_0624aed85ca7f0d0511ef6e7c8453a6c" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="252">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-40">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="-28">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-50">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="257">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover; padding-top: 0px; padding-bottom: 0px;" valign="top">
+<table style="table-layout: fixed;" border="0" width="100%" cellspacing="24" cellpadding="0"><colgroup> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> </colgroup>
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="8" valign="top" width="66.66666666666666%" data-block-id="254">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="padding: 0 24px 0 24px;" valign="top">
+<div id="dataBlockId-253" class="mceText" style="width: 100%;" data-block-id="253">
+<p class="last-child"><a href="https://cni.iisc.ac.in/seminars/2023-04-18/"> Learning optimal beam directions in next-generation wireless networks: A fixed-budget stochastic bandit approach </a> <a href="https://youtu.be/DtrciQaBGtg"> &nbsp; </a> by Professor Manjesh Hanawal from IIT Bombay 18th April @4pm</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 24px;" colspan="4" valign="top" width="33.33333333333333%" data-block-id="256">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="padding: 0;" align="center" valign="top"><a style="display: block;" href="https://youtu.be/DtrciQaBGtg" target="_blank" data-block-id="255"> <img class="" style="border: 0; width: 192px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/video_thumbnails_new/b1e479ccdad9e02acc90d0be28d1506e.png" alt="Learning Optimal Beam Directions inNext-generation Wireless Networks | Prof. Manjesh Kumar Hanawal" width="192" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="background-color: #f4f6ff; padding: 0;" valign="top">
+<table id="section_0c3496097e6f1881001469685b1d4ae1" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="282">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-41">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="-30">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-51">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="287">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover; padding-top: 0px; padding-bottom: 0px;" valign="top">
+<table style="table-layout: fixed;" border="0" width="100%" cellspacing="24" cellpadding="0"><colgroup> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> <col span="1" width="8.333333333333332%" /> </colgroup>
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="4" valign="top" width="33.33333333333333%" data-block-id="284">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="padding: 0;" align="center" valign="top"><a style="display: block;" href="https://youtu.be/CSWQD-YpzeQ" target="_blank" data-block-id="351"> <img class="" style="border: 0; width: 192px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/video_thumbnails_new/77b408ff62bc52867d4381b83959a738.png" alt="Trends and Challenges in Multi-cloud Networking and Observability. | Dr. Praveen Jayachandran, IBM" width="192" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 24px;" colspan="8" valign="top" width="66.66666666666666%" data-block-id="286">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="background-color: #f4f6ff; padding: 0 24px 0 24px;" valign="top">
+<div id="dataBlockId-285" class="mceText" style="width: 100%;" data-block-id="285">
+<p class="last-child"><a href="https://cni.iisc.ac.in/seminars/2023-04-25/"> Trends and Challenges in Multi-cloud Networking and Observability </a> <a href="https://youtu.be/CSWQD-YpzeQ"> &nbsp; </a> by Dr. Praveen Jayachandran from IBM Research, India on 25th April @4pm</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="padding: 12px 0 12px 0;" valign="top">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="7">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="24" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" style="margin-bottom: 24px;" colspan="12" valign="top" width="100%" data-block-id="-10">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table class="mceClusterLayout" border="0" width="" cellspacing="0" cellpadding="0" data-block-id="-9">
+<tbody>
+<tr>
+<td class="mobileClass-285" style="padding-left: 24px; padding-top: 0; padding-right: 24px;" valign="top" data-breakpoint="285"><a style="display: block;" href="https://www.facebook.com/IIScCNI/" target="_blank" data-block-id="-5"> <img class="" style="border: 0; width: 40px; height: auto; max-width: 100%; display: block;" src="https://cdn-images.mailchimp.com/icons/social-block-v3/block-icons-v3/facebook-filled-dark-40.png" alt="Facebook icon" width="40" height="auto" /> </a></td>
+<td class="mobileClass-285" style="padding-left: 24px; padding-top: 0; padding-right: 24px;" valign="top" data-breakpoint="285"><a style="display: block;" href="https://instagram.com/cni_iisc" target="_blank" data-block-id="-6"> <img class="" style="border: 0; width: 40px; height: auto; max-width: 100%; display: block;" src="https://cdn-images.mailchimp.com/icons/social-block-v3/block-icons-v3/instagram-filled-dark-40.png" alt="Instagram icon" width="40" height="auto" /> </a></td>
+<td class="mobileClass-285" style="padding-left: 24px; padding-top: 0; padding-right: 24px;" valign="top" data-breakpoint="285"><a style="display: block;" href="https://twitter.com/cni_iisc" target="_blank" data-block-id="-7"> <img class="" style="border: 0; width: 40px; height: auto; max-width: 100%; display: block;" src="https://cdn-images.mailchimp.com/icons/social-block-v3/block-icons-v3/twitter-filled-dark-40.png" alt="Twitter icon" width="40" height="auto" /> </a></td>
+<td class="mobileClass-285" style="padding-left: 24px; padding-top: 0; padding-right: 24px;" valign="top" data-breakpoint="285"><a style="display: block;" href="https://youtube.com/@centrefornetworkedintellig5324" target="_blank" data-block-id="-8"> <img class="" style="border: 0; width: 40px; height: auto; max-width: 100%; display: block;" src="https://cdn-images.mailchimp.com/icons/social-block-v3/block-icons-v3/youtube-filled-dark-40.png" alt="YouTube icon" width="40" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="mceLayoutContainer" style="padding: 8px;" valign="top">
+<table id="section_754bf826f1a9df451d3255794d45df65" class="mceFooterSection" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="44">
+<tbody>
+<tr class="mceRow">
+<td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
+<table border="0" width="100%" cellspacing="12" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceColumn" style="padding-top: 0; padding-bottom: 0; margin-bottom: 12px;" colspan="12" valign="top" width="100%" data-block-id="-3">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="mceBlockContainer" style="padding: 12px 48px 12px 48px;" align="center" valign="top"><img class="" style="width: 313.5625px; height: auto; max-width: 100%; display: block;" src="https://mcusercontent.com/8b62bbd6edbd0ea0ec3a15770/images/f0063820-12f8-3794-a73b-a22d0f6ac6bd.png" alt="Logo" width="313.5625" height="auto" data-block-id="45" /></td>
+</tr>
+<tr>
+<td class="mceBlockContainer" style="padding: 12px 16px 12px 16px;" align="center" valign="top">
+<div id="dataBlockId-46" class="mceText" style="display: inline-block; width: 100%;" data-block-id="46">
+<p class="last-child"><a href="mailto:contact.cni@iisc.ac.in?subject=null&amp;body=null"><span style="font-size: 12px;">contact.cni@iisc.ac.in </span> </a></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- [if (gte mso 9)|(IE)]>
+		</td>
+	</tr>
+</table>
+<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
  
