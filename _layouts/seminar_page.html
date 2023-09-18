@@ -56,7 +56,17 @@ layout: default
             
           </article>
           <br>
-          <h2><b> The Speaker </b></h2>
+          <h2><b> 
+            {%- if page.speaker -%}
+            {%- if page.speaker_url -%}
+            <a href="{{ page.speaker_url }}">
+             {{ page.speaker }}
+             </a>
+             {%- else -%}
+             {{ page.speaker }}
+             {%- endif -%}
+            {%- endif -%}
+          </b></h2>
           <article>
             {{ page.speaker_bio }}
           </article>

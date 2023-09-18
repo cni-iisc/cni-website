@@ -14,7 +14,13 @@
           <p class="card-text">{{ seminar.date | date: "%b %d, %Y" }}</p>
             <p class="card-speaker">
             {%- if seminar.speaker -%}
+            {%- if seminar.speaker_url -%}
+            <a href="{{ seminar.speaker_url }}">
              {{ seminar.speaker }}
+             </a>
+             {%- else -%}
+             {{ seminar.speaker }}
+             {%- endif -%}
             {%- endif -%}
             </p>
           
