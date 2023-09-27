@@ -19,5 +19,7 @@ children:
       permalink: /news/
     - title: Newsletters
       permalink: /newsletters/2023/sep
+    - title: Workshops
+      permalink: /workshops/
     
 ---

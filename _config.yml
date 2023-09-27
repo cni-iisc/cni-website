@@ -194,6 +194,10 @@ collections:
     output: true 
     permalink: /newsletters/:path
 
+  workshops:
+    output: true 
+    permalink: /workshops/:path
+
   hackathons:
     output: true 
     permalink: /hackathons/:path

@@ -14,9 +14,9 @@ category: ""
 </center>
 
 
-This **Capture the Flag (CTF)** competition is being organized by [CySecK- the K-Tech Centre of Excellence in Cyber Security](https://cs-coe.iisc.ac.in/) – in association with the [Centre for Networked Intelligence (CNI)](https://cni.iisc.ac.in/) (located in the Indian Institute of Science, Bengaluru) and [Cisco Systems India Pvt. Ltd.](https://www.cisco.com/site/in/en/index.html)
+This **Capture the Flag (CTF)** competition was organized by [CySecK- the K-Tech Centre of Excellence in Cyber Security](https://cs-coe.iisc.ac.in/) – in association with the [Centre for Networked Intelligence (CNI)](https://cni.iisc.ac.in/) (located in the Indian Institute of Science, Bengaluru) and [Cisco Systems India Pvt. Ltd.](https://www.cisco.com/site/in/en/index.html)
 
-The aim of this CTF is to promote awareness of cybersecurity and to guide and train young adults currently pursuing technical education in different types of cybersecurity violation scenarios.
+The aim of this CTF was to promote awareness of cybersecurity and to guide and train young adults currently pursuing technical education in different types of cybersecurity violation scenarios.
 
 <center>The Winners have been announced.</center>
 
@@ -27,19 +27,21 @@ The aim of this CTF is to promote awareness of cybersecurity and to guide and tr
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/hackathons/digital_defender_results_3.jpeg"  width="100%">
 
 
-<b>With the conclusion of this year's hackathon</b>, we have awarded 25 prizes worth INR 400,000 to participants across 30 states and Union Territories of India.
+<b>With the conclusion of this year's hackathon</b>, we have awarded <b>25 prizes</b> worth <b>INR 400,000</b> to participants across 30 states and Union Territories of India.
+<center>
 
 <table>
   <tr> 
-  <td><b>9900+</b></td>
-  <td>Registrations</td>  
+  <td><b><h2>9900+</h2></b></td>
+  <td><h2>  Registrations</h2></td>  
   </tr>
   <tr>
-  <td><b>4100+</b></td>
-  <td>Submissions</td>
+  <td><b><h2>4100+</h2></b></td>
+  <td><h2>  Submissions</h2></td>
   </tr>
 </table>
-  
+
+  </center>
 <br>
 
 Eligibility
