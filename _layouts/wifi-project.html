@@ -1,0 +1,273 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Network Engineering Lab</title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="/assets/projects/Wi-Fi-optimization/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/assets/projects/Wi-Fi-optimization/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="/assets/projects/Wi-Fi-optimization/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="/assets/projects/Wi-Fi-optimization/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="/assets/projects/Wi-Fi-optimization/assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="/assets/projects/Wi-Fi-optimization/assets/vendor/owl.carousel//assets/projects/Wi-Fi-optimization/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="/assets/projects/Wi-Fi-optimization/assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="/assets/projects/Wi-Fi-optimization/assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+
+      <h1 class="logo mr-auto"><a href="index.html">Multi-AP Coordination in WiFi Networks with Centrally Controlled Overlay Time-Sliced Scheduling </a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo mr-auto"><img src="/assets/projects/Wi-Fi-optimization/assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li><a href="#arch">Architecture</a></li>
+          <li><a href="#testbed">Testbed</a></li>
+          <li><a href="#result">Results</a></li>
+          <li><a href="#publication">Publications</a></li>
+          <li><a href="#people">People</a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+	<!-- ======= overview Section ======= -->
+	<section id="overview" class="d-flex align-items-center">
+    <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
+		<p>WiFi networks are the access networks of choice in enterprises, industries, and academic campuses.
+      Strategic deployment of access points (APs) is crucial for ensuring seamless coverage and guaranteeing
+      good access and service to end-users. However, the performance of densely deployed WiFi networks remains 
+      highly variable and can be quite poor in some situations. The existing performance tuning techniques do not 
+      solve the problem of unmanaged internal cochannel interference in the WiFi network.
+    </p>
+
+    <p>An <b>Advanced WiFi Service Enhancer (ADWISER)</b> is a central entity in the network that performs time-sliced 
+      scheduling to minimize co-channel interference and enhance the overall performance of the WLAN network. It takes 
+      on the responsibility of managing individual station (STA) queues by exerting direct control over STA queues. It 
+      schedules a given AP-STA link or set of links in time slices and strategically releases batches of packets to the STAs. 
+      Thus preventing unnecessary interference caused by concurrent transmissions.</p>
+    </div>
+
+    <div class="container-intro">
+      <div class="image">
+        <img src="/assets/projects/Wi-Fi-optimization/assets/img/enterprise_network_adwiser.png">
+        <figcaption align="center">Fig.1 - a typical WiFi newtork with ADWISER</figcaption>
+      </div>
+
+    </div>
+	
+	</section><!-- End overview -->
+    
+	<!-- ======= Architecture Section ======= -->
+  <section id="arch" class="arch">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2>Architecture</h2>
+      </div>
+
+  <p>The architecture of the testbed is depicted in following figure.<br></p>
+  
+  <div class="container-intro">
+    <div class="image">
+      <img src="/assets/projects/Wi-Fi-optimization/assets/img/adwiser_architecture.png" >
+      <figcaption align="center">Fig.2 - Internal Architecture of ADWISER</figcaption>
+    </div>
+    <div class="text">
+      <p>ADWISER maintains separate queues for each individual AP-STA link and controls link activation by controlling the 
+        release of packets into the AP queues. It uses past observations and measurements to determine the set of AP-STA links
+        to be scheduled in the present time slice. The burst size to be released for each AP-STA link is determined by a stochastic 
+        approximation formula. Scheduled APs and STAs use standard IEEE 802.11 mechanisms to send packets to each other. At the end 
+        of the present time slice, the measurements are recorded to determine the next set of AP-STA links to schedule. ADWISER thus
+        learns the scheduling patterns of the AP-STA links over successive time slices.</p>
+      
+      <p>For each STA, two queues are maintained in the central entity. One for elastic traffic, which is predominantly TCP, and one for 
+        real-time traffic, which is delay-sensitive. This permits the control of downlink TCP and UDP flows. In each time slice,
+        the packets in the real-time queue for all the STAs are released before the release of bulk TCP traffic. ADWISER eliminates
+        interference and ensures that end-users have the best experience with applications such as voice and video calls,
+        online gaming, live streaming, etc.</p>
+
+    </div>
+  </div>
+
+  </div>
+  </section><!-- End Architecture Section -->
+  
+  <!-- ======= Layout Section ======= -->
+    <section id="testbed" class="Testbed">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Testbed</h2>
+        </div>
+		
+		<p>The lab testbed is setup in the Networks Lab, ECE department, as shown in the figure. 
+      The testbed consists of two APs operating on the same channel and four stationary STAs. 
+      The two APs are placed such that they are outside the carrier sense threshold. STA11 and 
+      STA22 are cell-interior STAs. STA12 and STA21 are located at the edges of their respective cells. 
+      The cell-edge STAs experience co-channel interference during simultaneous transmission from the APs.
+      <br></p>
+		<div class="img-center">
+			<img src="/assets/projects/Wi-Fi-optimization/assets/img/physical_locations_APs_STAs_networks_lab_ece_iisc.jpeg" alt="testbedlayout" width="500" height="300" align="middle"/>
+      <figcaption align="center">Fig.3 - Physical testbed with 4AP-2STA</figcaption>
+		</div>		
+      </div>
+    </section><!-- End Layout Section -->
+
+    
+
+    <!-- ======= Dataset Section ======= -->
+    <section id="result" class="result">
+		<div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Results</h2>
+        </div>
+
+        <p>Here is a demonstration of video quality experienced by the end-user in default condition and in the presence of ADWISER.
+          We have considered the cell-edge STAs (STA12 & STA21) which experience interference. There was simultaneous downlink transmission 
+          to both the STAs and Teams call on one of the STA from a remote server. In the left-most video, the user observes poor video
+          quality due to co-channel interference. With ADWISER, the Quality of Experience is preserved by mitigating interference.</p>
+
+        <div id="container">
+          
+          <div class = "overlayText1">
+            <p id="topText"> Real-time video without ADWISER</p>
+          </div>
+          <video id="video1" width="400" height="300" autoplay loop muted> 
+              <source type="video/mp4" src="/assets/projects/Wi-Fi-optimization/assets/video/real_time_without_adwiser_teams_call_and_tcp.mkv" /> 
+          </video>
+
+          <div class = "overlayText2">
+            <p id="topText"> Real-time video with ADWISER</p>
+          </div>
+          <video id="video2" width="400" height="300" autoplay loop muted> 
+              <source type="video/mp4" src="/assets/projects/Wi-Fi-optimization/assets/video/real_time_with_adwiser_teams_call_and_tcp.mkv" /> 
+          </video>
+          <div class="clear"></div> 
+      </div>
+                  
+              		
+		</div>
+
+    </section><!-- End Dataset Section -->
+
+    <!--<p><mark> For any queries, send a note to shivamv@iisc.ac.in</mark></p>	
+
+    <!-- ======= Publication Section ======= -->
+    <section id="publication" class="publication">
+		<div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Publications & Patents</h2>
+        </div>
+		<ol>
+		
+    <li>Vishal Sevani, Purushothaman Saravanan, S V R Anand, Joy Kuri, and Anurag Kumar, 
+      "Time-slicing high throughput wifi networks using centralized queueing and scheduling", 2022, 16th ACM Workshop on Wireless Network 
+      Testbeds, Experimental evaluation & CHaracterization (WiNTECH '22), Association for Computing Machinery, New York, NY, USA, 53–60.</li>
+
+    <li>A Sunny, S Panchal, N Vidhani, S Krishnasamy, S V R Anand, M Hegde, Joy Kuri, and Anurag Kumar, 
+      "A generic controller for managing TCP transfers in IEEE 802.11 infrastructure WLANs", 2017, Journal of Network and Computer 
+      Applications (Elsevier), 93:13-26.</li>
+
+    <li>M Hegde, P Kumar, K R Vasudev, N N Sowmya, S V R Anand, Anurag Kumar and Joy Kuri
+      "Experiences with a centralized scheduling approach for performance management of IEEE 802.11 wireless LANs", 2013, ACM/IEEE 
+      Transactions on Networking, 21(2):648-662</li>
+    <li>M Hegde, S V R Anand, Anurag Kumar and Joy Kuri, 
+      "WLAN Manager (WM): a Device for Performance Management of a WLAN," International Journal of Network Management", 2017 
+      (a Wiley Interscience journal), vol. 17, pages 155-170,
+    </li>
+    <li>Malati Hegde, Pavan Kumar, K. R. Vasudev, S. V. R. Anand, Anurag Kumar, and Joy Kuri, “System and Method for Management of Throughput Between Internet and Heterogeneous Network and Qos Management,” <br>
+      <b>Indian Patent No. 330594, granted 28 January 2020</b>
+    </li>
+    <li>Malati Hegde, Pavan Kumar, K. R. Vasudev, S. V. R. Anand, Anurag Kumar, and Joy Kuri, “A Centralized Wireless Manager (WiM) for Performance Management of IEEE 802.11 and a Method thereof," <br>
+    <b>Indian Patent No. 301414, granted 26 September 2018 </b>
+    </li>
+	</div>
+    </section><!-- End Publication Section -->
+
+    <!-- ======= People Section ======= -->
+    <section id="people" class="people">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>People</h2>
+        </div>
+
+        <ul>
+          <li>Principal Investigators : <p><a href="https://ece.iisc.ac.in/~anurag/index.htm" target="_blank" rel="">Prof. Anurag Kumar (ECE)</a>, 
+            <a href="https://faculty.dese.iisc.ac.in/kuri/" target="_blank" rel="">Prof. Joy Kuri (DESE)</a></p> </li>
+          <li>Current Technical Team : <p><a href="" rel="">Shivam Vinayak Vatsa</a>, <a href="http://www.linkedin.com/in/rishabh-roy-check-me-out" rel="">Rishabh Roy</a>, 
+                              <a href="" rel="">Anusha G.P</a>, <a href="" rel="">S.V.R. Anand</a></p> </li>
+          <li>Previous Technical Team : <p><a href="" rel="">Dr. Vishal Sevani</a>, <a href="" rel="">Purushothaman Saravanan</a> </p> </li>
+        </ul> 
+
+		</div>
+    </section><!-- End People Section -->
+
+
+ </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="container d-md-flex py-4">
+
+      <div class="mr-md-auto text-center text-md-left">
+        <div class="span4"><h3 class="simpleheading">Visit Us</h3>
+                    <p>
+					Network Engineering Lab </br>
+					Dept. of ECE, Indian Institute of Science</br>
+					Bangalore, India
+                    </p>
+                </div>
+      </div>
+      
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="/assets/projects/Wi-Fi-optimization/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="/assets/projects/Wi-Fi-optimization/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/assets/projects/Wi-Fi-optimization/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="/assets/projects/Wi-Fi-optimization/assets/vendor/php-email-form/validate.js"></script>
+  <script src="/assets/projects/Wi-Fi-optimization/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="/assets/projects/Wi-Fi-optimization/assets/vendor/counterup/counterup.min.js"></script>
+  <script src="/assets/projects/Wi-Fi-optimization/assets/vendor/venobox/venobox.min.js"></script>
+  <script src="/assets/projects/Wi-Fi-optimization/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="/assets/projects/Wi-Fi-optimization/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="/assets/projects/Wi-Fi-optimization/assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="/assets/projects/Wi-Fi-optimization/assets/js/main.js"></script>
+
+</body>
+
+</html>
