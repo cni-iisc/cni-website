@@ -28,7 +28,9 @@ li>Prakash Narayan, UMD</li>
 <li>Shashank Vatedka, IITH</li>
 <li>Amitalok Budkuley, IIT KGP</li>
 </ul>
-
+<br>
+    <img width = "100%" src= "/assets/img/workshops/ita2023.png"/>
+<br>
 <br>
 <div>
 <b>Schedule</b>
