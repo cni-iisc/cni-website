@@ -2,7 +2,7 @@
 layout: page
 title: Information Theory and its Applications
 description:
-img: assets/img/workshops/
+img: assets/img/workshops/ita2023.png
 importance: 3
 category: ""
 ---
@@ -25,6 +25,19 @@ category: ""
 </article>
 
 <br>
+<div>
+<b>Schedule</b>
+ 
+ - 11:00am-12:30pm: 30 min talks
+ - 12:30pm-01:30pm: Lunch
+ - 01:30pm-03:00pm: 30 min talks
+ - 03:00pm-03:30pm: Coffee Break
+ - 03:30pm-05:00pm: 30 min talks
+ 
+</div>
+
+<br>
+<a href="https://forms.office.com/r/j7BW3SPeEn"><h2>Click here to register!!!</h2></a>
 
 
 </center>
