@@ -12,6 +12,20 @@ category: ""
  <br>
  Dedicated to the 70th birthday of Professor Prakash Narayan, talks by 10 speakers including the professor will be conducted from 11 am to 6 pm.
 </article>
+    <br>
+<b>Speakers
+</b>
+    
+- Prakash Narayan, UMD
+- Vivek Borkar, IITB
+- P Vijay Kumar, IISc
+- Navin Kashyap, IISc
+- Srikrishna Bhashyam, IITM
+- Bikash Kumar Dey, IITB
+- Vinod Prabhakaran, TIFR
+- Manuj Mukherjee, IIITD
+- Shashank Vatedka, IITH
+- Amitalok Budkuley, IIT KGP
 
 <br>
 <div>
