@@ -16,28 +16,29 @@ category: ""
     <br>
 <b>Speakers
 </b>
-    
-- Prakash Narayan, UMD
-- Vivek Borkar, IITB
-- P Vijay Kumar, IISc
-- Navin Kashyap, IISc
-- Srikrishna Bhashyam, IITM
-- Bikash Kumar Dey, IITB
-- Vinod Prabhakaran, TIFR
-- Manuj Mukherjee, IIITD
-- Shashank Vatedka, IITH
-- Amitalok Budkuley, IIT KGP
+<ul>  
+li>Prakash Narayan, UMD</li>
+<li>Vivek Borkar, IITB</li>
+<li>P Vijay Kumar, IISc</li>
+<li>Navin Kashyap, IISc</li>
+<li>Srikrishna Bhashyam, IITM</li>
+<li>Bikash Kumar Dey, IITB</li>
+<li>Vinod Prabhakaran, TIFR</li>
+<li>Manuj Mukherjee, IIITD</li>
+<li>Shashank Vatedka, IITH</li>
+<li>Amitalok Budkuley, IIT KGP</li>
+</ul>
 
 <br>
 <div>
 <b>Schedule</b>
- 
- - 11:00am-12:30pm: 30 min talks
- - 12:30pm-01:30pm: Lunch
- - 01:30pm-03:00pm: 30 min talks
- - 03:00pm-03:30pm: Coffee Break
- - 03:30pm-05:00pm: 30 min talks
- 
+ <ul>
+<li>11:00am-12:30pm: 30 min tals</li>
+<li>12:30pm-01:30pm: Lunch</li> 
+<li>01:30pm-03:00pm: 30 min talks</li>
+ <li>03:00pm-03:30pm: Coffee Break</li>
+ <li>03:30pm-05:00pm: 30 min talks</li>
+ </ul>
 </div>
 
 <br>
