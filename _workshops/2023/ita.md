@@ -13,6 +13,7 @@ category: ""
  Dedicated to the 70th birthday of Professor Prakash Narayan, talks by 10 speakers including the professor will be conducted from 11 am to 6 pm.
 </article>
     <br>
+    <br>
 <b>Speakers
 </b>
     
