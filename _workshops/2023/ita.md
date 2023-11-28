@@ -17,7 +17,7 @@ category: ""
 <b>Speakers
 </b>
 <ul>  
-li>Prakash Narayan, UMD</li>
+<li>Prakash Narayan, UMD</li>
 <li>Vivek Borkar, IITB</li>
 <li>P Vijay Kumar, IISc</li>
 <li>Navin Kashyap, IISc</li>
