@@ -11,7 +11,7 @@ showcase: true
 <article>
     The workshop on "Information Theory and its Applications", supported by the Centre for Networked Intelligence (CNI) will be held on <b>2nd of December, 2023</b> in the ECE Department, IISc Bengaluru. 
  <br>
- This event is dedicated to the 70th birthday of Professor Prakash Narayan.
+ This workshop is dedicated to Prakash Narayan on the occasion of his 70th Birthday.
 </article>
 <br>
 <br>
