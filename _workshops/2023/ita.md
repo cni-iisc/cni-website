@@ -10,41 +10,31 @@ category: ""
 <article>
     The workshop on "Information Theory and its Applications", supported by the Centre for Networked Intelligence (CNI) will be held on <b>2nd of December, 2023</b> in the ECE Department, IISc Bengaluru. 
  <br>
- Dedicated to the 70th birthday of Professor Prakash Narayan, talks by 10 speakers including the professor will be conducted from 11 am to 6 pm.
+ This event is dedicated to the 70th birthday of Professor Prakash Narayan.
 </article>
-    <br>
-    <br>
-<b>Speakers
-</b>
-<ul>  
-<li>Prakash Narayan, UMD</li>
-<li>Vivek Borkar, IITB</li>
-<li>P Vijay Kumar, IISc</li>
-<li>Navin Kashyap, IISc</li>
-<li>Srikrishna Bhashyam, IITM</li>
-<li>Bikash Kumar Dey, IITB</li>
-<li>Vinod Prabhakaran, TIFR</li>
-<li>Manuj Mukherjee, IIITD</li>
-<li>Shashank Vatedka, IITH</li>
-<li>Amitalok Budkuley, IIT KGP</li>
-</ul>
 <br>
+<br>
+<h2><a href="https://forms.office.com/r/j7BW3SPeEn">Click here to register!!!</a></h2>
+    <br>
     <img width = "100%" src= "/assets/img/workshops/ita2023.png"/>
 <br>
+    </center>
+
 <br>
 <div>
-<b>Schedule</b>
- <ul>
-<li>11:00am-12:30pm: 30 min tals</li>
-<li>12:30pm-01:30pm: Lunch</li> 
-<li>01:30pm-03:00pm: 30 min talks</li>
- <li>03:00pm-03:30pm: Coffee Break</li>
- <li>03:30pm-05:00pm: 30 min talks</li>
- </ul>
-</div>
-
+<b><h2>Schedule</h2></b>
 <br>
-<a href="https://forms.office.com/r/j7BW3SPeEn"><h2>Click here to register!!!</h2></a>
-
-
-</center>
+11:00am-11:30am: P Vijay Kumar<br>
+11:30am-12:00pm: Srikrishna Bhashyam<br>
+12:00pm-12:30pm: Vinod Prabhakaran<br>
+12:30pm-01:00pm: Bikash Kumar Dey<br>
+<b>01:00pm-02:00pm: Lunch</b><br>
+02:00pm-03:00pm: Keynote Lecture by Prakash Narayan<br>
+03:00pm-03:30pm: Vivek Borkar<br>
+03:30pm-04:00pm: Amitalok Budkuley<br>
+<b>04:00pm-04:30pm: Coffee Break</b><br>
+04:30pm-05:00pm: Vinod Sharma<br>
+05:00pm-05:30pm: Manuj Mukherjee<br>
+05:30pm-06:00pm: Shashank Vatedka<br>
+06:00pm-06:30pm: Navin Kashyap<br>
+</div>
