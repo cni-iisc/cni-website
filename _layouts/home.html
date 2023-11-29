@@ -99,7 +99,20 @@ layout: default
               </div>
               {%- endif -%}
               {%- endfor -%}
-
+          <!-- Showcasing workshops on the carousel -->    
+          {%- for workshop in site.workshops -%}
+          {%- if workshop.showcase -%}
+            <div class="carousel-item">
+             {% if workshop.redirect -%}
+               <a href="{{ workshop.redirect }}">
+               {%- else -%}
+               <a href="{{ workshop.url | relative_url }}">
+             {%- endif %}
+               <img class="d-block w-100 img-fluid" src="{{ workshop.img }}">
+               </a>
+           </div>
+           {%- endif -%}
+           {%- endfor -%}
 
           <!-- Showcasing projects on the carousel -->    
           {%- for project in site.projects -%}
