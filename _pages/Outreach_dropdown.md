@@ -18,7 +18,7 @@ children:
     - title: CNI in the News
       permalink: /news/
     - title: Newsletters
-      permalink: /newsletters/2023/nov
+      permalink: /newsletters/2023/dec
     - title: Workshops
       permalink: /workshops/
     
