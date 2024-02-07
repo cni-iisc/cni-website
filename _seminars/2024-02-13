@@ -1,0 +1,37 @@
+--- 
+
+  
+
+layout: seminar_page 
+
+category: "" 
+
+n: 182 
+
+  
+
+title: "Power Allocation for Generalized Gaussian MAC" 
+
+speaker: "Prof. Lakshmi Narasimhan Theagarajan, IIT Madras"  
+
+img: assets/img/seminars/2024/Feb-13-2024-Lakshmi Narasimhan.png 
+
+date: 2024-02-13 17:00:00  
+
+Venue: Online on Zoom 
+
+  
+
+recorded_video:  
+
+zoom_link: https://us06web.zoom.us/j/83388976389?pwd=XcpO3GhLxsR14a7SVbPx33HQQa1jbt.1 
+
+slides:  
+
+speaker_url: https://www.ee.iitm.ac.in/faculty/profile/lnt 
+
+speaker_bio: “Lakshmi Narasimhan is an assistant professor at IIT Madras, and previously at IIT Palakkad. He obtained his PhD from IISc in 2016. He was a postdoctoral fellow at Syracuse University and Fulbright scholar at MIT. His research areas include statistical signal processing and physical layer design for high-dimensional wireless communications.” 
+
+Topic_abstract: “In this talk, we will consider multiple access channels (MAC) with generalized gaussian noise, and peak and average transmit power constraints. For this system, we shall discuss asymptotically optimal and finite-user optimal power allocation strategies that maximize the sum-rate. It will be shown that the greedy power allocation policy can be optimal even for the finite-user scenario. Finally, we shall look at optical wireless MACs that have additional transmit signal constraints and discuss optimal power allocation strategies for those channels.”  
+
+--- 
