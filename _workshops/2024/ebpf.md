@@ -1,12 +1,14 @@
 ---
 layout: page
 title: eBPF Day Bengaluru
-description: One-day workshop on eBPF and its applications
-img: assets/img/workshops/ita2023.png
+description: ""
+img: assets/img/workshops/ebpf-placeholder.png
 importance: 3
 category: ""
 showcase: true
 ---
+#### One-day workshop on eBPF and its applications
+
 The Bengaluru eBPF day is being jointly organized by the eBPF Foundation and the Centre for Networked Intelligence, with support from the Linux Foundation, Cisco CSR, and the Indian Institute of Science.
 <br>
 The goal of the workshop is to spread awareness about the eBPF technology, discuss novel use cases from active industry participants, and spur discussions around how the research and developer community can leverage it for current as well as future use cases.
