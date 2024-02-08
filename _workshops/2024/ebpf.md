@@ -5,7 +5,7 @@ description: ""
 img: assets/img/workshops/ebpf-placeholder.png
 importance: 3
 category: ""
-showcase: true
+showcase: false
 ---
 #### One-day workshop on eBPF and its applications
 
