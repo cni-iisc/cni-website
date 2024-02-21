@@ -12,7 +12,7 @@ showcase: false
 eBPF Day India is being jointly organized by the eBPF Foundation and the Centre for Networked Intelligence, with support from the Linux Foundation, Cisco CSR, and the Indian Institute of Science.
 <br>
 The goal of the workshop is to spread awareness about the eBPF technology, discuss novel use cases from active industry participants, and spur discussions around how the research and developer community can leverage it for current as well as future use cases.
-The workshop is open to researchers, industry practioners, and students. 
+The workshop is open to researchers, industry practitioners, and students. 
 
 Participation is open to all (free registration required). The workshop will be in *hybrid mode*, i.e., you may register to attend in-person in IISc or online. 
 
@@ -25,15 +25,31 @@ The topics covered under the workshop include
 - Deploying eBPF at scale
 - Hands-on eBPF
 
-### 🗒️ Schedule 
-**TBD**
+### 🗒️ Tentative schedule 
+
+| Time | Topic | Speaker |
+|------|-------|---------|
+| 9:00-9:15am | Welcome, overview | |
+| 9:15-9:45am | Introduction to eBPF | TBD |
+| 9:45-10:30am | eBPF networking | Dushyant Behl (IBM) |
+| 10:30-11:00am | Understanding Calico-eBPF | Deepak S (Intel) |
+| | Break | |
+| 11:30-12:30pm | Security usecases &#38; challenges | Rahul Jadhav (Accuknox) |
+| 12:30:1:30pm | Application tracing &#38; telemetry |
+| | Lunch break | |
+| 2:45-3:30pm | eBPF programs at scale - L3AF | Santhosh Fernandes (Walmart) |
+| 3:30-4:00pm | Cilium overview | Amit Gupta (Isovalent) |
+| 4:00-4:45pm | eBPF hands-on: getting started | TBD |
+| 4:45-5:00pm | Closing remarks | |
+{:.mbtablestyle}
+<br>
 
 ### 🗓️ Date
 **March 16, 2024 (9am-5pm)**
 
 ### 📍 Venue
 **In-person: MP-20, ECE Department, Indian Institute of Science Campus, Bengaluru**
- ([📌 Map location](https://maps.app.goo.gl/Fh4aLVnSKo5ivjS17))
+ ([📌 Map location](https://maps.app.goo.gl/dkcrM4svtU8S7AxSA))
 <br>
 **Online: link will be shared with registered participants.**
 
