@@ -56,7 +56,7 @@ The topics covered under the workshop include
 ### 👥➕  Registration
 Please fill-in the form to register: [forms.gle/fg8rGcbVRb3Xmb8H8](https://forms.gle/fg8rGcbVRb3Xmb8H8)
 <br>
-_As there are limites slots for in-person participation, please indicate your intent for attending in-person and we'll confirm your in-person slot by 06 March 2024 through email._ 
+_As there are limited slots for in-person participation, please indicate your intent for attending in-person and we'll confirm your in-person slot by 06 March 2024 through email._ 
 
 ### ✉️  Contact
 Please email [outreach.cni@iisc.ac.in](mailto:outreach.cni@iisc.ac.in) with the subject "eBPF Day" for further details.
