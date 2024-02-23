@@ -5,7 +5,7 @@ description: ""
 img: assets/img/workshops/ebpf-placeholder2.png
 importance: 3
 category: ""
-showcase: false
+showcase: true
 ---
 #### One-day workshop on eBPF and its applications
 
@@ -25,6 +25,15 @@ The topics covered under the workshop include
 - Deploying eBPF at scale
 - Hands-on eBPF
 
+### 🗓️ Date
+**March 16, 2024 (9am-5pm)**
+
+### 📍 Venue
+**In-person: MP-20, ECE Department, Indian Institute of Science Campus, Bengaluru**
+ ([📌 Map location](https://maps.app.goo.gl/dkcrM4svtU8S7AxSA))
+<br>
+**Online: link will be shared with registered participants.**
+
 ### 🗒️ Tentative schedule 
 
 | Time | Topic | Speaker |
@@ -43,15 +52,6 @@ The topics covered under the workshop include
 | 4:45-5:00pm | Closing remarks | |
 {:.mbtablestyle}
 <br>
-
-### 🗓️ Date
-**March 16, 2024 (9am-5pm)**
-
-### 📍 Venue
-**In-person: MP-20, ECE Department, Indian Institute of Science Campus, Bengaluru**
- ([📌 Map location](https://maps.app.goo.gl/dkcrM4svtU8S7AxSA))
-<br>
-**Online: link will be shared with registered participants.**
 
 ### 👥➕  Registration
 Please fill-in the form to register: [forms.gle/fg8rGcbVRb3Xmb8H8](https://forms.gle/fg8rGcbVRb3Xmb8H8)
