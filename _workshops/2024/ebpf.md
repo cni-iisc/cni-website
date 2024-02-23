@@ -2,7 +2,7 @@
 layout: page
 title: eBPF Day India
 description: ""
-img: assets/img/workshops/ebpf-placeholder.png
+img: assets/img/workshops/ebpf-placeholder2.png
 importance: 3
 category: ""
 showcase: false
