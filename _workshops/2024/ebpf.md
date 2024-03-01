@@ -11,7 +11,7 @@ showcase: true
 <br>
 #### One-day workshop on eBPF and its applications
 
-eBPF Day India is being jointly organized by the eBPF Foundation and the Centre for Networked Intelligence, with support from the Linux Foundation, Cisco CSR, and the Indian Institute of Science.
+eBPF Day India is being jointly organized by the eBPF Foundation and the Centre for Networked Intelligence, with support from Cisco CSR and the Indian Institute of Science.
 <br>
 The goal of the workshop is to spread awareness about the eBPF technology, discuss novel use cases from active industry participants, and spur discussions around how the research and developer community can leverage it for current as well as future use cases.
 The workshop is open to academic/industry professionals and students. 
@@ -62,4 +62,30 @@ _As there are limited slots for in-person participation, please indicate your in
 
 ### ✉️  Contact
 Please email [outreach.cni@iisc.ac.in](mailto:outreach.cni@iisc.ac.in) with the subject "eBPF Day" for further details.
+
+<!--
+### Supported by
+<div class="container">
+  <div class="row equal">
+    <div class="col-md-3">
+      <img src="/assets/img/Logos/IISc_logo.png" alt="Image 3" class="img-fluid">
+    </div>
+    <div class="col-md-3">
+      <img src="/assets/img/Logos/ECE Cropped.jpg" alt="Image 4" class="img-fluid">
+    </div>
+  </div>
+</div>
+
+### Sponsors
+<div class="container">
+  <div class="row">
+    <div class="col-md-3">
+      <img src="/assets/img/workshops/eBPF_Foundation.png" alt="Image 1" class="img-fluid">
+    </div>
+    <div class="col-md-3">
+      <img src="/assets/img/Logos/Cisco CSR Logos-TM-vert.png" alt="Image 2" class="img-fluid">
+    </div>
+</div>
+-->
+
 
