@@ -2,12 +2,12 @@
 layout: page
 title: eBPF Day India
 description: ""
-img: assets/img/workshops/ebpfDay-poster.png
+img: assets/img/workshops/ebpfDay-poster2.png
 importance: 3
 category: ""
 showcase: true
 ---
-<img width = "100%" src= "/assets/img/workshops/ebpfDay-poster.png"/>
+<img width = "100%" src= "/assets/img/workshops/ebpfDay-poster2.png"/>
 <br>
 #### One-day workshop on eBPF and its applications
 
@@ -17,6 +17,8 @@ The goal of the workshop is to spread awareness about the eBPF technology, discu
 The workshop is open to academic/industry professionals and students. 
 
 Participation is open to all (free registration required). The workshop will be in *hybrid mode*, i.e., you may register to attend in-person in IISc or online. 
+
+**Brendan Gregg, Intel Fellow and the renowned author of _BPF Performance Tools_ and _Systems Performance_ is scheduled to present the keynote address.**
 
 The topics covered under the workshop include
 - Introduction to eBPF
