@@ -18,9 +18,9 @@ The workshop is open to academic/industry professionals and students.
 
 Participation is open to all (free registration required). The workshop will be in *hybrid mode*, i.e., you may register to attend in-person in IISc or online. 
 
-**Brendan Gregg, Intel Fellow and the renowned author of _BPF Performance Tools_ and _Systems Performance_ is scheduled to present the keynote address.**
+**Brendan Gregg, Intel Fellow and the renowned author of _BPF Performance Tools_ and _Systems Performance_ is scheduled to present the keynote address. Industry experts actively working on eBPF applications and frameworks, will deliver the sessions in-person.**
 
-The topics covered under the workshop include
+The topics covered include
 - Introduction to eBPF
 - eBPF use cases
     - Networking: packet flows and CNIs
@@ -43,7 +43,7 @@ The topics covered under the workshop include
 | Time | Topic | Speaker |
 |------|-------|---------|
 | 9:00-9:15am | Welcome, overview | |
-| 9:15-9:45am | Keynote | Brendan Gregg (Intel) |
+| 9:15-9:45am | Keynote (online) | Brendan Gregg (Intel) |
 | 9:45-10:30am | eBPF networking | Dushyant Behl (IBM) |
 | 10:30-11:00am | Understanding Calico-eBPF | Deepak S (Intel) |
 | | Break | |
