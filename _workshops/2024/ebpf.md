@@ -77,17 +77,17 @@ Please email [outreach.cni@iisc.ac.in](mailto:outreach.cni@iisc.ac.in) with the 
     </div>
   </div>
 </div>
+-->
 
 ### Sponsors
 <div class="container">
   <div class="row">
-    <div class="col-md-3">
-      <img src="/assets/img/workshops/eBPF_Foundation.png" alt="Image 1" class="img-fluid">
+    <div class="col-md-6">
+      <img src="/assets/img/workshops/eBPF_Foundation.png" alt="Image 1" class="img-fluid" style="width: auto; height: 150px;">
     </div>
-    <div class="col-md-3">
-      <img src="/assets/img/Logos/Cisco CSR Logos-TM-vert.png" alt="Image 2" class="img-fluid">
+    <div class="col-md-6">
+      <img src="/assets/img/Logos/Cisco CSR Logos-TM-vert.png" alt="Image 2" class="img-fluid" style="width: auto; height: 195px;">
     </div>
 </div>
--->
 
 
