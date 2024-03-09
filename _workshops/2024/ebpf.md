@@ -2,7 +2,7 @@
 layout: page
 title: eBPF Day India
 description: ""
-img: assets/img/workshops/ebpfDay-poster2.png
+img: assets/img/workshops/ebpfDay-poster2_s.jpg
 importance: 1
 category: ""
 showcase: true
@@ -65,29 +65,27 @@ _As there are limited slots for in-person participation, please indicate your in
 ### ✉️  Contact
 Please email [outreach.cni@iisc.ac.in](mailto:outreach.cni@iisc.ac.in) with the subject "eBPF Day" for further details.
 
-<!--
-### Supported by
-<div class="container">
-  <div class="row equal">
-    <div class="col-md-3">
-      <img src="/assets/img/Logos/IISc_logo.png" alt="Image 3" class="img-fluid">
-    </div>
-    <div class="col-md-3">
-      <img src="/assets/img/Logos/ECE Cropped.jpg" alt="Image 4" class="img-fluid">
-    </div>
-  </div>
-</div>
--->
-
 ### Sponsors
 <div class="container">
   <div class="row">
     <div class="col-md-6">
-      <img src="/assets/img/workshops/eBPF_Foundation.png" alt="Image 1" class="img-fluid" style="width: auto; height: 150px;">
+      <img src="/assets/img/workshops/eBPF_Foundation.png" alt="eBPF Foundation Logo" class="img-fluid" style="width: auto; height: 140px;">
     </div>
     <div class="col-md-6">
-      <img src="/assets/img/Logos/Cisco CSR Logos-TM-vert.png" alt="Image 2" class="img-fluid" style="width: auto; height: 195px;">
+      <img src="/assets/img/Logos/Cisco CSR Logos-TM-vert.png" alt="Cisco CSR logo" class="img-fluid" style="width: auto; height: 185px;">
     </div>
+  </div>  
 </div>
 
+### Supported by
+<div class="container">
+  <div class="row equal">
+    <div class="col-md-6">
+      <img src="/assets/img/Logos/IISc_logo.png" alt="Image 3" class="img-fluid" style="width: auto; height: 170px;">
+    </div>
+    <div class="col-md-6">
+      <img src="/assets/img/Logos/ECE Cropped.jpg" alt="Image 4" class="img-fluid" style="width: auto; height: 110px;">
+    </div>
+  </div>
+</div>
 
