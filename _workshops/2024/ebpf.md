@@ -60,7 +60,14 @@ The topics covered include
 ### 👥➕  Registration
 **Please fill-in the form to register: [forms.gle/fg8rGcbVRb3Xmb8H8](https://forms.gle/fg8rGcbVRb3Xmb8H8)**
 <br>
-_As there are limited slots for in-person participation, please indicate your intent for attending in-person and we'll confirm your in-person slot by 09 March 2024 through email._ 
+
+#### In-person participation
+**We've sent confirmation email to those who have registered for in-person participation until March 10, 2024. If you have registered on or before March 10 and not received a confirmation email (please check your spam folder too), please email outreach.cni@iisc.ac.in**
+
+_The slots for in-person participation are almost full. Please indicate your intent for attending in-person through the registration form and we'll confirm your in-person slot by March 13 through email._ 
+
+#### Online participation
+We'll send an email with Zoom link to join over email to all registered participants. _If you haven't received an email from outreach.cni@iisc.ac.in with online meeting link by March 14, please email outreach.cni@iisc.ac.in_.
 
 ### ✉️  Contact
 Please email [outreach.cni@iisc.ac.in](mailto:outreach.cni@iisc.ac.in) with the subject "eBPF Day" for further details.
