@@ -18,7 +18,9 @@ The workshop is open to academic/industry professionals and students.
 
 Participation is open to all (free registration required). The workshop will be in *hybrid mode*, i.e., you may register to attend in-person in IISc or online. 
 
-**Brendan Gregg, Intel Fellow and the renowned author of _BPF Performance Tools_ and _Systems Performance_ is scheduled to present the keynote address. Industry experts actively working on eBPF applications and frameworks, will deliver the sessions in-person.**
+**Brendan Gregg, Intel Fellow and the renowned author of _BPF Performance Tools_ and _Systems Performance_ is scheduled to present the keynote address in online mode.**
+<br>
+**Industry experts actively working on eBPF applications and frameworks, will deliver the sessions in-person.**
 
 The topics covered include
 - Introduction to eBPF
