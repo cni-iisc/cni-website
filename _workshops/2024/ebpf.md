@@ -41,9 +41,12 @@ The topics covered include
 **Online: link will be shared with registered participants.**
 
 ### 🗒️ Schedule 
+**In-person attendees:** Please plan your travel considering the time taken at the IISc security gate and keep aside some time for registration at the eBPF Day registration desk.
+<br><br>
 
 | Time | Topic | Speaker |
 |------|-------|---------|
+| 8:00-9:00am | Registration (for in-person) | |
 | 9:00-9:15am | Welcome, overview | |
 | 9:15-9:45am | Keynote (online) | Brendan Gregg (Intel) |
 | 9:45-10:30am | eBPF networking | Dushyant Behl (IBM) |
@@ -64,9 +67,9 @@ The topics covered include
 <br>
 
 #### In-person participation
-**We've sent confirmation email to those who have registered for in-person participation until March 10, 2024. If you have registered on or before March 10 and not received a confirmation email (please check your spam folder too), please email outreach.cni@iisc.ac.in**
+**We've sent confirmation email to those who have registered for in-person participation until March 13 (5pm). If you have registered before the indicate time and not received a confirmation email (please check your spam folder too), please email outreach.cni@iisc.ac.in**
 
-_The slots for in-person participation are almost full. Please indicate your intent for attending in-person through the registration form and we'll confirm your in-person slot by March 13 through email._ 
+_The slots for in-person participation are full. You can still register for online participation. 
 
 #### Online participation
 We'll send an email with Zoom link to join over email to all registered participants. _If you haven't received an email from outreach.cni@iisc.ac.in with online meeting link by March 14, please email outreach.cni@iisc.ac.in_.
