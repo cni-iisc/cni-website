@@ -69,7 +69,7 @@ The topics covered include
 <br>
 
 #### In-person participation
-**We've sent confirmation email to those who have registered for in-person participation until March 13 (5pm). If you have registered before the indicate time and not received a confirmation email (please check your spam folder too), please email outreach.cni@iisc.ac.in**
+**We've sent confirmation email to those who have registered for in-person participation until March 13 (5pm). If you have registered before the above mentioned cut-off time and not received a confirmation email (please check your spam folder too), please email outreach.cni@iisc.ac.in**
 
 _The slots for in-person participation are full. You can still register for online participation. 
 
