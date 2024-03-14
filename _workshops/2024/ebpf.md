@@ -59,7 +59,7 @@ The topics covered include
 | 2:45-3:15pm | eBPF programs at enterprise scale | Santhosh Fernandes (Walmart) |
 | 3:15-3:45pm | Cilium overview | Amit Gupta (Isovalent) |
 | | Break | |
-| 4:00-4:45pm | eBPF hands-on: getting started | TBD |
+| 4:00-4:45pm | eBPF hands-on: getting started | Amit Gupta (Isovalent) |
 | 4:45-5:00pm | Closing remarks | |
 {:.mbtablestyle}
 <br>
