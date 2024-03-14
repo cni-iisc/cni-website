@@ -47,16 +47,18 @@ The topics covered include
 | Time | Topic | Speaker |
 |------|-------|---------|
 | 8:00-9:00am | Registration (for in-person) | |
-| 9:00-9:15am | Welcome, overview | |
-| 9:15-9:45am | Keynote (online) | Brendan Gregg (Intel) |
-| 9:45-10:30am | eBPF networking | Dushyant Behl (IBM) |
-| 10:30-11:00am | Understanding Calico-eBPF | Deepak S (Intel) |
+| 9:00-9:05am | Welcome, overview | |
+| 9:05-9:35am | Keynote (online) | Brendan Gregg (Intel) |
+| 9:35-10:20am | eBPF networking | Dushyant Behl (IBM) |
+| 10:20-10:50am | Understanding Calico-eBPF | Deepak S (Intel) |
 | | Break | |
-| 11:30-12:30pm | Security usecases &#38; challenges | Rahul Jadhav (Accuknox) |
-| 12:30:1:30pm | Application tracing &#38; telemetry |
+| 11:20-12:20pm | Security usecases &#38; challenges | Rahul Jadhav (Accuknox) |
+| 12:20:1:20pm | Application tracing &#38; telemetry | Palaniappan Ramanathan (Intel) |
 | | Lunch break | |
-| 2:45-3:30pm | eBPF programs at scale - L3AF | Santhosh Fernandes (Walmart) |
-| 3:30-4:00pm | Cilium overview | Amit Gupta (Isovalent) |
+| 2:30-2:45pm | Lightning talk: eBPF in smartphones | Madhan Raj K (Samsung R&#38;D) |
+| 2:45-3:15pm | eBPF programs at enterprise scale | Santhosh Fernandes (Walmart) |
+| 3:15-3:45pm | Cilium overview | Amit Gupta (Isovalent) |
+| | Break | |
 | 4:00-4:45pm | eBPF hands-on: getting started | TBD |
 | 4:45-5:00pm | Closing remarks | |
 {:.mbtablestyle}
