@@ -3,7 +3,7 @@ layout: page
 title: Design for Internet of Things (IoT)
 description:
 img: assets/img/courses/IoT_course_prof_pic.jpg
-importance: 1
+importance: 3
 category: work
 
 ---

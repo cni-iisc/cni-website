@@ -2,8 +2,8 @@
 layout: page
 title: Information Theory
 description:
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/infotheory.jpg
+importance: 2
 category: work
 ---
 
@@ -17,4 +17,4 @@ Prof. Himanshu Tyagi from CNI offered this instructor-led course on [NPTEL porta
 
 The course lectures are available for self-study on the NPTEL portal.
 
-Additionally, we have developed [supplementary lectures](https://cni.iisc.ac.in/courses/information-theory-lectures/) to explain some of the key concepts in Information Theory in simpler terms." | markdownify }}</div>
+**Additionally, we have developed [supplementary lectures](https://cni.iisc.ac.in/courses/information-theory-lectures/) to explain some of the key concepts in Information Theory in simpler terms." | markdownify }}**</div>
