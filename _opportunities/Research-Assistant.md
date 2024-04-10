@@ -24,7 +24,7 @@ successful candidate will be actively involved in research projects focussed on 
 computing,and network performance optimization. This role requires solid technical and
 quantitative skills and a passion for research.
 
-**Location:** Indian Institute of Science campus, Bengaluru
+**Location:** Indian Institute of Science campus, Bengaluru. This is a full-time on-campus position.
 
 **About CNI:**
 - The [Centre for Networked Intelligence](https://cni.iisc.ac.in/) is an industry-sponsored research
@@ -49,6 +49,7 @@ related engineering disciplines.
 development tools.
 - Solid foundation in probability and statistics.
 - Strong problem-solving skills and the ability to think critically and independently.
+- This position is open for freshers as well as experienced candidates.
 
 **Incentives for joining CNI:**
 - Opportunity to work in a dynamic research environment at the forefront of computer
@@ -59,7 +60,7 @@ networks and systems.
 - Support for publication in and attendance at relevant conferences and seminars.
 - Opportunity to contribute to significant projects with real-world impact.
 
-**Duration:** This is a grant-funded position and is contingent on funding availability.
+**Duration:** This is a grant-funded position and is contingent on funding availability. Contracts are typically renewed annually on satisfactory performance.
 
 **How to apply:**
 

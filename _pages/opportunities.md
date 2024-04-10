@@ -6,8 +6,23 @@ description:
 nav: true
 nav_order: 1
 display_categories: [""]
-horizontal: true
+horizontal: false
 ---
+Are you passionate about whatever you pursue? If you are someone who feels inquisitive
+about next-generation systems and networks, and willing to go deep into the theory or engineering aspects, CNI may be the place for you. For administrative and outreach activities too, we look for individuals who push for excellence and innovations.
+
+Working at CNI is rewarding in terms of the expertise gained through solving challenging problems. The work is seldom repetitive due to dynamic nature of activities undertaken, and one is free to choose the appropriate tools and technique suitable for the job. Research associates gain significant boost to their CV through paper publications and experience working on futuristic technologies.
+
+[Past research assistants/associates at CNI](https://cni.iisc.ac.in/staff/alumni) have proceeded to higher studies (at universities like NCSU, Purdue, UC Irvine, NYU), post-doctoral positions (in Dartmouth University and University of Surrey), or industry positions (in Google, EdgeQ), etc.
+
+CNI has openings for the following positions:
+- Research Associate 
+- Outreach Associate / Intern
+- Systems Administrator
+
+CNI is an equal opportunities employer. Candidates from disadvantaged backgrounds are encouraged to apply.
+
+Please check out the links below to know more and to apply!
 
 <!-- pages/opportunities.md -->
 <div class="opportunities">
