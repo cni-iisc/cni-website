@@ -31,6 +31,12 @@ The topics covered include
 - Deploying eBPF at scale
 - Hands-on eBPF
 
+#### Talk recordings
+**Video recordings of all talks at eBPF day are released on [CNI's YouTube Channel](https://www.youtube.com/@centrefornetworkedintellig5324).**
+<br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=aHMnLcL5CohNuPjx&amp;list=PLNN9TCnjABcb_o82VmAMRnj4etWnHzUiZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+
 ### 🗓️ Date
 **March 16, 2024 (9am-5pm)**
 
@@ -40,27 +46,20 @@ The topics covered include
 <br>
 **Online: link will be shared with registered participants.**
 
-### 🗒️ Schedule 
-**In-person attendees:** Please plan your travel considering the time taken at the IISc security gate and keep aside some time for registration at the eBPF Day registration desk.
-<br><br>
+### 🗒️ Topics and links to recordings 
 
-| Time | Topic | Speaker |
-|------|-------|---------|
-| 8:00-9:00am | Registration (for in-person) | |
-| 9:00-9:05am | Welcome, overview | |
-| 9:05-9:35am | Keynote (online) | Brendan Gregg (Intel) |
-| 9:35-10:20am | eBPF networking | Dushyant Behl (IBM) |
-| 10:20-10:50am | Understanding Calico-eBPF | Deepak S (Intel) |
-| | Break | |
-| 11:20-12:20pm | Security usecases &#38; challenges | Rahul Jadhav (Accuknox) |
-| 12:20:1:20pm | Application tracing &#38; telemetry | Palaniappan Ramanathan (Intel) |
-| | Lunch break | |
-| 2:30-2:45pm | Lightning talk: eBPF in smartphones | Madhan Raj K (Samsung R&#38;D) |
-| 2:45-3:15pm | eBPF programs at enterprise scale | Santhosh Fernandes (Walmart) |
-| 3:15-3:45pm | Cilium overview | Amit Gupta (Isovalent) |
-| | Break | |
-| 4:00-4:45pm | eBPF hands-on: getting started | Amit Gupta (Isovalent) |
-| 4:45-5:00pm | Closing remarks | |
+| Topic, link to the recording | Speaker | 
+|------|-------|
+| Welcome, overview | |
+| Keynote (online) [▶️  Recording](https://www.youtube.com/watch?v=XsIx4lG-iTk) | Brendan Gregg (Intel) |
+| eBPF networking [▶️  Recording](https://www.youtube.com/watch?v=muxGklvvJa0 )| Dushyant Behl (IBM) |
+| Understanding Calico-eBPF [▶️  Recording](https://www.youtube.com/watch?v=USdO5jTZrlI) |  Deepak S (Intel) |
+| Security usecases &#38; challenges [▶️  Recording](https://www.youtube.com/watch?v=o0XN5TtQu2c) | Rahul Jadhav (Accuknox) |
+| Application tracing &#38; telemetry [▶️  Recording](https://www.youtube.com/watch?v=VtZMIwdFIhU) | Palaniappan Ramanathan (Intel) |
+| Lightning talk: eBPF in smartphones [▶️  Recording](https://www.youtube.com/watch?v=SXZVgfsrFSg) | Madhan Raj K (Samsung R&#38;D) |
+| eBPF programs at enterprise scale [▶️  Recording](https://www.youtube.com/watch?v=1xL_xc50HlE) | Santhosh Fernandes (Walmart) |
+| Cilium overview [▶️  Recording](https://www.youtube.com/watch?v=ioWnXvaCW7s) | Amit Gupta (Isovalent) |
+| Cilium hands-on: getting started [▶️  Recording](https://www.youtube.com/watch?v=sY1jSrbbjTA) | Amit Gupta (Isovalent) |
 {:.mbtablestyle}
 <br>
 
