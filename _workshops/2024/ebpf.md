@@ -7,7 +7,7 @@ importance: 1
 category: ""
 showcase: true
 ---
-<img width = "100%" src= "assets/img/workshops/eBPF_group_photo.png"/>
+<img width = "100%" src= "/assets/img/workshops/eBPF_group_photo.png"/>
 <br>
 <img width = "100%" src= "/assets/img/workshops/eBPF_Day_poster_v3.png"/>
 <br>
