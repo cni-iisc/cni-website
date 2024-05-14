@@ -62,6 +62,8 @@ networks and systems.
 
 **Duration:** This is a grant-funded position and is contingent on funding availability. Contracts are typically renewed annually on satisfactory performance.
 
+**Last date to apply: May 31, 2024**
+
 **How to apply:**
 
 Please fill in [the form to apply](https://forms.gle/ZgyFS2Q4SWwNavMz6).
