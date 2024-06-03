@@ -4,7 +4,7 @@ title: CNI Newsletter
 newsletter_type: monthly #annual / monthly
 
 
-date: 2-1-2024
+date: 02-01-2024
 year: 2024
 
 
