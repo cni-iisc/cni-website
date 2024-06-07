@@ -18,7 +18,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'jekyll-redirect-from'
-
+    gem 'ffi', '=1.16.3'
 end
 group :other_plugins do
     gem 'httparty'
