@@ -16,7 +16,9 @@ showcase: false
 <a href="/workshops/2024/ebpf"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/workshops/ebpf_day_groupPic1.jpg"  width="80%"></a>
 <br><br>
 **Video recordings of all talks at eBPF day are released on [CNI's YouTube Channel](https://www.youtube.com/@centrefornetworkedintellig5324).**
-<br><br>
+<br>
+You may also find the recordings of CNI's past events and weekly seminars on the YouTube channel.
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=aHMnLcL5CohNuPjx&amp;list=PLNN9TCnjABcb_o82VmAMRnj4etWnHzUiZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 
