@@ -2,10 +2,10 @@
 layout: page
 title: PhD Fellows
 permalink: /phd/
-description: 
+description: 2023-2024
 nav: false
 nav_order: 3
-display_categories: 
+#display_categories: 
 horizontal: false
 ---
 
