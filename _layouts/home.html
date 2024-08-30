@@ -29,7 +29,38 @@ layout: default
               <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             </ol> -->
             <div class="carousel-inner" role="listbox" style="max-width:900px; max-height:600px !important;">
-              <div class="carousel-item active">
+              <!-- Showcase upcoming seminars -->
+              {%- for seminar in site.seminars -%}
+                {%- if seminar.date > cdate  -%}
+                  <div class="carousel-item active">
+                    {% if seminar.redirect -%}
+                      <a href="{{ seminar.redirect }}">
+                    {%- else -%}
+                      <a href="{{ seminar.url | relative_url }}">
+                    {%- endif -%}
+                      <img class="d-block w-100 img-fluid" src="{{ seminar.img }}">
+                      </a>
+                  </div>
+                {%- endif -%}
+              {%- endfor -%}
+
+              <!-- Showcase seminars; give attribute, showcase = true in the front-matter of seminar -->
+              {%- for seminar in site.seminars -%}
+              {%- if seminar.showcase -%}
+               <div class="carousel-item">
+               {% if seminar.redirect -%}
+                  <a href="{{ seminar.redirect }}">
+                  {%- else -%}
+                  <a href="{{ seminar.url | relative_url }}">
+                {%- endif %}
+                  <img class="d-block w-100 img-fluid" src="{{ seminar.img }}">
+                  
+                  </a>
+              </div>
+              {%- endif -%}
+              {%- endfor -%}
+
+              <div class="carousel-item">
                 <img class="d-block w-100 img-fluid" style = "max-height:500px; max-width:900px !important;" src="assets/img/posts/cni-scholars-2023-grouppic2.jpg" alt="First slide">
                 <!-- {% youtube uSpeHqV5ksc %} -->
               </div>
@@ -69,36 +100,7 @@ layout: default
               {%- endif -%}
               {%- endfor -%}
               
-              <!-- Showcase upcoming seminars -->
-              {%- for seminar in site.seminars -%}
-                {%- if seminar.date > cdate  -%}
-                  <div class="carousel-item">
-                    {% if seminar.redirect -%}
-                      <a href="{{ seminar.redirect }}">
-                    {%- else -%}
-                      <a href="{{ seminar.url | relative_url }}">
-                    {%- endif -%}
-                      <img class="d-block w-100 img-fluid" src="{{ seminar.img }}">
-                      </a>
-                  </div>
-                {%- endif -%}
-              {%- endfor -%}
-
-              <!-- Showcase seminars; give attribute, showcase = true in the front-matter of seminar -->
-              {%- for seminar in site.seminars -%}
-              {%- if seminar.showcase -%}
-               <div class="carousel-item">
-               {% if seminar.redirect -%}
-                  <a href="{{ seminar.redirect }}">
-                  {%- else -%}
-                  <a href="{{ seminar.url | relative_url }}">
-                {%- endif %}
-                  <img class="d-block w-100 img-fluid" src="{{ seminar.img }}">
-                  
-                  </a>
-              </div>
-              {%- endif -%}
-              {%- endfor -%}
+              
           <!-- Showcasing workshops on the carousel -->    
           {%- for workshop in site.workshops -%}
           {%- if workshop.showcase -%}
