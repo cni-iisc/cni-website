@@ -8,9 +8,8 @@ department:
 img: assets/img/people/phd/sheela_CS.jpg
 importance: 
 category: Ph.D. Fellows/Scholars
-
 email: sheelaieee2017@gmail.com
-past: 
+past: true
 years: [2021,2022, 2023]
 advisor: Prof. Joy Kuri # only applicable for students or fellows
 
