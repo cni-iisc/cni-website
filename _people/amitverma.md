@@ -11,7 +11,7 @@ category: M.Tech. Fellows/Scholars
 redirect: 
 research_interests: 
 email: averma18101@gmail.com
-past:
+past: true
 years: [2023]
 linkedin: https://www.linkedin.com/in/amit-verma-4297991a4
 advisor: Prof. Rajesh Sundaresan

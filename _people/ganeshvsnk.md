@@ -11,7 +11,7 @@ category: M.Tech. Fellows/Scholars
 redirect: 
 research_interests: 
 email: sainadhkosuru@gmail.com
-past:
+past: true
 years: [2023]
 linkedin: https://www.linkedin.com/in/sainadh-kosuru-533b6019a/
 website: 

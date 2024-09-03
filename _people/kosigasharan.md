@@ -11,7 +11,7 @@ category: M.Tech. Fellows/Scholars
 redirect: 
 research_interests: 
 email: manisharan5555@gmail.com
-past:
+past: true
 years: [2023]
 linkedin: https://www.linkedin.com/in/mani-sharan-204a41200
 website: 

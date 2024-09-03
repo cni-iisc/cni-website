@@ -11,7 +11,7 @@ category: M.Tech. Fellows/Scholars
 redirect: 
 research_interests: 
 email: azfarmohd@iisc.ac.in
-past:
+past: true
 years: [2023]
 linkedin:
 website: 

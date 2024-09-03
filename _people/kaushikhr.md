@@ -11,7 +11,7 @@ category: M.Tech. Fellows/Scholars
 redirect: 
 research_interests: 
 email: kaushikrhasabnis@gmail.com
-past:
+past: true
 years: [2023]
 linkedin: www.linkedin.com/in/kaushik-hasabnis-009a10162
 website: 

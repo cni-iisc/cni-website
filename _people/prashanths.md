@@ -11,7 +11,7 @@ category: M.Tech. Fellows/Scholars
 redirect: 
 research_interests: 
 email: prashanth030698@gmail.com
-past:
+past: true
 years: [2023]
 linkedin: https://www.linkedin.com/in/prashanth030698/
 website: https://prashu8055.netlify.app/
