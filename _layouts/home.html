@@ -23,11 +23,6 @@ layout: default
 
           <!-- carousel start -->
           <div id="updatesAndEvents" class="carousel slide" data-ride="carousel" align="center">
-            <!-- <ol class="carousel-indicators">
-              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            </ol> -->
             <div class="carousel-inner" role="listbox" style="max-width:900px; max-height:600px !important;">
               <!-- Showcase upcoming seminars -->
               {%- for seminar in site.seminars -%}
@@ -47,7 +42,7 @@ layout: default
               <!-- Showcase seminars; give attribute, showcase = true in the front-matter of seminar -->
               {%- for seminar in site.seminars -%}
               {%- if seminar.showcase -%}
-               <div class="carousel-item">
+               <div class="carousel-item active">
                {% if seminar.redirect -%}
                   <a href="{{ seminar.redirect }}">
                   {%- else -%}
