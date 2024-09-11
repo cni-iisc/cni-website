@@ -42,23 +42,31 @@ layout: default
                 {%- endif -%}
               {%- endfor -%}
 
-              <!-- Showcase seminars; give attribute, showcase = true in the front-matter of seminar -->
+              <!-- If no upcoming seminars, show the latest happened seminar -->
               {%- if upcomingSeminars == false -%}
+                {%- assign latestHappenedSeminar = null -%}
                 {%- for seminar in site.seminars -%}
-                  {%- if seminar.showcase -%}
-                  <div class="carousel-item active">
-                  {% if seminar.redirect -%}
-                      <a href="{{ seminar.redirect }}">
-                      {%- else -%}
-                      <a href="{{ seminar.url | relative_url }}">
-                    {%- endif %}
-                      <img class="d-block w-100 img-fluid" src="{{ seminar.img }}">
-                      
-                      </a>
-                  </div>
+                  {%- if seminar.date <= cdate -%}
+                    {%- if latestHappenedSeminar == null or seminar.date > latestHappenedSeminar.date -%}
+                      {%- assign latestHappenedSeminar = seminar -%}
+                    {%- endif -%}
                   {%- endif -%}
                 {%- endfor -%}
+
+                <!-- Display the latest happened seminar if one exists -->
+                {%- if latestHappenedSeminar != null -%}
+                  <div class="carousel-item active">
+                    {% if latestHappenedSeminar.redirect -%}
+                      <a href="{{ latestHappenedSeminar.redirect }}">
+                    {%- else -%}
+                      <a href="{{ latestHappenedSeminar.url | relative_url }}">
+                    {%- endif -%}
+                      <img class="d-block w-100 img-fluid" src="{{ latestHappenedSeminar.img }}">
+                    </a>
+                  </div>
+                {%- endif -%}
               {%- endif -%}
+
 
               <div class="carousel-item">
                 <img class="d-block w-100 img-fluid" style = "max-height:500px; max-width:900px !important;" src="assets/img/posts/cni-scholars-2023-grouppic2.jpg" alt="First slide">
