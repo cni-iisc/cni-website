@@ -41,7 +41,11 @@ rate. High sensitivity can overload biopsy centers, while high specificity might
 
 **Strategies for Improvement:**  
 *Image qality assessment / Quality filter:* We explored NIQE and CLIP-IQA for quality assessment to ensure high-quality training data. Image quality is assessed using NIQE and CLIP-IQA. NIQE threshold: 3.7581 (allowed 1,274 images, rejected 904). CLIP-IQA threshold: 0.4775 (allowed 1,456 images, rejected 722). NIQE shows better concordance with human perception.
+
 *Augmentations need:* Data augmentation techniques are crucial for enhancing the diversity and robustness of the training dataset.
+
 *Pixel-based masking:* Pixel-based masking helps in focusing on the relevant regions of interest in the images, improving model performance.
+
 *Bounding box augmentations:* Bounding box augmentations are used to simulate various object locations and scales, aiding in better model generalization.
+
 *Loss function reweighting:* Reweighting techniques help in addressing class imbalance, ensuring the model is not biased towards any specific class.
