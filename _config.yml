@@ -308,17 +308,17 @@ scholar:
   style: apa
   locale: en
 
-  sort_by: year
-  order: ascending
+  #sort_by: year
+  #order: ascending
   group_by: year
   group_order: descending
-  type_names: {inproceedings, articles, misc}
+  #type_names: {inproceedings, articles, misc}
 
   source: /_bibliography/
   bibliography: papers.bib
   
   bibliography_template: bib
-  repository: pdf # trying this out from old site. unsure 
+  # trying this out from old site. unsure 
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
@@ -328,7 +328,7 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
-  details_layout: bibtex.html
+  #details_layout: bibtex.html
   details_link: Details
 
   query: "@*"

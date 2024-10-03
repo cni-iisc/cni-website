@@ -670,3 +670,73 @@ author = {Deeksha P. Rao and Shrutkirthi S. Godkhindi and Abhigna V. Kumar and T
 keywords = {Frequency hopping, IEEE 802.15.4e, IIoT, TSCH, Time-synchronization, Channel hopping, Node re-joining, SPI, Information element (IE), Finite state machine (FSM), API},
 abstract = {This paper presents the lessons learnt in the implementation of IEEE 802.15.4e-Time Slotted Channel Hopping (TSCH) Medium Access Control (MAC) protocol on commercially available hardware. Our MAC Application programming Interface (API) called the Dy-MAC is agnostic to the PHY layer and is coded on a ARM cortex M4. MAC functions such as TDMA, FDMA, frame counter, channel access, synchronization and PAN formation are abstracted as part of this API. Dy-MAC is demonstrated for 2.4GHz with O-QPSK modulation and 868MHz with SUN FSK modulation. Furthermore, the API supports star, mesh and tree network to provide flexible topologies in factory environment. Our experiments show that for a 76 byte payload, the TSCH Dy-MAC provides ∼99% packet delivery ratio (PDR) for 26ms timeslot with SUN FSK PHY and ∼97% PDR for 10ms timeslot with O-QPSK PHY. To maintain synchronisation over the entire network, we implemented algorithms to successfully communicate between fast and slow nodes. Resilience to interference and range with packet delivery ratio is evaluated. We consolidate our implementation in terms of 10 lessons that were learnt in building the Dy-MAC protocol.}
 }
+
+
+@inproceedings{priya_energy-minimizing_2024,
+	address = {New York, NY, USA},
+	series = {e-{Energy} '24},
+	title = {Energy-minimizing workload splitting and frequency selection for guaranteed performance over heterogeneous cores},
+	isbn = {9798400704802},
+	url = {https://doi.org/10.1145/3632775.3661968},
+	doi = {10.1145/3632775.3661968},
+	abstract = {Heterogeneous computing involves CPU architectures that support more than one core type, and it aims to achieve energy efficiency while meeting the performance guarantees. This aim can be achieved by the operating system or the on-chip driver by exploiting the differential power-performance trade-off that heterogeneous cores offer. We characterize the power-performance trade-off for an Intel CPU with heterogeneous cores and provide a mathematical framework to study heterogeneous computing. In particular, we provide probabilistic workload split and operating frequency for all active cores that allow workload execution with minimal carbon emissions. We support the analytical findings with experimental evaluations for a few representative workloads. As compared to the default Linux frequency governors, our scheme can reduce the energy-delay product by up to 80\%.},
+	urldate = {2024-07-16},
+	booktitle = {Proceedings of the 15th {ACM} {International} {Conference} on {Future} and {Sustainable} {Energy} {Systems}},
+	publisher = {Association for Computing Machinery},
+	author = {Priya, Aditya and Choudhury, Rajiv and Patni, Sujay and Sharma, Himkant and Mohanty, Moonmoon and Narayanam, Krishnasuri and Devi, Umamaheswari and Moogi, Pratibha and Patil, Preetam and Parag, Parimal},
+	month = may,
+	year = {2024},
+	pages = {308--322},
+}
+
+@inproceedings{pai_angle_enabling_2024,
+	title = {Enabling {Smartness} in a {Legacy} {Lathe} {Machine}},
+	url = {https://ieeexplore.ieee.org/document/10427161},
+	doi = {10.1109/COMSNETS59351.2024.10427161},
+	abstract = {We provide the first-ever low-cost, low-power, easily adaptable solution for tool monitoring and analysis of Lathe machines. An alternate looping system is employed to provide automatic coolant dispensing and to classify tools based on their sharpness using the CNN model. The first objective is achieved using thermal profiling of the tool, whereas a vision-based edge detection approach is used for the latter. A correlation between raise in temperature and tool degradation is inferred.},
+	urldate = {2024-07-05},
+	booktitle = {2024 16th {International} {Conference} on {COMmunication} {Systems} \& {NETworkS} ({COMSNETS})},
+	author = {Pai Angle, Laxmikant D. and Rao, Deeksha P. and Godkhindi, Shrutkirthi S. and Prabhakar, T V},
+	month = jan,
+	year = {2024},
+	note = {ISSN: 2155-2509},
+	keywords = {Adaptation models, CNN-based classification, Canny edge detection, Coolant dispenser, Coolants, Correlation, Degradation, IIoT, Image edge detection, Lathe tool, Monitoring, Thermal profiling},
+	pages = {309--311},
+}
+
+@misc{koley_fresh_2024,
+	title = {Fresh {Caching} of {Dynamic} {Contents} using {Restless} {Multi}-armed {Bandits}},
+	url = {http://arxiv.org/abs/2404.12468},
+	doi = {10.48550/arXiv.2404.12468},
+	abstract = {We consider a dynamic content caching framework; contents are getting updated at the central server, and a subset of contents are cached at the local cache associated with a Base station (BS). When a request comes, based on whether the content is in the local cache, the BS can decide whether to fetch the content from the central server or serve the cached version from the local cache. Fetching a content incurs a fixed fetching cost, and serving the cached version incurs ageing cost, proportional to the age-of-version (AoV) of the content. AoV is a freshness metric that counts the number of updates at the central server since the content is being fetched. We aim to minimize the average costs (fetching cost and ageing cost) subject to cache capacity constraints. This cost minimization problem is a continuous time restless multiarmed bandit process (RMAB). The single content problem of the corresponding RMAB is a partially observable Markov decision process (POMDP) since the BS can only see the AoV of the cached contents if it fetches the content. We reformulate the POMDP as a semi-Markov decision process and provide a Whittle index based solution to this problem. Finally, we compare the performance with recent work and show that our proposed policy is optimal via simulations.},
+	urldate = {2024-07-05},
+	publisher = {arXiv},
+	author = {Koley, Ankita and Singh, Chandramani},
+	month = apr,
+	year = {2024},
+	note = {arXiv:2404.12468 [cs]},
+	keywords = {Computer Science - Networking and Internet Architecture},
+}
+
+@inproceedings{shashank_cyber-physical_2024,
+	title = {Cyber-{Physical} {Modeling} and {Vulnerability}
+Assessment of {Substations} for {Transmission} {System}
+Operator},
+	url = {https://pscc.epfl.ch/modules/request.php?module=oc_program&action=summary.php&id=998},
+	author = {Shashank, S and Gurunath, Gurrala and Sastry, P S and Vaibhav, Katewa},
+	month = jun,
+	year = {2024},
+	note = {Accepted for publication},
+	pages = {11},
+}
+
+@inproceedings{nithish_edgep4_2024,
+	address = {Vancouver, Canada},
+	title = {{EdgeP4}: {A} {P4}-{Programmable} {Edge} {Intelligent} {Ethernet} {Switch} for {Tactile} {Cyber}-{Physical} {Systems}},
+	doi = {https://doi.org/10.48550/arXiv.2309.10383},
+	author = {Nithish, Krishnabharathi Gnani and Joydeep, Pal and Deepak, Choudhary and Himanshu, Verma and Soumya, Kanta Rana and Kaushal, Mhapsekar and Prabhakar, T. V. and Chandramani, Singh},
+	month = may,
+	year = {2024},
+	note = {Accepted for publication},
+	pages = {7},
+}
