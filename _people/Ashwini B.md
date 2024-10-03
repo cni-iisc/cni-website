@@ -5,7 +5,7 @@ position_at_CNI: Secretarial Assistant
 description: 
 department:
 img: assets/img/people/staff/AshwiniB.png
-importance: 4
+importance: 3
 category: Staff
 redirect: 
 research_interests: 
