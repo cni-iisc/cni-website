@@ -10,7 +10,7 @@ category: Staff
 redirect: 
 research_interests: 
 email: 
-past: false
+past: true
 
 advisor: # only applicable for students or fellows
 

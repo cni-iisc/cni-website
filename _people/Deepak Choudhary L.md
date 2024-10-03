@@ -10,7 +10,7 @@ category: Staff
 redirect: personal portfolio links if available
 research_interests: Research interests
 email: htyagi@iisc.ac.in
-past: true or false
+past: true
 
 advisor: # only applicable for students or fellows
 
