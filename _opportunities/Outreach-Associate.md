@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technical Outreach Associate
+title: Outreach Associate
 details: "The successful candidate will be involved in the technical outreach activities of CNI. This role requires good writing skills as well as proficiency in content development/management tools."
 img:
 importance: 2
@@ -10,9 +10,9 @@ show: true
 
 <div>{{ "
 
-**Position:** Technical Outreach Associate
+**Position:** Outreach Associate
     
-We are seeking a motivated Technical Outreach Associate to join the Centre for Networked Intelligence (CNI) at the Indian Institute of Science. 
+We are seeking a part-time/full-time Outreach Associate to join the Centre for Networked Intelligence (CNI) at the Indian Institute of Science. 
 CNI is an industry-sponsored research centre focused on Systems/Networking research and development.
 
 **Location:** Indian Institute of Science campus, Bengaluru
@@ -25,7 +25,7 @@ CNI is an industry-sponsored research centre focused on Systems/Networking resea
 - Creative use of educational technologies for delivering technical content
 
 **Qualifications:**
-- Bachelor's degree in engineering or science. 
+- Bachelor's degree in engineering or science. Students pursuing studies may also apply for a part-time position. 
 - Excellent written and verbal communication skills.  
 - Proficiency in social media platforms, including Facebook, Instagram, Twitter, and LinkedIn. 
 - Creative thinking and the ability to generate innovative content ideas. 

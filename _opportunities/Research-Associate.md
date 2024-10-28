@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Assistant
-details: "We are seeking a motivated Research Assistant (RA) to join the Data Center Network (DCN)
+title: Research Associate
+details: "We are seeking a motivated Research Associate (RA) to join the Data Center Network (DCN)
 and Cloud Research group at the Centre for Networked Intelligence (CNI), IISc. The
 successful candidate will be actively involved in research projects focussed on sustainable
 computing,and network performance optimization. This role rerquires solid technical and
@@ -16,9 +16,9 @@ show: true
 
 
 
-**Position:** Research Assistant
+**Position:** Research Associate
     
-We are seeking a motivated Research Assistant (RA) to join the Data Center Network (DCN)
+We are seeking a motivated Research Associate (RA) to join the Data Center Network (DCN)
 and Cloud Research group at the Centre for Networked Intelligence (CNI), IISc. The
 successful candidate will be actively involved in research projects focussed on sustainable
 computing,and network performance optimization. This role requires solid technical and
@@ -62,7 +62,7 @@ networks and systems.
 
 **Duration:** This is a grant-funded position and is contingent on funding availability. Contracts are typically renewed annually on satisfactory performance.
 
-**Application deadline: September 30, 2024**
+**Application deadline: November 30, 2024**
 
 **How to apply:**
 
