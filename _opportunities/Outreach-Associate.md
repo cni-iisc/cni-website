@@ -3,7 +3,7 @@ layout: page
 title: Outreach Associate
 details: "The successful candidate will be involved in the technical outreach activities of CNI. This role requires good writing skills as well as proficiency in content development/management tools."
 img:
-importance: 2
+importance: 3
 category: ""
 show: true
 ---
