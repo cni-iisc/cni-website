@@ -13,7 +13,7 @@ about next-generation systems and networks, and willing to go deep into the theo
 
 Working at CNI is rewarding in terms of the expertise gained through solving challenging problems. The work is seldom repetitive due to dynamic nature of activities undertaken, and one is free to choose the appropriate tools and technique suitable for the job. Research associates gain significant boost to their CV through paper publications and experience working on futuristic technologies.
 
-[Past research assistants/associates at CNI](https://cni.iisc.ac.in/staff/alumni) have proceeded to higher studies (at universities like NCSU, Purdue, UC Irvine, NYU), post-doctoral positions (in Dartmouth University and University of Surrey), or industry positions (in Google, EdgeQ), etc.
+[Past research assistants/associates at CNI](https://cni.iisc.ac.in/staff/alumni) have proceeded to higher studies (at universities like NCSU, Purdue, UC Irvine, NYU, University of Minnesota), post-doctoral positions (in Dartmouth University and University of Surrey), or industry positions (in Google, EdgeQ, etc.).
 
 CNI has openings for the following positions:
 - Research Associate 
