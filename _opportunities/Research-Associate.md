@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Research Associate
-details: "We are seeking a motivated Research Associate (RA) to join the Data Center Network (DCN)
-and Cloud Research group at the Centre for Networked Intelligence (CNI), IISc. The
-successful candidate will be actively involved in research projects focussed on sustainable
-computing,and network performance optimization. This role rerquires solid technical and
+details: "We are seeking a motivated Research Associate (RA) to join the Distributed
+Systems Research group at the Centre for Networked Intelligence (CNI), IISc. The
+successful candidate will be actively involved in research projects related to sustainable
+computing, infrastructure for ML, and network transport protocols. This role rerquires solid technical and
 quantitative skills and a passion for research."
 img:
 importance: 1
@@ -18,11 +18,11 @@ show: true
 
 **Position:** Research Associate
     
-We are seeking a motivated Research Associate (RA) to join the Data Center Network (DCN)
-and Cloud Research group at the Centre for Networked Intelligence (CNI), IISc. The
-successful candidate will be actively involved in research projects focussed on sustainable
-computing,and network performance optimization. This role requires solid technical and
-quantitative skills and a passion for research.
+We are seeking a few motivated Research Associates (RAs) to join the Distributed Systems
+Research group at the Centre for Networked Intelligence (CNI). The
+successful candidates will be actively involved in one of the following research projects: (a) Sustainable computing for model-training and inference in machine learning (ML), (b) Distributed ML over heterogeneous compute environments, and (c) Network transport protocols optimized for Data Center workloads.
+All the above projects are collaborative with leading industry and research labs.
+This role requires solid technical and quantitative skills and a passion for research.
 
 **Location:** Indian Institute of Science campus, Bengaluru. This is a full-time on-campus position.
 
@@ -32,33 +32,31 @@ centre focused on developing next generation networking methodologies and concep
 solutions that can derive knowledge from evolved networks of the future.
 
 **Responsibilities:**
-- Assist in designing, implementing, and conducting experiments in the areas of cloud
-computing, and network performance.
+- Design, implement, and conduct experiments on a testbed
 - Apply quantitative analysis and data modeling techniques to interpret research data,
 write research reports and scientific papers.
-- Contribute to the development and improvement of software tools, models, and
-protocols for computer networks and systems.
+- Contribute to the development and evaluation of software tools, models, and
+algorithms.
 - Collaborate with other team members to contribute to ongoing research projects and
 initiatives.
 
 **Qualifications:**
 - Bachelors or master’s degree in Computer Science, Electrical Communication, or
 related engineering disciplines.
-- A strong understanding of computer networks and Linux operating system.
+- Proficiency in Linux/Unix operating system and shell environment.
 - Proficiency in data structures and algorithms, C/C++ and Python programming, and
-development tools.
+development tools (debuggers, git, profilers, etc.).
 - Solid foundation in probability and statistics.
 - Strong problem-solving skills and the ability to think critically and independently.
 - This position is open for freshers as well as experienced candidates.
 
 **Incentives for joining CNI:**
-- Opportunity to work in a dynamic research environment at the forefront of computer
-networks and systems.
-- Collaboration with renowned experts in the field.
-- Access to state-of-the-art tools, technology, and resources.
-- Regular opportunities for professional development and skills training.
-- Support for publication in and attendance at relevant conferences and seminars.
-- Opportunity to contribute to significant projects with real-world impact.
+- Opportunity to learn the rigor of world-class research through practice.
+- Collaboration with renowned experts (industry and international academia) in the
+  domain.
+- Attribution for your contributions (research papers and open-source code) to boost your CV.
+- Opportunity to work on contemporary problems with real-world impact in the systems
+  domain.
 
 **Duration:** This is a grant-funded position and is contingent on funding availability. Contracts are typically renewed annually on satisfactory performance.
 
