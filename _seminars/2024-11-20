@@ -1,0 +1,32 @@
+---
+
+
+
+layout: seminar_page
+
+category: ""
+
+n: 220
+
+title: "Interventional Causal Representation Learning"
+speaker: "Prof. Ali Tajer, RPI, Troy, NY, USA"
+
+img: assets/img/seminars/2024/20-11-24 Ali Tajer.png
+
+date: 2024-11-20 17:00:00 
+
+Venue: MP20 and Online on zoom
+
+recorded_video: lHwIwdctWww
+
+zoom_link: https://us06web.zoom.us/j/83388976389?pwd=XcpO3GhLxsR14a7SVbPx33HQQa1jbt.1 
+
+slides: 
+
+speaker_url: https://www.isg-rpi.com/
+
+speaker_bio: "Ali Tajer received the M.A degree in Statistics and the Ph.D. degree in Electrical Engineering from Columbia University. During 2010-2012 he was with Princeton University as a Postdoctoral Research Associate. He is currently an Associate Professor of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute. His research interests include mathematical statistics, machine learning, and information theory. He is currently serving as an Associate Editor for the IEEE Transactions on Information Theory and a Senior Area Editor for the IEEE Transactions on Signal Processing. He has received the Jury Award (Columbia University), School of Engineering Research Excellence Award (Rensselaer), School of Engineering Classroom Excellence Award (Rensselaer), James M. Tien '66 Early Career Award for Faculty (Rensselaer), a CAREER award from the U.S. National Science Foundation in 2016 and a U.S. Air Force Fellowship Award in 2019."
+
+Topic_abstract: "Causal representation learning (CRL) aims to form a causal understanding of the world by learning appropriate representations that support causal interventions, reasoning, and planning, and it is considered a major step for achieving strong generalization in learning. Specifically, CRL considers a data-generating process in which high-level latent causally related variables are mapped to low-level, generally high-dimensional observed data through an transformation. CRL is the process of using the observed data and recovering the causal structure, the latent causal variables, and the unknown transformation $g$ as well. In this talk we will provide a comprehensive overview of the space of the problem and the recent advances on various identifiability (information-theoretic) and achievability (algorithmic) aspects of interventional CRL."
+
+---
