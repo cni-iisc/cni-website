@@ -16,16 +16,19 @@ IISc-IBM AI Day is being jointly organized by the Centre for Networked Intellige
 The goal of this workshop would be to apprise the audience of Generative AI, a set of toolkits from IBM for GenAI, and various LLMs from IBM for diverse applications.
 <br>
 
-### 🗓️ Date
+#### 🗓️ Date
 **December 04, 2024 (9am-4:30pm)**
 
-### 📍 Venue
+#### 📍 Venue
 **In-person: Room MP-20, ECE Department, Indian Institute of Science Campus, Bengaluru**
  ([📌 Map location](https://maps.app.goo.gl/NMirvDu29TTQhtiw7))
 <br>
 **Online: link will be shared with registered participants.**
 
-### 🗒️ Schedule, topics, speakers, and learning objectives
+#### 👪 Target audience
+The workshop is targeted at engineering/science students (pursuing graduate/undergraduate level educational program in India), keen on learning the application of Gen-AI in diverse domains and building systems for Gen-AI.
+
+#### 🗒️ Schedule, topics, speakers, and learning objectives
 
 <br>
 
@@ -71,23 +74,23 @@ lyan
 AI agents have gained substantial attention in recent years due to the surge in AI capabilities and the demand for automation in complex tasks. AI agents' ability to reason, plan, act, and interact represents a significant advancement over traditional automation techniques. This talk will provide theoretical insights into AI agents' properties and frameworks like LangChain and LangGraph and have practical demonstrations of how they can be applied within the software engineering domain, such as test case generation, program repair, and application understanding.
 <br><br>
 
-### 👥➕  Registration
+#### 👥➕  Registration
 
-#### In-person participation
-**IISc students may register for in-person participation by filling up the form at  [forms.gle/fg8rGcbVRb3Xmb8H8](htsps://forms.gle/fg8rGcbVRb3Xmb8H8). Since there are limited in-person slots, please register only if you are certain about attending for all sessions.**
+##### In-person participation
+**IISc persons may register for in-person participation by filling up the form at [https://forms.office.com/r/6s460R7yYS](https://forms.office.com/r/6s460R7yYS). Since there are limited in-person slots, please register only if you are certain about attending for all sessions.**
 <br><br>
 **Registration for non-IISc students will be open soon. Please check this page for updates.**
 
-#### Online participation
+##### Online participation
 
-**Please fill-in the form to register, for attending the workshop online: [forms.gle/fg8rGcbVRb3Xmb8H8](htsps://forms.gle/fg8rGcbVRb3Xmb8H8)**
+**Please fill-in the form to register for attending the workshop online: [https://forms.gle/yRtaqM5ZaSn15rvP8](https://forms.gle/yRtaqM5ZaSn15rvP8)**
 
 We'll email a Zoom link to all registered participants. _If you haven't received an email from outreach.cni@iisc.ac.in with online meeting link by December 02, please email outreach.cni@iisc.ac.in_.
 
-### ✉️  Contact
-Please email [outreach.cni@iisc.ac.in](mailto:outreach.cni@iisc.ac.in) with the subject "AI Day" for further details.
+#### ✉️  Contact
+Please email [outreach.cni@iisc.ac.in](mailto:outreach.cni@iisc.ac.in) with the subject "AI Day" for any queries.
 
-### Sponsors
+#### Sponsors
 <div class="container">
   <div class="row">
     <div class="col-md-6">
@@ -96,7 +99,7 @@ Please email [outreach.cni@iisc.ac.in](mailto:outreach.cni@iisc.ac.in) with the 
   </div>  
 </div>
 
-### Supported by
+#### Supported by
 <div class="container">
   <div class="row equal">
     <div class="col-md-6">

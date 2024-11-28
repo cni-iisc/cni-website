@@ -53,16 +53,20 @@ a, table.table a {
   }
 }
 
+//	margin: 0px;
 .mbtablestyle {
         border-collapse: collapse;
 
    > table {
 	width: 100%;
-	margin: 0px;
 	}
    > table, td, th {
-        border: 1px solid #dee2e6;
+        border: 2px solid #ced2d6;
     	font-size: 1rem;
+	padding-top: 0.3rem;
+  	padding-bottom: 0.3rem;
+  	padding-left: 1rem;
+  	padding-right: 2rem;
         }
 }
 
