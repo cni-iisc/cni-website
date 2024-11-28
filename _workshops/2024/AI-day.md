@@ -6,6 +6,8 @@ img: assets/img/workshops/AIDay-poster-v3.png
 importance: 1
 category: ""
 showcase: false
+redirect_from:
+  - /workshops/2024/ai-day/
 ---
 <img width = "100%" src= "/assets/img/workshops/AIDay-poster-v3.png"/>
 <br>
