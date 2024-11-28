@@ -81,7 +81,7 @@ AI agents have gained substantial attention in recent years due to the surge in 
 ##### In-person participation
 **IISc persons may register for in-person participation by filling up the form at [https://forms.office.com/r/6s460R7yYS](https://forms.office.com/r/6s460R7yYS). Since there are limited in-person slots, please register only if you are certain about attending for all sessions.**
 <br><br>
-**Registration for non-IISc students will be open soon. Please check this page for updates.**
+_Registration for non-IISc students (to attend in-person) will be open soon. Please check this page for updates._
 
 ##### Online participation
 
