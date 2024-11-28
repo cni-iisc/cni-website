@@ -95,21 +95,10 @@ Please email [outreach.cni@iisc.ac.in](mailto:outreach.cni@iisc.ac.in) with the 
 #### Sponsors
 <div class="container">
   <div class="row">
-    <div class="col-md-6">
       <img src="/assets/img/Logos/Cisco CSR Logos-TM-vert.png" alt="Cisco CSR logo" class="img-fluid" style="width: auto; height: 185px;">
-    </div>
   </div>  
 </div>
 
 #### Supported by
-<div class="container">
-  <div class="row equal">
-    <div class="col-md-6">
-      <img src="/assets/img/Logos/IISc_logo.png" alt="Image 3" class="img-fluid" style="width: auto; height: 170px;">
-    </div>
-    <div class="col-md-6">
-      <img src="/assets/img/Logos/ECE Cropped.jpg" alt="Image 4" class="img-fluid" style="width: auto; height: 110px;">
-    </div>
-  </div>
-</div>
+<img class="img-fluid" src= "/assets/img/workshops/iisc-ece-logos.png" style="width: auto; height: 200px;">
 
