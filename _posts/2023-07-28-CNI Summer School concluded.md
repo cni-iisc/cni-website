@@ -10,7 +10,7 @@ header:
  background-color: "#334d5c"
 tags: summer-school reinforcement-learning
 img: assets/img/schools/2023/IMG_6721.JPG
-showcase: true
+showcase: false
 ---
 <table>
     <tr>

@@ -5,6 +5,7 @@ description:
 img: assets/img/workshops/ics_security_poster.jpeg
 importance: 3
 category: ""
+owcase: false
 ---
 <center>
 <img width = "60%" src="/assets/img/workshops/ics_security_poster.jpeg"/>

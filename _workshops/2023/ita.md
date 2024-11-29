@@ -3,7 +3,7 @@ layout: page
 title: Information Theory and its Applications
 description:
 img: assets/img/workshops/ita2023.png
-importance: 2
+importance: 4
 category: ""
 showcase: true
 ---

@@ -9,7 +9,7 @@ header:
  title: "JTG/IEEE ITSoc Summerschool 2023 concluded"
  background-color: "#334d5c"
 tags: summer-school reinforcement-learning
-showcase: true
+showcase: false
 img: "/assets/img/Events/2023/JTGSummerSchool/Joint Telematics Group IEEE Information Theory Society Summer School on Signal Processin.png"
 ---
 

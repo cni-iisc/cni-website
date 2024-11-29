@@ -5,7 +5,7 @@ description: ""
 img: assets/img/workshops/ebpfDay-poster2_s.jpg
 importance: 1
 category: ""
-showcase: true
+showcase: false
 ---
 <img width = "100%" src= "/assets/img/workshops/eBPF_group_photo.png"/>
 <br>

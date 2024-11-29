@@ -5,7 +5,7 @@ description: ""
 img: assets/img/workshops/AIDay-poster-v3.png
 importance: 1
 category: ""
-showcase: false
+showcase: true
 redirect_from:
   - /workshops/2024/ai-day/
 ---
