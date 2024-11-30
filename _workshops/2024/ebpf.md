@@ -3,7 +3,7 @@ layout: page
 title: eBPF Day India
 description: ""
 img: assets/img/workshops/ebpfDay-poster2_s.jpg
-importance: 1
+importance: 2
 category: ""
 showcase: false
 ---

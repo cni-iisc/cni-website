@@ -79,13 +79,15 @@ AI agents have gained substantial attention in recent years due to the surge in 
 #### 👥➕  Registration
 
 ##### In-person participation
-**IISc persons may register for in-person participation by filling up the form at [https://forms.office.com/r/6s460R7yYS](https://forms.office.com/r/6s460R7yYS). Since there are limited in-person slots, please register only if you are certain about attending for all sessions.**
+**Since there are limited in-person slots, please register only if you are certain about attending for all sessions.**
 <br><br>
-_Registration for non-IISc students (to attend in-person) will be open soon. Please check this page for updates._
+**IISc persons may register for in-person participation by filling up the form at [https://forms.office.com/r/6s460R7yYS](https://forms.office.com/r/6s460R7yYS).**
+<br><br>
+**Non-IISc students can now register to attend in-person by filling up the form at [https://forms.office.com/r/UJamEBGXmg](https://forms.office.com/r/UJamEBGXmg).**
 
 ##### Online participation
 
-**Please fill-in the form to register for attending the workshop online: [https://forms.gle/yRtaqM5ZaSn15rvP8](https://forms.gle/yRtaqM5ZaSn15rvP8)**
+**Please fill-in the form for attending the workshop online: [https://forms.gle/yRtaqM5ZaSn15rvP8](https://forms.gle/yRtaqM5ZaSn15rvP8).**
 
 We'll email a Zoom link to all registered participants. _If you haven't received an email from outreach.cni@iisc.ac.in with online meeting link by December 02, please email outreach.cni@iisc.ac.in_.
 
