@@ -5,7 +5,7 @@ description:
 img: assets/img/workshops/ita2023.png
 importance: 4
 category: ""
-showcase: true
+showcase: false
 ---
 <center>
 <article>
