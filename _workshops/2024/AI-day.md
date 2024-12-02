@@ -53,17 +53,18 @@ The workshop is targeted at engineering/science students (pursuing graduate/unde
 #### 👥➕  Registration
 
 ##### In-person participation
-**Since there are limited in-person slots, please register only if you are certain about attending for all sessions.**
+**Thank you for an overwhelming interest in attending the AI Day in-person. Due to logistical reasons, we have limited slots for in-person participation, which are taken up, and we are not taking any new registrations now.**
 <br><br>
-**IISc persons may register for in-person participation by filling up the form at [https://forms.office.com/r/6s460R7yYS](https://forms.office.com/r/6s460R7yYS).**
+**Among those who registered, unfortunately we'll only be able to confirm the registration for a few. We'll send conformation emails by December 02.**
 <br><br>
-**Non-IISc students can now register to attend in-person by filling up the form at [https://forms.office.com/r/UJamEBGXmg](https://forms.office.com/r/UJamEBGXmg).**
+**You may still register for online participation by filling up the form linked below.**
+<br><br>
 
 ##### Online participation
 
 **Please fill-in the form for attending the workshop online: [https://forms.gle/yRtaqM5ZaSn15rvP8](https://forms.gle/yRtaqM5ZaSn15rvP8).**
 
-We'll email a Zoom link to all registered participants. _If you haven't received an email from outreach.cni@iisc.ac.in with online meeting link by December 02, please email outreach.cni@iisc.ac.in_.
+We'll email a Zoom link to all registered participants. _If you haven't received an email from outreach.cni@iisc.ac.in with online meeting link by December 03 (5:00pm), please email outreach.cni@iisc.ac.in_.
 
 #### Learning objectives
 1. Gen AI Applications and Research opportunities
