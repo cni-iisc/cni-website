@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description:
-years: [2024, 2023, 2022, 2021]
+years: [2024, 2023, 2022, 2021, 2020, 2019]
 nav: false
 nav_order: 1
 ---
@@ -37,23 +37,29 @@ nav_order: 1
 
 .research-publications ol.bibliography {
   list-style: none;
-  padding-left: 0rem;
-  margin-top: 0rem;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding-left: 0;
+  margin-top: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-left: 0;
 }
 
 .research-publications ol.bibliography li {
   margin-bottom: 1rem; /* Space between list items */
-  margin-top: 0rem;
+  display: flex; /* Use flexbox for alignment */
+  margin-left: 1rem;
+  gap: 0;
+  padding: 0;
 }
 
 .research-publications ol.bibliography li:before {
   content: '•'; /* Custom bullet character */
-  color: var(--global-theme-color); /* Bullet color */
   font-weight: bold; /* Bullet weight */
   margin-left: 3rem; /* Space between bullet and text */
   font-size: 1.2rem; /* Adjust bullet size if needed */
+  flex-shrink: 0;
+  padding: 0;
+  margin-right: 0rem;
 }
 
 .research-publications ol.bibliography li .award {
@@ -64,6 +70,7 @@ nav_order: 1
 .research-publications ol.bibliography li .title {
   font-weight: bolder;
   margin-left: 0;
+  margin-top: 0;
 }
 
 .research-publications ol.bibliography li .author a {
