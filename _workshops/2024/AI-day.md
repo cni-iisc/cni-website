@@ -64,7 +64,7 @@ The workshop is targeted at engineering/science students (pursuing graduate/unde
 
 **Please fill-in the form for attending the workshop online: [https://forms.gle/yRtaqM5ZaSn15rvP8](https://forms.gle/yRtaqM5ZaSn15rvP8).**
 
-We'll email a Zoom link to all registered participants. _If you haven't received an email from outreach.cni@iisc.ac.in with online meeting link by December 03 (5:00pm), please email outreach.cni@iisc.ac.in_.
+We'll email a Zoom link to all registered participants. _If you haven't received an email from outreach.cni@iisc.ac.in with online meeting link by December 03 (11:00pm), please email outreach.cni@iisc.ac.in_.
 
 #### Learning objectives
 1. Gen AI Applications and Research opportunities
