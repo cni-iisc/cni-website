@@ -9,7 +9,9 @@ display_categories: [""]
 horizontal: false
 ---
 Are you passionate about whatever you pursue? If you are someone who feels inquisitive
-about next-generation systems and networks, and willing to go deep into the theory or engineering aspects, CNI may be the place for you. For administrative and outreach activities too, we look for individuals who push for excellence and innovations.
+about next-generation systems and networks, and willing to go deep into the theory or engineering aspects, CNI may be the place for you. 
+<!--
+For administrative and outreach activities too, we look for individuals who push for excellence and innovations.-->
 
 Working at CNI is rewarding in terms of the expertise gained through solving challenging problems. The work is seldom repetitive due to dynamic nature of activities undertaken, and one is free to choose the appropriate tools and technique suitable for the job. Research associates gain significant boost to their CV through paper publications and experience working on futuristic technologies.
 
