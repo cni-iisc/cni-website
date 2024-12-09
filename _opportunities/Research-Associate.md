@@ -47,7 +47,7 @@ initiatives.
 **Qualifications:**
 - Bachelors or master’s degree in Computer Science, Electrical Communication, or
 related engineering disciplines.
-- Proficiency in Linux/Unix operating system and shell environment.
+- Proficiency in Linux/Unix operating system and CLI is a must.
 - Proficiency in data structures and algorithms, C/C++ and Python programming, and
 development tools (debuggers, git, profilers, etc.).
 - Solid foundation in probability and statistics.

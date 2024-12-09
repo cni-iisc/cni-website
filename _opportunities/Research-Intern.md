@@ -45,7 +45,7 @@ solutions that can derive knowledge from evolved networks of the future.
 **Qualifications:**
 - Undergraduate or graduate student in Computer Science, Electrical Communication, or
 related engineering disciplines.
-- Proficiency in Linux/Unix operating system and shell environment.
+- Proficiency in Linux/Unix operating system and CLI is a must.
 - Proficiency in data structures and algorithms, C/C++ and Python programming, and
 development tools (debuggers, git, profilers).
 - Solid foundation in probability and statistics.
