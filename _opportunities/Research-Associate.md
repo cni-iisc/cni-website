@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Research Associate
-details: "We are seeking a motivated Research Associate (RA) to join the Distributed
-Systems Research group at the Centre for Networked Intelligence (CNI), IISc. The
-successful candidate will be actively involved in research projects related to sustainable
+details: "We are seeking a motivated Research Associate (RAs) to join the Distributed
+Systems Research group at the Centre for Networked Intelligence (CNI), IISc. The RAs
+will be actively involved in research projects related to sustainable
 computing, infrastructure for ML, and network transport protocols. This role rerquires solid technical and
 quantitative skills and a passion for research."
 img:
@@ -20,7 +20,11 @@ show: true
     
 We are seeking a few motivated Research Associates (RAs) to join the Distributed Systems
 Research group at the Centre for Networked Intelligence (CNI). The
-successful candidates will be actively involved in one of the following research projects: (a) Sustainable computing for model-training and inference in machine learning (ML), (b) Distributed ML over heterogeneous compute environments, and (c) Network transport protocols optimized for Data Center workloads.
+RAs will be actively involved in one of the following research projects: 
+A. Sustainable computing for model-training and inference in machine learning (ML), 
+A. Distributed ML over heterogeneous compute environments, and 
+A. Network transport protocols optimized for Data Center workloads.
+
 All the above projects are collaborative with leading industry and research labs.
 This role requires solid technical and quantitative skills and a passion for research.
 
@@ -60,7 +64,7 @@ development tools (debuggers, git, profilers, etc.).
 
 **Duration:** This is a grant-funded position and is contingent on funding availability. Contracts are typically renewed annually on satisfactory performance.
 
-**Application deadline: November 30, 2024**
+**Application deadline: December 31, 2024**
 
 **How to apply:**
 

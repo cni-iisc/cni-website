@@ -56,7 +56,7 @@ development tools (debuggers, git, profilers).
 - Attribution for your contributions (publications and code) to boost your CV.
 - Interactions with renowned experts (potential recruiters and advisors) in the field.
 
-**Application deadline: November 30, 2024**
+**Application deadline: December 31, 2024**
 
 **How to apply:**
 
