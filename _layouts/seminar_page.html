@@ -39,7 +39,8 @@ layout: default
             <br>
             
             {%- if page.slides -%}  
-              <a href="{{site.baseurl}}/assets/slides/nss/{{ cdate | date: '%Y'}}/{{ cdate | date: '%B'}}/{{ page.slides }}" target="_blank" class="btn btn-outline-secondary btn-md active" role="button" aria-pressed="true"><b>Slides</b></a>
+              <!-- <a href="{{site.baseurl}}/assets/slides/nss/{{ cdate | date: '%Y'}}/{{ cdate | date: '%B'}}/{{ page.slides }}" target="_blank" class="btn btn-outline-secondary btn-md active" role="button" aria-pressed="true"><b>Slides</b></a>-->
+              <a href="{{site.baseurl}}/{{ page.slides }}" target="_blank" class="btn btn-outline-secondary btn-md active" role="button" aria-pressed="true"><b>Slides</b></a>
             {%- endif -%}
           </div>
           <br>
