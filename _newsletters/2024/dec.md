@@ -17,18 +17,7 @@ img: "JTGSS 1.JPG"
 # content for past events
 
 ---
-<!-- [if gte mso 15]>
-<xml>
-<o:OfficeDocumentSettings>
-<o:AllowPNG/>
-<o:PixelsPerInch>96</o:PixelsPerInch>
-</o:OfficeDocumentSettings>
-</xml>
-<![endif]-->
-<p>Synapse - December Edition</p>
-<!-- [if !gte mso 9]><!---->
-<p><span class="mcnPreviewText" style="display: none; font-size: 0px; line-height: 0px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; visibility: hidden; mso-hide: all;">Updates from CNI</span></p>
-<!--<![endif]--><center>
+<center>
 <table id="bodyTable" style="background-color: #f4f4f4;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
