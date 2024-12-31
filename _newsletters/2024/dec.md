@@ -41,9 +41,6 @@ img: "JTGSS 1.JPG"
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td style="padding: 0;" valign="top"> </td>
-</tr>
-<tr>
 <td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">
 <table class="mceDividerContainer" style="background-color: transparent; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="2">
 <tbody>
@@ -195,8 +192,8 @@ img: "JTGSS 1.JPG"
 <td class="mceColumn" style="padding-top: 0; padding-bottom: 0;" colspan="12" valign="top" width="100%" data-block-id="-35">
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
-<tr>
-<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">
+<tr style="height: 2px;">
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0px; height: 2px;" valign="top">
 <table class="mceDividerContainer" style="background-color: transparent; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="11">
 <tbody>
 <tr>
@@ -206,8 +203,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">
+<tr style="height: 2px;">
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0px; height: 2px;" valign="top">
 <table class="mceDividerContainer" style="background-color: transparent; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="12">
 <tbody>
 <tr>
@@ -217,19 +214,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td class="mceBlockContainer" style="background-color: transparent; padding: 0 24px 20px 24px;" valign="top">
-<table class="mceDividerContainer" style="background-color: transparent; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="20">
-<tbody>
-<tr>
-<td class="mceDividerBlock" style="min-width: 100%; border-top-width: 1px; border-top-style: solid; border-top-color: #b5b5b5; line-height: 0; font-size: 0;" valign="top"> </td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td style="padding: 0;" valign="top">
+<tr style="height: 85px;">
+<td style="padding: 0px; height: 85px;" valign="top">
 <table style="border: 0; border-radius: 0; border-collapse: separate;" width="100%">
 <tbody>
 <tr>
@@ -243,8 +229,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td class="mceBlockContainer" style="background-color: transparent; padding: 0 24px 0 24px;" valign="top">
+<tr style="height: 2px;">
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0px 24px; height: 2px;" valign="top">
 <table class="mceDividerContainer" style="background-color: transparent; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="22">
 <tbody>
 <tr>
@@ -254,20 +240,20 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td id="gutterContainerId-26" class="mceGutterContainer" valign="top">
+<tr style="height: 140px;">
+<td id="gutterContainerId-26" class="mceGutterContainer" style="height: 140px;" valign="top">
 <table style="border-collapse: separate;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
-<tr>
-<td class="mceLayoutContainer" style="padding: 12px 0 12px 0;" valign="top">
+<tr style="height: 137.85px;">
+<td class="mceLayoutContainer" style="padding: 12px 0px; height: 137.85px;" valign="top">
 <table id="section_e16f3000c1247ca547028487dd750a8f" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="26">
 <tbody>
 <tr class="mceRow">
 <td style="background-position: center; background-repeat: no-repeat; background-size: cover;" valign="top">
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
-<tr>
-<td class="mceColumn" colspan="12" valign="top" width="100%" data-block-id="-29">
+<tr style="height: 109.85px;">
+<td class="mceColumn" style="height: 109.85px;" colspan="12" valign="top" width="100%" data-block-id="-29">
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -349,8 +335,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td id="gutterContainerId-30" class="mceGutterContainer" valign="top">
+<tr style="height: 258px;">
+<td id="gutterContainerId-30" class="mceGutterContainer" style="height: 258px;" valign="top">
 <table style="border-collapse: separate;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -444,8 +430,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td id="gutterContainerId-92" class="mceGutterContainer" valign="top">
+<tr style="height: 206px;">
+<td id="gutterContainerId-92" class="mceGutterContainer" style="height: 206px;" valign="top">
 <table style="border-collapse: separate;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -545,8 +531,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding: 0;" valign="top">
+<tr style="height: 131px;">
+<td style="padding: 0px; height: 131px;" valign="top">
 <table style="border: 0; background-color: #f4f6ff; border-radius: 0; border-collapse: separate;" width="100%">
 <tbody>
 <tr>
@@ -560,12 +546,12 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding: 0;" valign="top">
+<tr style="height: 216px;">
+<td style="padding: 0px; height: 216px;" valign="top">
 <table style="border: 0; border-radius: 0; border-collapse: separate;" width="100%">
 <tbody>
-<tr>
-<td class="mceTextBlockContainer" style="padding: 12px 24px 12px 24px;">
+<tr style="height: 215.35px;">
+<td class="mceTextBlockContainer" style="padding: 12px 24px; height: 215.35px;">
 <div id="dataBlockId-27" class="mceText" style="width: 100%;" data-block-id="27">
 <p class="last-child">A delegation from <a href="https://international.au.dk/" target="_blank">Aarhus University</a> in Denmark recently visited CNI to discuss potential collaborations in the field of cybersecurity. The delegation comprised <a href="https://www.au.dk/en/jdo@au.dk" target="_blank">Dr. Jeppe Dørup Olesen</a> (Head of Innovation) and <a href="https://www.au.dk/en/poulsen@cs.au.dk" target="_blank">Dr. Søren Poulsen</a>, (Senior Consultant at the Department of Computer Science) from Aarhus University and <a href="https://www.linkedin.com/in/inayatnaomiramdas/?originalSubdomain=in" target="_blank">Ms. Inayat Naomi Ramdas</a> from the Innovation Centre Denmark at the Consulate General of Denmark in Bangalore. The primary objectives of the meeting were to explore collaboration between Aarhus University and IISc. CNI faculty members—<a href="https://faculty.dese.iisc.ac.in/kuri/" target="_blank">Prof. Joy Kuri</a>, <a href="https://ece.iisc.ac.in/neelesh-b-mehta/" target="_blank">Prof. Neelesh Mehta</a>, and <a href="https://ece.iisc.ac.in/~parimal/" target="_blank">Prof. Parimal Parag</a>—briefed the visiting delegation about the cybersecurity initiatives at CNI and IISc, and discussed the avenues for partnerships through the Danish Global Innovation Network Programme <a href="https://ufm.dk/en/research-and-innovation/funding-programmes-for-research-and-innovation/eu-and-international-funding-programmes/international-cooperation/global-international-network-programme" target="_blank">(GINP)</a>.</p>
 </div>
@@ -575,8 +561,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td id="gutterContainerId-160" class="mceGutterContainer" valign="top">
+<tr style="height: 191px;">
+<td id="gutterContainerId-160" class="mceGutterContainer" style="height: 191px;" valign="top">
 <table style="border-collapse: separate;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -676,8 +662,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">
+<tr style="height: 2px;">
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0px; height: 2px;" valign="top">
 <table class="mceDividerContainer" style="background-color: transparent; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="46">
 <tbody>
 <tr>
@@ -687,8 +673,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">
+<tr style="height: 2px;">
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0px; height: 2px;" valign="top">
 <table class="mceDividerContainer" style="background-color: transparent; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="47">
 <tbody>
 <tr>
@@ -698,8 +684,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding: 0;" valign="top">
+<tr style="height: 56px;">
+<td style="padding: 0px; height: 56px;" valign="top">
 <table style="border: 0; border-radius: 0; border-collapse: separate;" width="100%">
 <tbody>
 <tr>
@@ -713,8 +699,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td id="gutterContainerId-54" class="mceGutterContainer" valign="top">
+<tr style="height: 434px;">
+<td id="gutterContainerId-54" class="mceGutterContainer" style="height: 434px;" valign="top">
 <table style="border-collapse: separate;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -770,7 +756,6 @@ img: "JTGSS 1.JPG"
 <td class="mceTextBlockContainer" style="padding: 12px 24px 12px 24px;">
 <div id="dataBlockId-51" class="mceText" style="width: 100%;" data-block-id="51">
 <p><a href="https://cni.iisc.ac.in/seminars/2024-11-05/" target="_blank">Differentially Private Release of Spatio-Temporal Data Statistics </a></p>
-<p> </p>
 <p class="last-child">In this talk, <a href="https://arvindrameshwar.github.io/" target="_blank">Dr. V. Aravind Rameshwar </a>discussed his work at the Indian Urban Data Exchange (IUDX). In his talk, he introduced differential privacy (DP), the sample mean, and the variance of a given dataset and described the notion of user-level DP. He introduced the techniques to reconstruct the statistics, the worst-case error involved during the reconstruction, and its importance in improving user privacy. After a thorough introduction, he explained the problem statement, and using a classical bound, he described the proposed novel algorithm that enhances privacy loss. He tested this algorithm on a real-world Intelligent Traffic Management System (ITMS) dataset collected from an Indian city. He showed that the privacy loss incurred by his algorithm is comparatively lesser than in the existing literature.    </p>
 </div>
 </td>
@@ -819,12 +804,12 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td id="gutterContainerId-60" class="mceGutterContainer" valign="top">
+<tr style="height: 314px;">
+<td id="gutterContainerId-60" class="mceGutterContainer" style="height: 314px;" valign="top">
 <table style="border-collapse: separate;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
-<tr>
-<td class="mceLayoutContainer" style="padding: 0;" valign="top">
+<tr style="height: 281.475px;">
+<td class="mceLayoutContainer" style="padding: 0px; height: 281.475px;" valign="top">
 <table id="section_97795aaa93f093330c61d20fe3c382c5" class="mceLayout" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="60">
 <tbody>
 <tr class="mceRow">
@@ -867,8 +852,7 @@ img: "JTGSS 1.JPG"
 <td class="mceTextBlockContainer" style="padding: 12px 24px 12px 24px;">
 <div id="dataBlockId-55" class="mceText" style="width: 100%;" data-block-id="55">
 <p><a href="https://cni.iisc.ac.in/seminars/2024-11-12/">Need for Speed: Minimizing the impact of Bufferbloat</a></p>
-<p> </p>
-<p class="last-child">In this talk, <a href="https://cse.nitk.ac.in/faculty/mohit-p-tahiliani">Prof. Mohit Tahiliani</a> touched upon the technological advancements in networking services, both in software and hardware. Then, he explained a problem buffer bloat and its impact on the specific latency applications. He explained the existing queue disciplines, such as CoDel and PIE, which were designed to reduce buffer bloat. He described a bug observed during the PIE implementation in the Linux kernel and their quick fix. Furthermore, he mentioned that the Linux community approved this quick fix.  </p>
+<p class="last-child">In this talk, <a href="https://cse.nitk.ac.in/faculty/mohit-p-tahiliani">Prof. Mohit Tahiliani</a> touched upon the technological advancements in networking services, both in software and hardware. Then, he explained a problem buffer bloat and its impact on the specific latency applications. He explained the existing queue disciplines, such as CoDel and PIE, which were designed to reduce buffer bloat. He described a bug observed during the PIE implementation in the Linux kernel and their quick fix. Furthermore, he mentioned that the Linux community approved this quick fix.</p>
 </div>
 </td>
 </tr>
@@ -925,8 +909,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td id="gutterContainerId-66" class="mceGutterContainer" valign="top">
+<tr style="height: 534px;">
+<td id="gutterContainerId-66" class="mceGutterContainer" style="height: 534px;" valign="top">
 <table style="border-collapse: separate;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -982,7 +966,6 @@ img: "JTGSS 1.JPG"
 <td class="mceTextBlockContainer" style="padding: 12px 24px 12px 24px;">
 <div id="dataBlockId-63" class="mceText" style="width: 100%;" data-block-id="63">
 <p><a href="https://cni.iisc.ac.in/seminars/2024-11-19/">Design and Analysis of Low Complexity Techniques for IRS-Aided Wireless Communications</a></p>
-<p> </p>
 <p class="last-child">In this presentation, <a href="https://scholar.google.com/citations?user=zBmD_DMAAAAJ&amp;hl=en" target="_blank">Yashvanth L</a> explored low-complexity techniques for the design of intelligent reflecting surfaces (IRS), in wireless communication systems. He has begun by examining IRS optimization through random configuration tuning and opportunistic user scheduling, demonstrating that multi-user diversity can achieve optimal IRS performance without explicit optimization in systems with many users. He addressed the impact of an IRS, as a passive device without bandpass filters, on the performance of other mobile network operators when controlled by a single operator. This analysis considered both sub-6 GHz and millimeter wave (mmWave) frequency bands in centralized and distributed deployment scenarios. Finally, he tackled challenges in wideband beamforming with IRS technology, focusing on beam-split effects that can degrade array gain and throughput. He proposed two low-complexity strategies: a distributed IRS approach to mitigate beam-split effects and an opportunistic OFDMA method to exploit them positively. The theoretical findings will be supported by numerical experiments.</p>
 </div>
 </td>
@@ -1031,8 +1014,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td id="gutterContainerId-72" class="mceGutterContainer" valign="top">
+<tr style="height: 438px;">
+<td id="gutterContainerId-72" class="mceGutterContainer" style="height: 438px;" valign="top">
 <table style="border-collapse: separate;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -1079,7 +1062,6 @@ img: "JTGSS 1.JPG"
 <td class="mceTextBlockContainer" style="padding: 12px 24px 12px 24px;">
 <div id="dataBlockId-67" class="mceText" style="width: 100%;" data-block-id="67">
 <p><a href="https://cni.iisc.ac.in/seminars/2024-11-20/" target="_blank"> Interventional Causal Representation Learning</a></p>
-<p> </p>
 <p>In this talk,<a href="https://scholar.google.com/citations?user=qbJWbb0AAAAJ&amp;hl=en" target="_blank"> Prof. Tajer Ali,</a> explained about Causal representation learning (CRL). He described that, CRL aims to develop a causal understanding of the world by learning appropriate representations that facilitate causal interventions, reasoning, and planning.  Specifically, CRL involves a data-generating process in which high-level, causally related latent variables are mapped to low-level, typically high-dimensional observed data through a transformation. The CRL process utilizes observed data to recover the causal structure, latent causal variables, and the unknown transformation. He provided a comprehensive overview of the problem space and recent advancements in various aspects of interventional CRL, focusing on both identifiability (information-theoretic) and achievability (algorithmic) dimensions.</p>
 </div>
 </td>
@@ -1137,8 +1119,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td id="gutterContainerId-146" class="mceGutterContainer" valign="top">
+<tr style="height: 544px;">
+<td id="gutterContainerId-146" class="mceGutterContainer" style="height: 544px;" valign="top">
 <table style="border-collapse: separate;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -1194,7 +1176,6 @@ img: "JTGSS 1.JPG"
 <td class="mceTextBlockContainer" style="padding: 12px 24px 12px 24px;">
 <div id="dataBlockId-149" class="mceText" style="width: 100%;" data-block-id="149">
 <p><a href="https://cni.iisc.ac.in/seminars/2024-11-26/" target="_blank"> Efficient Repair of Reed-Solomon Codes and Tamo-Barg Codes</a></p>
-<p> </p>
 <p>In this talk, <a href="https://scholar.google.com/citations?user=MfnTW3QAAAAJ&amp;hl=en" target="_blank">Prof. Lalitha Vadlamani</a> delivered a talk on the efficient repair of Reed-Solomon codes, which are polynomial evaluation codes that can be effectively repaired by treating code symbols as vectors over a subfield. She introduced the trace-repair framework developed by Guruswami-Wootters, enabling efficient repair of these codes. Additionally, she presented an optimal construction of Reed-Solomon codes by Tamo et al., which achieves the cut-set bound.</p>
 <p class="last-child">The discussion also covered Tamo-Barg codes, a class of optimal locally repairable codes (LRCs) that utilize Reed-Solomon codes as their local codes. In scenarios involving single node failures, repair occurs solely within local groups. The speaker highlighted that the repair bandwidth can be minimized using Reed-Solomon repair techniques. Furthermore, she provided a construction of Tamo-Barg codes where the local Reed-Solomon codes can be optimally repaired and established connections between this class of codes and those with local regeneration capabilities.</p>
 </div>
@@ -1244,8 +1225,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">
+<tr style="height: 2.5px;">
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0px; height: 2.5px;" valign="top">
 <table class="mceDividerContainer" style="background-color: transparent; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="73">
 <tbody>
 <tr>
@@ -1255,8 +1236,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td class="mceBlockContainer" style="background-color: transparent; padding: 0;" valign="top">
+<tr style="height: 2px;">
+<td class="mceBlockContainer" style="background-color: transparent; padding: 0px; height: 2px;" valign="top">
 <table class="mceDividerContainer" style="background-color: transparent; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="74">
 <tbody>
 <tr>
@@ -1266,8 +1247,8 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td class="mceLayoutContainer" style="padding: 12px 0 12px 0;" valign="top">
+<tr style="height: 80px;">
+<td class="mceLayoutContainer" style="padding: 12px 0px; height: 80px;" valign="top">
 <table border="0" width="100%" cellspacing="0" cellpadding="0" align="center" data-block-id="75">
 <tbody>
 <tr class="mceRow">
@@ -1397,9 +1378,6 @@ img: "JTGSS 1.JPG"
 </table>
 </td>
 </tr>
-<tr>
-<td class="mceLayoutContainer" align="center" valign="top"> </td>
-</tr>
 </tbody>
 </table>
 </td>
@@ -1411,9 +1389,6 @@ img: "JTGSS 1.JPG"
 </tbody>
 </table>
 </td>
-</tr>
-<tr>
-<td style="padding: 0;" valign="top"> </td>
 </tr>
 </tbody>
 </table>
@@ -1437,4 +1412,4 @@ img: "JTGSS 1.JPG"
 </tr>
 </tbody>
 </table>
-</center><center><br /> <br /> <br /> <br /> <br /> </center>
+</center>
