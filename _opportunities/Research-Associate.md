@@ -14,26 +14,25 @@ show: true
 
 <div>{{ "
 
-
-
 **Position:** Research Associate
     
 We are seeking a few motivated Research Associates (RAs) to join the Distributed Systems
-Research group at the Centre for Networked Intelligence (CNI). The
+Research group. The
 RAs will be actively involved in one of the following research projects: 
 A. Sustainable computing for model-training and inference in machine learning (ML), 
 A. Distributed ML over heterogeneous compute environments, and 
 A. Network transport protocols optimized for Data Center workloads.
 
 All the above projects are collaborative with leading industry and research labs.
+
+**Please note that we do not have any projects on applying machine learning
+(ML/AI) models and developing ML applications, although we work on the underlying infrastructure that facilitates ML. Please apply only if you are
+passionate about experimental research in computer networks, operating systems,
+computer architecture, and performance engineering.**
+
 This role requires solid technical and quantitative skills and a passion for research.
 
 **Location:** Indian Institute of Science campus, Bengaluru. This is a full-time on-campus position.
-
-**About CNI:**
-- The [Centre for Networked Intelligence](https://cni.iisc.ac.in/) is an industry-sponsored research
-centre focused on developing next generation networking methodologies and concept
-solutions that can derive knowledge from evolved networks of the future.
 
 **Responsibilities:**
 - Design, implement, and conduct experiments on a testbed
@@ -54,7 +53,7 @@ development tools (debuggers, git, profilers, etc.).
 - Strong problem-solving skills and the ability to think critically and independently.
 - This position is open for freshers as well as experienced candidates.
 
-**Incentives for joining CNI:**
+**Incentives for joining our lab:**
 - Opportunity to learn the rigor of world-class research through practice.
 - Collaboration with renowned experts (industry and international academia) in the
   domain.
@@ -62,9 +61,9 @@ development tools (debuggers, git, profilers, etc.).
 - Opportunity to work on contemporary problems with real-world impact in the systems
   domain.
 
-**Duration:** This is a grant-funded position and is contingent on funding availability. Contracts are typically renewed annually on satisfactory performance.
+**Duration:** This is a grant-funded position and is contingent on grant renewal. Contracts are typically renewed annually on satisfactory performance.
 
-**Application deadline: December 31, 2024**
+**Application deadline: January 31, 2024**
 
 **How to apply:**
 

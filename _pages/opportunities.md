@@ -18,9 +18,8 @@ Working at CNI is rewarding in terms of the expertise gained through solving cha
 [Past research assistants/associates at CNI](https://cni.iisc.ac.in/staff/alumni) have proceeded to higher studies (at universities like NCSU, Purdue, UC Irvine, NYU, University of Minnesota), post-doctoral positions (in Dartmouth University and University of Surrey), or industry positions (in Google, EdgeQ, etc.).
 
 CNI has openings for the following positions:
-- Research Associate 
-- Outreach Associate / Intern
-- Systems Administrator
+- Research Associate (for experienced persons and students who wish to join us after graduating)) 
+- Research Intern (for those who wish to work with us while studying)
 
 CNI is an equal opportunities employer. Candidates from disadvantaged backgrounds are encouraged to apply.
 
