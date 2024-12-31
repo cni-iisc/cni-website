@@ -17,7 +17,6 @@ img: "JTGSS 1.JPG"
 # content for past events
 
 ---
-
 <center>
 <table id="bodyTable" style="background-color: #f4f4f4;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
@@ -25,8 +24,8 @@ img: "JTGSS 1.JPG"
 <td class="bodyCell" align="center" valign="top">
 <table id="root" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody class="mceWrapper" data-block-id="10">
-<tr>
-<td class="mceSectionBody" style="background-color: transparent;" align="center" valign="top"><!-- [if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="660" style="width:660px;"><tr><td><![endif]-->
+<tr style="height: 216.45px;">
+<td class="mceSectionBody" style="background-color: transparent; height: 216.45px;" align="center" valign="top"><!-- [if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="660" style="width:660px;"><tr><td><![endif]-->
 <table style="max-width: 660px;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -166,8 +165,8 @@ img: "JTGSS 1.JPG"
 </tr>
 </tbody>
 <tbody class="mceWrapper" data-block-id="77">
-<tr>
-<td class="mceSectionBody" style="background-color: transparent;" align="center" valign="top"><!-- [if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="660" style="width:660px;"><tr><td><![endif]-->
+<tr style="height: 3057px;">
+<td class="mceSectionBody" style="background-color: transparent; height: 3057px;" align="center" valign="top"><!-- [if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="660" style="width:660px;"><tr><td><![endif]-->
 <table style="max-width: 660px;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -808,7 +807,6 @@ img: "JTGSS 1.JPG"
 <td class="mceTextBlockContainer" style="padding: 12px 24px 12px 24px;">
 <div id="dataBlockId-51" class="mceText" style="width: 100%;" data-block-id="51">
 <p><a href="https://cni.iisc.ac.in/seminars/2024-10-08-1/" target="_blank">EdgeRIC: Empowering AI-based Real-Time Intelligent Control, Optimization and Security in NextG Networks</a></p>
-<p> </p>
 <p class="last-child">In this talk, <a href="https://dineshb-ucsd.github.io/" target="_blank">Prof. Dinesh Bharadia</a> introduced EdgeRIC, an advanced real-time RAN intelligent controller designed to meet the demands of modern applications like robotics, AR/VR, and automotive systems, which traditional network optimization techniques struggle to support. Their work leverages reinforcement learning, to improve ORAN (Open RAN) stack performance. Their results show that EdgeRIC, with a digital twin for wireless channel consistency, significantly enhances user experience, achieving up to a 90% reduction in video streaming stalls. Prof. Bharadia also discussed innovative MIMO applications that maintain connectivity and cancel interference in urban settings, demonstrating the real-world impact of these advancements on NextG networks.</p>
 </div>
 </td>
@@ -905,7 +903,6 @@ img: "JTGSS 1.JPG"
 <td class="mceTextBlockContainer" style="padding: 12px 24px 12px 24px;">
 <div id="dataBlockId-55" class="mceText" style="width: 100%;" data-block-id="55">
 <p><a href="https://cni.iisc.ac.in/seminars/2024-10-08-2/" target="_blank">Load Balancing under Data Locality: Extending Mean-Field Framework to Constrained Large-Scale Systems</a></p>
-<p> </p>
 <p class="last-child">In this talk, <a href="https://sites.google.com/site/debankurm/" target="_blank">Prof. Debankur Mukherjee</a> explored how data locality constraints complicate load balancing in large-scale systems like data centers and cloud networks, where traditional mean-field approximations often fall short. He presented recent progress in extending the accuracy of mean-field approximations for constrained systems, which model task-to-server assignments as a bipartite graph. Their results reveal that optimal performance depends significantly on the structural properties of this graph, such as being an expander or a spatial graph. This work advances our understanding of load balancing in complex, constrained environments, with implications for future data center architectures.</p>
 </div>
 </td>
@@ -1020,7 +1017,6 @@ img: "JTGSS 1.JPG"
 <td class="mceTextBlockContainer" style="padding: 12px 24px 12px 24px;">
 <div id="dataBlockId-63" class="mceText" style="width: 100%;" data-block-id="63">
 <p><a href="https://cni.iisc.ac.in/seminars/2024-10-15/" target="_blank">Efficiently Serving Large Language Models</a></p>
-<p> </p>
 <p class="last-child">In this talk, <a href="https://apanwariisc.github.io/" target="_blank">Ashish Panwar</a> discussed the challenges and solutions for efficiently serving Large Language Models (LLMs), whose deployment is resource-intensive due to high GPU requirements and typically low utilization rates. He highlighted Microsoft's recent developments, such as Sarathi-Serve and vAttention, that address core issues like scheduling and memory management in LLM serving systems. Their work demonstrates that optimizing resource usage in LLM serving setups can drastically reduce operational costs and improve service quality, making these models more accessible for widespread applications.</p>
 </div>
 </td>
@@ -1116,9 +1112,7 @@ img: "JTGSS 1.JPG"
 <tr>
 <td class="mceTextBlockContainer" style="padding: 12px 24px 12px 24px;">
 <div id="dataBlockId-67" class="mceText" style="width: 100%;" data-block-id="67">
-<p> </p>
-<p><a href="https://cni.iisc.ac.in/seminars/2024-10-29/" target="_blank">Understanding Performance of Internet Video using Network Measurement Data</a></p>
-<p> </p>
+<p> <a href="https://cni.iisc.ac.in/seminars/2024-10-29/" target="_blank">Understanding Performance of Internet Video using Network Measurement Data</a></p>
 <p class="last-child">In this talk, <a href="https://tarunmangla.github.io/" target="_blank">Prof. Tarun Mangla</a> addressed the growing need for last-mile ISPs to manage networks effectively in response to increasing demand for video streaming. He presented eMIMIC, a method that estimates video Quality of Experience (QoE) by analyzing network traffic patterns in encrypted video streams, bypassing the need for endpoint data. Additionally, he discussed a machine-learning approach for QoE metrics in video conferencing, effective without access to application-layer headers. These techniques enable ISPs to assess and improve QoE with minimal access to private data, providing valuable insights for network optimization in video applications.</p>
 </div>
 </td>
@@ -1261,8 +1255,8 @@ img: "JTGSS 1.JPG"
 </tr>
 </tbody>
 <tbody class="mceWrapper" data-block-id="84">
-<tr>
-<td class="mceSectionBody" style="background-color: transparent;" align="center" valign="top"><!-- [if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="660" style="width:660px;"><tr><td><![endif]-->
+<tr style="height: 251px;">
+<td class="mceSectionBody" style="background-color: transparent; height: 251px;" align="center" valign="top"><!-- [if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="660" style="width:660px;"><tr><td><![endif]-->
 <table style="max-width: 660px;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
