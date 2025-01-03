@@ -1,0 +1,1 @@
+function printDiv(t,e){let n=window.open("","PRINT","height=650,width=900,top=100,left=150");return n.document.write(`<html><head><title>${e}</title>`),n.document.write("</head><body >"),n.document.write(document.getElementById(t).innerHTML),n.document.write("</body></html>"),n.document.close(),n.focus(),n.print(),n.close(),!0}var docs=new jsPDF;
