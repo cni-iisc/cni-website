@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Covid 19 Response
+title: Covid-19 Response
 permalink: /covid-19-response/
 description: 
 nav: false
@@ -8,6 +8,10 @@ nav_order: 2
 display_categories: [""]
 horizontal: false
 ---
+
+## Appreciation
+**[Office order 20.05.2020 highlighting the COVID-19 Readiness Calculator](https://cni.iisc.ac.in/covid-19-response/office-order-readiness-calculator)**
+
 
 <!-- pages/projects.md -->
 <div class="projects">
