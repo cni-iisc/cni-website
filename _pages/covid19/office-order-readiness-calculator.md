@@ -26,7 +26,7 @@ solutions taken in the last meeting regarding the measures to be taken by the go
 
 <<text snipped>>
 
-10. The Covid Readiness Calculator prepared by the Indian Institute of Science helps the staff working in factories and private offices to prevent the spread of the epidemic. The Committee decided to instruct the concerned factories and private offices through the Department of Commerce and Industry and the Department of Information Technology, Biotechnology, Science and Technology to make adequate use of the said advisor tool.
+10 . The Covid Readiness Calculator prepared by the Indian Institute of Science helps the staff working in factories and private offices to prevent the spread of the epidemic. The Committee decided to instruct the concerned factories and private offices through the Department of Commerce and Industry and the Department of Information Technology, Biotechnology, Science and Technology to make adequate use of the said advisor tool.
 <br>
 
 (Order: Principal Secretaries to Government, Department of Commerce and Industry and Principal Secretaries to Government, Information Technology, Biotechnology, Science and Technology Department)
