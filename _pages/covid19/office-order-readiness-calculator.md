@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Office order 20.05.2020 highlighting the COVID-19 Readiness Calculator
+title: Proceedings of the State Executive Committee 20.05.2020 recommending the COVID-19 Readiness Calculator
 permalink: /covid-19-response/office-order-readiness-calculator
 description:
 nav: false
@@ -21,8 +21,7 @@ horizontal: false
 <br>
 
 The list of officials present in the meeting is attached as annexure.<br>
-The chairman of the committee welcomed all the officers present in the meeting and reviewed the follow up report of the re
-solutions taken in the last meeting regarding the measures to be taken by the government to prevent the spread of Covid-19 as per the guidelines of the 4th phase of lockdown by the central government. After discussion with all the officials present in the meeting it was decided as follows.
+The chairman of the committee welcomed all the officers present in the meeting and reviewed the follow up report of the resolutions taken in the last meeting regarding the measures to be taken by the government to prevent the spread of Covid-19 as per the guidelines of the 4th phase of lockdown by the central government. After discussion with all the officials present in the meeting it was decided as follows.
 
 <<text snipped>>
 

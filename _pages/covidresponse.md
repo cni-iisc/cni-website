@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 ## Appreciation
-- **[Office order 20.05.2020 recommending the use of the COVID-19 Readiness Calculator.](https://cni.iisc.ac.in/covid-19-response/office-order-readiness-calculator)**
+- **[Proceedings of the State Executive Committee 20.05.2020 recommending the COVID-19 Readiness Calculator.](https://cni.iisc.ac.in/covid-19-response/office-order-readiness-calculator)**
 - **[On the professional and technical support: A note from Dr M. K. Sudarshan, Former Chair, Karnataka State Covid-19 Technical Advisory Committee.](/assets/pdf/TAC-DHFWS-Covid-19.pdf)**
 
 <!-- pages/projects.md -->
